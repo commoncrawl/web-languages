@@ -1,6 +1,4 @@
-# Web Language Project 
-
-
+# Web Language Project
 
 Welcome! This is a crowd-sourced effort to improve crawling
 of low-resource languages. This dataset is public.
@@ -69,13 +67,10 @@ please include this link under "Other".
 If you don't see your language, please open a Github issue, or send us
 an email at web-languages ZAT commoncrawl ZOT org. It could be that your
 language is here but has an unfamiliar name, or perhaps we need to add
-it. This list was started with the list in ISO-639-6, which is, like
+it. This list was started with the list in ISO-639-3, which is, like
 any world-wide standard, an imperfect list.
 
 See also: [Constructed](constructed/README.md), [Extinct](extinct/README.md), [Historical](historical/README.md), [Special](special/README.md)
-
-
-
 
 ## Languages with more than 50mm speakers
 
@@ -121,8 +116,6 @@ See also: [Constructed](constructed/README.md), [Extinct](extinct/README.md), [H
 - [Western Panjabi](https://github.com/commoncrawl/web-languages/blob/main/living/western_panjabi.md)
 - [Wu Chinese](https://github.com/commoncrawl/web-languages/blob/main/living/wu_chinese.md)
 - [Yue Chinese](https://github.com/commoncrawl/web-languages/blob/main/living/yue_chinese.md)
-
-
 
 ## Languages
 
@@ -7160,9 +7153,8 @@ See also: [Constructed](constructed/README.md), [Extinct](extinct/README.md), [H
 - [ǂHua](https://github.com/commoncrawl/web-languages/blob/main/living/ǂhua.md)
 - [ǃXóõ](https://github.com/commoncrawl/web-languages/blob/main/living/ǃxóõ.md)
 
-
 ## License
 
 <p xmlns:cc="http://creativecommons.org/ns#" >This work is marked with <a href="https://creativecommons.org/publicdomain/zero/1.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC0 1.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/zero.svg?ref=chooser-v1" alt=""></a></p>
 
-By editing this file, contributers are agreeing to release their contributions under the CC0 license.
+By editing this file, contributors are agreeing to release their contributions under the CC0 license.

@@ -72,7 +72,7 @@ language is here but has an unfamiliar name, or perhaps we need to add
 it. This list was started with the list in ISO-639-6, which is, like
 any world-wide standard, an imperfect list.
 
-See also: [Ancient](ancient/README.md), [Constructed](constructed/README.md), [Extinct](extinct/README.md), [Historical](historical/README.md), [Special](special/README.md)
+See also: [Constructed](constructed/README.md), [Extinct](extinct/README.md), [Historical](historical/README.md), [Special](special/README.md)
 
 
 

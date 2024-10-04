@@ -67,7 +67,7 @@ please include this link under "Other".
 ## What if my favorite language isn't in the list?
 
 If you don't see your language, please open a Github issue, or send us
-an email at web-languages@commoncrawl.org. It could be that your
+an email at web-languages ZAT commoncrawl ZOT org. It could be that your
 language is here but has an unfamiliar name, or perhaps we need to add
 it. This list was started with the list in ISO-639-6, which is, like
 any world-wide standard, an imperfect list.

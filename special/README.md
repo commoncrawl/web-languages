@@ -11,10 +11,10 @@ If your favorite language is missing, please open an issue on Github.
 
 ## Languages
 
-- [Multiple languages](multiple_languages.md)
-- [No linguistic content](no_linguistic_content.md)
-- [Uncoded languages](uncoded_languages.md)
-- [Undetermined](undetermined.md)
+- [Multiple languages](https://github.com/commoncrawl/web-languages/blob/main/special/multiple_languages.md)
+- [No linguistic content](https://github.com/commoncrawl/web-languages/blob/main/special/no_linguistic_content.md)
+- [Uncoded languages](https://github.com/commoncrawl/web-languages/blob/main/special/uncoded_languages.md)
+- [Undetermined](https://github.com/commoncrawl/web-languages/blob/main/special/undetermined.md)
 
 
 ## License

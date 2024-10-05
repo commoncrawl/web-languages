@@ -1,4 +1,4 @@
-# Web Language : Extinct
+# Web Language: Extinct
 
 
 This is the dataset for Extinct languages.

@@ -2,6 +2,7 @@
 
 Additional names:
 - Western Punjabi
+- Min Nan Chinese
 - 
 
 News:

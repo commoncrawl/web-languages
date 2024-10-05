@@ -1,4 +1,4 @@
-# Web Language Project 
+# Web Languages Project
 
 
 
@@ -98,7 +98,7 @@ See also: [Constructed](constructed/README.md), [Extinct](extinct/README.md), [H
 - [Javanese](https://github.com/commoncrawl/web-languages/blob/main/living/javanese.md)
 - [Kannada](https://github.com/commoncrawl/web-languages/blob/main/living/kannada.md)
 - [Korean](https://github.com/commoncrawl/web-languages/blob/main/living/korean.md)
-- Lahnda: See Western Panjabi and many others
+- Lahnda: Macrolanguage. See Western Panjabi and [the list here](https://en.wikipedia.org/wiki/Lahnda)
 - [Levantine Arabic](https://github.com/commoncrawl/web-languages/blob/main/living/levantine_arabic.md)
 - Malay (macrolanguage): See Indonesian, and 34 other languages with Malay in their name
 - [Mandarin Chinese](https://github.com/commoncrawl/web-languages/blob/main/living/mandarin_chinese.md)
@@ -118,7 +118,7 @@ See also: [Constructed](constructed/README.md), [Extinct](extinct/README.md), [H
 - [Turkish](https://github.com/commoncrawl/web-languages/blob/main/living/turkish.md)
 - [Urdu](https://github.com/commoncrawl/web-languages/blob/main/living/urdu.md)
 - [Vietnamese](https://github.com/commoncrawl/web-languages/blob/main/living/vietnamese.md)
-- [Western Panjabi](https://github.com/commoncrawl/web-languages/blob/main/living/western_panjabi.md)
+- [Western Panjabi](https://github.com/commoncrawl/web-languages/blob/main/living/western_panjabi.md) See also [the list here](https://en.wikipedia.org/wiki/Lahnda)
 - [Wu Chinese](https://github.com/commoncrawl/web-languages/blob/main/living/wu_chinese.md)
 - [Yue Chinese](https://github.com/commoncrawl/web-languages/blob/main/living/yue_chinese.md)
 

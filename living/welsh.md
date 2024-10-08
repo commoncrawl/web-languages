@@ -6,11 +6,14 @@ Additional names:
 
 News:
 - https://www.bbc.com/cymrufyw
-- 
+- https://golwg360.cymru/
+- http://www.papuraubro.cymru/ (local news)
 
 Culture / History:
 - https://eisteddfod.cymru/
-- 
+- https://museum.wales/cy/ (National Museum of Wales)
+- https://llyfrau.cymru/ (Welsh Books Council)
+- https://cymdeithas.cymru/ (Welsh language preservation organization)
 
 Government:
 - https://www.llyw.cymru/
@@ -23,7 +26,9 @@ Political Parties:
 
 Other:
 - https://cy.wikipedia.org/
-- 
+- https://www.s4c.cymru/clic/ (Welsh-language TV channel)
+- https://www.meithrin.cymru/ (early childhood education)
+- https://www.urdd.cymru/ (Welsh youth organization)
 
 Informative links (in English):
 - https://en.wikipedia.org/wiki/Welsh_language
@@ -43,7 +48,7 @@ Scripts:
 
 Thank you to these people who have helped create this document:
 - Greg Lindahl @wumpus
-- 
+- Jen English 
 
 ## Instructions
 

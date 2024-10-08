@@ -13,11 +13,12 @@ Culture / History:
 - https://eisteddfod.cymru/
 - https://museum.wales/cy/ (National Museum of Wales)
 - https://llyfrau.cymru/ (Welsh Books Council)
+- https://www.barddas.cymru/ (Welsh language poetry society)
 - https://cymdeithas.cymru/ (Welsh language preservation organization)
 
 Government:
 - https://www.llyw.cymru/
-- 
+- https://hwb.gov.wales/ (Welsh government education portal)
 
 Political Parties:
 - https://www.plaid.cymru/

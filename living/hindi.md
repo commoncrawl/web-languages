@@ -4,38 +4,68 @@ Additional names:
 - 
 
 News:
-- 
-- 
+- https://ndtv.in/
+- https://bhaskar.com/
+- https://jagran.com/
+- https://amarujala.com/
+- https://navbharattimes.indiatimes.com/
+- https://livehindustan.com/
+- https://hindi.economictimes.com/
+- https://msn.com/hi-in
+- https://zeenews.india.com/hindi
+- https://hindi.oneindia.com/
 
 Culture / History:
-- 
-- 
+- https://asi.nic.in/
+- https://incredibleindia.gov.in/en
+- https://knowindia.india.gov.in/hindi/
+- https://indiaculture.gov.in/
+- https://indianculture.gov.in/hi
+- https://www.nbtindia.gov.in/
+- https://sahitya-akademi.gov.in/
 
 Government:
-- 
-- 
+- https://india.gov.in/
+- https://eci.gov.in/
+- https://digitalindia.gov.in/
+- https://legislative.gov.in/hi/
+- https://मेरीसरकार.भारत/hi/
+- https://pmkisan.gov.in/
+- https://pmfby.gov.in/
+- https://www.mha.gov.in/hi
+- https://www.rbi.org.in/hindi
+- https://uidai.gov.in/hi/
+- https://rtionline.gov.in/
+- https://moef.gov.in/
 
 Political Parties:
-- 
-- 
+- https://www.bjp.org/hi
+- https://inc.in/
 
 Other:
-- 
-- 
+- https://www.education.gov.in/hi
+- https://hindi.sportskeeda.com/
+- https://espncricinfo.com/hindi
+- https://dict.hinkhoj.com/
+- https://www.investindia.gov.in/
 
 Informative links (in English):
-- 
-- 
+- https://en.wikipedia.org/wiki/Hindi
+- https://en.wikipedia.org/wiki/Hindustani_orthography
+- https://en.wikipedia.org/wiki/List_of_political_parties_in_India
+- https://en.wikipedia.org/wiki/Education_in_India
 
 Additional Information:
 - ISO-639-3 code: hin
+- Internet TLD: .in
+- Unicode block: U+0900–U+097F
 
 Scripts:
 - Devanagari
 - 
 
 Thank you to these people who have helped create this document:
-- 
+- Swapnil Tripathi @swaptr
 - 
 
 ## Instructions

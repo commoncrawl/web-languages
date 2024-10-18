@@ -29,6 +29,8 @@ Informative links (in English):
 
 Additional Information:
 - ISO-639-3 code: mxd
+- https://en.wikipedia.org/wiki/ISO_639:mxd
+
 
 Scripts:
 - 

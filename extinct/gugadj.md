@@ -29,6 +29,8 @@ Informative links (in English):
 
 Additional Information:
 - ISO-639-3 code: ggd
+- https://en.wikipedia.org/wiki/ISO_639:ggd
+
 
 Scripts:
 - 

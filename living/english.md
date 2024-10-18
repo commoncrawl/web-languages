@@ -30,6 +30,8 @@ Informative links (in English):
 
 Additional Information:
 - ISO-639-3 code: eng
+- https://en.wikipedia.org/wiki/ISO_639:eng
+
 
 Scripts:
 - Latin

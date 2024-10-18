@@ -29,6 +29,8 @@ Informative links (in English):
 
 Additional Information:
 - ISO-639-3 code: mdk
+- https://en.wikipedia.org/wiki/ISO_639:mdk
+
 
 Scripts:
 - 

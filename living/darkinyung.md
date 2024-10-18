@@ -29,6 +29,8 @@ Informative links (in English):
 
 Additional Information:
 - ISO-639-3 code: xda
+- https://en.wikipedia.org/wiki/ISO_639:xda
+
 
 Scripts:
 - 

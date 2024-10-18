@@ -29,6 +29,8 @@ Informative links (in English):
 
 Additional Information:
 - ISO-639-3 code: mal
+- https://en.wikipedia.org/wiki/ISO_639:mal
+
 
 Scripts:
 - Malayalam

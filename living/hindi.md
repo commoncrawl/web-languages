@@ -57,8 +57,10 @@ Informative links (in English):
 
 Additional Information:
 - ISO-639-3 code: hin
-- Internet TLD: .in
+- https://en.wikipedia.org/wiki/ISO_639:hin
 - Unicode block: U+0900–U+097F
+- Internet TLD: .in
+- 
 
 Scripts:
 - Devanagari

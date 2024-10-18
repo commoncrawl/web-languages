@@ -30,6 +30,8 @@ Informative links (in English):
 
 Additional Information:
 - ISO-639-3 code: lus
+- https://en.wikipedia.org/wiki/ISO_639:lus
+
 
 Scripts:
 - Latin

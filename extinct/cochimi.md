@@ -29,6 +29,8 @@ Informative links (in English):
 
 Additional Information:
 - ISO-639-3 code: coj
+- https://en.wikipedia.org/wiki/ISO_639:coj
+
 
 Scripts:
 - 

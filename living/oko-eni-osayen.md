@@ -29,6 +29,8 @@ Informative links (in English):
 
 Additional Information:
 - ISO-639-3 code: oks
+- https://en.wikipedia.org/wiki/ISO_639:oks
+
 
 Scripts:
 - 

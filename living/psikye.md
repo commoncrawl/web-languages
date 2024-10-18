@@ -29,6 +29,8 @@ Informative links (in English):
 
 Additional Information:
 - ISO-639-3 code: kvj
+- https://en.wikipedia.org/wiki/ISO_639:kvj
+
 
 Scripts:
 - 

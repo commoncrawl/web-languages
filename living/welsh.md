@@ -41,7 +41,9 @@ Informative links (in English):
 
 Additional Information:
 - ISO-639-3 code: cym
+- https://en.wikipedia.org/wiki/ISO_639:cym
 - Internet TLD: .cymru
+- 
 
 Scripts:
 - Latin
@@ -49,7 +51,8 @@ Scripts:
 
 Thank you to these people who have helped create this document:
 - Greg Lindahl @wumpus
-- Jen English 
+- Jen English
+- 
 
 ## Instructions
 

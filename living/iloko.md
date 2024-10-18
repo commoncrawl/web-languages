@@ -30,6 +30,8 @@ Informative links (in English):
 
 Additional Information:
 - ISO-639-3 code: ilo
+- https://en.wikipedia.org/wiki/ISO_639:ilo
+
 
 Scripts:
 - Latin

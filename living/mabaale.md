@@ -29,6 +29,8 @@ Informative links (in English):
 
 Additional Information:
 - ISO-639-3 code: mmz
+- https://en.wikipedia.org/wiki/ISO_639:mmz
+
 
 Scripts:
 - 

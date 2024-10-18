@@ -29,6 +29,8 @@ Informative links (in English):
 
 Additional Information:
 - ISO-639-3 code: est
+- https://en.wikipedia.org/wiki/ISO_639:est
+
 
 Scripts:
 - Latin

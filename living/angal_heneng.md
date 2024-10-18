@@ -29,6 +29,8 @@ Informative links (in English):
 
 Additional Information:
 - ISO-639-3 code: akh
+- https://en.wikipedia.org/wiki/ISO_639:akh
+
 
 Scripts:
 - 

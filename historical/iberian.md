@@ -29,6 +29,8 @@ Informative links (in English):
 
 Additional Information:
 - ISO-639-3 code: xib
+- https://en.wikipedia.org/wiki/ISO_639:xib
+
 
 Scripts:
 - 

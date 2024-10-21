@@ -17,7 +17,7 @@ Culture / History:
 
 Government:
 - https://www.gov.pl/
-- 
+-
 
 Political Parties:
 - https://pis.org.pl/
@@ -30,7 +30,7 @@ Other:
 
 Informative links (in English):
 - https://en.wikipedia.org/wiki/Polish_language
-- 
+-
 
 Additional Information:
 - ISO-639-3 code: pol
@@ -39,11 +39,11 @@ Additional Information:
 
 Scripts:
 - Latin
-- 
+-
 
 Thank you to these people who have helped create this document:
-- 
-- 
+- [Maja Swieczkowska](https://github.com/swieczkaa)
+-
 
 ## Instructions
 

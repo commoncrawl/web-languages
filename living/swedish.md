@@ -48,10 +48,11 @@ Additional Information:
 - https://en.wikipedia.org/wiki/ISO_639:swe
 - Internet TLD: .se
 - TLD .nu is often used because it means "now" in Swedish
+- Character set: Latin-1 Supplement (ISO 8859-1)
 
 
 Scripts:
-- Latin-1 Supplement (ISO 8859-1)
+- Latin
 
 Thank you to these people who have helped create this document:
 - [Thom Vaughan](https://github.com/thunderpoot)

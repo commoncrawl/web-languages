@@ -3,7 +3,7 @@
 Additional names:
 - आधुनिक मानक हिन्दी (Modern Standard Hindi)
 - हिन्दी (Hindi)
-- 
+-
 
 News:
 - https://ndtv.in/
@@ -16,7 +16,7 @@ News:
 - https://msn.com/hi-in
 - https://zeenews.india.com/hindi
 - https://hindi.oneindia.com/
-- 
+-
 
 Culture / History:
 - https://asi.nic.in/
@@ -26,7 +26,7 @@ Culture / History:
 - https://indianculture.gov.in/hi
 - https://www.nbtindia.gov.in/
 - https://sahitya-akademi.gov.in/
-- 
+-
 
 Government:
 - https://india.gov.in/
@@ -41,12 +41,12 @@ Government:
 - https://uidai.gov.in/hi/
 - https://rtionline.gov.in/
 - https://moef.gov.in/
-- 
+-
 
 Political Parties:
 - https://www.bjp.org/hi
 - https://inc.in/
-- 
+-
 
 Other:
 - https://www.education.gov.in/hi
@@ -54,14 +54,14 @@ Other:
 - https://espncricinfo.com/hindi
 - https://dict.hinkhoj.com/
 - https://www.investindia.gov.in/
-- 
+-
 
 Informative links (in English):
 - https://en.wikipedia.org/wiki/Hindi
 - https://en.wikipedia.org/wiki/Hindustani_orthography
 - https://en.wikipedia.org/wiki/List_of_political_parties_in_India
 - https://en.wikipedia.org/wiki/Education_in_India
-- 
+-
 
 Additional Information:
 - ISO-639-3 code: hin
@@ -72,11 +72,11 @@ Additional Information:
 
 Scripts:
 - Devanagari
-- 
+-
 
 Thank you to these people who have helped create this document:
-- Swapnil Tripathi @swaptr
-- 
+- (Swapnil Tripathi)[https://github.com/swaptr]
+-
 
 ## Instructions
 

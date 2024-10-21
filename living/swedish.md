@@ -44,6 +44,7 @@ Informative links (in English):
 
 Additional Information:
 - ISO-639-3 code: swe
+- ISO-639-1 code: sv
 - BCP47: sv-SE
 - https://en.wikipedia.org/wiki/ISO_639:swe
 - Internet TLD: .se

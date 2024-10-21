@@ -2,7 +2,7 @@
 
 Additional names:
 - Cymraeg
--
+- 
 
 News:
 - https://www.bbc.com/cymrufyw
@@ -23,7 +23,7 @@ Government:
 Political Parties:
 - https://www.plaid.cymru/
 - https://www.plaidifanc.org/ (bilingual English-Welsh)
--
+- 
 
 Other:
 - https://cy.wikipedia.org/
@@ -37,21 +37,22 @@ Informative links (in English):
 - https://en.wikipedia.org/wiki/List_of_political_parties_in_Wales
 - https://tyfu-cymraeg.co.uk/2023/12/15/top-8-best-websites-for-welsh-learners/
 - https://www.digitalcommunities.gov.wales/blog/welsh-on-the-web-our-responsibility-to-create-welsh-language-content-and-platforms/
--
+- 
 
 Additional Information:
 - ISO-639-3 code: cym
 - https://en.wikipedia.org/wiki/ISO_639:cym
 - Internet TLD: .cymru
--
+- 
 
 Scripts:
 - Latin
+- 
 
 Thank you to these people who have helped create this document:
 - [Greg Lindahl](https://github.com/wumpus)
 - [Jen English](https://github.com/jenenglish)
--
+- 
 
 ## Instructions
 

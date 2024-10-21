@@ -55,7 +55,7 @@ Scripts:
 
 Thank you to these people who have helped create this document:
 - [Thom Vaughan](https://github.com/thunderpoot)
--
+- 
 
 ## Instructions
 

@@ -50,8 +50,8 @@ Scripts:
 - 
 
 Thank you to these people who have helped create this document:
-- Greg Lindahl @wumpus
-- Jen English
+- [Greg Lindahl](https://github.com/wumpus)
+- [Jen English](https://github.com/jenenglish)
 - 
 
 ## Instructions

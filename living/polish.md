@@ -42,7 +42,7 @@ Scripts:
 - 
 
 Thank you to these people who have helped create this document:
-- 
+- [Maja Swieczkowska](https://github.com/swieczkaa)
 - 
 
 ## Instructions

@@ -1,43 +1,62 @@
 # Web Language: Swedish
 
 Additional names:
-- 
+- Svenska
 
 News:
-- 
-- 
+- https://www.dn.se/
+- https://www.svd.se/
+- https://www.svt.se/
+- https://www.aftonbladet.se/
 
 Culture / History:
-- 
-- 
+- https://kulturhusetstadsteatern.se/ (Stockholm City Theatre)
+- https://historiska.se/ (Swedish History Museum)
+- https://si.se/ (Swedish Institute)
+- https://sweden.se/
 
 Government:
-- 
-- 
+- https://regeringen.se/ (Swedish government)
+- https://www.government.se/ (Swedish government, in English)
+- https://www.forsvarsmakten.se/ (Swedish ministry of defence)
+- https://www.riksdagen.se/ (Swedish Parliament)
 
 Political Parties:
-- 
-- 
+- https://www.socialdemokraterna.se/ (Swedish Social Democratic Party)
+- https://sd.se/ (Sweden Democrats)
+- https://moderaterna.se/ (Moderate Party)
+- https://www.vansterpartiet.se/ (Left Party)
+- https://www.centerpartiet.se/ (Centre Party)
+- https://kristdemokraterna.se/ (Christian Democrats)
+- https://www.mp.se/ (Green Party)
+- https://www.liberalerna.se/ (Liberal Party)
 
 Other:
-- 
-- 
+- https://sv.wikipedia.org/
+- https://www.rf.se/ (Swedish Sports Confederation)
+- https://www.transportstyrelsen.se/ (Swedish Transport Agency)
+- https://www.systembolaget.se/ (Government-owned chain of liquor stores in Sweden)
 
 Informative links (in English):
-- 
-- 
+- https://en.wikipedia.org/wiki/Swedish_language
+- https://en.wikipedia.org/wiki/Swedish_orthography
+- https://en.wikipedia.org/wiki/Swedish_Wikipedia
 
 Additional Information:
 - ISO-639-3 code: swe
+- ISO-639-1 code: sv
+- BCP47: sv-SE
 - https://en.wikipedia.org/wiki/ISO_639:swe
+- Internet TLD: .se
+- TLD .nu is often used because it means "now" in Swedish
+- Character set: Latin-1 Supplement (ISO 8859-1)
 
 
 Scripts:
 - Latin
-- 
 
 Thank you to these people who have helped create this document:
-- 
+- [Thom Vaughan](https://github.com/thunderpoot)
 - 
 
 ## Instructions

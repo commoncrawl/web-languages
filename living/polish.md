@@ -1,30 +1,35 @@
 # Web Language: Polish
 
 Additional names:
-- 
+- Polski
 
 News:
-- 
-- 
+- https://www.onet.pl/
+- https://tvn24.pl/
+- https://www.gazeta.pl/0,0.html
+- https://www.wp.pl/
 
 Culture / History:
-- 
-- 
+- https://culture.pl/pl
+- https://poland.pl/
+- https://nid.pl/
+- https://ipn.gov.pl/
 
 Government:
-- 
+- https://www.gov.pl/
 - 
 
 Political Parties:
-- 
-- 
+- https://pis.org.pl/
+- https://lewica.org.pl/
+- https://koalicjaobywatelska.pl/
 
 Other:
-- 
-- 
+- https://pl.wikipedia.org/wiki/Polska
+- https://www.tvp.pl/
 
 Informative links (in English):
-- 
+- https://en.wikipedia.org/wiki/Polish_language
 - 
 
 Additional Information:

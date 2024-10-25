@@ -1,6 +1,7 @@
 # Web Language: Latvian
 
 Additional names:
+- latviešu
 - 
 
 News:
@@ -20,6 +21,7 @@ Political Parties:
 - 
 
 Other:
+- https://lv.wikipedia.org
 - 
 - 
 

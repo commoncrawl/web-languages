@@ -1,6 +1,7 @@
 # Web Language: Mingrelian
 
 Additional names:
+- მარგალური
 - 
 
 News:
@@ -20,6 +21,7 @@ Political Parties:
 - 
 
 Other:
+- https://xmf.wikipedia.org
 - 
 - 
 

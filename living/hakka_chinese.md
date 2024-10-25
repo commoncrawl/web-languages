@@ -1,6 +1,7 @@
 # Web Language: Hakka Chinese
 
 Additional names:
+- 客家語 / Hak-kâ-ngî
 - 
 
 News:
@@ -20,6 +21,7 @@ Political Parties:
 - 
 
 Other:
+- https://hak.wikipedia.org
 - 
 - 
 

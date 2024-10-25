@@ -1,7 +1,8 @@
 # Web Language: Malay (macrolanguage)
 
 Additional names:
-- Min Nan Chinese
+- Malay
+- Bahasa Melayu
 - 
 
 News:
@@ -21,6 +22,7 @@ Political Parties:
 - 
 
 Other:
+- https://ms.wikipedia.org
 - 
 - 
 

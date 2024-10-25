@@ -1,6 +1,7 @@
 # Web Language: Western Mari
 
 Additional names:
+- кырык мары
 - 
 
 News:
@@ -20,6 +21,7 @@ Political Parties:
 - 
 
 Other:
+- https://mrj.wikipedia.org
 - 
 - 
 

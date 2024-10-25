@@ -1,6 +1,7 @@
 # Web Language: Lao
 
 Additional names:
+- ລາວ
 - 
 
 News:
@@ -20,6 +21,7 @@ Political Parties:
 - 
 
 Other:
+- https://lo.wikipedia.org
 - 
 - 
 
@@ -33,7 +35,7 @@ Additional Information:
 
 
 Scripts:
-- Lao
+- <a href="https://en.wikipedia.org/wiki/ISO_15924">ISO 15924 Laoo</a> Lao
 - 
 
 Thank you to these people who have helped create this document:

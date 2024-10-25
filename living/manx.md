@@ -1,6 +1,7 @@
 # Web Language: Manx
 
 Additional names:
+- Gaelg
 - 
 
 News:
@@ -20,6 +21,7 @@ Political Parties:
 - 
 
 Other:
+- https://gv.wikipedia.org
 - 
 - 
 

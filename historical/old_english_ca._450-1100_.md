@@ -1,6 +1,8 @@
 # Web Language: Old English (ca. 450-1100)
 
 Additional names:
+- Old English
+- Ænglisc
 - 
 
 News:
@@ -20,6 +22,7 @@ Political Parties:
 - 
 
 Other:
+- https://ang.wikipedia.org
 - 
 - 
 

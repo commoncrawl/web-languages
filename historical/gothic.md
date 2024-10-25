@@ -1,6 +1,7 @@
 # Web Language: Gothic
 
 Additional names:
+- 𐌲𐌿𐍄𐌹𐍃𐌺
 - 
 
 News:
@@ -20,6 +21,7 @@ Political Parties:
 - 
 
 Other:
+- https://got.wikipedia.org
 - 
 - 
 

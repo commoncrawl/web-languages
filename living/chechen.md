@@ -1,6 +1,7 @@
 # Web Language: Chechen
 
 Additional names:
+- нохчийн
 - 
 
 News:
@@ -20,6 +21,7 @@ Political Parties:
 - 
 
 Other:
+- https://ce.wikipedia.org
 - 
 - 
 

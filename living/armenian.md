@@ -1,6 +1,7 @@
 # Web Language: Armenian
 
 Additional names:
+- հայերեն
 - 
 
 News:
@@ -20,6 +21,7 @@ Political Parties:
 - 
 
 Other:
+- https://hy.wikipedia.org
 - 
 - 
 
@@ -33,7 +35,7 @@ Additional Information:
 
 
 Scripts:
-- Armenian
+- <a href="https://en.wikipedia.org/wiki/ISO_15924">ISO 15924 Armn</a> Armenian
 - 
 
 Thank you to these people who have helped create this document:

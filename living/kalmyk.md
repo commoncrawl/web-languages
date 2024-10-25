@@ -1,6 +1,7 @@
 # Web Language: Kalmyk
 
 Additional names:
+- хальмг
 - 
 
 News:
@@ -20,6 +21,7 @@ Political Parties:
 - 
 
 Other:
+- https://xal.wikipedia.org
 - 
 - 
 

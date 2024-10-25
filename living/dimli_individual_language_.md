@@ -1,6 +1,8 @@
 # Web Language: Dimli (individual language)
 
 Additional names:
+- Zazaki
+- Zazaki
 - 
 
 News:
@@ -20,6 +22,7 @@ Political Parties:
 - 
 
 Other:
+- https://diq.wikipedia.org
 - 
 - 
 

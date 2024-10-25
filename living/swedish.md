@@ -1,7 +1,8 @@
 # Web Language: Swedish
 
 Additional names:
-- Svenska
+- svenska
+- 
 
 News:
 - https://www.dn.se/
@@ -32,10 +33,11 @@ Political Parties:
 - https://www.liberalerna.se/ (Liberal Party)
 
 Other:
-- https://sv.wikipedia.org/
+- https://sv.wikipedia.org
 - https://www.rf.se/ (Swedish Sports Confederation)
 - https://www.transportstyrelsen.se/ (Swedish Transport Agency)
 - https://www.systembolaget.se/ (Government-owned chain of liquor stores in Sweden)
+- 
 
 Informative links (in English):
 - https://en.wikipedia.org/wiki/Swedish_language
@@ -53,7 +55,8 @@ Additional Information:
 
 
 Scripts:
-- Latin
+- <a href="https://en.wikipedia.org/wiki/ISO_15924">ISO 15924 Latn</a> Latin
+- 
 
 Thank you to these people who have helped create this document:
 - [Thom Vaughan](https://github.com/thunderpoot)

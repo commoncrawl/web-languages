@@ -1,6 +1,7 @@
 # Web Language: Kashubian
 
 Additional names:
+- kaszëbsczi
 - 
 
 News:
@@ -20,6 +21,7 @@ Political Parties:
 - 
 
 Other:
+- https://csb.wikipedia.org
 - 
 - 
 

@@ -1,6 +1,7 @@
 # Web Language: Standard Moroccan Tamazight
 
 Additional names:
+- ⵜⴰⵎⴰⵣⵉⵖⵜ ⵜⴰⵏⴰⵡⴰⵢⵜ
 - 
 
 News:
@@ -20,6 +21,7 @@ Political Parties:
 - 
 
 Other:
+- https://zgh.wikipedia.org
 - 
 - 
 

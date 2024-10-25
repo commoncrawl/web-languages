@@ -1,6 +1,7 @@
 # Web Language: Udmurt
 
 Additional names:
+- удмурт
 - 
 
 News:
@@ -20,6 +21,7 @@ Political Parties:
 - 
 
 Other:
+- https://udm.wikipedia.org
 - 
 - 
 

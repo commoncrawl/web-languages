@@ -1,6 +1,7 @@
 # Web Language: Ewe
 
 Additional names:
+- eʋegbe
 - 
 
 News:
@@ -20,6 +21,7 @@ Political Parties:
 - 
 
 Other:
+- https://ee.wikipedia.org
 - 
 - 
 

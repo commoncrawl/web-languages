@@ -1,6 +1,7 @@
 # Web Language: Romansh
 
 Additional names:
+- rumantsch
 - 
 
 News:
@@ -20,6 +21,7 @@ Political Parties:
 - 
 
 Other:
+- https://rm.wikipedia.org
 - 
 - 
 

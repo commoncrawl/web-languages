@@ -1,6 +1,7 @@
 # Web Language: Literary Chinese
 
 Additional names:
+- 文言
 - 
 
 News:
@@ -20,6 +21,7 @@ Political Parties:
 - 
 
 Other:
+- https://zh-classical.wikipedia.org
 - 
 - 
 

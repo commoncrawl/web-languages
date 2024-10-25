@@ -1,6 +1,7 @@
 # Web Language: Kikuyu
 
 Additional names:
+- Gĩkũyũ
 - 
 
 News:
@@ -20,6 +21,7 @@ Political Parties:
 - 
 
 Other:
+- https://ki.wikipedia.org
 - 
 - 
 

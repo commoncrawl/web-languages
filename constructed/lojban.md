@@ -1,6 +1,7 @@
 # Web Language: Lojban
 
 Additional names:
+- la .lojban.
 - 
 
 News:
@@ -20,6 +21,7 @@ Political Parties:
 - 
 
 Other:
+- https://jbo.wikipedia.org
 - 
 - 
 

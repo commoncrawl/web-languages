@@ -1,6 +1,7 @@
 # Web Language: Sranan Tongo
 
 Additional names:
+- Sranantongo
 - 
 
 News:
@@ -20,6 +21,7 @@ Political Parties:
 - 
 
 Other:
+- https://srn.wikipedia.org
 - 
 - 
 

@@ -1,6 +1,7 @@
 # Web Language: Moksha
 
 Additional names:
+- мокшень
 - 
 
 News:
@@ -20,6 +21,7 @@ Political Parties:
 - 
 
 Other:
+- https://mdf.wikipedia.org
 - 
 - 
 

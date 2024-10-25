@@ -1,6 +1,7 @@
 # Web Language: Angika
 
 Additional names:
+- अंगिका
 - 
 
 News:
@@ -20,6 +21,7 @@ Political Parties:
 - 
 
 Other:
+- https://anp.wikipedia.org
 - 
 - 
 

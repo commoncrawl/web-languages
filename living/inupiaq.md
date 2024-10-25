@@ -1,6 +1,7 @@
 # Web Language: Inupiaq
 
 Additional names:
+- Iñupiatun
 - 
 
 News:
@@ -20,6 +21,7 @@ Political Parties:
 - 
 
 Other:
+- https://ik.wikipedia.org
 - 
 - 
 

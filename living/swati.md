@@ -1,6 +1,7 @@
 # Web Language: Swati
 
 Additional names:
+- SiSwati
 - 
 
 News:
@@ -20,6 +21,7 @@ Political Parties:
 - 
 
 Other:
+- https://ss.wikipedia.org
 - 
 - 
 

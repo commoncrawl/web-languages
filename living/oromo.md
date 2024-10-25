@@ -1,6 +1,7 @@
 # Web Language: Oromo
 
 Additional names:
+- Oromoo
 - 
 
 News:
@@ -20,6 +21,7 @@ Political Parties:
 - 
 
 Other:
+- https://om.wikipedia.org
 - 
 - 
 

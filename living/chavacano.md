@@ -1,6 +1,7 @@
 # Web Language: Chavacano
 
 Additional names:
+- Chavacano de Zamboanga
 - 
 
 News:
@@ -20,6 +21,7 @@ Political Parties:
 - 
 
 Other:
+- https://cbk-zam.wikipedia.org
 - 
 - 
 

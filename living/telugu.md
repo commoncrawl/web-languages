@@ -1,6 +1,7 @@
 # Web Language: Telugu
 
 Additional names:
+- తెలుగు
 - 
 
 News:
@@ -20,6 +21,7 @@ Political Parties:
 - 
 
 Other:
+- https://te.wikipedia.org
 - 
 - 
 
@@ -33,7 +35,7 @@ Additional Information:
 
 
 Scripts:
-- Telugu
+- <a href="https://en.wikipedia.org/wiki/ISO_15924">ISO 15924 Telu</a> Telugu
 - 
 
 Thank you to these people who have helped create this document:

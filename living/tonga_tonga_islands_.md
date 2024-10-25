@@ -1,6 +1,8 @@
 # Web Language: Tonga (Tonga Islands)
 
 Additional names:
+- Tongan
+- lea faka-Tonga
 - 
 
 News:
@@ -20,6 +22,7 @@ Political Parties:
 - 
 
 Other:
+- https://to.wikipedia.org
 - 
 - 
 

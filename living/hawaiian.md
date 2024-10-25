@@ -1,6 +1,7 @@
 # Web Language: Hawaiian
 
 Additional names:
+- Hawaiʻi
 - 
 
 News:
@@ -20,6 +21,7 @@ Political Parties:
 - 
 
 Other:
+- https://haw.wikipedia.org
 - 
 - 
 

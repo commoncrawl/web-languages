@@ -1,6 +1,7 @@
 # Web Language: Malayalam
 
 Additional names:
+- മലയാളം
 - 
 
 News:
@@ -20,6 +21,7 @@ Political Parties:
 - 
 
 Other:
+- https://ml.wikipedia.org
 - 
 - 
 
@@ -33,7 +35,7 @@ Additional Information:
 
 
 Scripts:
-- Malayalam
+- <a href="https://en.wikipedia.org/wiki/ISO_15924">ISO 15924 Mlym</a> Malayalam
 - 
 
 Thank you to these people who have helped create this document:

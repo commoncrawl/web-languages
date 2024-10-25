@@ -1,6 +1,7 @@
 # Web Language: Assamese
 
 Additional names:
+- অসমীয়া
 - 
 
 News:
@@ -20,6 +21,7 @@ Political Parties:
 - 
 
 Other:
+- https://as.wikipedia.org
 - 
 - 
 
@@ -33,7 +35,7 @@ Additional Information:
 
 
 Scripts:
-- Bengali
+- <a href="https://en.wikipedia.org/wiki/ISO_15924">ISO 15924 Beng</a> Bengali
 - 
 
 Thank you to these people who have helped create this document:

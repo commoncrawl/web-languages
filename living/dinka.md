@@ -1,6 +1,7 @@
 # Web Language: Dinka
 
 Additional names:
+- Thuɔŋjäŋ
 - 
 
 News:
@@ -20,6 +21,7 @@ Political Parties:
 - 
 
 Other:
+- https://din.wikipedia.org
 - 
 - 
 

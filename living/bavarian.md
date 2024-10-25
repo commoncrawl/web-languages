@@ -1,6 +1,7 @@
 # Web Language: Bavarian
 
 Additional names:
+- Boarisch
 - 
 
 News:
@@ -20,6 +21,7 @@ Political Parties:
 - 
 
 Other:
+- https://bar.wikipedia.org
 - 
 - 
 

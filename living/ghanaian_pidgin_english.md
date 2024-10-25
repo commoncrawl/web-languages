@@ -1,6 +1,8 @@
 # Web Language: Ghanaian Pidgin English
 
 Additional names:
+- Ghanaian Pidgin
+- Ghanaian Pidgin
 - 
 
 News:
@@ -20,6 +22,7 @@ Political Parties:
 - 
 
 Other:
+- https://gpe.wikipedia.org
 - 
 - 
 

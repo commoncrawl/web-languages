@@ -1,6 +1,7 @@
 # Web Language: Southern Altai
 
 Additional names:
+- алтай тил
 - 
 
 News:
@@ -20,6 +21,7 @@ Political Parties:
 - 
 
 Other:
+- https://alt.wikipedia.org
 - 
 - 
 

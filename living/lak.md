@@ -1,6 +1,7 @@
 # Web Language: Lak
 
 Additional names:
+- лакку
 - 
 
 News:
@@ -20,6 +21,7 @@ Political Parties:
 - 
 
 Other:
+- https://lbe.wikipedia.org
 - 
 - 
 

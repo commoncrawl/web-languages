@@ -1,6 +1,7 @@
 # Web Language: Japanese
 
 Additional names:
+- 日本語
 - 
 
 News:
@@ -20,6 +21,7 @@ Political Parties:
 - 
 
 Other:
+- https://ja.wikipedia.org
 - 
 - 
 
@@ -33,7 +35,7 @@ Additional Information:
 
 
 Scripts:
-- Kanji
+- <a href="https://en.wikipedia.org/wiki/ISO_15924">ISO 15924 Jpan</a> Kanji
 - 
 
 Thank you to these people who have helped create this document:

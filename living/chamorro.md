@@ -1,6 +1,7 @@
 # Web Language: Chamorro
 
 Additional names:
+- Chamoru
 - 
 
 News:
@@ -20,6 +21,7 @@ Political Parties:
 - 
 
 Other:
+- https://ch.wikipedia.org
 - 
 - 
 

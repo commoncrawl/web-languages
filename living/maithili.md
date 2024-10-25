@@ -1,6 +1,7 @@
 # Web Language: Maithili
 
 Additional names:
+- मैथिली
 - 
 
 News:
@@ -20,6 +21,7 @@ Political Parties:
 - 
 
 Other:
+- https://mai.wikipedia.org
 - 
 - 
 

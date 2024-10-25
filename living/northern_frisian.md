@@ -1,6 +1,7 @@
 # Web Language: Northern Frisian
 
 Additional names:
+- Nordfriisk
 - 
 
 News:
@@ -20,6 +21,7 @@ Political Parties:
 - 
 
 Other:
+- https://frr.wikipedia.org
 - 
 - 
 

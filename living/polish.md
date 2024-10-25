@@ -1,7 +1,8 @@
 # Web Language: Polish
 
 Additional names:
-- Polski
+- polski
+- 
 
 News:
 - https://www.onet.pl/
@@ -25,8 +26,10 @@ Political Parties:
 - https://koalicjaobywatelska.pl/
 
 Other:
-- https://pl.wikipedia.org/wiki/Polska
+- https://pl.wikipedia.org
 - https://www.tvp.pl/
+- 
+- 
 
 Informative links (in English):
 - https://en.wikipedia.org/wiki/Polish_language
@@ -38,7 +41,7 @@ Additional Information:
 
 
 Scripts:
-- Latin
+- <a href="https://en.wikipedia.org/wiki/ISO_15924">ISO 15924 Latn</a> Latin
 - 
 
 Thank you to these people who have helped create this document:

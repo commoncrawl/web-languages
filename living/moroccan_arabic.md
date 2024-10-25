@@ -1,6 +1,7 @@
 # Web Language: Moroccan Arabic
 
 Additional names:
+- الدارجة
 - 
 
 News:
@@ -20,6 +21,7 @@ Political Parties:
 - 
 
 Other:
+- https://ary.wikipedia.org
 - 
 - 
 
@@ -33,7 +35,7 @@ Additional Information:
 
 
 Scripts:
-- Arabic
+- <a href="https://en.wikipedia.org/wiki/ISO_15924">ISO 15924 Arab</a> Arabic
 - 
 
 Thank you to these people who have helped create this document:

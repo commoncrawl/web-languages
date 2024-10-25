@@ -1,6 +1,7 @@
 # Web Language: Tachelhit
 
 Additional names:
+- Taclḥit
 - 
 
 News:
@@ -20,6 +21,7 @@ Political Parties:
 - 
 
 Other:
+- https://shi.wikipedia.org
 - 
 - 
 

@@ -1,6 +1,8 @@
 # Web Language: Dotyali
 
 Additional names:
+- Doteli
+- डोटेली
 - 
 
 News:
@@ -20,6 +22,7 @@ Political Parties:
 - 
 
 Other:
+- https://dty.wikipedia.org
 - 
 - 
 

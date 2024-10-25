@@ -1,6 +1,8 @@
 # Web Language: Gan Chinese
 
 Additional names:
+- Gan
+- 贛語
 - 
 
 News:
@@ -20,6 +22,7 @@ Political Parties:
 - 
 
 Other:
+- https://gan.wikipedia.org
 - 
 - 
 

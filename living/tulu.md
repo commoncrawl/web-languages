@@ -1,6 +1,7 @@
 # Web Language: Tulu
 
 Additional names:
+- ತುಳು
 - 
 
 News:
@@ -20,6 +21,7 @@ Political Parties:
 - 
 
 Other:
+- https://tcy.wikipedia.org
 - 
 - 
 

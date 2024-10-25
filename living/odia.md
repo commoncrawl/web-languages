@@ -1,6 +1,7 @@
 # Web Language: Odia
 
 Additional names:
+- ଓଡ଼ିଆ
 - 
 
 News:
@@ -20,6 +21,7 @@ Political Parties:
 - 
 
 Other:
+- https://or.wikipedia.org
 - 
 - 
 
@@ -33,7 +35,7 @@ Additional Information:
 
 
 Scripts:
-- Odia
+- <a href="https://en.wikipedia.org/wiki/ISO_15924">ISO 15924 Orya</a> Odia
 - 
 
 Thank you to these people who have helped create this document:

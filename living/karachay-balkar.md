@@ -1,6 +1,7 @@
 # Web Language: Karachay-Balkar
 
 Additional names:
+- къарачай-малкъар
 - 
 
 News:
@@ -20,6 +21,7 @@ Political Parties:
 - 
 
 Other:
+- https://krc.wikipedia.org
 - 
 - 
 

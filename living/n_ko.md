@@ -1,6 +1,8 @@
 # Web Language: N'Ko
 
 Additional names:
+- N’Ko
+- ߒߞߏ
 - 
 
 News:
@@ -20,6 +22,7 @@ Political Parties:
 - 
 
 Other:
+- https://nqo.wikipedia.org
 - 
 - 
 

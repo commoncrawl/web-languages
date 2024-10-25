@@ -1,6 +1,7 @@
 # Web Language: Burmese
 
 Additional names:
+- မြန်မာဘာသာ
 - 
 
 News:
@@ -20,6 +21,7 @@ Political Parties:
 - 
 
 Other:
+- https://my.wikipedia.org
 - 
 - 
 
@@ -33,7 +35,7 @@ Additional Information:
 
 
 Scripts:
-- Mon
+- <a href="https://en.wikipedia.org/wiki/ISO_15924">ISO 15924 Mymr</a> Mon
 - 
 
 Thank you to these people who have helped create this document:

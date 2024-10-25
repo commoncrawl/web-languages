@@ -1,6 +1,7 @@
 # Web Language: Corsican
 
 Additional names:
+- corsu
 - 
 
 News:
@@ -20,6 +21,7 @@ Political Parties:
 - 
 
 Other:
+- https://co.wikipedia.org
 - 
 - 
 

@@ -1,7 +1,7 @@
 # Web Language: Arabic
 
 Additional names:
-- Min Nan Chinese
+- العربية
 - 
 
 News:
@@ -21,6 +21,7 @@ Political Parties:
 - 
 
 Other:
+- https://ar.wikipedia.org
 - 
 - 
 

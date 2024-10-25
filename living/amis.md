@@ -1,6 +1,7 @@
 # Web Language: Amis
 
 Additional names:
+- Pangcah
 - 
 
 News:
@@ -20,6 +21,7 @@ Political Parties:
 - 
 
 Other:
+- https://ami.wikipedia.org
 - 
 - 
 

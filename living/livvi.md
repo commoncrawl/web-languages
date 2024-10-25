@@ -1,6 +1,8 @@
 # Web Language: Livvi
 
 Additional names:
+- Livvi-Karelian
+- livvinkarjala
 - 
 
 News:
@@ -20,6 +22,7 @@ Political Parties:
 - 
 
 Other:
+- https://olo.wikipedia.org
 - 
 - 
 

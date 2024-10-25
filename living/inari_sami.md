@@ -1,6 +1,7 @@
 # Web Language: Inari Sami
 
 Additional names:
+- anarâškielâ
 - 
 
 News:
@@ -20,6 +21,7 @@ Political Parties:
 - 
 
 Other:
+- https://smn.wikipedia.org
 - 
 - 
 

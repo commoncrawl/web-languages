@@ -1,6 +1,8 @@
 # Web Language: Wu Chinese
 
 Additional names:
+- Wu
+- 吴语
 - 
 
 News:
@@ -20,6 +22,7 @@ Political Parties:
 - 
 
 Other:
+- https://wuu.wikipedia.org
 - 
 - 
 

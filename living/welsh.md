@@ -26,10 +26,11 @@ Political Parties:
 - 
 
 Other:
-- https://cy.wikipedia.org/
+- https://cy.wikipedia.org
 - https://www.s4c.cymru/clic/ (Welsh-language TV channel)
 - https://www.meithrin.cymru/ (early childhood education)
 - https://www.urdd.cymru/ (Welsh youth organization)
+- 
 
 Informative links (in English):
 - https://en.wikipedia.org/wiki/Welsh_language
@@ -46,7 +47,7 @@ Additional Information:
 - 
 
 Scripts:
-- Latin
+- <a href="https://en.wikipedia.org/wiki/ISO_15924">ISO 15924 Latn</a> Latin
 - 
 
 Thank you to these people who have helped create this document:

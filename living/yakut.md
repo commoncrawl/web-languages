@@ -1,6 +1,7 @@
 # Web Language: Yakut
 
 Additional names:
+- саха тыла
 - 
 
 News:
@@ -20,6 +21,7 @@ Political Parties:
 - 
 
 Other:
+- https://sah.wikipedia.org
 - 
 - 
 

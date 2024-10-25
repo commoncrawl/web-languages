@@ -1,6 +1,8 @@
 # Web Language: Official Aramaic (700-300 BCE)
 
 Additional names:
+- Classical Syriac
+-  Imperial Aramaic (700-300 BCE)
 - 
 
 News:
@@ -20,6 +22,7 @@ Political Parties:
 - 
 
 Other:
+- https://arc.wikipedia.org
 - 
 - 
 

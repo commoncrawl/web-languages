@@ -1,6 +1,7 @@
 # Web Language: Nigerian Pidgin
 
 Additional names:
+- Naijá
 - 
 
 News:
@@ -20,6 +21,7 @@ Political Parties:
 - 
 
 Other:
+- https://pcm.wikipedia.org
 - 
 - 
 

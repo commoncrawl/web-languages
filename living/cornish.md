@@ -1,6 +1,7 @@
 # Web Language: Cornish
 
 Additional names:
+- kernowek
 - 
 
 News:
@@ -20,6 +21,7 @@ Political Parties:
 - 
 
 Other:
+- https://kw.wikipedia.org
 - 
 - 
 

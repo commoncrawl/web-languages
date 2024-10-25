@@ -1,6 +1,7 @@
 # Web Language: Yiddish
 
 Additional names:
+- ייִדיש
 - 
 
 News:
@@ -20,6 +21,7 @@ Political Parties:
 - 
 
 Other:
+- https://yi.wikipedia.org
 - 
 - 
 

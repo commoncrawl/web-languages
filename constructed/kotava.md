@@ -20,6 +20,7 @@ Political Parties:
 - 
 
 Other:
+- https://avk.wikipedia.org
 - 
 - 
 

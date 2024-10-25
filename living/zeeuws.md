@@ -1,6 +1,8 @@
 # Web Language: Zeeuws
 
 Additional names:
+- Zeelandic
+- Zeêuws
 - 
 
 News:
@@ -20,6 +22,7 @@ Political Parties:
 - 
 
 Other:
+- https://zea.wikipedia.org
 - 
 - 
 

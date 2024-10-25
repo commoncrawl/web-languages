@@ -1,6 +1,7 @@
 # Web Language: Interlingua (International Auxiliary Language Association)
 
 Additional names:
+- Interlingua
 - 
 
 News:
@@ -20,6 +21,7 @@ Political Parties:
 - 
 
 Other:
+- https://ia.wikipedia.org
 - 
 - 
 

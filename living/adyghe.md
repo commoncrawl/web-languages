@@ -1,6 +1,7 @@
 # Web Language: Adyghe
 
 Additional names:
+- адыгабзэ
 - 
 
 News:
@@ -20,6 +21,7 @@ Political Parties:
 - 
 
 Other:
+- https://ady.wikipedia.org
 - 
 - 
 

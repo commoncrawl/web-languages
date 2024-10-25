@@ -1,7 +1,8 @@
 # Web Language: Pushto
 
 Additional names:
-- Min Nan Chinese
+- پښتو
+- Pashto
 - 
 
 News:
@@ -21,6 +22,7 @@ Political Parties:
 - 
 
 Other:
+- https://ps.wikipedia.org
 - 
 - 
 

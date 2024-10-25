@@ -1,6 +1,7 @@
 # Web Language: Pa'o Karen
 
 Additional names:
+- ပအိုဝ်ႏဘာႏသာႏ
 - 
 
 News:
@@ -20,6 +21,7 @@ Political Parties:
 - 
 
 Other:
+- https://blk.wikipedia.org
 - 
 - 
 

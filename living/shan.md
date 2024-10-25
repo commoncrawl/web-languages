@@ -1,6 +1,7 @@
 # Web Language: Shan
 
 Additional names:
+- ၽႃႇသႃႇတႆး
 - 
 
 News:
@@ -20,6 +21,7 @@ Political Parties:
 - 
 
 Other:
+- https://shn.wikipedia.org
 - 
 - 
 

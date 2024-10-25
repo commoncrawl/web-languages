@@ -1,6 +1,8 @@
 # Web Language: Tai Nüa
 
 Additional names:
+- Tai Nuea
+- ᥖᥭᥰ ᥖᥬᥲ ᥑᥨᥒᥰ
 - 
 
 News:
@@ -20,6 +22,7 @@ Political Parties:
 - 
 
 Other:
+- https://tdd.wikipedia.org
 - 
 - 
 

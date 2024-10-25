@@ -1,6 +1,7 @@
 # Web Language: Korean
 
 Additional names:
+- 한국어
 - 
 
 News:
@@ -20,6 +21,7 @@ Political Parties:
 - 
 
 Other:
+- https://ko.wikipedia.org
 - 
 - 
 
@@ -33,7 +35,7 @@ Additional Information:
 
 
 Scripts:
-- Hanja
+- <a href="https://en.wikipedia.org/wiki/ISO_15924">ISO 15924 Hang</a> Hanja
 - 
 
 Thank you to these people who have helped create this document:

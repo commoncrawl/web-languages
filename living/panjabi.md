@@ -2,6 +2,7 @@
 
 Additional names:
 - Eastern Panjabi
+- ਪੰਜਾਬੀ
 - 
 
 News:
@@ -21,6 +22,7 @@ Political Parties:
 - 
 
 Other:
+- https://pa.wikipedia.org
 - 
 - 
 
@@ -34,7 +36,7 @@ Additional Information:
 
 
 Scripts:
-- Gurmukhi
+- <a href="https://en.wikipedia.org/wiki/ISO_15924">ISO 15924 Guru</a> Gurmukhi
 - 
 
 Thank you to these people who have helped create this document:

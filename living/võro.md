@@ -1,6 +1,7 @@
 # Web Language: Võro
 
 Additional names:
+- võro
 - 
 
 News:
@@ -20,6 +21,7 @@ Political Parties:
 - 
 
 Other:
+- https://fiu-vro.wikipedia.org
 - 
 - 
 

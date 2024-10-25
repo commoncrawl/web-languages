@@ -1,6 +1,7 @@
 # Web Language: Tahitian
 
 Additional names:
+- reo tahiti
 - 
 
 News:
@@ -20,6 +21,7 @@ Political Parties:
 - 
 
 Other:
+- https://ty.wikipedia.org
 - 
 - 
 

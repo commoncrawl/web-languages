@@ -1,6 +1,7 @@
 # Web Language: Aragonese
 
 Additional names:
+- aragonés
 - 
 
 News:
@@ -20,6 +21,7 @@ Political Parties:
 - 
 
 Other:
+- https://an.wikipedia.org
 - 
 - 
 

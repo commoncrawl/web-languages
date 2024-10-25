@@ -1,6 +1,7 @@
 # Web Language: Wayuu
 
 Additional names:
+- wayuunaiki
 - 
 
 News:
@@ -20,6 +21,7 @@ Political Parties:
 - 
 
 Other:
+- https://guc.wikipedia.org
 - 
 - 
 

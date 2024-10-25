@@ -1,7 +1,6 @@
 # Web Language: Lahnda
 
 Additional names:
-- Min Nan Chinese
 - 
 
 News:

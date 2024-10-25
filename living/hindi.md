@@ -54,6 +54,7 @@ Other:
 - https://espncricinfo.com/hindi
 - https://dict.hinkhoj.com/
 - https://www.investindia.gov.in/
+- https://hi.wikipedia.org
 - 
 
 Informative links (in English):
@@ -71,7 +72,7 @@ Additional Information:
 - Internet TLD: .भारत (punycodes to .xn--h2brj9c)
 
 Scripts:
-- Devanagari
+- <a href="https://en.wikipedia.org/wiki/ISO_15924">ISO 15924 Deva</a> Devanagari
 - 
 
 Thank you to these people who have helped create this document:

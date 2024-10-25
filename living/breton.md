@@ -1,6 +1,7 @@
 # Web Language: Breton
 
 Additional names:
+- brezhoneg
 - 
 
 News:
@@ -20,6 +21,7 @@ Political Parties:
 - 
 
 Other:
+- https://br.wikipedia.org
 - 
 - 
 

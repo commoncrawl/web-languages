@@ -1,6 +1,7 @@
 # Web Language: Lower Sorbian
 
 Additional names:
+- dolnoserbski
 - 
 
 News:
@@ -20,6 +21,7 @@ Political Parties:
 - 
 
 Other:
+- https://dsb.wikipedia.org
 - 
 - 
 

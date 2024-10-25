@@ -1,6 +1,7 @@
 # Web Language: Navajo
 
 Additional names:
+- Diné bizaad
 - 
 
 News:
@@ -20,6 +21,7 @@ Political Parties:
 - 
 
 Other:
+- https://nv.wikipedia.org
 - 
 - 
 

@@ -1,6 +1,8 @@
 # Web Language: Farefare
 
 Additional names:
+- Frafra
+- farefare
 - 
 
 News:
@@ -20,6 +22,7 @@ Political Parties:
 - 
 
 Other:
+- https://gur.wikipedia.org
 - 
 - 
 

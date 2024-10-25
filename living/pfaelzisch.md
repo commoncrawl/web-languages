@@ -1,6 +1,8 @@
 # Web Language: Pfaelzisch
 
 Additional names:
+- Palatine German
+- Pälzisch
 - 
 
 News:
@@ -20,6 +22,7 @@ Political Parties:
 - 
 
 Other:
+- https://pfl.wikipedia.org
 - 
 - 
 

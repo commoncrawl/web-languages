@@ -1,6 +1,7 @@
 # Web Language: Extremaduran
 
 Additional names:
+- estremeñu
 - 
 
 News:
@@ -20,6 +21,7 @@ Political Parties:
 - 
 
 Other:
+- https://ext.wikipedia.org
 - 
 - 
 

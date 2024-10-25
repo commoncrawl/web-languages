@@ -1,6 +1,7 @@
 # Web Language: Sinhala
 
 Additional names:
+- සිංහල
 - 
 
 News:
@@ -20,6 +21,7 @@ Political Parties:
 - 
 
 Other:
+- https://si.wikipedia.org
 - 
 - 
 
@@ -33,7 +35,7 @@ Additional Information:
 
 
 Scripts:
-- Sinhalese
+- <a href="https://en.wikipedia.org/wiki/ISO_15924">ISO 15924 Sinh</a> Sinhalese
 - 
 
 Thank you to these people who have helped create this document:

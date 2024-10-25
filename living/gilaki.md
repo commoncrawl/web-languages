@@ -1,6 +1,7 @@
 # Web Language: Gilaki
 
 Additional names:
+- گیلکی
 - 
 
 News:
@@ -20,6 +21,7 @@ Political Parties:
 - 
 
 Other:
+- https://glk.wikipedia.org
 - 
 - 
 

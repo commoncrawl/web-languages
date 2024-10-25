@@ -1,6 +1,7 @@
 # Web Language: Ossetian
 
 Additional names:
+- ирон
 - 
 
 News:
@@ -20,6 +21,7 @@ Political Parties:
 - 
 
 Other:
+- https://os.wikipedia.org
 - 
 - 
 

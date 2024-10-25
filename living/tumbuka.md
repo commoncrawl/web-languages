@@ -1,6 +1,7 @@
 # Web Language: Tumbuka
 
 Additional names:
+- chiTumbuka
 - 
 
 News:
@@ -20,6 +21,7 @@ Political Parties:
 - 
 
 Other:
+- https://tum.wikipedia.org
 - 
 - 
 

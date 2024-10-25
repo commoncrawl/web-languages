@@ -1,6 +1,7 @@
 # Web Language: Western Frisian
 
 Additional names:
+- Frysk
 - 
 
 News:
@@ -20,6 +21,7 @@ Political Parties:
 - 
 
 Other:
+- https://fy.wikipedia.org
 - 
 - 
 

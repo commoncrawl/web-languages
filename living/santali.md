@@ -1,6 +1,7 @@
 # Web Language: Santali
 
 Additional names:
+- ᱥᱟᱱᱛᱟᱲᱤ
 - 
 
 News:
@@ -20,6 +21,7 @@ Political Parties:
 - 
 
 Other:
+- https://sat.wikipedia.org
 - 
 - 
 

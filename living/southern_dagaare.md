@@ -1,6 +1,8 @@
 # Web Language: Southern Dagaare
 
 Additional names:
+- Dagaare
+- Dagaare
 - 
 
 News:
@@ -20,6 +22,7 @@ Political Parties:
 - 
 
 Other:
+- https://dga.wikipedia.org
 - 
 - 
 

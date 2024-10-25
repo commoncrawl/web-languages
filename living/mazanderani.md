@@ -1,6 +1,7 @@
 # Web Language: Mazanderani
 
 Additional names:
+- مازِرونی
 - 
 
 News:
@@ -20,6 +21,7 @@ Political Parties:
 - 
 
 Other:
+- https://mzn.wikipedia.org
 - 
 - 
 

@@ -1,6 +1,8 @@
 # Web Language: Nepali (macrolanguage)
 
 Additional names:
+- Nepali
+- नेपाली
 - 
 
 News:
@@ -20,6 +22,7 @@ Political Parties:
 - 
 
 Other:
+- https://ne.wikipedia.org
 - 
 - 
 

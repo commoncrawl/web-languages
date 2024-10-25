@@ -1,6 +1,7 @@
 # Web Language: Paiwan
 
 Additional names:
+- pinayuanan
 - 
 
 News:
@@ -20,6 +21,7 @@ Political Parties:
 - 
 
 Other:
+- https://pwn.wikipedia.org
 - 
 - 
 

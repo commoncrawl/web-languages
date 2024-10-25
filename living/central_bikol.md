@@ -1,6 +1,7 @@
 # Web Language: Central Bikol
 
 Additional names:
+- Bikol Central
 - 
 
 News:
@@ -20,6 +21,7 @@ Political Parties:
 - 
 
 Other:
+- https://bcl.wikipedia.org
 - 
 - 
 

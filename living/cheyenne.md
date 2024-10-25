@@ -1,6 +1,7 @@
 # Web Language: Cheyenne
 
 Additional names:
+- Tsetsêhestâhese
 - 
 
 News:
@@ -20,6 +21,7 @@ Political Parties:
 - 
 
 Other:
+- https://chy.wikipedia.org
 - 
 - 
 

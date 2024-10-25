@@ -1,6 +1,7 @@
 # Web Language: Dhivehi
 
 Additional names:
+- ދިވެހިބަސް
 - 
 
 News:
@@ -20,6 +21,7 @@ Political Parties:
 - 
 
 Other:
+- https://dv.wikipedia.org
 - 
 - 
 

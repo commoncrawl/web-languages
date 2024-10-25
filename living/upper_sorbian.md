@@ -1,6 +1,7 @@
 # Web Language: Upper Sorbian
 
 Additional names:
+- hornjoserbsce
 - 
 
 News:
@@ -20,6 +21,7 @@ Political Parties:
 - 
 
 Other:
+- https://hsb.wikipedia.org
 - 
 - 
 

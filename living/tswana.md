@@ -1,6 +1,7 @@
 # Web Language: Tswana
 
 Additional names:
+- Setswana
 - 
 
 News:
@@ -20,6 +21,7 @@ Political Parties:
 - 
 
 Other:
+- https://tn.wikipedia.org
 - 
 - 
 

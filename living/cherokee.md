@@ -1,6 +1,7 @@
 # Web Language: Cherokee
 
 Additional names:
+- ᏣᎳᎩ
 - 
 
 News:
@@ -20,6 +21,7 @@ Political Parties:
 - 
 
 Other:
+- https://chr.wikipedia.org
 - 
 - 
 

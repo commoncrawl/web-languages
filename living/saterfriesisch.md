@@ -1,6 +1,8 @@
 # Web Language: Saterfriesisch
 
 Additional names:
+- Saterland Frisian
+- Seeltersk
 - 
 
 News:
@@ -20,6 +22,7 @@ Political Parties:
 - 
 
 Other:
+- https://stq.wikipedia.org
 - 
 - 
 

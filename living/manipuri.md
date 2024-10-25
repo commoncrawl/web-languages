@@ -1,6 +1,7 @@
 # Web Language: Manipuri
 
 Additional names:
+- ꯃꯤꯇꯩ ꯂꯣꯟ
 - 
 
 News:
@@ -20,6 +21,7 @@ Political Parties:
 - 
 
 Other:
+- https://mni.wikipedia.org
 - 
 - 
 

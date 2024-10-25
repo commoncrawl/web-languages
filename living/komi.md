@@ -1,6 +1,7 @@
 # Web Language: Komi
 
 Additional names:
+- коми
 - 
 
 News:
@@ -20,6 +21,7 @@ Political Parties:
 - 
 
 Other:
+- https://kv.wikipedia.org
 - 
 - 
 

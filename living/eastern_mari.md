@@ -1,6 +1,7 @@
 # Web Language: Eastern Mari
 
 Additional names:
+- олык марий
 - 
 
 News:
@@ -20,6 +21,7 @@ Political Parties:
 - 
 
 Other:
+- https://mhr.wikipedia.org
 - 
 - 
 

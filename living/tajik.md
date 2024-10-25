@@ -1,6 +1,7 @@
 # Web Language: Tajik
 
 Additional names:
+- тоҷикӣ
 - 
 
 News:
@@ -20,6 +21,7 @@ Political Parties:
 - 
 
 Other:
+- https://tg.wikipedia.org
 - 
 - 
 
@@ -33,7 +35,7 @@ Additional Information:
 
 
 Scripts:
-- Cyrillic
+- <a href="https://en.wikipedia.org/wiki/ISO_15924">ISO 15924 Cyrl</a> Cyrillic
 - 
 
 Thank you to these people who have helped create this document:

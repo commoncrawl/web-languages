@@ -2,6 +2,7 @@
 
 Additional names:
 - Greek
+- Ελληνικά
 - 
 
 News:
@@ -21,6 +22,7 @@ Political Parties:
 - 
 
 Other:
+- https://el.wikipedia.org
 - 
 - 
 
@@ -34,7 +36,7 @@ Additional Information:
 
 
 Scripts:
-- Greek
+- <a href="https://en.wikipedia.org/wiki/ISO_15924">ISO 15924 Grek</a> Greek
 - 
 
 Thank you to these people who have helped create this document:

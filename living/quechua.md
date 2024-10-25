@@ -1,6 +1,7 @@
 # Web Language: Quechua
 
 Additional names:
+- Runa Simi
 - 
 
 News:
@@ -20,6 +21,7 @@ Political Parties:
 - 
 
 Other:
+- https://qu.wikipedia.org
 - 
 - 
 

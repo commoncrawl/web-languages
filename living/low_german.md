@@ -1,6 +1,8 @@
 # Web Language: Low German
 
 Additional names:
+- Plattdüütsch
+- Nedersaksies
 - 
 
 News:
@@ -20,6 +22,7 @@ Political Parties:
 - 
 
 Other:
+- https://nds-nl.wikipedia.org
 - 
 - 
 

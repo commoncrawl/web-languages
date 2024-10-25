@@ -1,6 +1,7 @@
 # Web Language: Northern Sami
 
 Additional names:
+- davvisámegiella
 - 
 
 News:
@@ -20,6 +21,7 @@ Political Parties:
 - 
 
 Other:
+- https://se.wikipedia.org
 - 
 - 
 

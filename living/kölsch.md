@@ -1,6 +1,8 @@
 # Web Language: Kölsch
 
 Additional names:
+- Colognian
+- Ripoarisch
 - 
 
 News:
@@ -20,6 +22,7 @@ Political Parties:
 - 
 
 Other:
+- https://ksh.wikipedia.org
 - 
 - 
 

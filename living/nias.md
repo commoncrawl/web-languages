@@ -1,6 +1,7 @@
 # Web Language: Nias
 
 Additional names:
+- Li Niha
 - 
 
 News:
@@ -20,6 +21,7 @@ Political Parties:
 - 
 
 Other:
+- https://nia.wikipedia.org
 - 
 - 
 

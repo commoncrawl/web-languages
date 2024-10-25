@@ -1,6 +1,7 @@
 # Web Language: Amharic
 
 Additional names:
+- አማርኛ
 - 
 
 News:
@@ -20,6 +21,7 @@ Political Parties:
 - 
 
 Other:
+- https://am.wikipedia.org
 - 
 - 
 
@@ -33,7 +35,7 @@ Additional Information:
 
 
 Scripts:
-- Ge‘ez
+- <a href="https://en.wikipedia.org/wiki/ISO_15924">ISO 15924 Ethi</a> Ge‘ez
 - 
 
 Thank you to these people who have helped create this document:

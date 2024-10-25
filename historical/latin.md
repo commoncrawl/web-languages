@@ -1,6 +1,7 @@
 # Web Language: Latin
 
 Additional names:
+- Latina
 - 
 
 News:
@@ -20,6 +21,7 @@ Political Parties:
 - 
 
 Other:
+- https://la.wikipedia.org
 - 
 - 
 

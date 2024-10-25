@@ -1,6 +1,7 @@
 # Web Language: Pali
 
 Additional names:
+- पालि
 - 
 
 News:
@@ -20,6 +21,7 @@ Political Parties:
 - 
 
 Other:
+- https://pi.wikipedia.org
 - 
 - 
 

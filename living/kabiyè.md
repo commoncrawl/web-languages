@@ -1,6 +1,8 @@
 # Web Language: Kabiyè
 
 Additional names:
+- Kabiye
+- Kabɩyɛ
 - 
 
 News:
@@ -20,6 +22,7 @@ Political Parties:
 - 
 
 Other:
+- https://kbp.wikipedia.org
 - 
 - 
 

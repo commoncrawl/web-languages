@@ -1,6 +1,8 @@
 # Web Language: Atayal
 
 Additional names:
+- Tayal
+- Tayal
 - 
 
 News:
@@ -20,6 +22,7 @@ Political Parties:
 - 
 
 Other:
+- https://tay.wikipedia.org
 - 
 - 
 

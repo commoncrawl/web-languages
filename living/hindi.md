@@ -1,6 +1,7 @@
 # Web Language: Hindi
 
 Additional names:
+- हिन्दी
 - 
 
 News:
@@ -20,6 +21,7 @@ Political Parties:
 - 
 
 Other:
+- https://hi.wikipedia.org
 - 
 - 
 
@@ -33,7 +35,7 @@ Additional Information:
 
 
 Scripts:
-- Devanagari
+- <a href="https://en.wikipedia.org/wiki/ISO_15924">ISO 15924 Deva</a> Devanagari
 - 
 
 Thank you to these people who have helped create this document:

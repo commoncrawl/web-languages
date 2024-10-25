@@ -1,6 +1,7 @@
 # Web Language: Komering
 
 Additional names:
+- Kumoring
 - 
 
 News:
@@ -20,6 +21,7 @@ Political Parties:
 - 
 
 Other:
+- https://kge.wikipedia.org
 - 
 - 
 

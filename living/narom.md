@@ -1,6 +1,8 @@
 # Web Language: Narom
 
 Additional names:
+- Norman
+- Nouormand
 - 
 
 News:
@@ -20,6 +22,7 @@ Political Parties:
 - 
 
 Other:
+- https://nrm.wikipedia.org
 - 
 - 
 

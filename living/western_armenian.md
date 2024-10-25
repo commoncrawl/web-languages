@@ -1,6 +1,7 @@
 # Web Language: Western Armenian
 
 Additional names:
+- Արեւմտահայերէն
 - 
 
 News:
@@ -20,6 +21,7 @@ Political Parties:
 - 
 
 Other:
+- https://hyw.wikipedia.org
 - 
 - 
 

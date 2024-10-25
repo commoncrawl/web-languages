@@ -1,6 +1,8 @@
 # Web Language: Emilian
 
 Additional names:
+- Emiliano-Romagnolo
+- emiliàn e rumagnòl
 - 
 
 News:
@@ -20,6 +22,7 @@ Political Parties:
 - 
 
 Other:
+- https://eml.wikipedia.org
 - 
 - 
 

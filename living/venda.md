@@ -1,6 +1,7 @@
 # Web Language: Venda
 
 Additional names:
+- Tshivenda
 - 
 
 News:
@@ -20,6 +21,7 @@ Political Parties:
 - 
 
 Other:
+- https://ve.wikipedia.org
 - 
 - 
 

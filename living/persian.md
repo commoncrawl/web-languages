@@ -1,7 +1,8 @@
 # Web Language: Persian
 
 Additional names:
-- Min Nan Chinese
+- فارسی
+- Farsi
 - 
 
 News:
@@ -21,6 +22,7 @@ Political Parties:
 - 
 
 Other:
+- https://fa.wikipedia.org
 - 
 - 
 

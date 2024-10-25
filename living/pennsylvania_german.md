@@ -1,6 +1,7 @@
 # Web Language: Pennsylvania German
 
 Additional names:
+- Deitsch
 - 
 
 News:
@@ -20,6 +21,7 @@ Political Parties:
 - 
 
 Other:
+- https://pdc.wikipedia.org
 - 
 - 
 

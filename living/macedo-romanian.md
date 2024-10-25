@@ -1,6 +1,7 @@
 # Web Language: Macedo-Romanian
 
 Additional names:
+- armãneashti
 - 
 
 News:
@@ -20,6 +21,7 @@ Political Parties:
 - 
 
 Other:
+- https://roa-rup.wikipedia.org
 - 
 - 
 

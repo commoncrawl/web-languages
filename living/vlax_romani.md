@@ -1,6 +1,7 @@
 # Web Language: Vlax Romani
 
 Additional names:
+- romani čhib
 - 
 
 News:
@@ -20,6 +21,7 @@ Political Parties:
 - 
 
 Other:
+- https://rmy.wikipedia.org
 - 
 - 
 

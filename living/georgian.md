@@ -1,6 +1,7 @@
 # Web Language: Georgian
 
 Additional names:
+- ქართული
 - 
 
 News:
@@ -20,6 +21,7 @@ Political Parties:
 - 
 
 Other:
+- https://ka.wikipedia.org
 - 
 - 
 
@@ -33,7 +35,7 @@ Additional Information:
 
 
 Scripts:
-- Georgian
+- <a href="https://en.wikipedia.org/wiki/ISO_15924">ISO 15924 Geor</a> Georgian
 - 
 
 Thank you to these people who have helped create this document:

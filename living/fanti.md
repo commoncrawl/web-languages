@@ -1,6 +1,7 @@
 # Web Language: Fanti
 
 Additional names:
+- mfantse
 - 
 
 News:
@@ -20,6 +21,7 @@ Political Parties:
 - 
 
 Other:
+- https://fat.wikipedia.org
 - 
 - 
 

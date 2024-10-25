@@ -1,6 +1,8 @@
 # Web Language: Fulah
 
 Additional names:
+- Fula
+- Fulfulde
 - 
 
 News:
@@ -20,6 +22,7 @@ Political Parties:
 - 
 
 Other:
+- https://ff.wikipedia.org
 - 
 - 
 

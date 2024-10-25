@@ -1,6 +1,7 @@
 # Web Language: Azerbaijani
 
 Additional names:
+- azərbaycanca
 - 
 
 News:
@@ -20,6 +21,7 @@ Political Parties:
 - 
 
 Other:
+- https://az.wikipedia.org
 - 
 - 
 

@@ -1,6 +1,7 @@
 # Web Language: Aymara
 
 Additional names:
+- Aymar aru
 - 
 
 News:
@@ -20,6 +21,7 @@ Political Parties:
 - 
 
 Other:
+- https://ay.wikipedia.org
 - 
 - 
 

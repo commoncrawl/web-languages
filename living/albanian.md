@@ -1,6 +1,7 @@
 # Web Language: Albanian
 
 Additional names:
+- shqip
 - 
 
 News:
@@ -20,6 +21,7 @@ Political Parties:
 - 
 
 Other:
+- https://sq.wikipedia.org
 - 
 - 
 

@@ -1,6 +1,7 @@
 # Web Language: Gorontalo
 
 Additional names:
+- Bahasa Hulontalo
 - 
 
 News:
@@ -20,6 +21,7 @@ Political Parties:
 - 
 
 Other:
+- https://gor.wikipedia.org
 - 
 - 
 

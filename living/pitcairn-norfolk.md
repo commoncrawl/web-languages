@@ -1,6 +1,8 @@
 # Web Language: Pitcairn-Norfolk
 
 Additional names:
+- Norfuk / Pitkern
+- Norfuk / Pitkern
 - 
 
 News:
@@ -20,6 +22,7 @@ Political Parties:
 - 
 
 Other:
+- https://pih.wikipedia.org
 - 
 - 
 

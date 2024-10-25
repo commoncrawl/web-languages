@@ -1,6 +1,7 @@
 # Web Language: Arpitan
 
 Additional names:
+- arpetan
 - 
 
 News:
@@ -20,6 +21,7 @@ Political Parties:
 - 
 
 Other:
+- https://frp.wikipedia.org
 - 
 - 
 

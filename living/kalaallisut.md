@@ -1,6 +1,7 @@
 # Web Language: Kalaallisut
 
 Additional names:
+- kalaallisut
 - 
 
 News:
@@ -20,6 +21,7 @@ Political Parties:
 - 
 
 Other:
+- https://kl.wikipedia.org
 - 
 - 
 

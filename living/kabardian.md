@@ -1,6 +1,7 @@
 # Web Language: Kabardian
 
 Additional names:
+- адыгэбзэ
 - 
 
 News:
@@ -20,6 +21,7 @@ Political Parties:
 - 
 
 Other:
+- https://kbd.wikipedia.org
 - 
 - 
 

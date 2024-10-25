@@ -1,6 +1,7 @@
 # Web Language: Khmer
 
 Additional names:
+- ភាសាខ្មែរ
 - 
 
 News:
@@ -20,6 +21,7 @@ Political Parties:
 - 
 
 Other:
+- https://km.wikipedia.org
 - 
 - 
 
@@ -33,7 +35,7 @@ Additional Information:
 
 
 Scripts:
-- Kher
+- <a href="https://en.wikipedia.org/wiki/ISO_15924">ISO 15924 Khmr</a> Kher
 - 
 
 Thank you to these people who have helped create this document:

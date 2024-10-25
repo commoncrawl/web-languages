@@ -1,6 +1,7 @@
 # Web Language: Kusaal
 
 Additional names:
+- Kʋsaal
 - 
 
 News:
@@ -20,6 +21,7 @@ Political Parties:
 - 
 
 Other:
+- https://kus.wikipedia.org
 - 
 - 
 

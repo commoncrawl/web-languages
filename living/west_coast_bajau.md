@@ -1,6 +1,7 @@
 # Web Language: West Coast Bajau
 
 Additional names:
+- Bajau Sama
 - 
 
 News:
@@ -20,6 +21,7 @@ Political Parties:
 - 
 
 Other:
+- https://bdr.wikipedia.org
 - 
 - 
 

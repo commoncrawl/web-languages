@@ -1,6 +1,8 @@
 # Web Language: Vlaams
 
 Additional names:
+- West Flemish
+- West-Vlams
 - 
 
 News:
@@ -20,6 +22,7 @@ Political Parties:
 - 
 
 Other:
+- https://vls.wikipedia.org
 - 
 - 
 

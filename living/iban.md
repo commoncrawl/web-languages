@@ -1,6 +1,7 @@
 # Web Language: Iban
 
 Additional names:
+- Jaku Iban
 - 
 
 News:
@@ -20,6 +21,7 @@ Political Parties:
 - 
 
 Other:
+- https://iba.wikipedia.org
 - 
 - 
 

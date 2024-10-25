@@ -1,6 +1,7 @@
 # Web Language: Mirandese
 
 Additional names:
+- Mirandés
 - 
 
 News:
@@ -20,6 +21,7 @@ Political Parties:
 - 
 
 Other:
+- https://mwl.wikipedia.org
 - 
 - 
 

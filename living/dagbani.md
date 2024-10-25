@@ -1,6 +1,7 @@
 # Web Language: Dagbani
 
 Additional names:
+- dagbanli
 - 
 
 News:
@@ -20,6 +21,7 @@ Political Parties:
 - 
 
 Other:
+- https://dag.wikipedia.org
 - 
 - 
 

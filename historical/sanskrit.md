@@ -1,6 +1,7 @@
 # Web Language: Sanskrit
 
 Additional names:
+- संस्कृतम्
 - 
 
 News:
@@ -20,6 +21,7 @@ Political Parties:
 - 
 
 Other:
+- https://sa.wikipedia.org
 - 
 - 
 

@@ -1,6 +1,7 @@
 # Web Language: Bishnupriya
 
 Additional names:
+- বিষ্ণুপ্রিয়া মণিপুরী
 - 
 
 News:
@@ -20,6 +21,7 @@ Political Parties:
 - 
 
 Other:
+- https://bpy.wikipedia.org
 - 
 - 
 

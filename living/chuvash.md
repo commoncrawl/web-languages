@@ -1,6 +1,7 @@
 # Web Language: Chuvash
 
 Additional names:
+- чӑвашла
 - 
 
 News:
@@ -20,6 +21,7 @@ Political Parties:
 - 
 
 Other:
+- https://cv.wikipedia.org
 - 
 - 
 

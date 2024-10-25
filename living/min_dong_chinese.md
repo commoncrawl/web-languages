@@ -1,6 +1,8 @@
 # Web Language: Min Dong Chinese
 
 Additional names:
+- Mindong
+- 閩東語 / Mìng-dĕ̤ng-ngṳ̄
 - 
 
 News:
@@ -20,6 +22,7 @@ Political Parties:
 - 
 
 Other:
+- https://cdo.wikipedia.org
 - 
 - 
 

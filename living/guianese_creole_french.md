@@ -1,6 +1,8 @@
 # Web Language: Guianese Creole French
 
 Additional names:
+- Guianan Creole
+- kriyòl gwiyannen
 - 
 
 News:
@@ -20,6 +22,7 @@ Political Parties:
 - 
 
 Other:
+- https://gcr.wikipedia.org
 - 
 - 
 

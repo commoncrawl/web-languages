@@ -1,6 +1,7 @@
 # Web Language: Norwegian
 
 Additional names:
+- norsk
 - 
 
 News:
@@ -20,6 +21,7 @@ Political Parties:
 - 
 
 Other:
+- https://no.wikipedia.org
 - 
 - 
 

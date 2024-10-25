@@ -2,7 +2,8 @@
 
 Additional names:
 - Western Punjabi
-- Min Nan Chinese
+- پنجابی
+- Lahndi
 - 
 
 News:
@@ -22,6 +23,7 @@ Political Parties:
 - 
 
 Other:
+- https://pnb.wikipedia.org
 - 
 - 
 

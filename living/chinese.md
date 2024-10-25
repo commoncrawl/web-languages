@@ -1,8 +1,9 @@
 # Web Language: Chinese
 
 Additional names:
+- Chinese (Simplified)
 - Chinese (Traditional)
-- Min Nan Chinese
+- 中文
 - 
 
 News:
@@ -22,6 +23,7 @@ Political Parties:
 - 
 
 Other:
+- https://zh.wikipedia.org
 - 
 - 
 
@@ -35,7 +37,8 @@ Additional Information:
 
 
 Scripts:
-- Hant
+- <a href="https://en.wikipedia.org/wiki/ISO_15924">ISO 15924 Hans</a> Hanzi
+- <a href="https://en.wikipedia.org/wiki/ISO_15924">ISO 15924 Hant</a> Hant
 - 
 
 Thank you to these people who have helped create this document:

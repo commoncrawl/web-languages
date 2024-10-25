@@ -1,6 +1,7 @@
 # Web Language: Pedi
 
 Additional names:
+- Sesotho sa Leboa
 - 
 
 News:
@@ -20,6 +21,7 @@ Political Parties:
 - 
 
 Other:
+- https://nso.wikipedia.org
 - 
 - 
 

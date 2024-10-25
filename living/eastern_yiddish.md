@@ -33,7 +33,7 @@ Additional Information:
 
 
 Scripts:
-- Hebrew
+- <a href="https://en.wikipedia.org/wiki/ISO_15924">ISO 15924 Hebr</a> Hebrew
 - 
 
 Thank you to these people who have helped create this document:

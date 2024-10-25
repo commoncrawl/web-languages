@@ -1,6 +1,7 @@
 # Web Language: Avaric
 
 Additional names:
+- авар
 - 
 
 News:
@@ -20,6 +21,7 @@ Political Parties:
 - 
 
 Other:
+- https://av.wikipedia.org
 - 
 - 
 

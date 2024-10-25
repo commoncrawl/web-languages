@@ -1,6 +1,7 @@
 # Web Language: Dzongkha
 
 Additional names:
+- ཇོང་ཁ
 - 
 
 News:
@@ -20,6 +21,7 @@ Political Parties:
 - 
 
 Other:
+- https://dz.wikipedia.org
 - 
 - 
 

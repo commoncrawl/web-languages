@@ -1,6 +1,8 @@
 # Web Language: Waray (Philippines)
 
 Additional names:
+- Waray
+- Winaray
 - 
 
 News:
@@ -20,6 +22,7 @@ Political Parties:
 - 
 
 Other:
+- https://war.wikipedia.org
 - 
 - 
 

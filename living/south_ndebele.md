@@ -1,6 +1,7 @@
 # Web Language: South Ndebele
 
 Additional names:
+- isiNdebele seSewula
 - 
 
 News:
@@ -20,6 +21,7 @@ Political Parties:
 - 
 
 Other:
+- https://nr.wikipedia.org
 - 
 - 
 

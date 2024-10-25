@@ -1,6 +1,8 @@
 # Web Language: Piemontese
 
 Additional names:
+- Piedmontese
+- Piemontèis
 - 
 
 News:
@@ -20,6 +22,7 @@ Political Parties:
 - 
 
 Other:
+- https://pms.wikipedia.org
 - 
 - 
 

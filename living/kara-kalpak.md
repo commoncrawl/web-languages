@@ -1,6 +1,7 @@
 # Web Language: Kara-Kalpak
 
 Additional names:
+- Qaraqalpaqsha
 - 
 
 News:
@@ -20,6 +21,7 @@ Political Parties:
 - 
 
 Other:
+- https://kaa.wikipedia.org
 - 
 - 
 

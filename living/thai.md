@@ -1,6 +1,7 @@
 # Web Language: Thai
 
 Additional names:
+- ไทย
 - 
 
 News:
@@ -20,6 +21,7 @@ Political Parties:
 - 
 
 Other:
+- https://th.wikipedia.org
 - 
 - 
 
@@ -33,7 +35,7 @@ Additional Information:
 
 
 Scripts:
-- Thai
+- <a href="https://en.wikipedia.org/wiki/ISO_15924">ISO 15924 Thai</a> Thai
 - 
 
 Thank you to these people who have helped create this document:

@@ -1,6 +1,7 @@
 # Web Language: Jamaican Creole English
 
 Additional names:
+- Patois
 - 
 
 News:
@@ -20,6 +21,7 @@ Political Parties:
 - 
 
 Other:
+- https://jam.wikipedia.org
 - 
 - 
 

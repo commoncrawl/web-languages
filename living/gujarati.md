@@ -1,6 +1,7 @@
 # Web Language: Gujarati
 
 Additional names:
+- ગુજરાતી
 - 
 
 News:
@@ -20,6 +21,7 @@ Political Parties:
 - 
 
 Other:
+- https://gu.wikipedia.org
 - 
 - 
 
@@ -33,7 +35,7 @@ Additional Information:
 
 
 Scripts:
-- Gujarati
+- <a href="https://en.wikipedia.org/wiki/ISO_15924">ISO 15924 Gujr</a> Gujarati
 - 
 
 Thank you to these people who have helped create this document:

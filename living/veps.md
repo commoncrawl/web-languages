@@ -1,6 +1,7 @@
 # Web Language: Veps
 
 Additional names:
+- vepsän kel’
 - 
 
 News:
@@ -20,6 +21,7 @@ Political Parties:
 - 
 
 Other:
+- https://vep.wikipedia.org
 - 
 - 
 

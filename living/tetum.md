@@ -1,6 +1,7 @@
 # Web Language: Tetum
 
 Additional names:
+- tetun
 - 
 
 News:
@@ -20,6 +21,7 @@ Political Parties:
 - 
 
 Other:
+- https://tet.wikipedia.org
 - 
 - 
 

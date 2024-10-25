@@ -1,6 +1,7 @@
 # Web Language: Erzya
 
 Additional names:
+- эрзянь
 - 
 
 News:
@@ -20,6 +21,7 @@ Political Parties:
 - 
 
 Other:
+- https://myv.wikipedia.org
 - 
 - 
 

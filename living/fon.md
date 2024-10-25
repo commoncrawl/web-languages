@@ -1,6 +1,7 @@
 # Web Language: Fon
 
 Additional names:
+- fɔ̀ngbè
 - 
 
 News:
@@ -20,6 +21,7 @@ Political Parties:
 - 
 
 Other:
+- https://fon.wikipedia.org
 - 
 - 
 

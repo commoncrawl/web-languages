@@ -1,6 +1,7 @@
 # Web Language: Komi-Permyak
 
 Additional names:
+- перем коми
 - 
 
 News:
@@ -20,6 +21,7 @@ Political Parties:
 - 
 
 Other:
+- https://koi.wikipedia.org
 - 
 - 
 

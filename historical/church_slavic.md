@@ -1,6 +1,7 @@
 # Web Language: Church Slavic
 
 Additional names:
+- словѣньскъ / ⰔⰎⰑⰂⰡⰐⰠⰔⰍⰟ
 - 
 
 News:
@@ -20,6 +21,7 @@ Political Parties:
 - 
 
 Other:
+- https://cu.wikipedia.org
 - 
 - 
 

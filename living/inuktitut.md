@@ -1,6 +1,7 @@
 # Web Language: Inuktitut
 
 Additional names:
+- ᐃᓄᒃᑎᑐᑦ / inuktitut
 - 
 
 News:
@@ -20,6 +21,7 @@ Political Parties:
 - 
 
 Other:
+- https://iu.wikipedia.org
 - 
 - 
 

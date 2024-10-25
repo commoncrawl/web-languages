@@ -1,6 +1,7 @@
 # Web Language: Tsonga
 
 Additional names:
+- Xitsonga
 - 
 
 News:
@@ -20,6 +21,7 @@ Political Parties:
 - 
 
 Other:
+- https://ts.wikipedia.org
 - 
 - 
 

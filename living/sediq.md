@@ -1,6 +1,7 @@
 # Web Language: Sediq
 
 Additional names:
+- Seediq
 - 
 
 News:
@@ -20,6 +21,7 @@ Political Parties:
 - 
 
 Other:
+- https://trv.wikipedia.org
 - 
 - 
 

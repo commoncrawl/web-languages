@@ -1,6 +1,7 @@
 # Web Language: Tuvinian
 
 Additional names:
+- тыва дыл
 - 
 
 News:
@@ -20,6 +21,7 @@ Political Parties:
 - 
 
 Other:
+- https://tyv.wikipedia.org
 - 
 - 
 

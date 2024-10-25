@@ -1,6 +1,7 @@
 # Web Language: Lezghian
 
 Additional names:
+- лезги
 - 
 
 News:
@@ -20,6 +21,7 @@ Political Parties:
 - 
 
 Other:
+- https://lez.wikipedia.org
 - 
 - 
 

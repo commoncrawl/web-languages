@@ -1,6 +1,7 @@
 # Web Language: Russia Buriat
 
 Additional names:
+- буряад
 - 
 
 News:
@@ -20,6 +21,7 @@ Political Parties:
 - 
 
 Other:
+- https://bxr.wikipedia.org
 - 
 - 
 

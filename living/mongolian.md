@@ -1,6 +1,7 @@
 # Web Language: Mongolian
 
 Additional names:
+- монгол
 - 
 
 News:
@@ -20,6 +21,7 @@ Political Parties:
 - 
 
 Other:
+- https://mn.wikipedia.org
 - 
 - 
 

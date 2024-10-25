@@ -1,6 +1,7 @@
 # Web Language: Gun
 
 Additional names:
+- gungbe
 - 
 
 News:
@@ -20,6 +21,7 @@ Political Parties:
 - 
 
 Other:
+- https://guw.wikipedia.org
 - 
 - 
 

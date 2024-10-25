@@ -1,6 +1,7 @@
 # Web Language: Rusyn
 
 Additional names:
+- русиньскый
 - 
 
 News:
@@ -20,6 +21,7 @@ Political Parties:
 - 
 
 Other:
+- https://rue.wikipedia.org
 - 
 - 
 

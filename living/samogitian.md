@@ -1,6 +1,7 @@
 # Web Language: Samogitian
 
 Additional names:
+- žemaitėška
 - 
 
 News:
@@ -20,6 +21,7 @@ Political Parties:
 - 
 
 Other:
+- https://bat-smg.wikipedia.org
 - 
 - 
 

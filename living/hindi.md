@@ -76,7 +76,7 @@ Scripts:
 - 
 
 Thank you to these people who have helped create this document:
-- (Swapnil Tripathi)[https://github.com/swaptr]
+- [Swapnil Tripathi](https://github.com/swaptr])
 - 
 
 ## Instructions

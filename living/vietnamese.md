@@ -5,16 +5,25 @@ Additional names:
 - 
 
 News:
-- 
-- 
+- https://vnexpress.net/
+- https://baomoi.com/
+- https://tiasang.com.vn/
+- https://vietnamnews.vn
 
 Culture / History:
-- 
-- 
+- https://www.thivien.net/
+- https://spiderum.com
+
+Books:
+- https://www.tve-4u.org/
 
 Government:
-- 
-- 
+- https://baochinhphu.vn/
+- https://dangcongsan.vn/
+
+Laws:
+- https://thuvienphapluat.vn/
+- https://vietnamlawmagazine.vn/
 
 Political Parties:
 - 

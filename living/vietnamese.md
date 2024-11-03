@@ -9,21 +9,20 @@ News:
 - https://baomoi.com/
 - https://tiasang.com.vn/
 - https://vietnamnews.vn
+- 
 
 Culture / History:
 - https://www.thivien.net/
 - https://spiderum.com
-
-Books:
-- https://www.tve-4u.org/
+- https://www.tve-4u.org/ (books)
+- 
 
 Government:
 - https://baochinhphu.vn/
 - https://dangcongsan.vn/
-
-Laws:
-- https://thuvienphapluat.vn/
-- https://vietnamlawmagazine.vn/
+- https://thuvienphapluat.vn/ (laws)
+- https://vietnamlawmagazine.vn/ (laws)
+- 
 
 Political Parties:
 - 
@@ -48,7 +47,7 @@ Scripts:
 - 
 
 Thank you to these people who have helped create this document:
-- 
+- [tiendung](https://github.com/tiendung)
 - 
 
 ## Instructions

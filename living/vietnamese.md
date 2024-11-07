@@ -2,7 +2,11 @@
 
 Additional names:
 - Tiếng Việt
-- 
+- Việt ngữ
+- Quốc ngữ (Modern Vietnamese writing system using the Latin alphabet)
+- Chữ Nôm (Traditional Vietnamese ideographic script)
+- Chữ Hán (Chinese characters historically used in Vietnam)
+
 
 News:
 - https://vnexpress.net/

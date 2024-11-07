@@ -2,53 +2,114 @@
 
 Additional names:
 - Tiếng Việt
-- 
+- Việt ngữ
+- Quốc ngữ
+
 
 News:
 - https://vnexpress.net/
 - https://baomoi.com/
 - https://tiasang.com.vn/
-- https://vietnamnews.vn
-- 
+- https://vietnamnews.vn/
+- https://tuoitre.vn/
+- https://thanhnien.vn/
+- https://zingnews.vn/
+- https://nhandan.vn/
+- https://laodong.vn/
+- https://vov.vn/
+
 
 Culture / History:
 - https://www.thivien.net/
 - https://spiderum.com
 - https://www.tve-4u.org/ (books)
-- 
+- https://vanhoc.org.vn/
+- https://hoangthanhthanglong.vn/
+- https://baotanglichsu.vn/
+- https://hanoimoi.com.vn/
+- https://tapchisonghuong.com.vn/
+- https://vannghequandoi.com.vn/
+- https://tienphong.vn/
+
 
 Government:
 - https://baochinhphu.vn/
-- https://dangcongsan.vn/
-- https://thuvienphapluat.vn/ (laws)
-- https://vietnamlawmagazine.vn/ (laws)
-- 
+- https://thuvienphapluat.vn/ (Legal Information)
+- https://vietnamlawmagazine.vn/ (Legal Information)
+- https://chinhphu.vn/
+- https://quochoi.vn/
+- https://moj.gov.vn/
+- https://mofa.gov.vn/
+- https://mic.gov.vn/
+- https://mard.gov.vn/
+- https://molisa.gov.vn/
+
 
 Political Parties:
-- 
-- 
+- https://dangcongsan.vn/
+- https://tuyengiao.vn/
+- https://tapchicongsan.org.vn/
+- https://nhandan.vn/
+- https://qdnd.vn/
+- https://baodanang.vn/
+- https://baohatinh.vn/
+- https://baobinhduong.vn/
+- https://baodongnai.com.vn/
+- https://baothanhhoa.vn/
+
 
 Other:
 - https://vi.wikipedia.org
-- 
-- 
+- https://diendanlequydon.com/
+- https://tinhte.vn/
+- https://voz.vn/
+- https://f319.com/
+- https://otofun.net/
+- https://webtretho.com/
+- https://kenhsinhvien.vn/
+
 
 Informative links (in English):
-- 
-- 
+- https://en.wikipedia.org/wiki/Vietnamese_language (General overview of the Vietnamese language)
+- https://en.wikipedia.org/wiki/Vietnamese_script (Information about Vietnamese scripts including Latin, Chữ Nôm, and Chữ Hán)
+- https://en.wikipedia.org/wiki/Viscii (Details about the Vietnamese character encoding standard VISCII)
+- https://en.wikipedia.org/wiki/VIQR (Explanation of VIQR encoding for Vietnamese)
+- https://www.omniglot.com/writing/vietnamese.htm (Overview of Vietnamese writing systems)
+- https://unicode.org/faq/vietnamese.html (Vietnamese support in Unicode)
+- https://glottolog.org/resource/languoid/id/viet1252 (Linguistic information about the Vietnamese language)
+- https://www.loc.gov/collections/southeast-asia-collection/about-this-collection/ (Library of Congress – Southeast Asia Collection)
+- https://cseas.yale.edu (Yale Council on Southeast Asia Studies)
+- https://www.ethnologue.com/language/vie (Ethnologue profile for the Vietnamese language)
+- https://en.wikipedia.org/wiki/Quốc_ngữ (Overview of the Latin script for Vietnamese)
+- https://www.unicode.org/charts/PDF/U0100.pdf (PDF of Unicode Latin Extended-A chart, which includes Vietnamese diacritics)
+
+
 
 Additional Information:
 - ISO-639-3 code: vie
 - https://en.wikipedia.org/wiki/ISO_639:vie
+- https://vi.wikipedia.org/wiki/Viscii (VISCII encoding information)
+- https://vi.wikipedia.org/wiki/VIQR (VIQR encoding information)
+- https://winvnkey.sourceforge.net (Viet-Std Group information and Vietnamese input tools)
+
 
 
 Scripts:
 - <a href="https://en.wikipedia.org/wiki/ISO_15924">ISO 15924 Latn</a> Latin
-- 
+- <a href="https://en.wikipedia.org/wiki/Quốc_ngữ">Quốc ngữ</a> (Modern Latin alphabet for Vietnamese)
+- <a href="https://en.wikipedia.org/wiki/Chữ_Nôm">Chữ Nôm</a> (Vietnamese ideographic script)
+- <a href="https://en.wikipedia.org/wiki/Chữ_Hán">Chữ Hán</a> (Chinese characters used historically in Vietnam)
+- <a href="https://en.wikipedia.org/wiki/ISO_15924#Viet">ISO 15924 Viet</a> (for Vietnamese scripts)
+- <a href="https://en.wikipedia.org/wiki/Viscii">VISCII</a> (Vietnamese Character Encoding Standard)
+- <a href="https://en.wikipedia.org/wiki/VIQR">VIQR</a> (Vietnamese Quoted-Readable encoding)
+- <a href="https://winvnkey.sourceforge.net">Viet-Std Group</a> (Vietnamese input method and standardization efforts)
+- <a href="https://en.wikipedia.org/wiki/Unicode_and_Vietnamese">Unicode and Vietnamese</a> (Overview of Vietnamese character support in Unicode)
+
 
 Thank you to these people who have helped create this document:
 - [tiendung](https://github.com/tiendung)
-- 
+- [Christopher Nguyen](https://github.com/ctn)
+
 
 ## Instructions
 

@@ -3,9 +3,7 @@
 Additional names:
 - Tiếng Việt
 - Việt ngữ
-- Quốc ngữ (Modern Vietnamese writing system using the Latin alphabet)
-- Chữ Nôm (Traditional Vietnamese ideographic script)
-- Chữ Hán (Chinese characters historically used in Vietnam)
+- Quốc ngữ
 
 
 News:
@@ -36,8 +34,8 @@ Culture / History:
 
 Government:
 - https://baochinhphu.vn/
-- https://thuvienphapluat.vn/ (laws)
-- https://vietnamlawmagazine.vn/ (laws)
+- https://thuvienphapluat.vn/ (Legal Information)
+- https://vietnamlawmagazine.vn/ (Legal Information)
 - https://chinhphu.vn/
 - https://quochoi.vn/
 - https://moj.gov.vn/
@@ -62,7 +60,6 @@ Political Parties:
 
 Other:
 - https://vi.wikipedia.org
-- https://vn.answers.yahoo.com/
 - https://diendanlequydon.com/
 - https://tinhte.vn/
 - https://voz.vn/
@@ -83,6 +80,9 @@ Informative links (in English):
 - https://www.loc.gov/collections/southeast-asia-collection/about-this-collection/ (Library of Congress – Southeast Asia Collection)
 - https://cseas.yale.edu (Yale Council on Southeast Asia Studies)
 - https://www.ethnologue.com/language/vie (Ethnologue profile for the Vietnamese language)
+- https://en.wikipedia.org/wiki/Quốc_ngữ (Overview of the Latin script for Vietnamese)
+- https://www.unicode.org/charts/PDF/U0100.pdf (PDF of Unicode Latin Extended-A chart, which includes Vietnamese diacritics)
+
 
 
 Additional Information:
@@ -93,8 +93,10 @@ Additional Information:
 - https://winvnkey.sourceforge.net (Viet-Std Group information and Vietnamese input tools)
 
 
+
 Scripts:
 - <a href="https://en.wikipedia.org/wiki/ISO_15924">ISO 15924 Latn</a> Latin
+- <a href="https://en.wikipedia.org/wiki/Quốc_ngữ">Quốc ngữ</a> (Modern Latin alphabet for Vietnamese)
 - <a href="https://en.wikipedia.org/wiki/Chữ_Nôm">Chữ Nôm</a> (Vietnamese ideographic script)
 - <a href="https://en.wikipedia.org/wiki/Chữ_Hán">Chữ Hán</a> (Chinese characters used historically in Vietnam)
 - <a href="https://en.wikipedia.org/wiki/ISO_15924#Viet">ISO 15924 Viet</a> (for Vietnamese scripts)

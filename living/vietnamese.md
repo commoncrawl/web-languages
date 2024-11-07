@@ -69,8 +69,16 @@ Other:
 
 
 Informative links (in English):
-- 
-- 
+- https://en.wikipedia.org/wiki/Vietnamese_language (General overview of the Vietnamese language)
+- https://en.wikipedia.org/wiki/Vietnamese_script (Information about Vietnamese scripts including Latin, Chữ Nôm, and Chữ Hán)
+- https://en.wikipedia.org/wiki/Viscii (Details about the Vietnamese character encoding standard VISCII)
+- https://en.wikipedia.org/wiki/VIQR (Explanation of VIQR encoding for Vietnamese)
+- https://www.omniglot.com/writing/vietnamese.htm (Overview of Vietnamese writing systems)
+- https://unicode.org/faq/vietnamese.html (Vietnamese support in Unicode)
+- https://glottolog.org/resource/languoid/id/viet1252 (Linguistic information about the Vietnamese language)
+- https://www.loc.gov/collections/southeast-asia-collection/about-this-collection/ (Library of Congress – Southeast Asia Collection)
+- https://cseas.yale.edu (Yale Council on Southeast Asia Studies)
+- https://www.ethnologue.com/language/vie (Ethnologue profile for the Vietnamese language)
 
 
 Additional Information:

@@ -58,6 +58,97 @@ Political Parties:
 - https://baothanhhoa.vn/
 
 
+Education:
+- https://moet.gov.vn/ (Ministry of Education and Training)
+- https://vnuhcm.edu.vn/ (Vietnam National University, Ho Chi Minh City)
+- https://vnu.edu.vn/ (Vietnam National University, Hanoi)
+- https://hocmai.vn/ (Online learning platform)
+- https://hust.edu.vn/ (Hanoi University of Science and Technology)
+- https://neu.edu.vn/ (National Economics University)
+- https://hnue.edu.vn/ (Hanoi National University of Education)
+- https://hmu.edu.vn/ (Hanoi Medical University)
+- https://ftu.edu.vn/ (Foreign Trade University)
+- https://hlu.edu.vn/ (Hanoi Law University)
+
+
+Business and Economy:
+- https://cafef.vn/ (Financial and business news)
+- https://vietstock.vn/ (Vietnamese stock market)
+- https://vcci.com.vn/ (Vietnam Chamber of Commerce and Industry)
+- https://tapchitaichinh.vn/ (Finance magazine)
+- https://nhipcaudautu.vn/ (Investment Bridge)
+- https://vneconomy.vn/ (Vietnam Economic Times)
+- https://baodautu.vn/ (Investment News)
+- https://thesaigontimes.vn/ (Saigon Times)
+- https://congthuong.vn/ (Industry and Trade News)
+- https://tinnhanhchungkhoan.vn/ (Securities Investment News)
+
+
+Technology and Science:
+- https://genk.vn/ (Technology news and articles)
+- https://vnreview.vn/ (Technology reviews)
+- https://tiasang.com.vn/ (Science and Technology magazine)
+- https://vusta.vn/ (Vietnam Union of Science and Technology Associations)
+- https://khoahocphattrien.vn/ (Science and Development)
+- https://ictnews.vietnamnet.vn/ (ICT News)
+- https://khoahocdoisong.vn/ (Science and Life)
+- https://tapchicongnghe.vn/ (Technology Magazine)
+- https://techz.vn/ (Techz)
+- https://tinhte.vn/ (Tech community)
+
+
+Travel and Tourism:
+- https://vietnamtourism.gov.vn/ (Vietnam National Administration of Tourism)
+- https://dulichvietnam.com.vn/ (Vietnam Tourism Information)
+- https://vietnam.travel/ (Official tourism website for Vietnam)
+- https://www.dulichviet.com.vn/ (Du Lịch Việt Tour)
+- https://saigontourist.net/ (Saigontourist)
+- https://vietravel.com/ (Vietravel)
+- https://hanoitourist.vn/ (Hanoitourist)
+- https://benthanhtourist.com/ (Bến Thành Tourist)
+- https://fiditour.com/ (Fiditour)
+- https://luhanhviet.com.vn/ (Lữ Hành Việt)
+
+
+Health:
+- https://moh.gov.vn/ (Ministry of Health)
+- https://benhvien108.vn/ (Central Military Hospital 108)
+- https://bachmai.gov.vn/ (Bach Mai Hospital)
+- https://vncdc.gov.vn/ (Vietnam National Center for Disease Control)
+- https://benhvienchoquan.vn/ (Cho Ray Hospital)
+- https://benhvienk.vn/ (K Hospital)
+- https://nhtm.gov.vn/ (National Hospital of Traditional Medicine)
+- https://phongkhamdinhduong.vn/ (Nutrition Clinic)
+- https://hoanmy.com/ (Hoan My Hospital System)
+- https://vinmec.com/ (Vinmec Healthcare System)
+
+
+Entertainment:
+- https://kenh14.vn/ (Youth culture and entertainment news)
+- https://afamily.vn/ (Family and lifestyle magazine)
+- https://yan.vn/ (Entertainment and media)
+- https://tv.zing.vn/ (Streaming TV shows and music)
+- https://vnexpress.net/giai-tri/ (VnExpress Entertainment)
+- https://video.tuoitre.vn/ (Tuổi Trẻ Video Channel)
+- https://vieon.vn/ (Online streaming platform)
+- https://tiin.vn/ (Entertainment and celebrity news)
+- https://phimmoi.net/ (Online movies)
+- https://giaitri.vn/ (General entertainment)
+
+
+Overseas Vietnamese:
+- https://www.nguoi-viet.com/ (Nguoi Viet Online)
+- https://vietbao.com/ (Viet Bao Daily News)
+- https://www.sbtn.tv/ (Saigon Broadcasting Television Network)
+- http://vietnamcalifornia.com/ (Vietnam California)
+- https://littlesaigontv.com/ (Little Saigon TV)
+- https://vacsf.org/ (Vietnamese American Community Center, San Francisco)
+- https://www.rfa.org/vietnamese (Radio Free Asia - Vietnamese Service)
+- https://www.vietlifestyles.com/ (Viet Lifestyles Magazine)
+- http://www.vietweekly.com/ (VietWeekly)
+- https://www.calitoday.com/ (CaliToday News)
+
+
 Other:
 - https://vi.wikipedia.org
 - https://diendanlequydon.com/
@@ -84,14 +175,12 @@ Informative links (in English):
 - https://www.unicode.org/charts/PDF/U0100.pdf (PDF of Unicode Latin Extended-A chart, which includes Vietnamese diacritics)
 
 
-
 Additional Information:
 - ISO-639-3 code: vie
 - https://en.wikipedia.org/wiki/ISO_639:vie
 - https://vi.wikipedia.org/wiki/Viscii (VISCII encoding information)
 - https://vi.wikipedia.org/wiki/VIQR (VIQR encoding information)
 - https://winvnkey.sourceforge.net (Viet-Std Group information and Vietnamese input tools)
-
 
 
 Scripts:

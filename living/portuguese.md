@@ -5,24 +5,37 @@ Additional names:
 - 
 
 News:
-- 
-- 
+- https://www.sapo.pt/
+- https://www.noticiasaominuto.com/
+- https://sic.pt/
+- https://www.rtp.pt/
+- https://tvi.iol.pt/
+- https://observador.pt/
+- https://www.publico.pt/
+- https://www.nit.pt/
 
 Culture / History:
 - 
 - 
 
 Government:
-- 
+- https://www.portugal.gov.pt/pt/gc24
 - 
 
 Political Parties:
-- 
-- 
+- https://ps.pt/
+- https://www.psd.pt/pt/partido
+- https://iniciativaliberal.pt/
+- https://www.bloco.org/
+- https://partidolivre.pt/
+- https://www.cds.pt/
+- https://www.pcp.pt/
+- https://partidochega.pt/
+- https://pan.com.pt/
 
 Other:
 - https://pt.wikipedia.org
-- 
+- http://arquivos.pt/
 - 
 
 Informative links (in English):

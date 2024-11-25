@@ -2,15 +2,17 @@
 
 Additional names:
 - Ligure
-- 
+- Genoese
+- Zeneise
+- Zeneize
 
 News:
-- 
-- 
+- https://ozina.org/
+- https://www.ilsecoloxix.it (Mostly in Italian, has some Ligurian sections.)
 
 Culture / History:
-- 
-- 
+- https://conseggio-ligure.org/ (Trilingual website: URLs starting with `/it/` are Italian translations, those starting with `/en/` are English translations; everything else is in Ligurian.)
+- https://sbiro.eu/ (Trilingual website: URLs starting with `/ita/` are Italian translations, those starting with `/eng/` are English translations; everything else is in Ligurian.)
 
 Government:
 - 
@@ -26,20 +28,21 @@ Other:
 - 
 
 Informative links (in English):
-- 
-- 
+- https://conseggio-ligure.org/en/faq/
+- https://conseggio-ligure.org/en/grammar/orthography/
 
 Additional Information:
 - ISO-639-3 code: lij
 - https://en.wikipedia.org/wiki/ISO_639:lij
+- Genoese (_zeneise_ or _zeneize_) is the term that has historically been used by native speakers to refer to the set of Romance varieties spoken in Liguria. It technically refers to the most widely spoken dialect of Ligurian, the one spoken in the capital. The use of "Ligurian" to refer to the language is still unknown to many native speakers, but is increasingly being used especially in linguistics and outside of Liguria.
+- Other varieties of Ligurian include [Monégasque (monegasco/munegascu)](https://en.wikipedia.org/wiki/Mon%C3%A9gasque_dialect) and [Tabarchino (tabarchin/tabarkin)](https://en.wikipedia.org/wiki/Tabarchino).
 
 
 Scripts:
 - <a href="https://en.wikipedia.org/wiki/ISO_15924">ISO 15924 Latn</a> Latin
-- 
 
 Thank you to these people who have helped create this document:
-- 
+- [Jean Maillard](https://github.com/jeanm)
 - 
 
 ## Instructions

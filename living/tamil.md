@@ -5,25 +5,87 @@ Additional names:
 - 
 
 News:
-- 
-- 
+- https://www.dinamalar.com
+- https://www.dinamani.com
+- https://www.dinakaran.com
+- https://www.dailythanthi.com
+- https://www.maalaimalar.com
+- https://www.puthiyathalaimurai.com
+- https://tamil.abplive.com
+- https://www.vikatan.com
+- https://tamil.news18.com
+- https://www.tamil.slbcnews.lk/
+- https://dailyceylon.lk
+- https://tamil.madyawediya.lk
+- https://seithi.mediacorp.sg
 
 Culture / History:
-- 
-- 
+- https://www.varalaaru.com/
+- https://tamilheritage.org
+-
 
 Government:
-- 
-- 
+- https://tnou.ac.in
+- https://tndls.ac.in
+- https://tnesevai.tn.gov.in
+- https://www.tnpds.gov.in/
+- https://ariyalur.nic.in
+- https://mayiladuthurai.nic.in
+- https://nilgiris.nic.in
+- https://tenkasi.nic.in
+- https://theni.nic.in
+- https://vellore.nic.in
+- https://chengalpattu.nic.in
+- https://chennai.nic.in
+- https://coimbatore.nic.in
+- https://cuddalore.nic.in
+- https://dharmapuri.nic.in
+- https://dindigul.nic.in
+- https://erode.nic.in
+- https://kallakurichi.nic.in
+- https://kancheepuram.nic.in
+- https://kanniyakumari.nic.in
+- https://karur.nic.in
+- https://krishnagiri.nic.in
+- https://madurai.nic.in
+- https://nagapattinam.nic.in
+- https://namakkal.nic.in
+- https://perambalur.nic.in
+- https://pudukkottai.nic.in
+- https://ramanathapuram.nic.in
+- https://ranipet.nic.in
+- https://salem.nic.in
+- https://sivaganga.nic.in
+- https://thanjavur.nic.in
+- https://thoothukudi.nic.in
+- https://tiruchirappalli.nic.in
+- https://tirunelveli.nic.in
+- https://tirupathur.nic.in
+- https://tiruppur.nic.in
+- https://tiruvallur.nic.in
+- https://tiruvannamalai.nic.in
+- https://tiruvarur.nic.in
+- https://viluppuram.nic.in
+- https://virudhunagar.nic.in
 
 Political Parties:
-- 
-- 
+- https://inctamilnadu.in/
+- https://tamilnadu.bjp.org/
+- https://www.dmk.in/ta/home/
+- https://aiadmk.com/
+- https://www.naamtamilar.org/
+- https://dmdkparty.com/
+- https://www.tvkparty.com/
 
 Other:
 - https://ta.wikipedia.org
-- 
-- 
+- https://tamil.wiki
+- https://www.tamilvu.org
+- https://vaiyan.blogspot.com/
+- https://www.valaitamil.com
+- https://jeyamohan.in
+- https://charuonline.com
+- https://sramakrishnan.com
 
 Informative links (in English):
 - 
@@ -39,7 +101,7 @@ Scripts:
 - 
 
 Thank you to these people who have helped create this document:
-- 
+- <a href="https://github.com/Neechalkaran">Neechalkaran</a>
 - 
 
 ## Instructions

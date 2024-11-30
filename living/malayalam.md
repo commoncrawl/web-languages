@@ -1,12 +1,15 @@
 # Web Language: Malayalam
 
+Additional names:
+-
+
 News:
-- https://www.manoramaonline.com/
-- https://www.mathrubhumi.com/
-- https://www.asianetnews.com/
-- https://www.twentyfournews.com/
-- https://www.reporterlive.com/
-- https://www.kairalinewsonline.com/
+- https://www.manoramaonline.com/ (Manorama News Channel Website)
+- https://www.mathrubhumi.com/ (Mathrubhumi News Channel Website)
+- https://www.asianetnews.com/ (Asianet News Channel Website)
+- https://www.twentyfournews.com/ (Twenty Four News Channel Website)
+- https://www.reporterlive.com/ (Reporter News Channel Website)
+- https://www.kairalinewsonline.com/ (Kairali News Channel Website)
 
 Culture / History:
 - https://www.keralatourism.org/malayalam/ (Kerala Tourism)
@@ -40,7 +43,7 @@ Scripts:
 - <a href="https://en.wikipedia.org/wiki/ISO_15924">ISO 15924 Mlym</a> Malayalam 
 
 Thank you to these people who have helped create this document:
-- <a href="https://github.com/sujik18">Sujith Kanakkassery</a>
+- [Sujith Kanakkassery](https://github.com/sujik18)
 
 ## Instructions
 

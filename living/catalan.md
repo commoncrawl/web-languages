@@ -2,23 +2,44 @@
 
 Additional names:
 - català
-- 
+- valencià
+- balear
 
 News:
-- 
-- 
+- https://www.3cat.cat/
+- https://www.rac1.cat/
+- https://www.lavanguardia.com/encatala
+- https://www.ara.cat/
+- https://www.diaridetarragona.com/
+- https://www.segre.com/ca/
+- https://www.diaridegirona.cat/
+- https://www.elpuntavui.cat/
+- https://www.elperiodico.cat/ca/
+- https://www.apuntmedia.es/
+- https://ib3.org/televisio
+- https://ib3.org/noticies
+- https://www.acn.cat/
 
 Culture / History:
-- 
-- 
+- https://www.iec.cat/
+- https://www.cpnl.cat/
+- https://www.tnc.cat/
+- https://www.macba.cat/ca/
+- https://cosmocaixa.org/
 
 Government:
-- 
-- 
+- https://parlament.cat/
+- https://web.gencat.cat/
+- https://ajuntament.barcelona.cat/ca/
+- https://www.diba.cat/
 
 Political Parties:
-- 
-- 
+- https://www.socialistes.cat/
+- https://junts.cat/
+- https://www.esquerra.cat/ca
+- https://www.ppcatalunya.com/
+- https://comuns.cat/
+- https://cup.cat/
 
 Other:
 - https://ca.wikipedia.org
@@ -26,7 +47,7 @@ Other:
 - 
 
 Informative links (in English):
-- 
+- https://www.catalannews.com/
 - 
 
 Additional Information:

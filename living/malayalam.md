@@ -5,41 +5,47 @@ Additional names:
 - 
 
 News:
-- 
-- 
+- https://www.manoramaonline.com/ (Manorama News Channel Website)
+- https://www.mathrubhumi.com/ (Mathrubhumi News Channel Website)
+- https://www.asianetnews.com/ (Asianet News Channel Website)
+- https://www.twentyfournews.com/ (Twenty Four News Channel Website)
+- https://www.reporterlive.com/ (Reporter News Channel Website)
+- https://www.kairalinewsonline.com/ (Kairali News Channel Website)
 
 Culture / History:
-- 
-- 
+- https://www.keralatourism.org/malayalam/ (Kerala Tourism)
+- https://keralasahityaakademi.org/ (Kerala State Academics)
+- https://www.keralaarchives.org/ (Kerala State Archives Department)
 
 Government:
-- 
-- 
+- https://www.kerala.gov.in/ (Kerala Government)
+- https://lc.kerala.gov.in/ml (Kerala Labour Commissionerate)
+- http://www.niyamasabha.org/ (Kerala Legislative Assembly)
+- https://document.kerala.gov.in/index/ml (Kerala Government Document Portal)
+- https://keralacm.gov.in/?lang=ml (Kerala Government Chief Minister Website)
+- https://itmission.kerala.gov.in/ml 
 
 Political Parties:
-- 
-- 
+- https://www.cpimkerala.org/ (Communist Party of India (Marxist))
 
 Other:
-- https://ml.wikipedia.org
-- 
-- 
+- https://ml.wikipedia.org (Malayalam Wikipedia)
+- https://olam.in/ (English-Malayalam Dictionary)
 
 Informative links (in English):
-- 
-- 
-
+- https://ling-app.com/learn-malayalam/ (Website to learn Malayalam)
+  
 Additional Information:
 - ISO-639-3 code: mal
 - https://en.wikipedia.org/wiki/ISO_639:mal
-
+- Unicode block: U+0D00–U+0D7F
 
 Scripts:
 - <a href="https://en.wikipedia.org/wiki/ISO_15924">ISO 15924 Mlym</a> Malayalam
 - 
 
 Thank you to these people who have helped create this document:
-- 
+- [Sujith Kanakkassery](https://github.com/sujik18)
 - 
 
 ## Instructions

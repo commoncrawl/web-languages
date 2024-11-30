@@ -1,7 +1,8 @@
 # Web Language: Malayalam
 
 Additional names:
--
+- മലയാളം
+- 
 
 News:
 - https://www.manoramaonline.com/ (Manorama News Channel Website)
@@ -40,10 +41,12 @@ Additional Information:
 - Unicode block: U+0D00–U+0D7F
 
 Scripts:
-- <a href="https://en.wikipedia.org/wiki/ISO_15924">ISO 15924 Mlym</a> Malayalam 
+- <a href="https://en.wikipedia.org/wiki/ISO_15924">ISO 15924 Mlym</a> Malayalam
+- 
 
 Thank you to these people who have helped create this document:
 - [Sujith Kanakkassery](https://github.com/sujik18)
+- 
 
 ## Instructions
 

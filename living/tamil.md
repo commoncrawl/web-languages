@@ -5,103 +5,113 @@ Additional names:
 - 
 
 News:
-- https://www.dinamalar.com
-- https://www.dinamani.com
-- https://www.dinakaran.com
-- https://www.dailythanthi.com
-- https://www.maalaimalar.com
-- https://www.puthiyathalaimurai.com
-- https://tamil.abplive.com
-- https://www.vikatan.com
-- https://tamil.news18.com
-- https://www.tamil.slbcnews.lk/
-- https://dailyceylon.lk
-- https://tamil.madyawediya.lk
-- https://seithi.mediacorp.sg
+- https://www.dinamalar.com (A leading Tamil daily newspaper offering comprehensive news coverage)
+- https://www.dinamani.com (A prominent Tamil newspaper delivering the latest updates)
+- https://www.dinakaran.com (A Tamil daily providing news on current affairs, sports, and more)
+- https://www.dailythanthi.com (One of the largest Tamil-language daily newspapers in India)
+- https://www.maalaimalar.com (A Tamil daily newspaper focusing on the latest news)
+- https://www.puthiyathalaimurai.com (A Tamil news channel and website offering up-to-date news)
+- https://tamil.abplive.com (The Tamil edition of ABP Live, providing news in Tamil)
+- https://www.vikatan.com (A popular Tamil weekly magazine covering news, cinema, and literature)
+- https://tamil.news18.com (A Tamil news channel offering the latest news and updates)
+- https://www.tamil.slbcnews.lk (The Tamil service of Sri Lanka Broadcasting Corporation)
+- https://dailyceylon.lk (A Tamil news portal offering news and updates)
+- https://tamil.madyawediya.lk (A Tamil news website providing various articles)
+- https://seithi.mediacorp.sg (A Tamil news portal from Mediacorp offering current affairs)
+- 
 
 Culture / History:
-- https://www.varalaaru.com/
-- https://tamilheritage.org
--
+- https://www.varalaaru.com/ (A Tamil website dedicated to history and culture)
+- https://tamilheritage.org (An organisation focused on preserving Tamil heritage)
+- 
 
 Government:
-- https://tnou.ac.in
-- https://tndls.ac.in
-- https://tnesevai.tn.gov.in
-- https://www.tnpds.gov.in/
-- https://ariyalur.nic.in
-- https://mayiladuthurai.nic.in
-- https://nilgiris.nic.in
-- https://tenkasi.nic.in
-- https://theni.nic.in
-- https://vellore.nic.in
-- https://chengalpattu.nic.in
-- https://chennai.nic.in
-- https://coimbatore.nic.in
-- https://cuddalore.nic.in
-- https://dharmapuri.nic.in
-- https://dindigul.nic.in
-- https://erode.nic.in
-- https://kallakurichi.nic.in
-- https://kancheepuram.nic.in
-- https://kanniyakumari.nic.in
-- https://karur.nic.in
-- https://krishnagiri.nic.in
-- https://madurai.nic.in
-- https://nagapattinam.nic.in
-- https://namakkal.nic.in
-- https://perambalur.nic.in
-- https://pudukkottai.nic.in
-- https://ramanathapuram.nic.in
-- https://ranipet.nic.in
-- https://salem.nic.in
-- https://sivaganga.nic.in
-- https://thanjavur.nic.in
-- https://thoothukudi.nic.in
-- https://tiruchirappalli.nic.in
-- https://tirunelveli.nic.in
-- https://tirupathur.nic.in
-- https://tiruppur.nic.in
-- https://tiruvallur.nic.in
-- https://tiruvannamalai.nic.in
-- https://tiruvarur.nic.in
-- https://viluppuram.nic.in
-- https://virudhunagar.nic.in
+- https://tnou.ac.in (Tamil Nadu Open University offering distance education)
+- https://tndls.ac.in (Tamil Nadu Dr. Ambedkar Law University)
+- https://tnesevai.tn.gov.in (Tamil Nadu e-Governance Agency’s portal for online services)
+- https://www.tnpds.gov.in/ (Tamil Nadu Public Distribution System’s official website)
+- https://ariyalur.nic.in (Official website of Ariyalur district)
+- https://mayiladuthurai.nic.in (Official website of Mayiladuthurai district)
+- https://nilgiris.nic.in (Official website of The Nilgiris district)
+- https://tenkasi.nic.in (Official website of Tenkasi district)
+- https://theni.nic.in (Official website of Theni district)
+- https://vellore.nic.in (Official website of Vellore district)
+- https://chengalpattu.nic.in (Official website of Chengalpattu district)
+- https://chennai.nic.in (Official website of Chennai district)
+- https://coimbatore.nic.in (Official website of Coimbatore district)
+- https://cuddalore.nic.in (Official website of Cuddalore district)
+- https://dharmapuri.nic.in (Official website of Dharmapuri district)
+- https://dindigul.nic.in (Official website of Dindigul district)
+- https://erode.nic.in (Official website of Erode district)
+- https://kallakurichi.nic.in (Official website of Kallakurichi district)
+- https://kancheepuram.nic.in (Official website of Kancheepuram district)
+- https://kanniyakumari.nic.in (Official website of Kanyakumari district)
+- https://karur.nic.in (Official website of Karur district)
+- https://krishnagiri.nic.in (Official website of Krishnagiri district)
+- https://madurai.nic.in (Official website of Madurai district)
+- https://nagapattinam.nic.in (Official website of Nagapattinam district)
+- https://namakkal.nic.in (Official website of Namakkal district)
+- https://perambalur.nic.in (Official website of Perambalur district)
+- https://pudukkottai.nic.in (Official website of Pudukkottai district)
+- https://ramanathapuram.nic.in (Official website of Ramanathapuram district)
+- https://ranipet.nic.in (Official website of Ranipet district)
+- https://salem.nic.in (Official website of Salem district)
+- https://sivaganga.nic.in (Official website of Sivaganga district)
+- https://thanjavur.nic.in (Official website of Thanjavur district)
+- https://thoothukudi.nic.in (Official website of Thoothukudi district)
+- https://tiruchirappalli.nic.in (Official website of Tiruchirappalli district)
+- https://tirunelveli.nic.in (Official website of Tirunelveli district)
+- https://tirupathur.nic.in (Official website of Tirupathur district)
+- https://tiruppur.nic.in (Official website of Tiruppur district)
+- https://tiruvallur.nic.in (Official website of Tiruvallur district)
+- https://tiruvannamalai.nic.in (Official website of Tiruvannamalai district)
+- https://tiruvarur.nic.in (Official website of Tiruvarur district)
+- https://viluppuram.nic.in (Official website of Villupuram district)
+- https://virudhunagar.nic.in (Official website of Virudhunagar district)
+- 
 
 Political Parties:
-- https://inctamilnadu.in/
-- https://tamilnadu.bjp.org/
-- https://www.dmk.in/ta/home/
-- https://aiadmk.com/
-- https://www.naamtamilar.org/
-- https://dmdkparty.com/
-- https://www.tvkparty.com/
+- https://inctamilnadu.in/ (Tamil Nadu unit of the Indian National Congress)
+- https://tamilnadu.bjp.org/ (Tamil Nadu unit of the Bharatiya Janata Party)
+- https://www.dmk.in/ta/home/ (Official website of Dravida Munnetra Kazhagam)
+- https://aiadmk.com/ (Official website of All India Anna Dravida Munnetra Kazhagam)
+- https://www.naamtamilar.org/ (Official website of Naam Tamilar Katchi)
+- https://dmdkparty.com/ (Official website of Desiya Murpokku Dravida Kazhagam)
+- https://www.tvkparty.com/ (Official website of Tamilaga Vettri Kazhagam)
+- 
 
 Other:
-- https://ta.wikipedia.org
-- https://tamil.wiki
-- https://www.tamilvu.org
-- https://vaiyan.blogspot.com/
-- https://www.valaitamil.com
-- https://jeyamohan.in
-- https://charuonline.com
-- https://sramakrishnan.com
+- https://ta.wikipedia.org (Tamil language edition of Wikipedia)
+- https://tamil.wiki (A Tamil encyclopedia)
+- https://www.tamilvu.org (Tamil Virtual Academy for online Tamil education)
+- https://vaiyan.blogspot.com/ (A Tamil blog)
+- https://www.valaitamil.com (A Tamil portal offering news, entertainment, and more)
+- https://jeyamohan.in (Official website of Tamil writer Jeyamohan)
+- https://charuonline.com (Official website of Tamil writer Charu Nivedita)
+- https://sramakrishnan.com (Official website of Tamil writer S. Ramakrishnan)
+- 
 
 Informative links (in English):
-- 
+- https://en.wikipedia.org/wiki/Tamil_script
+- https://en.wikipedia.org/wiki/Tamil_phonology
+- https://r12a.github.io/scripts/taml/ta.html (Orthographical notes on Tamil)
+- https://www.w3.org/TR/taml-lreq/ (Tamil script resources)
 - 
 
 Additional Information:
+- ISO-639-1 code: ta
+- ISO-639-2/T code: tam
 - ISO-639-3 code: tam
 - https://en.wikipedia.org/wiki/ISO_639:tam
-
+- 
 
 Scripts:
 - <a href="https://en.wikipedia.org/wiki/ISO_15924">ISO 15924 Taml</a> Tamil
 - 
 
 Thank you to these people who have helped create this document:
-- <a href="https://github.com/Neechalkaran">Neechalkaran</a>
+- [Neechalkaran](https://github.com/Neechalkaran)
+- [Thom Vaughan](https://github.com/thunderpoot)
 - 
 
 ## Instructions
@@ -154,4 +164,4 @@ please include this link under "Other".
 
 <p xmlns:cc="http://creativecommons.org/ns#" >This work is marked with <a href="https://creativecommons.org/publicdomain/zero/1.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC0 1.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/zero.svg?ref=chooser-v1" alt=""></a></p>
 
-By editing this file, contributers are agreeing to release their contributions under the CC0 license.
+By editing this file, contributors are agreeing to release their contributions under the CC0 license.

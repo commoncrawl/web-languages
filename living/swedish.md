@@ -9,6 +9,10 @@ News:
 - https://www.svd.se/
 - https://www.svt.se/
 - https://www.aftonbladet.se/
+- https://www.expressen.se/ (Swedish Evening Newspaper)
+- https://www.mitti.se/ (Swedish Local Newspaper that focus news on local communes)
+- https://8sidor.se/ ( Home page of newspaper in "easy-to-read" Swedish )
+- https://aip.nu/ (Newspaper primarily contains news, but also reports, analysis, comments and debate)
 
 Culture / History:
 - https://kulturhusetstadsteatern.se/ (Stockholm City Theatre)
@@ -19,6 +23,14 @@ Culture / History:
 Literature:
 - https://litteraturbanken.se/ (Literature Bank makes available large collection of fiction and other text)
 - https://www.boktugg.se/ (Blog about news, trends, authors, publishers and lot more about bookgs in general)
+- https://varldslitteratur.se/ (Wesbite with news and information about author biographies, translated works, poems and novels)
+- https://www.svelitt.se/index.html (Website of Swedish literature society that publishes yearbooks containing research on Swedish and other Nordic literature)
+- https://swedishbookreview.org/ (Home page of Swedish Book Review presenting Swedish-language literature to the English-speaking world, through feature articles, translated extracts, interviews, book reviews and more)
+- https://www.sls.fi/sv/ (Home page of SLS that preserves, explore and spread knowledge about Swedish culture in Finland )
+- https://www.mitrania.se/ (Literary newspaper for and about Fantasy, Science fiction and horror)
+- https://bokforlagetatlas.se/ (Atlas is a progressive publisher with its feet in the present, but with an eye on the future)
+- https://www.dagensarena.se/essa/ (Dagens Arena publishes editorial articles on a radical, progressive basis of ideas)
+- https://dsm.nu (To say what is rarely said but should be said... needs to be said)
 
 Government:
 - https://regeringen.se/ (Swedish government)
@@ -41,7 +53,8 @@ Other:
 - https://www.rf.se/ (Swedish Sports Confederation)
 - https://www.transportstyrelsen.se/ (Swedish Transport Agency)
 - https://www.systembolaget.se/ (Government-owned chain of liquor stores in Sweden)
-- 
+- https://www.fiskejournalen.se/guider (Guides on fishing techniques)
+- https://illvet.se/ (Illustrated Science magazine)
 
 Informative links (in English):
 - https://en.wikipedia.org/wiki/Swedish_language

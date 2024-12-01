@@ -16,6 +16,10 @@ Culture / History:
 - https://si.se/ (Swedish Institute)
 - https://sweden.se/
 
+Literature:
+- https://litteraturbanken.se/ (Literature Bank makes available large collection of fiction and other text)
+- https://www.boktugg.se/ (Blog about news, trends, authors, publishers and lot more about bookgs in general)
+
 Government:
 - https://regeringen.se/ (Swedish government)
 - https://www.government.se/ (Swedish government, in English)

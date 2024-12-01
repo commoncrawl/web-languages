@@ -80,6 +80,9 @@ Political Parties:
 - https://www.tvkparty.com/ (Official website of Tamilaga Vettri Kazhagam)
 - 
 
+Stories:
+- https://www.sirukathaigal.com/ (Collection of short stories written by various authors)
+
 Other:
 - https://ta.wikipedia.org (Tamil language edition of Wikipedia)
 - https://tamil.wiki (A Tamil encyclopedia)
@@ -89,7 +92,8 @@ Other:
 - https://jeyamohan.in (Official website of Tamil writer Jeyamohan)
 - https://charuonline.com (Official website of Tamil writer Charu Nivedita)
 - https://sramakrishnan.com (Official website of Tamil writer S. Ramakrishnan)
-- 
+- https://siliconshelf.wordpress.com/ (A Tamil blog with special focus on books)
+- https://kanali.in/ (Tamil magazine focusing on Art, Literature & Ecology)
 
 Informative links (in English):
 - https://en.wikipedia.org/wiki/Tamil_script

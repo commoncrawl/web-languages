@@ -28,9 +28,9 @@ Literature:
 - https://swedishbookreview.org/ (Home page of Swedish Book Review presenting Swedish-language literature to the English-speaking world, through feature articles, translated extracts, interviews, book reviews and more)
 - https://www.sls.fi/sv/ (Home page of SLS that preserves, explore and spread knowledge about Swedish culture in Finland )
 - https://www.mitrania.se/ (Literary newspaper for and about Fantasy, Science fiction and horror)
-- https://bokforlagetatlas.se/ (Atlas is a progressive publisher with its feet in the present, but with an eye on the future)
+- https://bokforlagetatlas.se/ (Swedish publishing house publishing fiction, non-fiction and reportage)
 - https://www.dagensarena.se/essa/ (Dagens Arena publishes editorial articles on a radical, progressive basis of ideas)
-- https://dsm.nu (To say what is rarely said but should be said... needs to be said)
+- https://dsm.nu (Swedish magazine with focus on Debate, Truth seeking media criticism)
 
 Government:
 - https://regeringen.se/ (Swedish government)

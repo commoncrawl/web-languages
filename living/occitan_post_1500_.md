@@ -3,28 +3,33 @@
 Additional names:
 - Occitan
 - occitan
-- 
+- provençal
 
 News:
-- 
+- https://www.jornalet.com/ (online news)
 - 
 
 Culture / History:
-- 
-- 
+- https://www.occitanica.eu (online portal for the Occitan language and culture)
+- https://www.oc-cultura.eu/oc-fr/ (Occitan multimedia library)
+- https://lodiari.com/ (magazine)
+- https://www.peppercarrot.com/oc/ (comic)
 
 Government:
 - 
 - 
 
 Political Parties:
-- 
-- 
+- https://assemblada-occitana.com/
+- https://partitoccitan.org/
 
 Other:
 - https://oc.wikipedia.org
-- 
-- 
+- https://occitanparis.com/ (news and points of view)
+- https://www.ofici-occitan.eu/oc/acuelh/ (state agency promoting the Occitan language)
+- http://www.josiane-ubaud.com/ (botanical knowledge and more)
+- https://ieo-opm.com/oc/ (academy promoting the Occitan language)
+- https://ieo31.com/wordpress/ (local academy promoting the Occitan language)
 
 Informative links (in English):
 - 
@@ -40,7 +45,7 @@ Scripts:
 - 
 
 Thank you to these people who have helped create this document:
-- 
+- Quentin PAGÈS
 - 
 
 ## Instructions

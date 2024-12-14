@@ -15,12 +15,19 @@ News:
 - https://www.nit.pt/
 
 Culture / History:
-- 
-- 
+- https://www.museusemonumentos.pt/pt
+- https://gulbenkian.pt/
+- https://www.serralves.pt/
+- https://www.foriente.pt/
+- https://casadamusica.com/
 
 Government:
 - https://www.portugal.gov.pt/pt/gc24
-- 
+- https://www.presidencia.pt/
+- https://www.madeira.gov.pt/
+- https://portal.azores.gov.pt/
+- https://www.parlamento.pt/
+- https://diariodarepublica.pt/dr/home
 
 Political Parties:
 - https://ps.pt/
@@ -36,7 +43,9 @@ Political Parties:
 Other:
 - https://pt.wikipedia.org
 - http://arquivos.pt/
-- 
+- https://dicionario.priberam.org/
+- https://www.infopedia.pt/
+- https://cpf.org.pt/
 
 Informative links (in English):
 - 

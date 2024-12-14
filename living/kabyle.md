@@ -3,40 +3,38 @@
 Additional names:
 - Taqbaylit
 - Tazwawt
+- Tamaziɣt
 
 News:
-- https://www.aps.dz/tamazight-tal/
+- https://www.aps.dz/tamazight-tal
 - https://my.radioalgerie.dz/dz-ber
-- https://www.depechedekabylie.com/ddk-tamazight/
+- https://www.depechedekabylie.com/ddk-tamazight
 
 Culture / History:
-- https://tasghunt-taseklant.com/kab/
+- https://tasghunt-taseklant.com/kab
 - http://isahliyen.com (in kabyle and french)
-- https://tamurt.info/tq/category/taqbaylit/
+- https://tamurt.info/tq/category/taqbaylit
 - https://tamsirt.numidya.net/cours (Courses about language)
 
 Government:
-- https://www.hcamazighite.dz/ta/
+- https://www.hcamazighite.dz/ta
 - 
 
 Political Parties:
 - 
 - 
 
-Podcasts:
-- https://tunein.com/podcasts/Technology-Podcasts/Taqbaylit-p2448080/
-
 Other:
 - https://kab.wikipedia.org
-- https://www.mozilla.org/kab/
-- https://www.amyag.com (Reference for verb conjugaison)
-- http://www.akufi.org/kab/ (Mostly about Kabyle keyboard layout)
+- https://www.mozilla.org/kab
+- https://www.amyag.com (Reference for verb conjugation)
+- http://www.akufi.org/kab (Mostly about Kabyle keyboard layout)
 - http://www.ayamun.com (in french about kabyle and berber book ressources culture and litterature)
 - https://adrar-inu.blogspot.com (Blog and ressources about Kabyle and Tamazight)
 - https://tutlayt.net (About writing the language, dictionaries, corpora etc)
 
 Informative links (in English):
-- https://www.ethnologue.com/language/kab/
+- https://www.ethnologue.com/language/kab
 - https://codelookup.toolforge.org/kab
 - https://en.wikipedia.org/wiki/Kabyle_language
 

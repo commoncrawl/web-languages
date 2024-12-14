@@ -2,36 +2,51 @@
 
 Additional names:
 - Taqbaylit
-- 
+- Tazwawt
 
 News:
-- 
-- 
+- https://www.aps.dz/tamazight-tal/
+- https://my.radioalgerie.dz/dz-ber
+- https://www.depechedekabylie.com/ddk-tamazight/
 
 Culture / History:
-- 
-- 
+- https://tasghunt-taseklant.com/kab/
+- http://isahliyen.com (in kabyle and french)
+- https://tamurt.info/tq/category/taqbaylit/
+- https://tamsirt.numidya.net/cours (Courses about language)
 
 Government:
-- 
+- https://www.hcamazighite.dz/ta/
 - 
 
 Political Parties:
 - 
 - 
 
+Podcasts:
+- https://tunein.com/podcasts/Technology-Podcasts/Taqbaylit-p2448080/
+
 Other:
 - https://kab.wikipedia.org
-- 
-- 
+- https://www.mozilla.org/kab/
+- https://www.amyag.com (Reference for verb conjugaison)
+- http://www.akufi.org/kab/ (Mostly about Kabyle keyboard layout)
+- http://www.ayamun.com (in french about kabyle and berber book ressources culture and litterature)
+- https://adrar-inu.blogspot.com (Blog and ressources about Kabyle and Tamazight)
+- https://tutlayt.net (About writing the language, dictionaries, corpora etc)
 
 Informative links (in English):
-- 
-- 
+- https://www.ethnologue.com/language/kab/
+- https://codelookup.toolforge.org/kab
+- https://en.wikipedia.org/wiki/Kabyle_language
 
 Additional Information:
 - ISO-639-3 code: kab
 - https://en.wikipedia.org/wiki/ISO_639:kab
+- https://unicode.org/cldr/charts/42/summary/kab.html
+- https://iso639-3.sil.org/code/kab
+- https://wals.info/languoid/lect/wals_code_kbl
+- https://glottolog.org/resource/languoid/id/kaby1243
 
 
 Scripts:
@@ -39,8 +54,8 @@ Scripts:
 - 
 
 Thank you to these people who have helped create this document:
-- 
-- 
+- Athmane MOKRAOUI
+- Rachida SACI
 
 ## Instructions
 

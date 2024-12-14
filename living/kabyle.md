@@ -29,8 +29,8 @@ Other:
 - https://www.mozilla.org/kab
 - https://www.amyag.com (Reference for verb conjugation)
 - http://www.akufi.org/kab (Mostly about Kabyle keyboard layout)
-- http://www.ayamun.com (in french about kabyle and berber book ressources culture and litterature)
-- https://adrar-inu.blogspot.com (Blog and ressources about Kabyle and Tamazight)
+- http://www.ayamun.com (in french about kabyle and berber book resources, culture and literature)
+- https://adrar-inu.blogspot.com (Blog and resources about Kabyle and Tamazight)
 - https://tutlayt.net (About writing the language, dictionaries, corpora etc)
 
 Informative links (in English):

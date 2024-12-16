@@ -1,15 +1,30 @@
 # Web Language: Evenki
 
 Additional names:
-- 
+- Ewenki
+- эвенкийский
+- эвэды турэн
+- тунгусский
 
 News:
-- 
+- https://ilken.ru/
 - 
 
 Culture / History:
-- 
-- 
+- https://www.evenkiteka.ru/
+- https://www.evengus.ru/
+- https://siberian-lang.srcc.msu.ru/ru/textspage?field_word_lang_tid%5B%5D=42&field_text_type_tid=All&field_term_place_tid=All&field_informant_nid=All
+- https://siberian-lang.srcc.msu.ru/ru/sintaksichyeskiy_proyekt_RFFI/evenki
+- https://siberian-lang.srcc.msu.ru/sites/default/files/eventsfiles/evenki.pdf
+- https://bolt-dev.dh-north.org/files/dhn-pdf/evenki-narratives-2.pdf
+- https://corpora.iea.ras.ru/
+- https://savelanguage.amursu.ru/
+- http://arun-rb.ru/biblioteka-evenkijskij-nimngakan.html
+- https://ibt.org.ru/evenkiyskiy/iona-i-ot-luki/chitat
+- https://ibt.org.ru/sites/default/files/ebm/ebook/657c8aq2s/cyrillic_gospel_parables.pdf
+- https://ibt.org.ru/sites/default/files/ebm/ebook/657c8atfv/cyrillic_childrens_bible.pdf
+- https://textarchive.ru/c-1185655-pall.html
+- http://old.evenkia-school.ru/fest_pi/otkryt_urok/konorenok/ou_konorenok.html
 
 Government:
 - 

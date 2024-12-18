@@ -2,7 +2,7 @@
 
 Additional names:
 - português
-- 
+-
 
 News:
 - https://www.sapo.pt/
@@ -15,19 +15,19 @@ News:
 - https://www.nit.pt/
 
 Culture / History:
-- https://www.museusemonumentos.pt/pt
+- https://www.museusemonumentos.pt/pt (Portugal’s Museums and Monuments)
 - https://gulbenkian.pt/
 - https://www.serralves.pt/
 - https://www.foriente.pt/
 - https://casadamusica.com/
 
 Government:
-- https://www.portugal.gov.pt/pt/gc24
-- https://www.presidencia.pt/
-- https://www.madeira.gov.pt/
-- https://portal.azores.gov.pt/
-- https://www.parlamento.pt/
-- https://diariodarepublica.pt/dr/home
+- https://www.portugal.gov.pt/pt/gc24 (Portuguese Government)
+- https://www.presidencia.pt/ (Presidency of the Portuguese Republic)
+- https://www.madeira.gov.pt/ (Madeira Regional Government)
+- https://portal.azores.gov.pt/ (Azores Regional Government)
+- https://www.parlamento.pt/ (Portuguese Parliament)
+- https://diariodarepublica.pt/dr/home (Official Journal of the Portuguese Republic)
 
 Political Parties:
 - https://ps.pt/
@@ -45,11 +45,11 @@ Other:
 - http://arquivos.pt/
 - https://dicionario.priberam.org/
 - https://www.infopedia.pt/
-- https://cpf.org.pt/
+- https://cpf.org.pt/ (Portuguese Foundations Centre)
 
 Informative links (in English):
-- 
-- 
+-
+-
 
 Additional Information:
 - ISO-639-3 code: por
@@ -58,11 +58,11 @@ Additional Information:
 
 Scripts:
 - <a href="https://en.wikipedia.org/wiki/ISO_15924">ISO 15924 Latn</a> Latin
-- 
+-
 
 Thank you to these people who have helped create this document:
-- 
-- 
+-
+-
 
 ## Instructions
 

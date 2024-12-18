@@ -2,7 +2,7 @@
 
 Additional names:
 - Māori
-- 
+- te reo Māori
 
 News:
 - 
@@ -22,7 +22,8 @@ Political Parties:
 
 Other:
 - https://mi.wikipedia.org
-- 
+- https://wharekōrero.nz/kaitiakitanga/ (a license related to Māori cultural content)
+- https://wharekōrero.nz/ (an app for Māori content)
 - 
 
 Informative links (in English):

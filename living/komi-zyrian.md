@@ -1,14 +1,15 @@
 # Web Language: Komi-Zyrian
 
 Additional names:
-- 
+- Komi
 
 News:
-- 
-- 
+- http://komikerka.ru/
+- https://komiinform.ru/news/e/161
+- https://www.nbrkomi.ru/kraevedenie/vyltoryas (accessible only with Russian IP)
 
 Culture / History:
-- 
+- https://komikyv.org/
 - 
 
 Government:
@@ -20,8 +21,8 @@ Political Parties:
 - 
 
 Other:
-- 
-- 
+- https://kv.wikipedia.org/
+- https://vk.com/as_kyv_dor (social media posts, mostly in Komi, older posts are political)
 
 Informative links (in English):
 - 
@@ -33,7 +34,7 @@ Additional Information:
 
 
 Scripts:
-- 
+- [https://en.wikipedia.org/wiki/ISO_15924](ISO 15924) Cyrl
 
 Thank you to these people who have helped create this document:
 - 

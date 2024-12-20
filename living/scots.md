@@ -8,11 +8,11 @@ News:
 - 
 
 Culture / History:
-- 
+- https://www.makforrit.scot/
 - 
 
 Government:
-- 
+- https://www.ohchr.org/en/human-rights/universal-declaration/translations/scots?LangID=sco
 - 
 
 Political Parties:

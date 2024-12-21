@@ -14,6 +14,12 @@ Culture / History:
 - https://www.oc-cultura.eu/oc-fr/ (Occitan multimedia library)
 - https://lodiari.com/ (magazine)
 - https://www.peppercarrot.com/oc/ (comic)
+- https://plumas.occitanica.eu/ (https://plumas.occitanica.eu/)
+- https://fresques.ina.fr/borbolh-occitan (archive videos)
+- https://talvera.org/oc/ (music and collecting)
+- https://calandreta.org/ (immersive school in Occitan)
+- https://clo-occitan.com/ (Occitan language counsel)
+- https://escambisenoc.org/ (blog about various subjects)
 
 Government:
 - 
@@ -22,6 +28,11 @@ Government:
 Political Parties:
 - https://assemblada-occitana.com/
 - https://partitoccitan.org/
+
+IT:
+- https://yunohost.org/index.oc.html (self hosting services)
+- https://potonorsland.com/ (blog about video games)
+- https://lafarganumerica.eu/oc (place to share digital knowledges about Occitan)
 
 Other:
 - https://oc.wikipedia.org

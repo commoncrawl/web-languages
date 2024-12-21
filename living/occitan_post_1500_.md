@@ -14,7 +14,7 @@ Culture / History:
 - https://www.oc-cultura.eu/oc-fr/ (Occitan multimedia library)
 - https://lodiari.com/ (magazine)
 - https://www.peppercarrot.com/oc/ (comic)
-- https://plumas.occitanica.eu/ (https://plumas.occitanica.eu/)
+- https://plumas.occitanica.eu/ (literature)
 - https://fresques.ina.fr/borbolh-occitan (archive videos)
 - https://talvera.org/oc/ (music and collecting)
 - https://calandreta.org/ (immersive school in Occitan)

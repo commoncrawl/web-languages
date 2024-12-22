@@ -5,20 +5,24 @@ Additional names:
 - 
 
 News:
-- 
-- 
+- https://igihe.com
+- https://inyarwanda.com/
+- https://umuseke.rw/
+- https://www.kigalitoday.com/
+- https://www.rba.co.rw/
+- https://www.radiyoyacuvoa.com/rwanda
 
 Culture / History:
 - 
 - 
 
 Government:
-- 
-- 
+- https://www.rwandaheritage.gov.rw/
+- https://police.gov.rw/rw
 
 Political Parties:
-- 
-- 
+- https://rpfinkotanyi.rw/amatora/
+- https://www.pl-rwanda.rw/?lang=rw
 
 Other:
 - https://rw.wikipedia.org
@@ -31,7 +35,10 @@ Informative links (in English):
 
 Additional Information:
 - ISO-639-3 code: kin
+- ISO-639-2 code: kin
+- ISO-639-1 code: rw
 - https://en.wikipedia.org/wiki/ISO_639:kin
+- Internet TLD: rw
 
 
 Scripts:
@@ -39,8 +46,8 @@ Scripts:
 - 
 
 Thank you to these people who have helped create this document:
-- 
-- 
+- [Samuel Rutunda](https://github.com/rutsam)
+- [Digital Umuganda] (https://github.com/Digital-Umuganda/)
 
 ## Instructions
 

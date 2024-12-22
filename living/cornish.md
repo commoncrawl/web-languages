@@ -1,26 +1,39 @@
 # Web Language: Cornish
 
 Additional names:
-- kernowek
-- 
+- Kernowek
+- Kernewek
 
 News:
-- 
-- 
+- https://www.falmouthpacket.co.uk/newsincornish/
+- https://cornishstuff.com/ (Cornwall News)
 
 Culture / History:
-- 
+- https://www.agantavas.com/ (Promoting Cornish language)
+- https://www.gorsedhkernow.org.uk (Gorsedh of the bards of Cornwall)
+- https://www.cornish-language.org/ (Cornish Language Fellowship online)
+- https://msm.kernewegva.com/kernewek/ (Bilingual Cornish nursery schools)
+- https://www.bibelkernewek.com/ (Cornish Bible Project)
+- https://www.kernewegva.com/ (Cornish language media)
+- http://www.spyrys.org/ (Cornish language books)
+- https://gocornish.org/ (Go Cornish - Having fun with the Cornish language)
+- https://kresenkernow.org/ (Archives of Cornish documents, books, maps and photographs)
+- https://www.kesva.org/kdl (Cornish Language Board)
 - 
 
 Government:
-- 
+- https://www.cornwall.gov.uk/
+- https://www.akademikernewek.org.uk/ (Official body for the Cornish language)
 - 
 
 Political Parties:
-- 
+- https://en.wikipedia.org/wiki/Mebyon_Kernow (The Party for Cornwall)
+- https://en.wikipedia.org/wiki/Cornish_Nationalist_Party (Cornish Nationalist Party)
 - 
 
 Other:
+- https://www.speakcornish.com/ (Information and news about the Cornish language)
+- https://www.skeulantavas.com/ (Cornish language lessons)
 - https://kw.wikipedia.org
 - 
 - 
@@ -31,6 +44,7 @@ Informative links (in English):
 
 Additional Information:
 - ISO-639-3 code: cor
+- ISO-639-1 code: kw
 - https://en.wikipedia.org/wiki/ISO_639:cor
 
 
@@ -38,7 +52,7 @@ Scripts:
 - 
 
 Thank you to these people who have helped create this document:
-- 
+- [Thom Vaughan](https://github.com/thunderpoot)
 - 
 
 ## Instructions

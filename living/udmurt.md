@@ -2,19 +2,28 @@
 
 Additional names:
 - удмурт
-- 
+- удмурт кыл
+- удмуртский
 
 News:
-- 
-- 
+- https://udmdunne.ru/
+- https://udmurt.media/ud/
+- https://udmddn.ru/ivorjos/
+- https://baltaci.ru/news/widget/list/azlane
+- https://minnac.ru/udm/category/press-czentre/ivoryos/
+- https://unatlib.ru/udm-news
+- http://www.myudm.ru/udm
+- https://oshmes.info/
+- https://kukmor-rt.ru/news/rubric/list/vamysh
+- https://gazeta-idnakar.ru/ud/
 
 Culture / History:
-- 
-- 
+- https://wikisource.org/w/index.php?title=Category:Udmurt
+- http://udmteatr.ru/udm
 
 Government:
-- 
-- 
+- https://udmgossovet.ru/press/news_ud/
+- https://www.izh.ru/udm/info/home.html
 
 Political Parties:
 - 
@@ -35,7 +44,7 @@ Additional Information:
 
 
 Scripts:
-- 
+- [https://en.wikipedia.org/wiki/ISO_15924](ISO 15924) Cyrl
 
 Thank you to these people who have helped create this document:
 - 

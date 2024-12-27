@@ -47,7 +47,7 @@ Scripts:
 
 Thank you to these people who have helped create this document:
 - [Samuel Rutunda](https://github.com/rutsam)
-- [Digital Umuganda] (https://github.com/Digital-Umuganda/)
+- [Digital Umuganda](https://github.com/Digital-Umuganda/)
 
 ## Instructions
 

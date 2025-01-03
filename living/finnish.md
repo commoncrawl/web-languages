@@ -5,25 +5,43 @@ Additional names:
 - 
 
 News:
-- 
-- 
+- https://www.iltalehti.fi/
+- https://yle.fi/uutiset
+- https://www.kaleva.fi/
+- https://www.mtvuutiset.fi/
+- https://www.hs.fi/
+- https://www.uusisuomi.fi/
+
+Technology News:
+- https://www.tekniikkatalous.fi/
+- https://www.uusiteknologia.fi/
+- https://www.mikrobitti.fi/
+
+Finance News:
+- https://www.kauppalehti.fi/
+- https://www.arvopaperi.fi/
+- https://www.is.fi/taloussanomat/
 
 Culture / History:
 - 
 - 
 
 Government:
-- 
+- https://www.eduskunta.fi/FI/Sivut/default.aspx
 - 
 
 Political Parties:
-- 
-- 
+- https://keskusta.fi/
+- https://www.kokoomus.fi/
+- https://www.vihreat.fi/
+- https://www.perussuomalaiset.fi/
+- https://liberaalipuolue.fi/
 
 Other:
 - https://fi.wikipedia.org
-- 
-- 
+- https://www.vauva.fi/
+- https://www.suomi24.fi/
+- https://keskustelut.inderes.fi/
 
 Informative links (in English):
 - 
@@ -39,7 +57,7 @@ Scripts:
 - 
 
 Thank you to these people who have helped create this document:
-- 
+- Rasmus Toivanen
 - 
 
 ## Instructions

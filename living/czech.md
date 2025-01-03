@@ -5,33 +5,46 @@ Additional names:
 - 
 
 News:
-- 
-- 
+- https://ct24.ceskatelevize.cz/
+- https://www.idnes.cz/
+- https://www.aktualne.cz/
+- https://www.seznamzpravy.cz/
+- https://denikn.cz/
+- https://www.irozhlas.cz/
+- https://www.ctk.cz/
 
 Culture / History:
-- 
-- 
+- https://www.nm.cz/ (National Museum)
 
 Government:
-- 
-- 
+- https://vlada.gov.cz/
+- https://www.psp.cz/
+- https://www.senat.cz/
+- https://www.hrad.cz/
+- https://mv.gov.cz/
 
 Political Parties:
-- 
-- 
+- https://www.ods.cz/
+- https://www.anobudelip.cz/cs/
+- https://socdem.cz/
+- https://www.pirati.cz/
+- https://www.starostove-nezavisli.cz/
+- https://www.top09.cz/
+- https://www.kdu.cz/
 
 Other:
 - https://cs.wikipedia.org
-- 
+- https://prirucka.ujc.cas.cz/
 - 
 
 Informative links (in English):
-- 
+- https://en.wikipedia.org/wiki/Czech_language
 - 
 
 Additional Information:
 - ISO-639-3 code: ces
 - https://en.wikipedia.org/wiki/ISO_639:ces
+- Internet TLD: .cz
 
 
 Scripts:

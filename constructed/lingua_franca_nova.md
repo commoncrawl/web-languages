@@ -1,7 +1,7 @@
 # Web Language: Lingua Franca Nova
 
 Additional names:
-- 
+- Elefen
 
 News:
 - 
@@ -21,11 +21,11 @@ Political Parties:
 
 Other:
 - https://lfn.wikipedia.org
-- 
+- https://elefen.org/
 - 
 
 Informative links (in English):
-- 
+- https://elefen.org/introdui/engles.html
 - 
 
 Additional Information:

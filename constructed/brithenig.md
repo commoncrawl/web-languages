@@ -1,6 +1,7 @@
 # Web Language: Brithenig
 
 Additional names:
+- Comroig
 - 
 
 News:
@@ -20,11 +21,13 @@ Political Parties:
 - 
 
 Other:
-- 
+- http://www.frathwiki.com/Ill_Bethisad (Setting of Brithenig)
 - 
 
 Informative links (in English):
-- 
+- http://steen.free.fr/brithenig/introduction.html (Introduction to Brithenig)
+- https://linguifex.com/wiki/Brithenig (Linguifex wiki on Brithenig)
+- http://www.frathwiki.com/Brithenig (Frathwiki on Brithenig)
 - 
 
 Additional Information:

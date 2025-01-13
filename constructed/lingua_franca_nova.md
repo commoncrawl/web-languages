@@ -2,6 +2,7 @@
 
 Additional names:
 - Elefen
+- 
 
 News:
 - 
@@ -21,11 +22,11 @@ Political Parties:
 
 Other:
 - https://lfn.wikipedia.org
-- https://elefen.org/
+- https://elefen.org/ (Portal to all information related to Elefen)
 - 
 
 Informative links (in English):
-- https://elefen.org/introdui/engles.html
+- https://elefen.org/introdui/engles.html (Introduction to Elefen in English)
 - 
 
 Additional Information:

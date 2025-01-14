@@ -1,6 +1,7 @@
 # Web Language: Blissymbols
 
 Additional names:
+- Blissymbolics
 - 
 
 News:
@@ -24,7 +25,8 @@ Other:
 - 
 
 Informative links (in English):
-- 
+- https://www.blissymbolics.org/
+- https://www.blissymbols.co.uk/
 - 
 
 Additional Information:

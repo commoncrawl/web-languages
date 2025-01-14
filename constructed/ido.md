@@ -1,6 +1,7 @@
 # Web Language: Ido
 
 Additional names:
+- Esperantido
 - 
 
 News:
@@ -8,7 +9,7 @@ News:
 - 
 
 Culture / History:
-- 
+- http://www.ido-vivo.info (Ido library)
 - 
 
 Government:
@@ -21,11 +22,15 @@ Political Parties:
 
 Other:
 - https://io.wikipedia.org
-- 
+- http://www.ido.li
+- https://www.lernez.com (On how to learn Ido)
 - 
 
 Informative links (in English):
-- 
+- http://en.ido.li
+- http://idolinguo.org.uk
+- http://www.interlanguages.net/yindex.html
+- https://idofonduro.org/wp/index.php/en/ (The IDO foundation for language research in memory of Hellmut Röhnisch)
 - 
 
 Additional Information:

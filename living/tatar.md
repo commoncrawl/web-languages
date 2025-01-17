@@ -1,29 +1,165 @@
 # Web Language: Tatar
 
 Additional names:
-- татарча / tatarça
-- 
+- татарча / tatarça / татар теле
 
-News:
-- 
-- 
+**News:** 
+- https://vatantat.ru/
+- https://beznen.ru/
+- https://im-tatar.ru/
+- https://kiziltan.ru/
+- https://shahrikazan.ru/
+- https://shahrichalli.ru/
+- https://tatar-inform.tatar/
+- https://www.azatliq.org/
+- https://intertat.tatar/
+- https://tuganaylar.ru/
+- https://matbugat.ru/
+- https://www.trt.net.tr/tatarca/ (tat_Latn only!)
 
-Culture / History:
-- 
-- 
+**Regional news:**
+- https://atnya-rt.ru/
+- https://zainsk-inform.ru/
+- https://rsloboda-rt.ru/
+- https://sarman-rt.ru/
+- https://saby-rt.ru/
+- https://aktanysh-rt.ru/
+- https://aznakaevo-rt.ru/
+- https://nkamsk-rt.ru/
+- https://saba-rt.ru/
+- https://mamadysh-rt.ru/
+- https://agryz-rt.ru/
+- https://alki-rt.ru/
+- https://pestrecy-rt.ru/
+- https://yutazy.ru/
+- https://almet-rt.ru/
+- https://chistopol-rt.ru/
+- https://tukai-rt.ru/
+- https://kukmor-rt.ru/
+- https://spas-rt.ru/
+- https://aksubayevo.ru/
+- https://alekseyevsk.ru/
+- https://apastovo.ru/
+- https://arskmedia.ru/
+- https://bavly-tat.ru/
+- http://baltaci.ru/
+- https://bugulma-tatarstan.ru/
+- https://bugulma-tat.ru/
+- https://buinsk-tat.ru/
+- https://nurlat-tat.ru/
+- https://biektaw.ru/
+- https://chuprale-online.ru/
+- https://alabuganury.ru/
+- https://yashel-uzan.ru/
+- https://kaibicy.ru/
+- https://kamskoe-ustie.ru/
+- https://laishevskyi.ru/
+- https://zamansulyshy.ru/
+- https://mendeleevskyi.ru/
+- https://menzela.ru/
+- https://muslumirc.ru/
+- https://novoshishminsk.ru/
+- https://tetyushy.ru/
+- https://nashcheremshan.ru/
+- https://tulachi.ru/
+- https://vuslon.ru/
+- https://nizhnekamsk-rt.ru/
+- https://yantann.com/
+- https://sharantat.ru/
+- https://igenche.ru/
+- https://tatvestnik.ru/
+- https://atormyshy.ru/
+- https://avangard-kushn.ru/
+- https://avangard-t-kushn.ru/
+- https://kamatani.ru/
+- https://mayakrbt.ru/
+- https://algaburaevo.ru/
+- https://yktuldan.ru/
+- https://baltachtan.ru/
+- https://avyltan.ru/
+- https://aur-heber.info/
+- https://ishanich.ru/
+- https://oktyabr-t.ru/
+- https://alshvesti-t.ru/
+- https://belizv-tat.ru/
+- https://iuldash-t.ru/
+- https://tatvestnik-t.ru/
+- https://ashzori-t.ru/
+- https://buzdyak-t.ru/
+- https://blvesti-t.ru/
+- https://sterlibashevskierodniki-t.ru/
+- https://erm-news-t.ru/
+- https://uzen-rb.ru/
+- https://tatvest.ru/
+- https://chishme.ru/
+- https://okt-tuganyak.ru/
+- https://tan-barda.ru/tt/
+- https://emet73.ru/category/%D1%85%D3%99%D0%B1%D3%99%D1%80%D0%BB%D3%99%D1%80/
+- https://kumiakk.ru/
+- http://tatar-today.ru/
+- http://yanarish72.ru/
+- https://tat.nur.tatar/
+- http://yanarysh.ru/
+- http://caydaq.tatar/
+- http://www.yuldash-sputnik.ru/
 
-Government:
-- 
-- 
+**Radio / TV:**
+- https://shayantv.ru/
+- https://tnv.ru/tat/
+- https://trt-tv.ru/
+- https://tartip.tatar/
+- https://kunelradio.ru/
+- https://bolgarradio.com/tat/
+- https://tatarradio.ru/
+
+**Culture / History:**
+- https://madanizhomga.ru/ (Culture magazine)
+- https://idel.top/ (Entertainment content)
+- https://idel-tat.ru/ (Entertainment content)
+- https://chelny-rt.ru/ (Educational Journal)
+- https://tulpar.info/ (Literary magazine)
+- http://salavatkupere.com/ (Children's magazine)
+- http://sabantuyjournal.ru/ (Children's magazine)
+- https://maydan.tatar/ (Culture magazine)
+- http://protatarstan.ru/ 
+- https://syuyumbike.ru/ (Culture magazine)
+- https://beznenmiras.ru/ (Culture magazine)
+- https://magarif-uku.ru/ (Educational Journal)
+- http://xn--80aaivq1a3a.xn--p1ai/ (Educational Journal)
+- http://kazanutlary.ru/ (Literary magazine)
+- http://sahne.ru/ (Theatre magazine)
+- http://yalkyn.ru/ (Teenager magazine)
+
+- https://tat.karievteatr.ru/ (Kazan theater)
+- https://kamalteatr.ru/tat/ (Kazan theater)
+- https://tinchurinteatr.ru/ (Kazan theater)
+- https://atnyateatr.ru/ 
+- https://minzalateatr.ru/
+- https://tat.monkazan.ru/
+- https://kazan-kremlin.ru/tat/ (Kazan muzeum)
+- https://kitap.tatar.ru/ru/ (National Library)
+- https://visit-tatarstan.com/tt/
+- https://teatrnur.ru/
+- http://gabdullatukay.ru/ 
+
+**Government:**
+- http://tatarstan.ru/ (Government of Tatarstan)
+- https://kzn.ru/ (Kazan City Hall)
+- https://dumrt.ru/ (Spiritual Administration of Muslims of Tatarstan)
+- https://metshin.com/tt/ (Mayor of Kazan)
+
+**Religion:**
+- medrese.kukmara.ru
+- https://as-salam.press/ta/ (Religious press)
 
 Political Parties:
-- 
-- 
 
-Other:
+
+**Other:**
 - https://tt.wikipedia.org
-- 
-- 
+- https://giylem.tatar/
+- https://tatarica.org/tat/
+- https://tatarile.tatar/
 
 Informative links (in English):
 - 
@@ -36,11 +172,11 @@ Additional Information:
 
 Scripts:
 - <a href="https://en.wikipedia.org/wiki/ISO_15924">ISO 15924 Cyrl</a> Cyrillic
+- <a href="https://en.wikipedia.org/wiki/ISO_15924">ISO 15924 Latn</a> Latin
 - 
 
 Thank you to these people who have helped create this document:
-- 
-- 
+-  
 
 ## Instructions
 

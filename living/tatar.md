@@ -1,9 +1,9 @@
 # Web Language: Tatar
 
 Additional names:
-- татарча / tatarça / татар теле
+- татарча / tatarça / татар теле / tatar tele
 
-**News:** 
+News:
 - https://vatantat.ru/
 - https://beznen.ru/
 - https://im-tatar.ru/
@@ -15,10 +15,10 @@ Additional names:
 - https://intertat.tatar/
 - https://tuganaylar.ru/
 - https://matbugat.ru/
-- https://www.trt.net.tr/tatarca/ (tat_Latn only!)
-
-**Regional news:**
-- https://atnya-rt.ru/
+- https://darelfonyn.kpfu.ru/
+- https://belem.ru/
+- https://www.trt.net.tr/tatarca/ (tat_Latn only!, non-standard alphabet, used э -> ê, ц -> ś)
+- https://atnya-rt.ru/ (Tatarstan municipal newspapers, start) 
 - https://zainsk-inform.ru/
 - https://rsloboda-rt.ru/
 - https://sarman-rt.ru/
@@ -63,8 +63,8 @@ Additional names:
 - https://nashcheremshan.ru/
 - https://tulachi.ru/
 - https://vuslon.ru/
-- https://nizhnekamsk-rt.ru/
-- https://yantann.com/
+- https://nizhnekamsk-rt.ru/ (Tatarstan municipal newspapers, end) 
+- https://yantann.com/ (Bashkortostan municipal newspapers, start)
 - https://sharantat.ru/
 - https://igenche.ru/
 - https://tatvestnik.ru/
@@ -92,7 +92,7 @@ Additional names:
 - https://uzen-rb.ru/
 - https://tatvest.ru/
 - https://chishme.ru/
-- https://okt-tuganyak.ru/
+- https://okt-tuganyak.ru/ (Bashkortostan municipal newspapers, end)
 - https://tan-barda.ru/tt/
 - https://emet73.ru/category/%D1%85%D3%99%D0%B1%D3%99%D1%80%D0%BB%D3%99%D1%80/
 - https://kumiakk.ru/
@@ -103,16 +103,7 @@ Additional names:
 - http://caydaq.tatar/
 - http://www.yuldash-sputnik.ru/
 
-**Radio / TV:**
-- https://shayantv.ru/
-- https://tnv.ru/tat/
-- https://trt-tv.ru/
-- https://tartip.tatar/
-- https://kunelradio.ru/
-- https://bolgarradio.com/tat/
-- https://tatarradio.ru/
-
-**Culture / History:**
+Culture / History:
 - https://madanizhomga.ru/ (Culture magazine)
 - https://idel.top/ (Entertainment content)
 - https://idel-tat.ru/ (Entertainment content)
@@ -129,7 +120,13 @@ Additional names:
 - http://kazanutlary.ru/ (Literary magazine)
 - http://sahne.ru/ (Theatre magazine)
 - http://yalkyn.ru/ (Teenager magazine)
-
+- https://shayantv.ru/ (Children's TV channel)
+- https://tnv.ru/tat/ (TV channel)
+- https://trt-tv.ru/ (TV channel)
+- https://tartip.tatar/ (Radio station)
+- https://kunelradio.ru/ (Radio station)
+- https://bolgarradio.com/tat/ (Radio station)
+- https://tatarradio.ru/ (Radio station)
 - https://tat.karievteatr.ru/ (Kazan theater)
 - https://kamalteatr.ru/tat/ (Kazan theater)
 - https://tinchurinteatr.ru/ (Kazan theater)
@@ -142,28 +139,27 @@ Additional names:
 - https://teatrnur.ru/
 - http://gabdullatukay.ru/ 
 
-**Government:**
+Government:
 - http://tatarstan.ru/ (Government of Tatarstan)
 - https://kzn.ru/ (Kazan City Hall)
-- https://dumrt.ru/ (Spiritual Administration of Muslims of Tatarstan)
 - https://metshin.com/tt/ (Mayor of Kazan)
 
-**Religion:**
-- medrese.kukmara.ru
-- https://as-salam.press/ta/ (Religious press)
 
 Political Parties:
 
 
-**Other:**
+Other:
 - https://tt.wikipedia.org
-- https://giylem.tatar/
-- https://tatarica.org/tat/
-- https://tatarile.tatar/
+- https://giylem.tatar/ (Popular science articles)
+- https://tatarica.org/tat/ (Local encyclopedia)
+- https://tatarile.tatar/tt/ (School Encyclopedia)
+- https://dumrt.ru/ (Spiritual Administration of Muslims of Tatarstan)
+- https://medrese.kukmara.ru/
+- https://as-salam.press/ta/ (Religious press)
 
 Informative links (in English):
-- 
-- 
+- https://en.wikipedia.org/wiki/Tatar_language
+  
 
 Additional Information:
 - ISO-639-3 code: tat
@@ -173,7 +169,7 @@ Additional Information:
 Scripts:
 - <a href="https://en.wikipedia.org/wiki/ISO_15924">ISO 15924 Cyrl</a> Cyrillic
 - <a href="https://en.wikipedia.org/wiki/ISO_15924">ISO 15924 Latn</a> Latin
-- 
+
 
 Thank you to these people who have helped create this document:
 -  

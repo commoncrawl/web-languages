@@ -2,32 +2,97 @@
 
 Additional names:
 - dansk
-- 
 
 News:
-- 
-- 
+- https://alt.dk
+- https://altinget.dk/
+- https://arbejderen.dk/
+- https://avisendanmark.dk/
+- https://billedbladet.dk
+- https://borsen.dk/
+- https://bt.dk/
+- https://danwatch.dk/
+- https://www.dknyt.dk/
+- https://dinavis.dk/
+- https://www.dr.dk/nyheder
+- https://eb.dk/
+- https://faa.dk/
+- https://frihedsbrevet.dk/
+- https://fyens.dk/
+- https://helsingordagblad.dk/
+- https://hsfo.dk/
+- https://itwatch.dk/
+- https://jv.dk/
+- https://jyllands-posten.dk/
+- https://kobenhavnliv.dk/
+- https://localeyes.dk/
+- https://nordjyske.dk/
+- https://nyheder.dk/tag/indland
+- https://politiken.dk/
+- https://ritzau.com/
+- https://stiften.dk/
+- https://tv2.dk/
+- https://olfi.dk/
+- https://nyheder.tv2.dk/
+- https://wallnot.dk/
+- https://www.berlingske.dk/
+- https://www.dagens.dk/
+- https://www.information.dk/
+- https://www.kristeligt-dagblad.dk/
+- https://www.midtjyllandsavis.dk/
+- https://www.seoghoer.dk/
+- https://www.skivefolkeblad.dk/
+- https://www.sn.dk/
+- https://www.sondagsavisen.dk/
+- https://www.weekendavisen.dk/
 
 Culture / History:
-- 
-- 
+- https://danmarkshistorien.dk/
+- https://lex.dk/
+- https://leksikon.org/
+- https://natmus.dk/
+- https://slaegtsbibliotek.dk/
 
 Government:
-- 
-- 
+- https://borger.dk/
+- https://ft.dk
+- https://regeringen.dk
+- https://sundhed.dk/
+- https://stm.dk
+- https://um.dk
 
 Political Parties:
-- 
-- 
+- https://danmarksdemokraterne.dk
+- https://danskfolkeparti.dk
+- https://enhedslisten.dk
+- https://j.fo/
+- https://konservative.dk
+- https://konservativungdom.dk/
+- https://liberalalliance.dk
+- https://laungdom.dk/
+- https://moderaterne.dk
+- https://radikale.dk
+- https://www.radikalungdom.com/
+- https://samband.fo/
+- https://sf.dk
+- https://www.alternativet.dk/
+- https://www.dsu.net/
+- https://www.ia.gl/
+- https://www.siumut.gl/
+- https://www.socialdemokratiet.dk/
+- https://www.venstre.dk/
 
 Other:
+- https://www.a4medier.dk/
 - https://da.wikipedia.org
-- 
-- 
+- https://journalisten.dk/
+- https://jyskordbog.dk
+- https://www.kommunen.dk/
+- https://ordnet.dk
 
 Informative links (in English):
-- 
-- 
+- https://cphpost.dk/
+- https://www.thelocal.dk/
 
 Additional Information:
 - ISO-639-3 code: dan

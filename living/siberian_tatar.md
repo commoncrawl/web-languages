@@ -1,31 +1,32 @@
 # Web Language: Siberian Tatar
 
 Additional names:
-- 
+- cебертатарца / себертатар теле 
 
 News:
-- 
+- https://vk.com/vestitob (News in Russian and Siberian Tatar, separated by ***)
 - 
 
 Culture / History:
-- 
-- 
+- https://twgan-seber-ile.livejournal.com/ (some posts after 'Себертатар телтә:' are translated)
+- https://www.sybyrlar.narod.ru/ (contains some materials in the language)
 
 Government:
-- 
-- 
+
 
 Political Parties:
-- 
-- 
+
 
 Other:
-- 
-- 
+- https://incubator.wikimedia.org/wiki/Special:PrefixIndex/Wp/sty
+- https://rus4all.ru/sty/ (Literature in Siberian Tatar)
+- https://vk.com/sybyrlar (some posts are in the language)
+- https://lingvodoc.ispras.ru/corpora_all?language=500%2C122 (Corpora)
+
 
 Informative links (in English):
-- 
-- 
+- https://en.wikipedia.org/wiki/Siberian_Tatar_language
+- https://minlang.iling-ran.ru/lang/sibirskotatarskiy-yazyk (description in Russian and some materials in the language)
 
 Additional Information:
 - ISO-639-3 code: sty
@@ -33,7 +34,7 @@ Additional Information:
 
 
 Scripts:
-- 
+- <a href="https://en.wikipedia.org/wiki/ISO_15924">ISO 15924 Cyrl</a> Cyrillic
 
 Thank you to these people who have helped create this document:
 - 

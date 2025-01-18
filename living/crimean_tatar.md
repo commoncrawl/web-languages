@@ -1,45 +1,71 @@
 # Web Language: Crimean Tatar
 
 Additional names:
-- qırımtatarca
-- 
+- qırımtatarca / qırımtatar tili / qırım tili / къырымтатарджа / къырымтатар тили / къырым тили 
 
 News:
-- 
-- 
+- https://suspilne.media/crimea/crh/latest/
+- http://crimea.suspilne.media/qt (old version of the site above)
+- https://ktat.krymr.com/
+- http://qirim.info/ (archived)
+- https://qirimca.news/ (archived)
 
 Culture / History:
-- 
-- 
+- https://crh.crimeantatars.club/
+- https://tamirlar.com/qt/1-2/
+- https://tuvgantil.kirimdernegi.org.tr/
+- http://medeniye.org/
+- http://www.crimeanhouse.org/crh
+- https://www.ornek-crimea.com/
+- https://meydan.fm/qt (Radio station)
+- http://vatan.fm/ (Radio station, crh_Cyrl)
+- https://atr.ua/qt (TV channel)
+- https://trkmillet.ru/ (TV channel, crh_Cyrl)
+- https://tat.koktebel-jazz.ru/ (Festival, crh_Cyrl)
+- https://rus4all.ru/crh/ (Literature, crh_Cyrl)
+- https://gasprinskylibrary.ru/qt/ (Library, crh_Cyrl)
+- https://ktteatr.ru/ (Theater, crh_Cyrl)
+- https://avdet.org (archived version, crh_Cyrl)
 
 Government:
-- 
-- 
+- https://ppu.gov.ua/qt/
+- https://minre.gov.ua/crh/
+- http://mip.gov.ua/cr/ (archived version)
+- http://www.rada.crimea.ua/kt/ (archived version, crh_Cyrl)
+- http://crimea.gov.ru/kt/ (crh_Cyrl)
 
 Political Parties:
-- 
-- 
+- https://qtmm.org/qt/ 
+- https://uniuneatatara.ro/krm/ (Democratic Union of Turkic-Muslim Tatars of Romania)
 
 Other:
 - https://crh.wikipedia.org
-- 
-- 
+- https://armanciq.ru/qt_lat/
+- https://maye-safet-metinler.mozello.com/
+- https://qmdi.ru/qt/
+- https://www.dumk.org/cr/
+- https://ctrcenter.org/qt
+- https://qirimjr.org/
+- https://www.bulbulkids.com.ua/ct
+- https://ana-yurt.com/qrt (crh_Cyrl)
+- https://quran.com.ua/meal/dizen-qurtnezir (crh_Cyrl)
+- https://ctcorpus.org/index.php/crh/ (Corpus)
+- https://kt.volnamobile.ru/ (Mobile operator, crh_Cyrl)
 
 Informative links (in English):
-- 
-- 
+- https://en.wikipedia.org/wiki/Crimean_Tatar_language
 
 Additional Information:
 - ISO-639-3 code: crh
 - https://en.wikipedia.org/wiki/ISO_639:crh
+- https://github.com/prosvita/crh.transliteration (Transliteration library for the scripts)
 
 
 Scripts:
 - <a href="https://en.wikipedia.org/wiki/ISO_15924">ISO 15924 Latn</a> Latin
-- 
+- <a href="https://en.wikipedia.org/wiki/ISO_15924">ISO 15924 Cyrl</a> Cyrillic (less common, older version)
 
 Thank you to these people who have helped create this document:
-- 
 - 
 
 ## Instructions

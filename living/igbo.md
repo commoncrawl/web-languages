@@ -4,16 +4,28 @@ Additional names:
 - 
 
 News:
-- 
-- 
+- https://igbobasics.com
+- http://www.igbofocus.co.uk
+- https://dubawa.org
+- https://igboradio.com
+- https://uwandiigbo.org
+- https://www.thisdaylive.come/preserve-igbo-heritage/
+- https://www.nairaland.com
+- https://www.bbcigbo.com
 
 Culture / History:
-- 
-- 
+- https://www.oriire.com
+- https://umunnaigbomanitoba.ca
+- https://www.uiulosangeles.org
+- https://theculturetrip.com
+- http://igboconference.com
+- https://igbokwenuct.org
 
 Government:
-- 
-- 
+- https://anambrastate.gov.ng
+- https://www.ebonyistate.gov.ng
+- https://webarchive.archive.unhcr.org
+- https://enugustate.gov.ng
 
 Political Parties:
 - 
@@ -21,12 +33,24 @@ Political Parties:
 
 Other:
 - https://ig.wikipedia.org
-- 
-- 
+- https://www.everyculture.com/wc/Mauritania-to-Nigeria/Igbo.html
+- https://www.igboguide.org/
+- https://meta.m.wikimedia.org/wiki/Igbo_Wikimedians_User_Group 
 
 Informative links (in English):
-- 
-- 
+- https://www.teachyourselfigbo.com
+- https://www.igbolearninghub.com
+- https://www.igbo911.com
+- https://www.bbcigbo.com 
+- https://www.britannica.com 
+- https://ehrafworldcultures.yale.edu/cultures/ff26/summary 
+- https://www.icogermany.de/igbo-culture-traditions/ 
+- https://www.everyculture.com/wc/Mauritania-to-Nigeria/Igbo.html
+- https://www.apas.africa
+- https://www.omniglot.com/writing/igbo.htm
+- https://ehrafworldcultures.yale.edu/cultures/ff26/summary
+- https://www.icogermany.de/igbo-culture-traditions/
+- https://igbokwenuct.org/
 
 Additional Information:
 - ISO-639-3 code: ibo
@@ -38,8 +62,12 @@ Scripts:
 - 
 
 Thank you to these people who have helped create this document:
-- 
-- 
+- [Nancy Anya](dananancy45@gmail.com)
+- [Chimezirim Eke](chimezirimeke7@gmail.com)
+- [Chinemerem Alexander](chinemeremalexander56@gmail.com)
+- [Christiana Igboanugo](amarachiigboanugo300@gmail.com)
+- [Duke Martins](dukeoftt02@gmail.com)
+
 
 ## Instructions
 

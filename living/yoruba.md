@@ -15,12 +15,10 @@ News:
 - https://www.yoruba.ca/
 - https://theyorubatimes.com/
 - https://alaroye.org
-- asejere.net
+- https://www.asejere.net/
 
 Culture / History:
-- https://study.com/academy/lesson yoruba-people-language-culture-music.html
 - https://springs-rcc.org/yoruba-architectural-sites-in-nigeria/
-- https://ijw.org/exploring-wilderness-in-yoruba-culture/
 - https://ijw.org/exploring-wilderness-in-yoruba-culture/
 - https://hearstmuseum.berkeley.edu/wp-content/uploads/TeachingKit_YorubaArtAndCulture.pdf
 - https://springs-rcc.org/yoruba-architectural-sites-in-nigeria/
@@ -54,8 +52,7 @@ Informative links (in English):
 - https://www.jstor.org/stable/3172061
 - http://repository.ui.edu.ng/handle/123456789/6686?mode=full
 - https://discoveryoruba.com
-- www.youtube.com/@yorubalessons
-- www.youtube.com/@iseowoomogbolahun
+- https://www.youtube.com/@yorubalessons
 - https://www.yorubaindigo.com
 - https://naijish.com/
 - https://www.onlineyorubalessons.com

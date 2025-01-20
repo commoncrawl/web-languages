@@ -4,12 +4,15 @@ Additional names:
 - 
 
 News:
-- 
-- 
+- https://koode.net
+- https://sakiraabemedia.com
+- https://www.facebook.com/SakiraabeMedia/
+- https://andaltech.com
 
 Culture / History:
-- 
-- 
+- https://www.facebook.com/jaabiire/
+- https://tummudefulfulde.com/
+- https://ff.wikipedia.org
 
 Government:
 - 
@@ -24,8 +27,8 @@ Other:
 - 
 
 Informative links (in English):
-- 
-- 
+- https://rising.globalvoices.org/languages/2023/09/19/sakiraa%C9%93e-media/
+
 
 Additional Information:
 - ISO-639-3 code: fuv
@@ -37,8 +40,7 @@ Scripts:
 - 
 
 Thank you to these people who have helped create this document:
-- 
-- 
+- [Surajo Teete](suraajuteete@gmail.com)
 
 ## Instructions
 

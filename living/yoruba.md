@@ -5,12 +5,28 @@ Additional names:
 - 
 
 News:
-- 
-- 
+- https://www.bbc.com/yoruba
+- https://alaroye.org/
+- https://m.facebook.com/groups/1415046175476499/
+- https://alaroye.org/
+- https://www.facebook.com/alaroyeOnlinetv
+- https://www.youtube.com/channel/UC2Xy59nQ995_A78C1m0-v9Q
+- https://yorubaaladun.com/
+- https://www.yoruba.ca/
+- https://theyorubatimes.com/
+- https://alaroye.org
+- asejere.net
 
 Culture / History:
-- 
-- 
+- https://study.com/academy/lesson yoruba-people-language-culture-music.html
+- https://springs-rcc.org/yoruba-architectural-sites-in-nigeria/
+- https://ijw.org/exploring-wilderness-in-yoruba-culture/
+- https://ijw.org/exploring-wilderness-in-yoruba-culture/
+- https://hearstmuseum.berkeley.edu/wp-content/uploads/TeachingKit_YorubaArtAndCulture.pdf
+- https://springs-rcc.org/yoruba-architectural-sites-in-nigeria/
+- https://wisc.pb.unizin.org/lctlresources/chapter/yoruba-cultural-resources/
+- https://www.everyculture.com/wc/Mauritania-to-Nigeria/Yoruba.html
+
 
 Government:
 - 
@@ -26,8 +42,29 @@ Other:
 - 
 
 Informative links (in English):
-- 
-- 
+- https://www.memrise.com/en/learn-yoruba
+- https://www.tomedes.com/translator-hub/yoruba-language
+- https://akoniledeyoruba.com/home/
+- https://www.dialogue-africa.com/course/Learn-Yoruba
+- https://wisc.pb.unizin.org/lctlresources/chapter/yoruba-language-learning-websites/
+- https://african.wisc.edu/languages/yoruba/
+- https://alamojayoruba.com/
+- https://www.loc.gov/item/sn88088106/
+- https://www.thehistoryville.com/iwe-irohin/
+- https://www.jstor.org/stable/3172061
+- http://repository.ui.edu.ng/handle/123456789/6686?mode=full
+- https://discoveryoruba.com
+- www.youtube.com/@yorubalessons
+- www.youtube.com/@iseowoomogbolahun
+- https://www.yorubaindigo.com
+- https://naijish.com/
+- https://www.onlineyorubalessons.com
+- https://www.yorubabasics.com
+- http://mylanguage.org/learnyoruba.php
+- https://ominirayoruba2022.com
+- https://oxfordre.com/africanhistory/display/10.1093/acrefore/9780190277734.001.0001/acrefore-9780190277734-e-718?d=%2F10.1093%2Facrefore%2F9780190277734.001.0001%2Facrefore-9780190277734-e-718&p=emailA0taeJUBAAsjw
+- https://www.researchgate.net/publication/272328350_Preservation_and_Conservation_of_Yoruba_Cultural_Artifacts_The_Place_of_Nigerian_Libraries_and_Archives
+
 
 Additional Information:
 - ISO-639-3 code: yor
@@ -39,8 +76,10 @@ Scripts:
 - 
 
 Thank you to these people who have helped create this document:
-- 
-- 
+- [Olabisi Itiola](itiolaolabisi@gmail.com)
+- [Seun Atere](atereseunruth01@gmail.com)
+- [Moyinoluwa Ekundayo](ekundayomoyinoluwa@gmail.com)
+- [Kasarachi Immaculate](ogbonnaimmaculate4@gmail.com)
 
 ## Instructions
 

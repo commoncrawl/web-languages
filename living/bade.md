@@ -24,8 +24,9 @@ Other:
 - 
 
 Informative links (in English):
-- 
-- 
+- https://joshuaproject.net/people_groups/10548/NI#:~:text=Sources:%20People%20Group%20location:%20IMB,%2C%20goats%2C%20and%20some%20horses
+- http://aflang.humanities.ucla.edu/language-materials/chadic-languages/yobe/bade/#:~:text=The%20term%20%E2%80%9Cverbal%20arts%E2%80%9D%20encompasses,Project%20home%20page%20for%20details
+ 
 
 Additional Information:
 - ISO-639-3 code: bde

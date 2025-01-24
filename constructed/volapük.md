@@ -21,11 +21,11 @@ Political Parties:
 
 Other:
 - https://vo.wikipedia.org
-- 
+- http://volapük.com (Volapük portal)
 - 
 
 Informative links (in English):
-- 
+- http://interlanguages.net/AILvol.html
 - 
 
 Additional Information:

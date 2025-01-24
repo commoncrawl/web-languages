@@ -20,11 +20,11 @@ Political Parties:
 - 
 
 Other:
-- 
+- https://romanova.altervista.org/romanova-english-dictionary (Romanova -> English dictionary)
 - 
 
 Informative links (in English):
-- 
+- https://docs.verbix.com/Languages/Romanova
 - 
 
 Additional Information:

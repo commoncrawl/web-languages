@@ -22,11 +22,11 @@ Political Parties:
 
 Other:
 - https://jbo.wikipedia.org
-- 
+- https://www.lojban.org
 - 
 
 Informative links (in English):
-- 
+- https://wiki.haskell.org/Lojban
 - 
 
 Additional Information:

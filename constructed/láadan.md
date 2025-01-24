@@ -20,11 +20,12 @@ Political Parties:
 - 
 
 Other:
-- 
+- https://laadanlanguage.com
 - 
 
 Informative links (in English):
-- 
+- http://www.laadanlanguage.org (Láadan lessons and dictionary)
+- http://www.sfwa.org/members/elgin (creator of Láadan)
 - 
 
 Additional Information:

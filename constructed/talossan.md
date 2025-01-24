@@ -1,6 +1,9 @@
 # Web Language: Talossan
 
 Additional names:
+- El glheþ Talossan
+- El glheþ
+- Ár glheþ
 - 
 
 News:
@@ -20,11 +23,12 @@ Political Parties:
 - 
 
 Other:
-- 
+- https://talossa.com (Kingdom of Talossa)
+- https://oversteir.talossa.com (English to Talossan translator)
 - 
 
 Informative links (in English):
-- 
+- https://wiki.talossa.com/Glhe%C3%BE
 - 
 
 Additional Information:

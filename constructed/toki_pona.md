@@ -28,6 +28,7 @@ Other:
 Informative links (in English):
 - https://tokipona.org
 - https://sona.pona.la/wiki/Main_Page (wiki about Toki Pona)
+- https://mun.la/sona/index.html (Learn Toki Pona)
 - 
 
 Additional Information:

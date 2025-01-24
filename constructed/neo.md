@@ -8,7 +8,7 @@ News:
 - 
 
 Culture / History:
-- 
+- http://neo-nel-mond.blogspot.com (A blog in and on Neo)
 - 
 
 Government:

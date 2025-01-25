@@ -22,7 +22,8 @@ Political Parties:
 
 Other:
 - https://ia.wikipedia.org
-- 
+- https://www.interlingua.com
+- https://rudhar.com/lingtics/intrlnga/resurses.htm (Collection of links to Interlingua resources)
 - 
 
 Informative links (in English):

@@ -1,18 +1,18 @@
 # Web Language: Klingon
 
 Additional names:
-- 
+- tlhIngan-Hol
 
 News:
 - 
 - 
 
 Culture / History:
-- 
+- https://memory-alpha.fandom.com/wiki/Klingon_Empire
 - 
 
 Government:
-- 
+- https://en.wikipedia.org/wiki/Klingon_High_Council
 - 
 
 Political Parties:
@@ -20,23 +20,32 @@ Political Parties:
 - 
 
 Other:
-- 
+- https://www.kli.org/ (Klingon Language Institute)
+- https://hol.kag.org/ (Klingon Language Academy)
+- https://www.klingon.org/ (Klingon Imperial Diplomatic Corps)
+- http://www.tasigh.org/takzh/index.html (Klingon Chess)
+- https://universeofmemory.com/klingon-language-resources/ (Klingon Language Resources)
+- https://www.kag.org/about/other-resources/ (Klingon Assault Group)
 - 
 
 Informative links (in English):
-- 
+- http://www.klingonarmadainternational.com/learning-to-speak-klingon (Learning Klingon)
+- https://en.wikipedia.org/wiki/Klingon_language
+- https://klingon.wiki/En/
 - 
 
 Additional Information:
 - ISO-639-3 code: tlh
 - https://en.wikipedia.org/wiki/ISO_639:tlh
-
+- https://en.wikipedia.org/wiki/Klingon_scripts
+- 
 
 Scripts:
-- 
+- <a href="https://en.wikipedia.org/wiki/ISO_15924">ISO 15924 Piqd</a> Klingon (KLI pIqaD)
 
 Thank you to these people who have helped create this document:
-- 
+- [Thom Vaughan](https://github.com/thunderpoot)
+- [Fek'lhr](https://memory-alpha.fandom.com/wiki/Fek%27lhr)
 - 
 
 ## Instructions

@@ -1,6 +1,7 @@
 # Web Language: Kotava
 
 Additional names:
+- Kodava
 - 
 
 News:
@@ -21,11 +22,12 @@ Political Parties:
 
 Other:
 - https://avk.wikipedia.org
-- 
+- https://www.kotava.org/kt_index.htm (Kotava portal)
+- http://www.international-language.org (Kotava dictionaries)
 - 
 
 Informative links (in English):
-- 
+- https://www.kotava.org/en_index.htm (Kotava portal in English)
 - 
 
 Additional Information:

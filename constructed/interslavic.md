@@ -20,10 +20,13 @@ Political Parties:
 - 
 
 Other:
-- 
+- https://interslavic-language.org (Interslavic language portal)
+- https://interslavic.fun (Learn Interslavic)
+- https://interslavic-dictionary.com (English to Interslavic dictionary)
 - 
 
 Informative links (in English):
+- http://steen.free.fr/interslavic
 - 
 - 
 

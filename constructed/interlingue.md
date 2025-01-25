@@ -1,6 +1,7 @@
 # Web Language: Interlingue
 
 Additional names:
+- Occidental
 - 
 
 News:
@@ -21,11 +22,15 @@ Political Parties:
 
 Other:
 - https://ie.wikipedia.org
-- 
+- https://occidental.narod.ru (Portal to Interlingue info)
+- https://occidental-lang.com (another portal)
+- http://interlingue.pbworks.com/w/page/4882389/FrontPage (yet another portal)
+- http://dicta.bplaced.net/radicarium_directiv.html (dictionary)
+- https://glosbe.com/ie/en (Interlingue to English dictionary)
 - 
 
 Informative links (in English):
-- 
+- https://interlingue.narod.ru/eng.html
 - 
 
 Additional Information:

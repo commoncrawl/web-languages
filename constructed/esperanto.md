@@ -4,11 +4,14 @@ Additional names:
 - 
 
 News:
-- 
+- https://eo.mondediplo.com
+- http://neniammilitointerni.over-blog.com
+- https://www.liberafolio.org
+- https://eventaservo.org (Overview of worldwide Esperanto events)
 - 
 
 Culture / History:
-- 
+- https://www.gutenberg.org/files/20006/20006-h/20006-h.htm (Second book, first book written entirely in Esperanto)
 - 
 
 Government:
@@ -21,11 +24,18 @@ Political Parties:
 
 Other:
 - https://eo.wikipedia.org
-- 
+- https://uea.org (Universal Esperanto Association)
+- http://www.esperanto.org
+- https://esperanto.net/eo
+- https://vortaro.net (Esperanto dictionary)
+- https://www.eventoj.hu (Esperanto portal)
+- https://www.eventoj.hu/steb/index.html (Scientific and Technical Esperanto Library)
+- https://www.akademio-de-esperanto.org (Academy of Esperanto)
+- https://lernu.net (Esperanto classes)
 - 
 
 Informative links (in English):
-- 
+- https://esperanto.net/en
 - 
 
 Additional Information:

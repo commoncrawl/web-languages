@@ -8,7 +8,9 @@ News:
 - 
 
 Culture / History:
-- 
+- https://tolkiengateway.net/wiki/Quenya
+- https://lotr.fandom.com/wiki/Quenya
+- https://folk.uib.no/hnohf/quenya.htm
 - 
 
 Government:
@@ -20,7 +22,7 @@ Political Parties:
 - 
 
 Other:
-- 
+- https://www.elfdict.com/w/quenya (Quenya dictionary)
 - 
 
 Informative links (in English):

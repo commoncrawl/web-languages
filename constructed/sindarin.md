@@ -8,7 +8,8 @@ News:
 - 
 
 Culture / History:
-- 
+- https://lotr.fandom.com/wiki/Sindarin
+- https://tolkiengateway.net/wiki/Sindarin
 - 
 
 Government:
@@ -20,7 +21,8 @@ Political Parties:
 - 
 
 Other:
-- 
+- https://www.elfdict.com/w/sindarin (Sindarin dictionary)
+- https://www.jrrvf.com/hisweloke/sindar/ (another Sindarin dictionary)
 - 
 
 Informative links (in English):

@@ -20,11 +20,15 @@ Political Parties:
 - 
 
 Other:
-- 
+- https://tokipona.org/#tok
+- https://jan-ne.github.io/tp/dictionary (Toki Pona -> English dictionary)
+- https://wikipesija.org/wiki/lipu_open (Encyclopedia)
 - 
 
 Informative links (in English):
-- 
+- https://tokipona.org
+- https://sona.pona.la/wiki/Main_Page (wiki about Toki Pona)
+- https://mun.la/sona/index.html (Learn Toki Pona)
 - 
 
 Additional Information:

@@ -2,44 +2,50 @@
 
 Additional names:
 - українська
-- 
 
 News:
-- 
-- 
+- https://hromadske.ua/
+- https://suspilne.media/
+- https://espreso.tv/
+- https://www.bbc.com/ukrainian
+- https://babel.ua/
+- https://grnt.media/
 
 Culture / History:
-- 
-- 
+- http://www.nbuv.gov.ua/node/2116 (National Library with links to different databases)
+- https://nmiu.org/ (National Musuem)
+- https://opera.com.ua/ (National Opera)
+- https://vdng.ua/ (Exhibition Centre)
+- http://history.org.ua/uk (Insitute of National History)
+- https://www.museumsun.org/ (Museum "Making of the Ukrainian Nation")
 
 Government:
-- 
-- 
+- https://www.president.gov.ua/
+- https://www.rada.gov.ua/
 
 Political Parties:
-- 
-- 
+- https://sluga-narodu.com/
+- https://eurosolidarity.org/
+- https://goloszmin.org/
 
 Other:
 - https://uk.wikipedia.org
-- 
-- 
 
 Informative links (in English):
-- 
-- 
+- https://en.wikipedia.org/wiki/Ukrainian_language
+- https://en.wikipedia.org/wiki/Ukrainian_dialects
+- https://ukraine.ua/
 
 Additional Information:
 - ISO-639-3 code: ukr
 - https://en.wikipedia.org/wiki/ISO_639:ukr
+- Internet TLD: .ua
 
 
 Scripts:
 - <a href="https://en.wikipedia.org/wiki/ISO_15924">ISO 15924 Cyrl</a> Cyrillic
-- 
 
 Thank you to these people who have helped create this document:
-- 
 - 
 
 ## Instructions

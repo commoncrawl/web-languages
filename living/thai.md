@@ -14,7 +14,7 @@ Culture / History:
 - https://www.silpa-mag.com/
 
 Government:
-- https://www.thaigov.go.th/ (Royal Thai Governmen)
+- https://www.thaigov.go.th/ (Royal Thai Government)
 - 
 
 Political Parties:

@@ -11,14 +11,29 @@ News:
 - https://www.kigalitoday.com/
 - https://www.rba.co.rw/
 - https://www.radiyoyacuvoa.com/rwanda
+- https://bwiza.com/
+- https://umuryango.rw/
+- https://kinyamateka.rw/
+- https://imvahonshya.co.rw/
+- https://amakuru.co.rw/
+- https://muhaziyacu.rw/
+- https://rushyashya.net/
+- http://isimbi.rw/
+- https://www.impuruza.net/
+- https://www.amakurumashya.rw/
+- https://www.yacu.rw/
 
 Culture / History:
 - https://inyamibwa.com/
-- 
+- https://rw.amateka.net/
 
 Government:
 - https://www.rwandaheritage.gov.rw/
 - https://police.gov.rw/rw
+- https://www.lands.rw/rw/ahabanza
+- https://www.cheno.gov.rw/rw/ahabanza
+- https://www.rra.gov.rw/ahabanza
+- https://www.kamonyi.gov.rw/
 
 Political Parties:
 - https://rpfinkotanyi.rw/amatora/

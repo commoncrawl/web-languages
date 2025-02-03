@@ -4,16 +4,47 @@ Additional names:
 - 
 
 News:
-- 
-- 
+- https://hausa.legit.ng/
+- https://www.rfi.fr/ha/
+- https://www.voahausa.com/
+- https://hausa.premiumtimesng.com/
+- https://hausa.cri.cn/
+- https://hausa.leadership.ng/
+- https://aminiya.ng/
+- https://hausatv.com/
+- https://www.dclhausa.com/?m=1
+- https://www.dw.com/ha/shirye-shiryen-dw-hausa/s-67085882
+- https://trtafrika.com/ha
+- https://ha.abna24.com/
+- https://prnigeria.com/hausa/
+- https://pharmacieduvaldesarthe.fr/bb-h-labaranjah-kan
+- https://hausa.leadership.ng
+- https://freedomradionig.com/
 
 Culture / History:
-- 
-- 
+- https://www.rfi.fr/ha/shirye-shirye/aladu/
+- https://www.academia.edu/45613568/TSOKACI_A_KAN_ALADUN_HAUSAWA_NA_AURE_JIYA_DA_YAU
+- https://aminiya.ng/aladar-bahaushe-jiya-da-yau/
+- https://www.amsoshi.com/2017/07/aladun-hausawa-alkalamin-mishan-ci-gaba_29.html?m=1
+- https://wikihausa.com.ng/hausawa-da-aladunsu/
+- https://makarantarhausa.com/dandane?l=1X1X2X44/
+- https://manhaja.blueprint.ng/muhimmancin-raya-aladun-gargajiya-ga-rayuwar-hausawa/
+- https://www.tasambo.com/2024/02/tasirin-musulunci-kan-auren-hausawa.html?m=1
+- https://m.soundcloud.com/jarumahausatv24/wakar-tarihi-da-aladun-hausawa
+- https://www.zamijoh.com/2023/12/aladun-hausawa-duniyar-intanet-san.html?m=1
+- https://discovery.researcher.life/article/allah-aya-gari-bamban-bambancin-wasu-al-adun-hausawa-da-na-barebari/66109756e6913392be4636fdd9a42c0c
+- https://www.rumbunilimi.com.ng/HausaAla'adu.html/
+- https://hausa.cri.cn/10101/85744c53-ce5b-4cfa-ab18-b876bb63853b.html
+- https://www.britannica.com/topic/Hausa
+- https://ehrafworldcultures.yale.edu/cultures/ms12/summary
+
 
 Government:
-- 
-- 
+- https://africacenter.org/ha/spotlight/%C6%99ungiyoyin-yan-bindiga-masu-kawo-rashin-kwanciyar-hankalin-arewa-maso-yammacin-najeriya/
+- https://www.voahausa.com/labarai-a-takaice
+- https://almizan.ng/gwamnati-da-kafafen-ya%C9%97a-labarai-abokan-hul%C9%97a-ne-ba-na-adawa-ba-inji-ministan-ya%C9%97a-labarai/
+- https://dailynigerian.com/hausa/aikatan-fct-gwamnati-wahala/
+- https://hausatv.com/
 
 Political Parties:
 - 
@@ -21,12 +52,21 @@ Political Parties:
 
 Other:
 - https://ha.wikipedia.org
-- 
-- 
+- https://www.lexilogos.com/english/hausa_dictionary.htm
+- https://www.facebook.com/
+- https://lingvanex.com/translation/english-to-hausa
+- https://utalk.com/en/store/hausa
+
 
 Informative links (in English):
-- 
-- 
+- https://hausadailynews.com/
+- https://hausaonline.wordpress.com/tag/news/
+- http://www.teachyourselfhausa.com/
+- https://www.learnentry.com/english-hausa/meaning/news/
+- https://glosbe.com/en/ha/news
+- https://www.lexilogos.com/english/hausa_dictionary.htm
+- http://aflang.humanities.ucla.edu/language-materials/chadic-languages/hausa/hausar-baka-online/
+
 
 Additional Information:
 - ISO-639-3 code: hau
@@ -38,8 +78,10 @@ Scripts:
 - 
 
 Thank you to these people who have helped create this document:
-- 
-- 
+- [Maryam Abubakar](maryamsabubakar53@gmail.com)
+- [Chimezirim Eke](chimezirimeke7@gmail.com)
+- [Abdullahi Musa Muhammad Arushe](Muhammadarushe226@gmail.com)
+- [Amina Marmara](meenamarmara@gmail.com)
 
 ## Instructions
 

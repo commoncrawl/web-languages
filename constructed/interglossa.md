@@ -20,7 +20,7 @@ Political Parties:
 - 
 
 Other:
-- 
+- https://sites.google.com/view/english-interglossa-dict-1943/home (English-Interglossa Dictionary)
 - 
 
 Informative links (in English):

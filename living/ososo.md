@@ -8,8 +8,7 @@ News:
 - 
 
 Culture / History:
-- 
-- 
+- https://www.elararchive.org/dk0676 
 
 Government:
 - 
@@ -20,12 +19,14 @@ Political Parties:
 - 
 
 Other:
-- 
-- 
+- https://www.naijschools.com/interesting-facts-about-the-people-of-ososo-ethnic-group/
+- https://joshuaproject.net/people_groups/14228/NI
+- https://en.wikipedia.org/wiki/Ososo 
 
 Informative links (in English):
-- 
-- 
+- http://www.edoworld.net/The_Origin_of_Ososo_People.html
+- https://elararchive.org/blog/2024/03/08/documentation-of-ososo-language-and-ovbiko-maiden-initiation-rite/
+
 
 Additional Information:
 - ISO-639-3 code: oso
@@ -36,8 +37,7 @@ Scripts:
 - 
 
 Thank you to these people who have helped create this document:
-- 
-- 
+- [Agnes Legbeti](aggylegbeti@gmail.com)
 
 ## Instructions
 

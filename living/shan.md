@@ -5,8 +5,9 @@ Additional names:
 - 
 
 News:
-- 
-- 
+- https://shannews.org
+- https://taifreedom.com
+- https://shan.shanhumanrights.org/
 
 Culture / History:
 - 
@@ -22,11 +23,12 @@ Political Parties:
 
 Other:
 - https://shn.wikipedia.org
-- 
+- https://shaniit.org/ (Shan Institute of Information Technology)
+- https://tainovel.com/ (Shan Novel)
 - 
 
 Informative links (in English):
-- 
+- https://en.wikipedia.org/wiki/Shan_language
 - 
 
 Additional Information:
@@ -35,10 +37,10 @@ Additional Information:
 
 
 Scripts:
-- 
+- [ISO 15924 Myanmar](https://en.wikipedia.org/wiki/ISO_15924) Mon
 
 Thank you to these people who have helped create this document:
-- 
+- [NoerNova](https://github.com/noernova)
 - 
 
 ## Instructions

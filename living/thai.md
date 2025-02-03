@@ -5,20 +5,23 @@ Additional names:
 - 
 
 News:
-- 
-- 
+- https://www.thairath.co.th
+- https://www.matichon.co.th
+- https://nbt2hd.prd.go.th (National Broadcasting Services of Thailand)
+- https://mgronline.com/
 
 Culture / History:
-- 
-- 
+- https://www.silpa-mag.com/
 
 Government:
-- 
+- https://www.thaigov.go.th/ (Royal Thai Government)
 - 
 
 Political Parties:
-- 
-- 
+- https://ptp.or.th/ (Pheu Thai Party)
+- https://peoplesparty.or.th (People's Party)
+- https://bhumjaithai.com (Bhumjaithai Party)
+- https://democrat.or.th/ (Democrat Party)
 
 Other:
 - https://th.wikipedia.org
@@ -26,7 +29,8 @@ Other:
 - 
 
 Informative links (in English):
-- 
+- https://en.wikipedia.org/wiki/Thai_language
+- https://en.wikipedia.org/wiki/List_of_political_parties_in_Thailand
 - 
 
 Additional Information:
@@ -39,7 +43,7 @@ Scripts:
 - 
 
 Thank you to these people who have helped create this document:
-- 
+- [wannaphong](https://github.com/wannaphong/)
 - 
 
 ## Instructions

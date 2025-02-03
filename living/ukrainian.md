@@ -18,6 +18,7 @@ Culture / History:
 - https://vdng.ua/ (Exhibition Centre)
 - http://history.org.ua/uk (Insitute of National History)
 - https://www.museumsun.org/ (Museum "Making of the Ukrainian Nation")
+- https://www.sucho.org/ (Saving Ukrainian Cultural Heritage Online)
 
 Government:
 - https://www.president.gov.ua/
@@ -46,7 +47,7 @@ Scripts:
 - <a href="https://en.wikipedia.org/wiki/ISO_15924">ISO 15924 Cyrl</a> Cyrillic
 
 Thank you to these people who have helped create this document:
-- 
+- [Thom Vaughan](https://github.com/thunderpoot)
 
 ## Instructions
 

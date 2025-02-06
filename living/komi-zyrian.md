@@ -7,13 +7,19 @@ News:
 - http://komikerka.ru/
 - https://komiinform.ru/news/e/161
 - https://www.nbrkomi.ru/kraevedenie/vyltoryas (accessible only with Russian IP)
+- https://rkomi.ru/language/kv (accessible only with Russian IP)
+- https://komivoityr.ru/news
+- 
 
 Culture / History:
 - https://komikyv.org/
+- https://cultmap.nbrkomi.ru/km (accessible only with Russian IP)
 - 
 
 Government:
-- 
+- https://gov.rkomi.ru/kv (accessible only with Russian IP)
+- https://komi.gsrk.ru (accessible only with Russian IP)
+- https://adm.rkomi.ru/language/kv (accessible only with Russian IP)
 - 
 
 Political Parties:
@@ -23,6 +29,9 @@ Political Parties:
 Other:
 - https://kv.wikipedia.org/
 - https://vk.com/as_kyv_dor (social media posts, mostly in Komi, older posts are political)
+- http://komikyv.com (Komi linguistics)
+- http://wiki.komikyv.org
+- 
 
 Informative links (in English):
 - 

@@ -1,10 +1,13 @@
 # Web Language: Tagalog
 
 Additional names:
+- Pilipino/Filipino (standardized Tagalog)
 - 
 
 News:
-- 
+- https://balita.mb.com.ph/tags/abs-cbn/
+- https://www.philstar.com/pilipino-star-ngayon
+- https://www.gmanetwork.com/news/balitambayan/balita/
 - 
 
 Culture / History:
@@ -12,7 +15,7 @@ Culture / History:
 - 
 
 Government:
-- 
+- https://www.gov.ph/ (trilingual Filipino/English/Cebuano)
 - 
 
 Political Parties:
@@ -21,24 +24,26 @@ Political Parties:
 
 Other:
 - https://tl.wikipedia.org
-- 
+- https://kwf.gov.ph/
 - 
 
 Informative links (in English):
-- 
+- https://en.wikipedia.org/wiki/Tagalog_language
+- https://en.wikipedia.org/wiki/List_of_political_parties_in_the_Philippines
 - 
 
 Additional Information:
 - ISO-639-3 code: tgl
 - https://en.wikipedia.org/wiki/ISO_639:tgl
-
+-
 
 Scripts:
 - <a href="https://en.wikipedia.org/wiki/ISO_15924">ISO 15924 Latn</a> Latin
+- <a href="https://en.wikipedia.org/wiki/ISO_15924">ISO 15924 Tglg​</a> Tagalog (Baybayin, Alibata: historical)
 - 
 
 Thank you to these people who have helped create this document:
-- 
+- [Alex](https://github.com/steveisd)
 - 
 
 ## Instructions

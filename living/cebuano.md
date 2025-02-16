@@ -1,10 +1,15 @@
 # Web Language: Cebuano
 
 Additional names:
+- Bisaya
+- Sinugboanon
+- Sebwano
 - 
 
 News:
-- 
+- https://cebu.bomboradyo.com/
+- https://www.philstar.com/banat
+- https://www.sunstar.com.ph/collection/superbalitacebu-top-stories
 - 
 
 Culture / History:
@@ -12,7 +17,7 @@ Culture / History:
 - 
 
 Government:
-- 
+- https://www.gov.ph/ (trilingual Filipino/English/Cebuano)
 - 
 
 Political Parties:
@@ -25,20 +30,21 @@ Other:
 - 
 
 Informative links (in English):
-- 
+- https://en.wikipedia.org/wiki/Cebuano_language
 - 
 
 Additional Information:
 - ISO-639-3 code: ceb
 - https://en.wikipedia.org/wiki/ISO_639:ceb
-
+-
 
 Scripts:
 - <a href="https://en.wikipedia.org/wiki/ISO_15924">ISO 15924 Latn</a> Latin
+- <a href="https://en.wikipedia.org/wiki/ISO_15924">ISO 15924 Tglg​</a> Tagalog (Baybayin, Alibata/Badlit: historical)
 - 
 
 Thank you to these people who have helped create this document:
-- 
+- [Alex](https://github.com/steveisd)
 - 
 
 ## Instructions

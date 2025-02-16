@@ -11,16 +11,22 @@ News:
 - 
 
 Culture / History:
-- 
+- https://ncca.gov.ph/ (mostly English)
+- https://www.nqc.gov.ph/tl/ (trilingual English/Filipino/Cebuano)
 - 
 
 Government:
 - https://www.gov.ph/ (trilingual Filipino/English/Cebuano)
+- https://www.dpwh.gov.ph/dpwh/Government-Links
 - 
 
 Political Parties:
-- 
-- 
+- https://liberal.ph/
+- https://lakascmd.com/
+- https://nup.org.ph/
+- https://akbayan.org.ph/
+- https://pdplaban.org.ph/
+-
 
 Other:
 - https://tl.wikipedia.org

@@ -4,7 +4,12 @@ Additional names:
 - 
 
 News:
-- 
+- https://mediapermata.com.bn/
+- https://www.brudirect.com/
+- https://www.bbc.com/news/world-asia-pacific-12990064
+- https://www.rtb.gov.bn/
+- https://www.pelitabrunei.gov.bn/
+- https://borneobulletin.com.bn/
 - 
 
 Culture / History:

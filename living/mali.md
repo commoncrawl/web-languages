@@ -4,7 +4,22 @@ Additional names:
 - 
 
 News:
-- 
+- https://malizine.com/
+- https://www.studiotamani.org/
+- https://www.afribone.com/
+- https://www.info-matin.ml/
+- https://mali-info.net/
+- https://malimedia.net/
+- http://www.abamako.com/
+- http://mali-web.org/
+- https://www.journaldumali.com/
+- https://lexpressdumali.com/
+- https://amap.ml/
+- https://www.maliweb.net/
+- http://bamada.net/
+- https://malijet.com/
+- https://maliactu.net/
+- https://lessor.ml/
 - 
 
 Culture / History:

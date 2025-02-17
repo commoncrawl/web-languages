@@ -5,7 +5,30 @@ Additional names:
 - 
 
 News:
-- 
+- https://journalmetro.com/
+- https://www.lesaffaires.com/
+- https://lautjournal.info/
+- https://www.la-liberte.ca/
+- https://l-express.ca/
+- https://www.lequebecois.org/
+- https://www.acadienouvelle.com/
+- https://www.lesoleil.com/
+- https://www.lapresse.ca/
+- https://www.delitfrancais.com/
+- https://leau-vive.ca/
+- https://www.lenouvelliste.ca/
+- https://www.gaboteur.ca/
+- https://thelasource.com/fr/
+- https://lecourrier.com/
+- https://www.journaldemontreal.com/
+- https://lavoixdunord.ca/
+- https://www.ledevoir.com/
+- https://lefranco.ab.ca/
+- https://www.journaldequebec.com/
+- http://rivesudexpress.ca/
+- https://www.larotonde.ca/
+- https://www.ledroit.com/
+- https://www.lecourrierdusud.ca/
 - 
 
 Culture / History:

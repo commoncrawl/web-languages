@@ -5,7 +5,28 @@ Additional names:
 - 
 
 News:
-- 
+- https://www.prajavani.net/
+- https://sudharmasanskritdaily.in/
+- https://vijaykarnataka.com/
+- http://epaper.samyukthakarnataka.com/
+- https://kannada.webdunia.com/
+- https://www.udayavani.com/
+- https://kannada.oneindia.com/
+- https://kannada.asianetnews.com/
+- https://prajapragathi.com/
+- https://janathavani.com/
+- http://www.karnatakamalla.com/
+- https://eesanje.com/
+- https://www.sahilonline.net/ka
+- https://vishwavani.news/
+- https://epapervijayavani.in/
+- https://kannadadunia.com/
+- https://kannadadunia.com
+- https://www.varthabharati.in/
+- https://www.kannadaprabha.com/
+- https://suddidina.com/
+- https://balkaninews.com/
+- https://www.sanjevani.com/
 - 
 
 Culture / History:

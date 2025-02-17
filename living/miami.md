@@ -4,7 +4,50 @@ Additional names:
 - 
 
 News:
-- 
+- https://www.law.com/dailybusinessreview/
+- https://www.miamiherald.com/
+- https://www.floridatoday.com/
+- https://www.miamitimesonline.com/
+- https://www.marconews.com/
+- https://www.miaminewtimes.com/
+- https://gotowncrier.com/
+- https://communitynewspapers.com/
+- https://www.palmbeachpost.com/
+- https://thewestsidegazette.com/
+- https://www.palmbeachdailynews.com/
+- https://libreonline.com/
+- https://www.southdadenewsleader.com/
+- https://www.islandernews.com/
+- https://www.bocaratontribune.com/
+- https://www.lehighacrescitizen.com/
+- https://courrierdesameriques.com/
+- https://www.browardpalmbeach.com/
+- https://www.gazetanews.com/
+- https://www.sun-sentinel.com/
+- https://www.diariolasamericas.com
+- https://www.elnuevoherald.com/
+- https://www.themiamihurricane.com/
+- https://estrelladenicaragua.net/
+- https://fortmyers.floridaweekly.com/
+- https://www.goodnewsfl.org/
+- https://www.publishedreporter.com/
+- https://www.happyherald.com/
+- https://www.miamitodaynews.com/
+- https://waterfronttimes.com/
+- http://elcolombiano.net/
+- https://www.southcentralfloridalife.com/immokalee/
+- https://www.southcentralfloridalife.com/labelle/
+- https://www.biscaynetimes.com/
+- https://elvenezolanonews.com/
+- https://miamidiario.com/
+- https://www.sfltimes.com/
+- https://www.sun-sentinel.com/florida-jewish-journal/
+- https://www.yoursun.com/charlotte/
+- https://www.keysnews.com/
+- https://lesoleildelafloride.com/
+- https://sflcn.com/
+- https://hollywoodgazette.com/
+- https://mdcthereporter.com/
 - 
 
 Culture / History:

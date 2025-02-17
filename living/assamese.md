@@ -5,7 +5,24 @@ Additional names:
 - 
 
 News:
-- 
+- https://net.glpublications.in/
+- https://thehillstimes.in/
+- https://dainikjanambhumi.co.in/
+- https://www.samayikprasanga.in/epaper.php
+- https://assamtribune.com/
+- https://www.timesofassam.com/
+- https://ganaadhikar.com/
+- https://jugasankhaepaper.com/
+- https://www.glpublications.in/
+- http://www.nababartaprasanga.com/
+- https://prantojyoti.in/
+- https://niyomiyabarta.com/
+- https://dainikpurvoday.com/
+- https://www.assamiyakhabor.com/
+- https://www.asomiyapratidin.in/
+- https://amarasom.glpublications.in/
+- https://www.sentinelassam.com/
+- https://www.pratidintime.com/
 - 
 
 Culture / History:

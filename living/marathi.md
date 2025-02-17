@@ -5,7 +5,30 @@ Additional names:
 - 
 
 News:
-- 
+- https://deshdoot.com/
+- https://www.lokmat.com/
+- http://epaper.saamana.com/
+- http://www.shivner.com/
+- https://elokasha.com/
+- https://beedreporter.net/
+- http://www.epunyanagari.com/
+- https://epaper.dainikgomantak.com/
+- https://www.facebook.com/MNeta/
+- https://www.thebridgechronicle.com/
+- https://www.zunjarneta.com/
+- https://parshvbhumi.com/
+- http://www.dainikmurder.net/
+- https://marathi.indiatimes.com/
+- https://divyamarathi.bhaskar.com/
+- https://pudhari.news/
+- https://www.tarunbharat.com/
+- https://www.esakal.com/
+- https://www.lokprashna.com/
+- https://prahaar.in/
+- http://epaper.dainikekmat.com/
+- https://www.loksatta.com/
+- http://www.esanchar.co.in/
+- https://agrowon.esakal.com/
 - 
 
 Culture / History:

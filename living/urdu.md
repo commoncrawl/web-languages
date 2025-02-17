@@ -5,7 +5,31 @@ Additional names:
 - 
 
 News:
-- 
+- https://taasir.com/
+- https://aurangabadtimes.net/
+- http://www.saeban.in/
+- http://www.roznama.co.in/
+- http://www.daurejadeed.com/
+- http://www.jadidkhabar.com/
+- https://www.dailysalar.com/
+- https://www.sahilonline.net/
+- https://www.urdutimesdaily.com/
+- http://www.anwareqaum.com/home_urdu.html
+- https://www.siyasitaqdeer.com/
+- http://www.etemaaddaily.com/index.php
+- https://kashmiruzma.net/
+- https://avadhnama.com/
+- https://aalmiakhbar.com/
+- https://urdu.siasat.com/
+- http://www.siyasiufuque.com/
+- https://dailyaag.com/
+- https://urdutahzeeb.com/
+- https://www.inquilab.com/
+- https://www.farooquitanzeem.com/
+- https://dailyhindustanexpress.com/
+- https://epaper.hindsamachar.in/
+- https://roznamasahara.com/
+- http://www.hamaramaqsad.com/
 - 
 
 Culture / History:

@@ -4,7 +4,71 @@ Additional names:
 - 
 
 News:
-- 
+- https://sentinelcolorado.com/
+- https://www.themountainmail.com/
+- https://www.brushnewstribune.com/
+- https://www.broomfieldenterprise.com/
+- https://www.lamarledger.com/
+- https://www.summitdaily.com/
+- https://www.coloradoan.com/
+- https://www.canoncitydailyrecord.com/
+- https://www.fortmorgantimes.com/
+- https://coloradopressassociation.com/
+- https://coloradocommunitymedia.com/commerce-city-sentinel-express/
+- https://boulderweekly.com/
+- https://www.aspentimes.com/
+- https://coloradocommunitymedia.com/castle-pines-news-press/
+- https://www.hfherald.com/
+- https://www.csindy.com/
+- https://westernslopenews.com/
+- https://coloradocommunitymedia.com/arvada-press/
+- https://www.gorizont.com/
+- https://www.craigdailypress.com/
+- https://coloradocommunitymedia.com/brighton-standard-blade/
+- https://mineralcountyminer.com/
+- https://www.akronnewsreporter.com/
+- https://www.vaildaily.com/
+- https://www.reporterherald.com/
+- https://pagosasun.com/
+- https://www.chaffeecountytimes.com/
+- https://www.berthoudrecorder.com/
+- https://www.theflume.com/
+- https://www.chieftain.com/
+- https://www.mymetmedia.com/
+- https://www.50plusmarketplacenews.com/
+- https://www.durangoherald.com/
+- https://www.eptrail.com/
+- https://www.uncmirror.com/
+- https://collegian.com/
+- https://northfortynews.com/
+- https://www.aspendailynews.com/
+- https://www.montrosepress.com/
+- https://conejoscountycitizen.com/
+- https://crestedbuttenews.com/
+- https://montevistajournal.com/
+- https://www.leadvilleherald.com/
+- https://www.hcn.org/
+- https://fourcornersfreepress.com/
+- https://www.csbj.com/
+- https://www.dailycamera.com/
+- https://www.the-journal.com/
+- https://www.timescall.com/
+- https://gazette.com/
+- https://www.lajuntatribunedemocrat.com/
+- https://alamosanews.com/
+- https://bizwest.com/
+- https://www.coloradodaily.com/
+- https://www.castlepinesconnection.com/
+- https://kiowacountypress.net/
+- https://centerpostdispatch.com/
+- https://www.steamboatpilot.com/
+- https://soprissun.com/
+- https://www.gjsentinel.com/
+- http://www.westsidepioneer.com/
+- https://www.burlington-record.com/
+- https://berthoudsurveyor.com/
+- https://www.greeleytribune.com/
+- https://coloradocommunitymedia.com/canyon-courier/
 - 
 
 Culture / History:

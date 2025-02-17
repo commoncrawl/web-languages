@@ -5,7 +5,20 @@ Additional names:
 - 
 
 News:
-- 
+- https://news.google.com/?gl=EG&hl=ar&ceid=EG:ar
+- http://www.alwasatnews.com/
+- https://www.elheddaf.com/
+- https://www.elkhabar.com/
+- https://www.albayan.ae/
+- https://www.aljazeera.net/
+- https://www.bbc.com/arabic
+- https://aawsat.com/
+- https://arabic.cnn.com/
+- https://alquds.com/ar
+- https://gate.ahram.org.eg/
+- https://www.eremnews.com/
+- https://www.alwafd.news/
+- https://www.al-akhbar.com/
 - 
 
 Culture / History:

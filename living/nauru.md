@@ -4,7 +4,9 @@ Additional names:
 - 
 
 News:
-- 
+- https://www.facebook.com/republicofnauru/
+- https://www.bbc.com/news/world-asia-pacific-15433616
+- https://en.wikipedia.org/wiki/Nauru
 - 
 
 Culture / History:

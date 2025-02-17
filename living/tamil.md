@@ -5,19 +5,73 @@ Additional names:
 - 
 
 News:
-- https://www.dinamalar.com (A leading Tamil daily newspaper offering comprehensive news coverage)
-- https://www.dinamani.com (A prominent Tamil newspaper delivering the latest updates)
-- https://www.dinakaran.com (A Tamil daily providing news on current affairs, sports, and more)
-- https://www.dailythanthi.com (One of the largest Tamil-language daily newspapers in India)
-- https://www.maalaimalar.com (A Tamil daily newspaper focusing on the latest news)
-- https://www.puthiyathalaimurai.com (A Tamil news channel and website offering up-to-date news)
-- https://tamil.abplive.com (The Tamil edition of ABP Live, providing news in Tamil)
-- https://www.vikatan.com (A popular Tamil weekly magazine covering news, cinema, and literature)
-- https://tamil.news18.com (A Tamil news channel offering the latest news and updates)
-- https://www.tamil.slbcnews.lk (The Tamil service of Sri Lanka Broadcasting Corporation)
-- https://dailyceylon.lk (A Tamil news portal offering news and updates)
-- https://tamil.madyawediya.lk (A Tamil news website providing various articles)
-- https://seithi.mediacorp.sg (A Tamil news portal from Mediacorp offering current affairs)
+- https://seithi.mediacorp.sg
+- https://www.dinamani.com
+- https://www.dinamalar.com/
+- https://www.murasoli.in/
+- https://www.sumanasa.com/tamilnews/
+- https://www.tamilmithran.com/
+- https://athirvu.in/
+- https://makkalkural.net/news/
+- https://www.athirady.com/
+- https://tamilwin.com/
+- https://www.dinakaran.com/
+- https://tamil.asianetnews.com/
+- https://www.paristamil.com/
+- https://www.dinakaran.com
+- https://tamil.oneindia.com/
+- https://tamil.abplive.com
+- https://www.puthiyathalaimurai.com/
+- https://tamil.madyawediya.lk
+- https://mrpuyal.com/
+- https://www.dinamani.com/
+- https://www.dinamalar.com
+- https://www.chennaionline.com/tamil/
+- https://tamilminutes.com/
+- https://globaltamilnews.net/
+- http://www.puthinappalakai.com/
+- https://www.tamil.slbcnews.lk
+- https://www.bbc.com/tamil
+- https://dinasudar.com/
+- https://canadamirror.com/
+- https://www.chennaitodaynews.com/
+- https://tamil.samayam.com/
+- https://seithy.com/
+- https://yarl.com/
+- https://www.telonews.com/
+- https://tamil.goodreturns.in/
+- https://ibctamil.com/
+- https://vanakkamlondon.com/
+- https://viduthalai.in/
+- https://tamil.cri.cn/
+- https://www.kathiravan.com/
+- http://eeladhesam.com/
+- https://tamil.webdunia.com/
+- https://www.virakesari.lk/
+- https://news4tamil.com/
+- https://www.hindutamil.in/
+- https://www.maalaimalar.com/
+- https://news.google.com/?hl=ta&gl=IN&ceid=IN%3Ata
+- https://www.dailythanthi.com
+- https://dailyceylon.lk
+- https://puthu.thinnai.com/
+- https://www.maalaimalar.com
+- https://x.com/dinaanjalmedia
+- https://tamil.news18.com
+- https://www.dinasuvadu.com/
+- https://www.tamilmurasu.com.sg/
+- https://jvpnews.com/
+- https://www.puthiyathalaimurai.com
+- https://www.thinaboomi.com/
+- https://www.dinapathippu.com/
+- https://www.4tamilmedia.com/
+- https://www.dailythanthi.com/
+- https://www.malaimurasu.com/
+- http://www.ntamil.com/
+- https://www.vikatan.com
+- https://theekkathir.in/
+- https://inioru.com/
+- https://www.pathivu.com/
 - 
 
 Culture / History:

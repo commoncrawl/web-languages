@@ -5,7 +5,41 @@ Additional names:
 - 
 
 News:
-- 
+- https://www.westerntimes.co.in/
+- https://gujarati.webdunia.com/
+- https://aaspassepaper.com/
+- http://bilkulonline.com/
+- https://sandesh.com/
+- https://www.gujaratimidday.com/
+- https://www.akilanews.com/
+- https://www.kutchmitradaily.com/
+- https://www.ahmedabadmirror.com/
+- https://www.rakhewaldaily.com/
+- https://www.janmabhoominewspapers.com/
+- https://kutchuday.in/
+- https://www.iamgujarat.com/
+- https://www.news18.com/topics/gujarati/
+- https://timesofindia.indiatimes.com/india/gujarat
+- https://zeenews.india.com/
+- https://bombaysamachar.com/
+- https://navgujaratsamay.com/
+- http://nayapadkar.in/
+- https://sunvillasamachar.com/
+- https://eaglenews.in/
+- https://www.loksansar.in/
+- https://www.sardargurjari.com/
+- https://www.aajkaaldaily.com/
+- https://www.divyabhaskar.co.in/
+- https://www.nobat.com/
+- https://www.gujaratsamachar.com/
+- https://www.bbc.co.uk/programmes/b007313q
+- https://gujaratmitra.in/
+- https://www.gujaratguardian.in/
+- https://epaper.gujarattimesusa.com/
+- https://muslimsandesh.wordpress.com/
+- https://gujarati.oneindia.com/
+- https://gujaratabroad.ca/
+- https://gujarattoday.in/
 - 
 
 Culture / History:

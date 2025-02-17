@@ -5,7 +5,42 @@ Additional names:
 - 
 
 News:
-- 
+- https://telugu.news18.com/
+- https://dearurban.com/
+- https://teluguone.com/news/
+- https://www.indiaherald.com/
+- https://telugu.oneindia.com/
+- https://www.ap7am.com/
+- https://www.telugumirchi.com/telugu/
+- https://www.aadabhyderabad.in/
+- https://visalaandhra.com/
+- https://prajasakti.com/
+- https://www.telugutimes.net/
+- https://oktelugu.com/
+- https://www.vaartha.com/
+- https://www.telugupost.com/
+- https://telugu.asianetnews.com/
+- https://www.tupaki.com/
+- https://www.andhrajyothy.com/
+- https://navatelangana.com/
+- https://janamsakshi.org/
+- https://telugu.telugubullet.com/
+- https://telugu.webdunia.com/
+- https://telugu.greatandhra.com/
+- https://telugu.gulte.com/
+- https://www.sakshi.com/
+- https://namasteandhra.com/
+- https://www.telugu360.com/te/
+- https://www.andhraheadlines.com/
+- http://www.andhrabhoomi.net/
+- https://andhrawatch.com/
+- https://news.google.com/?edchanged=1&hl=te&gl=IN&ceid=IN:te
+- https://ntvtelugu.com/
+- https://telugu.samayam.com/
+- https://www.eenadu.net/
+- https://www.ntnews.com/
+- http://telugu.suryaa.com/
+- https://www.manatelangana.news/
 - 
 
 Culture / History:

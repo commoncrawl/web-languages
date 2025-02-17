@@ -5,12 +5,49 @@ Additional names:
 - 
 
 News:
-- https://www.manoramaonline.com/ (Manorama News Channel Website)
-- https://www.mathrubhumi.com/ (Mathrubhumi News Channel Website)
-- https://www.asianetnews.com/ (Asianet News Channel Website)
-- https://www.twentyfournews.com/ (Twenty Four News Channel Website)
-- https://www.reporterlive.com/ (Reporter News Channel Website)
-- https://www.kairalinewsonline.com/ (Kairali News Channel Website)
+- https://eveningkerala.com/
+- https://www.reporterlive.com/
+- https://dailyindianherald.com/
+- https://www.suprabhaatham.com/
+- https://www.asianetnews.com/
+- https://malayalam.samayam.com/
+- https://anweshanam.com/
+- https://www.keralabhooshanam.com/
+- https://www.eastcoastdaily.com/
+- https://www.sathyamonline.com/
+- https://www.mangalam.com/
+- https://www.sathyadeepam.org/
+- https://www.bignewslive.com/
+- https://marunadanmalayalee.com/
+- https://www.deepika.com/
+- https://www.rashtradeepika.com/
+- https://www.thejasnews.com/
+- https://malayalamexpress.in/
+- https://www.evartha.in/
+- https://keralakaumudi.com/news/
+- https://www.vyganews.com/
+- https://www.manoramaonline.com/
+- https://keralaexpress.com/
+- https://www.kasargodvartha.com/
+- https://www.sirajlive.com/
+- https://janmabhumi.in/
+- https://www.kvartha.com/
+- https://www.deshabhimani.com/
+- https://www.pravasiexpress.com/
+- https://www.puzha.com/
+- https://www.madhyamam.com/
+- http://www.4pmnewsonline.com/
+- https://www.rashtrabhoomi.com/
+- https://www.chandrikadaily.com/
+- https://timeskerala.com/
+- https://www.mathrubhumi.com/
+- https://www.metrovaartha.com/
+- https://keralaonlinenews.com/
+- https://malayalam.oneindia.com/
+- https://www.twentyfournews.com/
+- https://malayalam.webdunia.com/
+- https://www.kairalinewsonline.com/
+- 
 
 Culture / History:
 - https://www.keralatourism.org/malayalam/ (Kerala Tourism)

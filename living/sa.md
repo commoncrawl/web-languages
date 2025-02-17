@@ -4,7 +4,30 @@ Additional names:
 - 
 
 News:
-- 
+- https://transcontinental.com.au/
+- https://www.bunyippress.com.au/
+- https://www.courier.net.au/
+- https://victorharbortimes.com.au/
+- https://weekenderherald.com.au/
+- https://www.barossaleader.com/
+- https://www.adelaidenow.com.au/messenger
+- https://theislanderonline.com.au/
+- https://whyallanewsonline.com.au/
+- https://www.alongthegrapevine.com/
+- https://plainsproducer.com.au/
+- https://portlincolntimes.com.au/
+- https://www.ypct.com.au/
+- https://www.adelaidenow.com.au/
+- https://cooberpedytimes.com/
+- https://borderwatch.com.au/
+- https://twowellsecho.com.au/
+- https://www.indaily.com.au/
+- https://www.naracoorteherald.com.au/
+- https://murrayvalleystandard.com.au/
+- https://portpirierecorder.com.au/
+- https://www.adelaidereview.com.au/
+- https://borderchronicle.com.au/
+- https://www.murraypioneer.com.au/
 - 
 
 Culture / History:

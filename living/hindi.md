@@ -47,7 +47,6 @@ News:
 - https://navabharat.com/
 - https://mediahindustan.com/hindi/
 - https://ndtv.in/
-- https://www.bhaskar.com/
 - http://www.janwani.in/
 - https://ujjawalprabhat.com/
 - https://highwaychannel.in/
@@ -95,7 +94,6 @@ News:
 - https://www.abplive.com/
 - https://royalbulletin.in/
 - https://www.uttamhindu.com/
-- https://amarujala.com/
 - http://www.janadesh.in/
 - https://www.bharatkhabar.com/
 - http://www.virarjun.com/

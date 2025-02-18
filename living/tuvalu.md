@@ -4,7 +4,6 @@ Additional names:
 - 
 
 News:
-- https://en.wikipedia.org/wiki/Tuvalu
 - https://www.timelesstuvalu.com/
 - https://www.bbc.co.uk/news/world-asia-pacific-16340072
 - https://www.aljazeera.com/where/tuvalu/

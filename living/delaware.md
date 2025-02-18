@@ -4,21 +4,7 @@ Additional names:
 - 
 
 News:
-- https://www.delmarvanow.com/news/delaware/
-- http://eltiempohispano.com/
-- https://starpublications.online/laurel/
-- https://baytobaynews.com/delaware/
-- https://www.capegazette.com/beach-paper
-- https://starpublications.online/seaford/
-- https://www.delawareonline.com/
-- https://milfordchronicle-de.newsmemory.com/
-- http://hoyendelaware.com/
-- https://www.newarkpostonline.com/
-- https://sussexcountypost-de.newsmemory.com/
-- https://www.coastalpoint.com/
-- https://udreview.com/
-- https://delawarepressassociation.org/
-- https://www.capegazette.com/
+- 
 - 
 
 Culture / History:

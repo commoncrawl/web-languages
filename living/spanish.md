@@ -5,54 +5,7 @@ Additional names:
 - 
 
 News:
-- https://laopinion.com/
-- https://www.visionhispanausa.com/
-- https://www.vanidades.com/
-- https://latina.com/
-- https://laprensalibrear.com/
-- https://eltiempolatino.com/
-- https://peopleenespanol.com/
-- https://lasamericasnews.com/
-- http://hoyendelaware.com/
-- https://www.ngenespanol.com/
-- https://aldianews.com/es
-- https://urbanlatino.com/
-- https://www.cosmopolitan.com/es/
-- https://elplaneta.com/
-- https://www.webelpuente.com/
-- http://www.oas.org/es/americas/print_editions.asp
-- https://www.vogue.es/
-- https://www.chron.com/lavoz/
-- https://mundonow.com/
-- https://elnuevogeorgia.com/
-- https://lavozhispanany.net/
-- https://identidadlatina.com/
-- https://lasemanadelsur.com/
-- https://latinopinionbaltimore.com/
-- https://www.latinastyle.com/
-- https://www.dallasnews.com/espanol/al-dia/
-- https://www.hoylosangeles.com/
-- https://www.hola.com/us/
-- https://dosmundos.com/
-- https://www.sun-sentinel.com/espanol/
-- https://washingtonhispanic.com/
-- https://www.muyinteresante.com/
-- https://www.diariolasamericas.com/
-- https://www.elnuevoherald.com/
-- https://diario.mx/seccion/El_Paso/
-- https://laraza.com/
-- https://eldiariony.com/
-- https://www.jambalayanews.com/
-- https://quepasamedia.com/
-- https://literalmagazine.com/
-- https://eltiempohispano.com/
-- https://www.elsolnews.com/
-- https://www.artnexus.com/es/magazines
-- http://www.lanoticianewspaper.com/
-- https://www.azcentral.com/lavoz/
-- https://www.orlandosentinel.com/espanol/
-- http://www.laconexionusa.com/
-- https://lagacetanewspaper.com/
+- 
 - 
 
 Culture / History:

@@ -21,7 +21,6 @@ News:
 - https://vishwavani.news/
 - https://epapervijayavani.in/
 - https://kannadadunia.com/
-- https://kannadadunia.com
 - https://www.varthabharati.in/
 - https://www.kannadaprabha.com/
 - https://suddidina.com/

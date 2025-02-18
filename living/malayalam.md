@@ -5,11 +5,15 @@ Additional names:
 - 
 
 News:
+- https://www.manoramaonline.com/ (Manorama News Channel Website)
+- https://www.mathrubhumi.com/ (Mathrubhumi News Channel Website)
+- https://www.asianetnews.com/ (Asianet News Channel Website)
+- https://www.twentyfournews.com/ (Twenty Four News Channel Website)
+- https://www.reporterlive.com/ (Reporter News Channel Website)
+- https://www.kairalinewsonline.com/ (Kairali News Channel Website)
 - https://eveningkerala.com/
-- https://www.reporterlive.com/
 - https://dailyindianherald.com/
 - https://www.suprabhaatham.com/
-- https://www.asianetnews.com/
 - https://malayalam.samayam.com/
 - https://anweshanam.com/
 - https://www.keralabhooshanam.com/
@@ -26,7 +30,6 @@ News:
 - https://www.evartha.in/
 - https://keralakaumudi.com/news/
 - https://www.vyganews.com/
-- https://www.manoramaonline.com/
 - https://keralaexpress.com/
 - https://www.kasargodvartha.com/
 - https://www.sirajlive.com/
@@ -40,13 +43,10 @@ News:
 - https://www.rashtrabhoomi.com/
 - https://www.chandrikadaily.com/
 - https://timeskerala.com/
-- https://www.mathrubhumi.com/
 - https://www.metrovaartha.com/
 - https://keralaonlinenews.com/
 - https://malayalam.oneindia.com/
-- https://www.twentyfournews.com/
 - https://malayalam.webdunia.com/
-- https://www.kairalinewsonline.com/
 - 
 
 Culture / History:

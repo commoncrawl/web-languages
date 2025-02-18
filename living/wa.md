@@ -4,33 +4,7 @@ Additional names:
 - 
 
 News:
-- https://www.geraldtonguardian.com.au/
-- https://www.mbtimes.com.au/
-- https://thewest.com.au/
-- https://www.albanyadvertiser.com.au/
-- https://www.yanchepnewsonline.com.au/
-- https://www.perthnow.com.au/
-- https://www.midwesttimes.com.au/
-- https://www.farmweekly.com.au/
-- https://echonewspaper.com.au/
-- https://www.kalminer.com.au/
-- https://www.kimberleyecho.com.au/
-- https://www.bdtimes.com.au/
-- https://www.busseltonmail.com.au/
-- https://www.bunburymail.com.au/
-- https://postnewspapers.com.au/
-- https://www.pilbaranews.com.au/
-- https://www.mandurahmail.com.au/
-- https://www.broomead.com.au/
-- https://www.northwesttelegraph.com.au/
-- https://www.amrtimes.com.au/
-- https://www.swtimes.com.au/
-- https://www.businessnews.com.au/
-- https://nvnews.com.au/
-- https://www.soundtelegraph.com.au/
-- https://www.margaretrivermail.com.au/
-- https://toodyayherald.com.au/
-- https://www.fremantleherald.com/
+- 
 - 
 
 Culture / History:

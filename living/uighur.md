@@ -7,11 +7,16 @@ Additional names:
 
 News:
 - 
-- 
+- https://uyghur.uyghurtimes.com/
+- https://www.rfa.org/uyghur
+- https://uy.ts.cn/
 
 Culture / History:
 - 
-- 
+- http://www.uygurarastirmalari.com/ug/ (International Journal of Uyghur Studies)
+- https://izdinish.org/ (literary journal)
+- https://turkistanilibrary.com/ug (Turkistani library)
+- https://uyghur.tv/ (Uyghur.tv)
 
 Government:
 - 
@@ -22,13 +27,19 @@ Political Parties:
 - 
 
 Other:
+-
 - https://ug.wikipedia.org
-- 
-- 
+- https://ug.wikipedia.org
+- https://www.ukij.org/ug/ (Uyghur Computer Science Association)
+- https://ug.uyghurcongress.org/ (World Uygher Congress)
+- https://campaignforuyghurs.org/ug/bashbet/ (Campaign For Uyghers)
+- https://www.ukij.org/fonts/ (Uyghur Unicode fonts)
 
 Informative links (in English):
 - 
-- 
+- https://uyghur.linguistics.indiana.edu/ (Uygher texts and linguistic information)
+- https://uyghurcollective.com/community/f/uyghur-language-resources (Uychur Language Resources)
+- https://uyghurlanguage.com/ (Uyghur Language Service) 
 
 Additional Information:
 - ISO-639-3 code: uig
@@ -41,7 +52,7 @@ Scripts:
 
 Thank you to these people who have helped create this document:
 - 
-- 
+- [Jen English](https://github.com/jenenglish)
 
 ## Instructions
 

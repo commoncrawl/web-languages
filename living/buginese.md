@@ -1,16 +1,17 @@
 # Web Language: Buginese
-
+The Bugis language is primarily spoken by ~5 million people, mainly in South Sulawesi, Indonesia, with communities also present in Malaysia and Singapore.
 Additional names:
-- Basa Ugi
-- 
+- Basa Ugi ᨅᨔᨕᨘᨁᨗ
+- Basa Ogi ᨅᨔᨕᨚᨁᨗ
 
 News:
-- 
-- 
+- http://tekape.co/ (Multilingual site primarily in Indonesian with Lontara section of articles written in Buginese)
+- https://bugispos.com/ (Multilingual site primarily in Indonesian with occasional Buginese terms)
+- https://www.bugiswarta.com/ (Multilingual site primarily in Indonesian with occasional Buginese terms)
 
 Culture / History:
-- 
-- 
+- https://www.bugiswarta.com/ (Multilingual site primarily in Indonesian with occasional Buginese terms)
+- https://aemanyosi.blogspot.com/ (Cultural blog - Bilingual site, Buginese with Malay/Indonesian translations)
 
 Government:
 - 
@@ -21,12 +22,13 @@ Political Parties:
 - 
 
 Other:
-- https://bug.wikipedia.org
-- 
-- 
+- https://bug.wikipedia.org/ (Buginese Wikipedia ᨓᨗᨀᨗᨄᨙᨉᨗᨕ ᨅᨔ ᨕᨘᨁᨗ)
+- https://www.mediawiki.org/wiki/Universal_Language_Selector/bug (MediaWiki Universal Language Selector - Buginese)
+- https://glosbe.com/en/bug (Glosbe English - Buginese Dictionary)
+- https://belajarbahasabugis.blogspot.com/p/perbualan.html (Learning and Teaching Buginese Language Blog)
 
 Informative links (in English):
-- 
+- https://en.wikipedia.org/wiki/Buginese_language
 - 
 
 Additional Information:
@@ -36,7 +38,7 @@ Additional Information:
 
 Scripts:
 - <a href="https://en.wikipedia.org/wiki/ISO_15924">ISO 15924 Latn</a> Latin
-- 
+- https://en.wikipedia.org/wiki/Lontara_script (Lontara Script)
 
 Thank you to these people who have helped create this document:
 - 

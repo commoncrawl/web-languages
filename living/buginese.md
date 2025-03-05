@@ -1,8 +1,11 @@
 # Web Language: Buginese
-The Bugis language is primarily spoken by ~5 million people, mainly in South Sulawesi, Indonesia, with communities also present in Malaysia and Singapore.
+
 Additional names:
-- Basa Ugi ᨅᨔᨕᨘᨁᨗ
-- Basa Ogi ᨅᨔᨕᨚᨁᨗ
+- Bugis
+- Basa Ugi
+- Basa Ogi
+- ᨅᨔᨕᨘᨁᨗ
+- ᨅᨔᨕᨚᨁᨗ
 
 News:
 - http://tekape.co/ (Multilingual site primarily in Indonesian with Lontara section of articles written in Buginese)
@@ -29,12 +32,11 @@ Other:
 
 Informative links (in English):
 - https://en.wikipedia.org/wiki/Buginese_language
-- 
 
 Additional Information:
 - ISO-639-3 code: bug
 - https://en.wikipedia.org/wiki/ISO_639:bug
-
+- The Bugis language is primarily spoken by ~5 million people, mainly in South Sulawesi, Indonesia, with communities also present in Malaysia and Singapore.
 
 Scripts:
 - <a href="https://en.wikipedia.org/wiki/ISO_15924">ISO 15924 Latn</a> Latin

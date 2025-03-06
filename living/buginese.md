@@ -4,8 +4,8 @@ Additional names:
 - Bugis
 - Basa Ugi
 - Basa Ogi
-- ᨅᨔᨕᨘᨁᨗ
-- ᨅᨔᨕᨚᨁᨗ
+- ᨅᨔ ᨕᨘᨁᨗ
+- ᨅᨔ ᨕᨚᨁᨗ
 
 News:
 - http://tekape.co/ (Multilingual site primarily in Indonesian with Lontara section of articles written in Buginese)
@@ -40,6 +40,7 @@ Additional Information:
 
 Scripts:
 - <a href="https://en.wikipedia.org/wiki/ISO_15924">ISO 15924 Latn</a> Latin
+- <a href="https://en.wikipedia.org/wiki/ISO_15924">ISO 15924 Bugi</a> Lontara
 - https://en.wikipedia.org/wiki/Lontara_script (Lontara Script)
 
 Thank you to these people who have helped create this document:

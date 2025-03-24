@@ -1,43 +1,45 @@
-# Web Language: Achinese
+# Web Language: Acehnese
 
 Additional names:
-- Acehnese
 - Acèh
-- 
+- Basa Acèh
+- Achinese
+- Atjehnese
+- بهسا اچيه
 
 News:
-- 
-- 
+- https://www.nasajaberita.top/ (Nasaja Berita: independent Acehnese news site)
 
 Culture / History:
-- 
-- 
+- https://www.basaaceh.org/ (Acehnese Literature Repository)
+- https://bahasaaceh.com/ (Bahasa Aceh Learning Portal by Acehnese language enthusiasts)
+- https://www.rri.co.id/ (Radio Republik Indonesia with Acèh section)
+- https://tambeh.wordpress.com/ (A cultural blog on Acehnese heritage, history, and literature)
 
 Government:
-- 
-- 
+- https://maa.acehprov.go.id/ (Majelis Adat Aceh: Council of Acehnese Customary Institutions, an official government body)
 
 Political Parties:
 - 
-- 
 
 Other:
-- https://ace.wikipedia.org
-- 
+- https://ace.wikipedia.org (Acehnese Wikipedia)
 - 
 
 Informative links (in English):
-- 
-- 
+- https://en.wikipedia.org/wiki/Acehnese_language 
+- https://rising.globalvoices.org/blog/2020/07/07/qa-meet-nabil-berri-acehnese-language-activist/ (Q&A with Nabil Berri, Acehnese language activist)
 
 Additional Information:
 - ISO-639-3 code: ace
 - https://en.wikipedia.org/wiki/ISO_639:ace
-
+- Acehnese is an Austronesian language spoken primarily in the Aceh province of Sumatra, Indonesia, with approximately 3.5-4 million speakers.
 
 Scripts:
 - <a href="https://en.wikipedia.org/wiki/ISO_15924">ISO 15924 Latn</a> Latin
-- 
+- <a href="https://en.wikipedia.org/wiki/ISO_15924">ISO 15924 Arab</a> Arab
+- <a href="https://en.wikipedia.org/wiki/Jawi_script">Jawi</a> Jawi also known as Jawoë
+- <a href="https://www.omniglot.com/conscripts/harahaceh.htm">Harah Acèh</a> Harah Acèh
 
 Thank you to these people who have helped create this document:
 - 

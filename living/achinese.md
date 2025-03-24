@@ -1,4 +1,4 @@
-# Web Language: Achinese
+# Web Language: Acehnese
 
 Additional names:
 - Acèh
@@ -20,11 +20,11 @@ Government:
 - https://maa.acehprov.go.id/ (Majelis Adat Aceh: Council of Acehnese Customary Institutions, an official government body)
 
 Political Parties:
--
+- 
 
 Other:
 - https://ace.wikipedia.org (Acehnese Wikipedia)
--
+- 
 
 Informative links (in English):
 - https://en.wikipedia.org/wiki/Acehnese_language
@@ -42,8 +42,8 @@ Scripts:
 - <a href="https://www.omniglot.com/conscripts/harahaceh.htm">Harah Acèh</a> Harah Acèh
 
 Thank you to these people who have helped create this document:
--
--
+- 
+- 
 
 ## Instructions
 

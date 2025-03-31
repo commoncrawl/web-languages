@@ -37,6 +37,8 @@ Additional Information:
 - ISO-639-3 code: bug
 - https://en.wikipedia.org/wiki/ISO_639:bug
 - The Bugis language is primarily spoken by ~5 million people, mainly in South Sulawesi, Indonesia, with communities also present in Malaysia and Singapore.
+- This document was edited by a non-native speaker.
+- 
 
 Scripts:
 - <a href="https://en.wikipedia.org/wiki/ISO_15924">ISO 15924 Latn</a> Latin

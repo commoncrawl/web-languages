@@ -89,6 +89,7 @@ Additional Information:
 - ISO-639-2/B code: ice
 - ISO-639-3 code: isl
 - https://en.wikipedia.org/wiki/ISO_639:isl
+- This document was edited by a non-native speaker.
 - 
 
 

@@ -44,7 +44,7 @@ Informative links (in English):
 Additional Information:
 - ISO-639-3 code: uig
 - https://en.wikipedia.org/wiki/ISO_639:uig
-- This document was edited by a non-native speaker.
+- This document needs reviewing by a native speaker.
 - 
 
 

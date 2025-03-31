@@ -46,7 +46,7 @@ Additional Information:
 - ISO-639-3 code: cor
 - ISO-639-1 code: kw
 - https://en.wikipedia.org/wiki/ISO_639:cor
-- This document was edited by a non-native speaker.
+- This document needs reviewing by a native speaker.
 - 
 
 Scripts:

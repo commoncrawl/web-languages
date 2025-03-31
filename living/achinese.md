@@ -34,7 +34,7 @@ Additional Information:
 - ISO-639-3 code: ace
 - https://en.wikipedia.org/wiki/ISO_639:ace
 - Acehnese is an Austronesian language spoken primarily in the Aceh province of Sumatra, Indonesia, with approximately 3.5-4 million speakers.
-- This document was edited by a non-native speaker.
+- This document needs reviewing by a native speaker.
 - 
 
 Scripts:

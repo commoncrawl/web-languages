@@ -3,7 +3,6 @@
 Additional names:
 - आधुनिक मानक हिन्दी (Modern Standard Hindi)
 - हिन्दी (Hindi)
-- 
 
 News:
 - https://www.tarunmitra.in/
@@ -111,7 +110,6 @@ News:
 - https://ianshindi.in/
 - https://teznews.com/
 - https://www.prabhasakshi.com/
-- 
 
 Culture / History:
 - https://asi.nic.in/
@@ -136,12 +134,12 @@ Government:
 - https://uidai.gov.in/hi/
 - https://rtionline.gov.in/
 - https://moef.gov.in/
-- 
+- https://www.indiapost.gov.in/
 
 Political Parties:
 - https://www.bjp.org/hi
 - https://inc.in/
-- 
+- https://en.wikipedia.org/wiki/List_of_political_parties_in_India
 
 Other:
 - https://www.education.gov.in/hi
@@ -172,7 +170,7 @@ Scripts:
 
 Thank you to these people who have helped create this document:
 - [Swapnil Tripathi](https://github.com/swaptr)
-- 
+- [Swati Rajwal](https://x.com/SwatiRajwal)
 
 ## Instructions
 

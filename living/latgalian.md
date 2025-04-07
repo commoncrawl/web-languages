@@ -9,8 +9,9 @@ Additional names:
 News:
 
 Culture / History:
-- http://latgola.lv/
+- http://latgola.lv
 - https://www.lakuga.lv
+- https://lgsc.lv
 
 Government:
 

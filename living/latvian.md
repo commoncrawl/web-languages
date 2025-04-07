@@ -1,45 +1,78 @@
 # Web Language: Latvian
 
 Additional names:
-- latviešu
-- 
+- Lettish
+- Latviešu valoda
 
 News:
-- 
-- 
+- https://www.lsm.lv
+- https://www.delfi.lv
+- https://www.tvnet.lv
+- https://news.inbox.lv
+- https://nra.lv
+- https://jauns.lv
+- https://sportacentrs.com
 
 Culture / History:
-- 
-- 
+- https://kulturaskanons.lv (Latvia's Cultural Canon)
+- https://enciklopedija.lv (National encyclopedia)
+- https://lnvm.gov.lv (National museum of history)
+- https://lnmm.gov.lv (National art museum)
+- https://okupacijasmuzejs.lv (Museum of the oocupation of Latvia)
+- https://lnb.gov.lv (National library)
+- https://digitalabiblioteka.lv/?set_lang=lv (Digital library)
+- https://www.literatura.lv (Literature portal)
+- https://www.filmas.lv (Film portal)
+- http://www.livones.net/lv (Livonian cultural centre)
 
 Government:
-- 
-- 
+- https://www.mk.gov.lv/lv (Cabinet of Ministers)
+- https://www.saeima.lv (Parliament)
+- https://www.president.lv/lv (President of Latvia)
+- https://www.iem.gov.lv/lv (Ministry of the Interior)
+- https://www.em.gov.lv/lv (Ministry of Economics)
+- https://www.mod.gov.lv/lv (Ministry of Defence)
+- https://www.tm.gov.lv/lv (Ministry of Justice)
+- https://www.mfa.gov.lv/lv (Ministry of Foreign Affairs)
+- https://www.izm.gov.lv/lv (Ministry of Education and Science)
+- https://www.km.gov.lv/lv (Ministry of Culture)
+- https://latvija.gov.lv (State Administration Services)
+- https://www.riga.lv/lv (Riga city council)
 
 Political Parties:
-- 
-- 
+- https://jaunavienotiba.lv/
+- https://zzs.lv/
+- https://www.apvienotaissaraksts.lv/
+- https://nacionalaapvieniba.lv/
+- https://partijastabilitatei.lv/
+- https://progresivie.lv/
+- https://latvijapirmajavieta.lv/
 
 Other:
 - https://lv.wikipedia.org
-- 
-- 
+- https://letonika.lv (Online reference works, literature)
+- https://valoda.lv (Portal of the national language agency)
+- http://valoda.ailab.lv (Language resources, University of Latvia AI lab)
+- http://www.sazinastilts.lv/about-latvia/?lang=lv (Language learning resources for third country nationals)
+- https://www.latvia.travel/lv (Tourism portal)
+- https://www.santa.lv (Entertainment, magazines)
 
 Informative links (in English):
-- 
-- 
+- https://www.latvia.eu
+- https://valoda.lv/en/ (Latvian language agency)
+- https://ailab.lv/en
+- https://korpuss.lv/en
+- https://tilde.ai/research
 
 Additional Information:
 - ISO-639-3 code: lav
 - https://en.wikipedia.org/wiki/ISO_639:lav
 
-
 Scripts:
-- 
+- <a href="https://en.wikipedia.org/wiki/ISO_15924">ISO 15924 Latn</a> Latin
 
 Thank you to these people who have helped create this document:
-- 
-- 
+- [Twan Goosen](https://github.com/twagoo)
 
 ## Instructions
 

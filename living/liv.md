@@ -19,7 +19,6 @@ Other:
 - https://sisu.ut.ee/liivikeel/en/ (Full online textbook)
 - https://incubator.wikimedia.org/wiki/Wp/liv ("Livonian Wikipedia", a test wiki in the Wikimedia Incubator)
 - https://github.com/zwhe99/WMT22-En-Liv (code and data for machine translation)
-  - https://drive.google.com/drive/folders/164iYBFG6-A-2YBRYC9sppfarehRez-Bi (data for the above project)
 
 Informative links (in English):
 - http://www.livones.net/eng

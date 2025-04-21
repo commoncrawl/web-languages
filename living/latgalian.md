@@ -1,46 +1,36 @@
 # Web Language: Latgalian
 
 Additional names:
-- latgaļu
-- 
+- Latgaļu volūda
+- Latgalīšu volūda
+- Latgaļu valoda
+- Latgaliešu valoda
 
 News:
-- 
-- 
 
 Culture / History:
-- 
-- 
+- http://latgola.lv
+- https://www.lakuga.lv
+- https://lgsc.lv
 
 Government:
-- 
-- 
 
 Political Parties:
-- 
-- 
 
 Other:
 - https://ltg.wikipedia.org
-- 
-- 
 
 Informative links (in English):
-- 
-- 
 
 Additional Information:
 - ISO-639-3 code: ltg
 - https://en.wikipedia.org/wiki/ISO_639:ltg
 
-
 Scripts:
 - <a href="https://en.wikipedia.org/wiki/ISO_15924">ISO 15924 Latn</a> Latin
-- 
 
 Thank you to these people who have helped create this document:
-- 
-- 
+- [Twan Goosen](https://github.com/twagoo)
 
 ## Instructions
 

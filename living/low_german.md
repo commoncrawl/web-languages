@@ -3,15 +3,17 @@
 Additional names:
 - Plattdüütsch
 - Nedersaksies
-- 
+- Nedersassisch
 
 News:
-- 
+- https://plattpartu.de/welt/welt.htm
+- https://www.bremeneins.de/themen/plattdeutsche-nachrichten-104.html
 - 
 
 Culture / History:
-- 
-- 
+- https://www.kreis-oh.de/Bildung-Kultur-Sport/Kultur-erleben-Kultur-f%C3%B6rdern/Kulturstiftungen/Plattdeutsch/
+- https://plattpartu.de
+- http://www.fehrsgilde.de/pd_index.htm
 
 Government:
 - 
@@ -23,7 +25,7 @@ Political Parties:
 
 Other:
 - https://nds-nl.wikipedia.org
-- 
+- https://nds.wikipedia.org
 - 
 
 Informative links (in English):
@@ -31,12 +33,14 @@ Informative links (in English):
 - 
 
 Additional Information:
-- ISO-639-3 code: nds
+- ISO-639-2 code: nds
+- ISO-639-3 codes: nds, frs; wep; gos, act, drt, sdz, stl, twd, vel; pdt
 - https://en.wikipedia.org/wiki/ISO_639:nds
+- Note: The ISO-639-3 codes other than nds are effectively ill-designed and pertain to selected sub-dialects (frs, wep, gos; act, drt, sdz, stl, twd and vel are sub-dialects of wep; sometimes, gos, act, drt, sdz, stl, twd and vel are tagged as nds-nl, together, e.g., for Dutch Low German Wikipedia). nds refers to the remainder, which does not form a linguistically well-defined unit, cf. https://github.com/glottolog/glottolog/issues/1150, https://github.com/glottolog/glottolog/issues/845 (closed because the issue is not at Glottolog, but at SIL). wep, pdt and nds-nl (resp., its sub-dialects) use different spellings than (most) resources tagged as nds.
 
 
 Scripts:
-- 
+- Latin
 
 Thank you to these people who have helped create this document:
 - 

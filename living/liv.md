@@ -1,43 +1,39 @@
 # Web Language: Liv
 
 Additional names:
-- 
+- Livonian
+- Līvõ kēļ
+- Rāndakēļ
+- Lībiešu valoda
 
 News:
-- 
-- 
 
 Culture / History:
-- 
-- 
+-  http://www.livones.net/liv
 
 Government:
-- 
-- 
 
 Political Parties:
-- 
-- 
 
 Other:
-- 
-- 
+- https://sisu.ut.ee/liivikeel/en/ (Full online textbook)
+- https://incubator.wikimedia.org/wiki/Wp/liv ("Livonian Wikipedia", a test wiki in the Wikimedia Incubator)
+- https://github.com/zwhe99/WMT22-En-Liv (code and data for machine translation)
 
 Informative links (in English):
-- 
-- 
+- http://www.livones.net/eng
+- https://livonian.tech/en
+- http://virtuallivonia.info
 
 Additional Information:
 - ISO-639-3 code: liv
 - https://en.wikipedia.org/wiki/ISO_639:liv
 
-
 Scripts:
-- 
+- <a href="https://en.wikipedia.org/wiki/ISO_15924">ISO 15924 Latn</a> Latin
 
 Thank you to these people who have helped create this document:
-- 
-- 
+- [Twan Goosen](https://github.com/twagoo)
 
 ## Instructions
 

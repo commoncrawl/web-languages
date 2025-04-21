@@ -33,6 +33,9 @@ To see a partially completed example, look at the
 Sometimes asking a Large Language Model can be helpful: "What are some
 top websites written in the Welsh language?"
 
+You can also join [our Discord server](https://discord.gg/njaVFh7avF)
+where we have a dedicated channel for discussing this project.
+
 ## What kind of websites are you looking for?
 
 If you look at the template, we have requested urls in a few

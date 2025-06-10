@@ -35,7 +35,7 @@ Political Parties:
 - https://www.psd.ro/ (Partidul Social Democrat - Social Democratic Party)
 - https://pnl.ro/ (Partidul Național Liberal - National Liberal Party)
 - https://usr.ro/ (Uniunea Salvați România - Save Romania Union)
-- https://alianntaaur.ro/ (Alianța pentru Unirea Românilor - Alliance for the Union of Romanians)
+- https://partidulaur.ro/ (Alianța pentru Unirea Românilor - Alliance for the Union of Romanians)
 - https://udmr.ro/ (Uniunea Democrată Maghiară din România - Democratic Alliance of Hungarians in Romania)
 
 Other:
@@ -44,12 +44,17 @@ Other:
 - 
 
 Informative links (in English):
-- 
-- 
+- https://en.wikipedia.org/wiki/Romania
+- https://en.wikipedia.org/wiki/Romanian_language
+- https://en.wikipedia.org/wiki/History_of_Romania
+- https://www.romania.travel/en/ (Official tourism website)
+- https://www.mae.ro/en/ (Ministry of Foreign Affairs - English section)
+- https://www.gov.ro/en/ (Government of Romania - English section)
 
 Additional Information:
 - ISO-639-3 code: ron
 - https://en.wikipedia.org/wiki/ISO_639:ron
+- This document needs reviewing by a native speaker.
 
 
 Scripts:
@@ -57,7 +62,7 @@ Scripts:
 - 
 
 Thank you to these people who have helped create this document:
-- e-Winnie
+- [Ethan Wenokur](https://github.com/e-Winnie)
 - 
 
 ## Instructions

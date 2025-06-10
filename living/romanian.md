@@ -16,8 +16,12 @@ News:
 - https://www.gsp.ro/ (Sports)
 
 Culture / History:
-- 
-- 
+- https://www.mnar.arts.ro/ (National Museum of Art of Romania)
+- https://www.muzeul-satului.ro/ (Dimitrie Gusti National Village Museum)
+- https://www.historia.ro/ (Historia Magazine - covers Romanian history and culture)
+- https://www.cultura.ro/ (Ministry of Culture)
+- https://www.icr.ro/ (Romanian Cultural Institute)
+- https://www.muzeulbucurestiului.ro/ (Bucharest Municipality Museum)
 
 Government:
 - 
@@ -46,7 +50,7 @@ Scripts:
 - 
 
 Thank you to these people who have helped create this document:
-- 
+- e-Winnie
 - 
 
 ## Instructions

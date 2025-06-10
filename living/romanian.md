@@ -5,8 +5,15 @@ Additional names:
 - 
 
 News:
-- 
-- 
+- https://adevarul.ro/
+- https://www.digi24.ro/
+- https://www.libertatea.ro/
+- https://www.hotnews.ro/
+- https://stirileprotv.ro/
+- https://www.gandul.info/
+- https://www.ziare.com/
+- https://www.zf.ro/ (Business & Finance)
+- https://www.gsp.ro/ (Sports)
 
 Culture / History:
 - 

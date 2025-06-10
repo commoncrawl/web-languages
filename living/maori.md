@@ -33,7 +33,8 @@ Informative links (in English):
 Additional Information:
 - ISO-639-3 code: mri
 - https://en.wikipedia.org/wiki/ISO_639:mri
-
+- Internet SLD: .maori.nz / .māori.nz
+- This document needs reviewing by a native speaker.
 
 Scripts:
 - <a href="https://en.wikipedia.org/wiki/ISO_15924">ISO 15924 Latn</a> Latin

@@ -24,12 +24,19 @@ Culture / History:
 - https://www.muzeulbucurestiului.ro/ (Bucharest Municipality Museum)
 
 Government:
-- 
-- 
+- https://www.gov.ro/ (Government of Romania)
+- https://www.presidency.ro/ (President of Romania)
+- https://www.cdep.ro/ (Chamber of Deputies - lower house of Parliament)
+- https://www.senat.ro/ (Senate - upper house of Parliament)
+- https://www.mae.ro/ (Ministry of Foreign Affairs)
+- https://www.mapn.ro/ (Ministry of National Defence)
 
 Political Parties:
-- 
-- 
+- https://www.psd.ro/ (Partidul Social Democrat - Social Democratic Party)
+- https://pnl.ro/ (Partidul Național Liberal - National Liberal Party)
+- https://usr.ro/ (Uniunea Salvați România - Save Romania Union)
+- https://alianntaaur.ro/ (Alianța pentru Unirea Românilor - Alliance for the Union of Romanians)
+- https://udmr.ro/ (Uniunea Democrată Maghiară din România - Democratic Alliance of Hungarians in Romania)
 
 Other:
 - https://ro.wikipedia.org

@@ -61,11 +61,12 @@ Informative links (in English):
 - https://www.romania.travel/en/ (Official tourism website)
 - https://www.mae.ro/en/ (Ministry of Foreign Affairs - English section)
 - https://www.gov.ro/en/ (Government of Romania - English section)
-- https://www.ms.ro/en/ (Ministry of Health - Enligh section)
+- https://www.ms.ro/en/ (Ministry of Health - English section)
 
 Additional Information:
 - ISO-639-3 code: ron
 - https://en.wikipedia.org/wiki/ISO_639:ron
+- Internet TLD: .ro
 - This document needs reviewing by a native speaker.
 
 

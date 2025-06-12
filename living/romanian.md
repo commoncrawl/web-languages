@@ -5,6 +5,10 @@ Additional names:
 - 
 
 News:
+- https://republica.ro/
+- https://www.wall-street.ro/
+- https://www.biziday.ro/
+- https://www.sport.ro/
 - https://adevarul.ro/
 - https://www.digi24.ro/
 - https://www.libertatea.ro/
@@ -16,6 +20,11 @@ News:
 - https://www.gsp.ro/ (Sports)
 
 Culture / History:
+- https://dilema.ro
+- https://matcaliterara.ro/
+- https://acad.ro/
+- https://www.catavencii.ro/
+- https://www.vice.com/ro/
 - https://www.mnar.arts.ro/ (National Museum of Art of Romania)
 - https://www.muzeul-satului.ro/ (Dimitrie Gusti National Village Museum)
 - https://www.historia.ro/ (Historia Magazine - covers Romanian history and culture)
@@ -25,6 +34,8 @@ Culture / History:
 
 Government:
 - https://www.gov.ro/ (Government of Romania)
+- https://www.mai.gov.ro/ (Ministry of Internal Affairs of Romania)
+- https://www.ms.ro/ (Ministry of Health)
 - https://www.presidency.ro/ (President of Romania)
 - https://www.cdep.ro/ (Chamber of Deputies - lower house of Parliament)
 - https://www.senat.ro/ (Senate - upper house of Parliament)
@@ -50,6 +61,7 @@ Informative links (in English):
 - https://www.romania.travel/en/ (Official tourism website)
 - https://www.mae.ro/en/ (Ministry of Foreign Affairs - English section)
 - https://www.gov.ro/en/ (Government of Romania - English section)
+- https://www.ms.ro/en/ (Ministry of Health - Enligh section)
 
 Additional Information:
 - ISO-639-3 code: ron

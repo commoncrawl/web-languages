@@ -16,7 +16,7 @@ Culture / History:
 - https://www.eretzmuseum.org.il/
 - https://www.yaarakeydar.com/
 - https://historia.co.il/blog/
-- https://www.imj.org.il/?utm_source=google&utm_medium=cpc&utm_term=%D7%9E%D7%95%D7%96%D7%99%D7%90%D7%95%D7%9F%20%D7%99%D7%A9%D7%A8%D7%90%D7%9C&utm_campaign=g&device=c&gad_source=1&gad_campaignid=1948310760&gbraid=0AAAAACwfhz8tIFjII2t1ky5MFlGRZBrKA&gclid=Cj0KCQjwmK_CBhCEARIsAMKwcD5JgRLB73OSphBrG64bzMvHxxzhHEX8NU-wEqAeBTloBJCRE2h3z1AaAtT4EALw_wcB
+- https://www.imj.org.il/
 - 
 
 Government:
@@ -25,7 +25,7 @@ Government:
 - https://www.new.isa.gov.il/
 - https://www.boi.org.il/
 - https://www.sii.org.il/
-- https://che.org.il/?__cf_chl_tk=U1Z6z5BUBaTVCp2etGLy..hVPWMeL6hNvXVjxpCIeKA-1749859496-1.0.1.1-Gk2Y9ry872ak68RcUM6NUOA.z_y8zR18RBMsbEAAmz4
+- https://che.org.il/
 - https://www.parks.org.il/
 - https://www.iaa.gov.il/
 

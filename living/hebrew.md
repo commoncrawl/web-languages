@@ -5,21 +5,42 @@ Additional names:
 - 
 
 News:
-- 
+- https://www.ynet.co.il/
+- https://www.haaretz.co.il/
+- https://www.kan.org.il/
+- https://www.mako.co.il/
 - 
 
 Culture / History:
-- 
+- https://www.ipo.co.il/
+- https://www.eretzmuseum.org.il/
+- https://www.yaarakeydar.com/
+- https://historia.co.il/blog/
+- https://www.imj.org.il/?utm_source=google&utm_medium=cpc&utm_term=%D7%9E%D7%95%D7%96%D7%99%D7%90%D7%95%D7%9F%20%D7%99%D7%A9%D7%A8%D7%90%D7%9C&utm_campaign=g&device=c&gad_source=1&gad_campaignid=1948310760&gbraid=0AAAAACwfhz8tIFjII2t1ky5MFlGRZBrKA&gclid=Cj0KCQjwmK_CBhCEARIsAMKwcD5JgRLB73OSphBrG64bzMvHxxzhHEX8NU-wEqAeBTloBJCRE2h3z1AaAtT4EALw_wcB
 - 
 
 Government:
-- 
-- 
+- https://www.gov.il/
+- https://www.btl.gov.il/Pages/default.aspx
+- https://www.new.isa.gov.il/
+- https://www.boi.org.il/
+- https://www.sii.org.il/
+- https://che.org.il/?__cf_chl_tk=U1Z6z5BUBaTVCp2etGLy..hVPWMeL6hNvXVjxpCIeKA-1749859496-1.0.1.1-Gk2Y9ry872ak68RcUM6NUOA.z_y8zR18RBMsbEAAmz4
+- https://www.parks.org.il/
+- https://www.iaa.gov.il/
 
 Political Parties:
-- 
-- 
-
+- https://beytenu.org.il/
+- https://www.likud.org.il/
+- http://www.yeshatid.org.il/
+- https://zionutdatit.org.il/
+- https://www.ozma-yeudit.co.il/
+- https://machane.org.il/
+- https://www.newhope.org.il/
+- http://www.shas.org.il/
+- https://hadash.org.il/
+- https://www.avoda.org.il/
+  
 Other:
 - https://he.wikipedia.org
 - 
@@ -39,8 +60,8 @@ Scripts:
 - 
 
 Thank you to these people who have helped create this document:
-- 
-- 
+- Leshem Choshen
+- Michal Elbaz
 
 ## Instructions
 

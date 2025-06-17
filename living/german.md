@@ -6,20 +6,54 @@ Additional names:
 - 
 
 News:
-- 
-- 
+- https://www.spiegel.de/
+- https://www.zeit.de/ (weekly, left-leaning)
+- https://www.sueddeutsche.de/
+- https://www.welt.de/ (conservative newspaper, analysis and comment)
+- https://www.bild.de/ (tabloid - news, gossip, sensationalism)
+- https://www.faz.net/ (high-quality journalism, conservative political views)
+- https://www.focus.de/
+- https://www.dw.com/de/ (international broadcaster, also has a "Learn German" section with slow-spoken news)
+- https://www.tagesschau.de/ (online news and information service of ARD, publicly-funded)
+- https://www.fr.de/ (left-liberal daily)
+- https://www.heute.de/ (online news and information service of ZDF, publicly-funded)
+- https://www.stern.de/ (political magazine)
+- https://taz.de/ (left-wing daily, independent and progressive reporting)
+- https://www.handelsblatt.com/ (business newspaper)
+- https://www.tagesspiegel.de/ (liberal, centrist)
+- https://www.dpa.com/de/
 
 Culture / History:
-- 
-- 
+- https://www.deutsche-digitale-bibliothek.de/ (German Digital Library)
+- https://www.bundesarchiv.de/ (German Federal Archives)
+- https://www.dhm.de/ (German Historical Museum in Berlin)
+- https://www.smb.museum/ (Various museums in Berlin)
+- https://www.preussischer-kulturbesitz.de/ (Prussian Cultural Heritage Foundation)
+- https://www.bundeskunsthalle.de/ (Art and Exhibition Hall of the Federal Republic of Germany in Bonn)
+- https://www.staatsbibliothek-berlin.de/ (Berlin State Library)
+- https://www.bpb.de/ (Federal Agency for Civic Education)
+- https://www.germany.travel/de/startseite.html (Official tourism website for Germany)
 
 Government:
-- 
-- 
+- https://www.bundesregierung.de/ (Federal Government of Germany)
+- https://www.bundestag.de/ (German Bundestag - Parliament)
+- https://www.bundesrat.de/ (Bundesrat - Federal Council, representing the states)
+- https://www.auswaertiges-amt.de/ (Federal Foreign Office)
+- https://www.bmi.bund.de/ (Federal Ministry of the Interior and Community)
+- https://www.bmvg.de/ (Federal Ministry of Defence)
+- https://www.bundespraesident.de/ (President of Germany)
+- https://www.bundesverfassungsgericht.de/ (Federal Constitutional Court)
 
 Political Parties:
-- 
-- 
+- https://www.spd.de/ (Social Democratic Party of Germany)
+- https://www.cdu.de/ (Christian Democratic Union of Germany)
+- https://www.csu.de/ (Christian Social Union in Bavaria, sister party to CDU)
+- https://www.gruene.de/ (Alliance 90/The Greens)
+- https://www.fdp.de/ (Free Democratic Party)
+- https://www.die-linke.de/ (The Left Party)
+- https://www.afd.de/ (Alternative for Germany)
+- https://www.freiewaehler.eu/ (Freie Wähler - Free Voters, primarily active at state and local level, but also in federal parliament)
+- https://www.voltdeutschland.org/ (pan-European party)
 
 Other:
 - https://de.wikipedia.org
@@ -27,20 +61,25 @@ Other:
 - 
 
 Informative links (in English):
-- 
-- 
+- https://en.wikipedia.org/wiki/Germany
+- https://en.wikipedia.org/wiki/German_language
+- https://en.wikipedia.org/wiki/History_of_Germany
+- https://www.germany.travel/en/home.html (Official tourism website for Germany)
+- https://www.auswaertiges-amt.de/en (Federal Foreign Office - English section)
+- https://www.bundesregierung.de/breg-en/federal-government (Federal Government of Germany - English section)
+- https://www.dw.com/en/ (Deutsche Welle - Germany's international broadcaster - English section)
 
 Additional Information:
 - ISO-639-3 code: deu
 - https://en.wikipedia.org/wiki/ISO_639:deu
-
+- This document needs reviewing by a native speaker.
 
 Scripts:
 - <a href="https://en.wikipedia.org/wiki/ISO_15924">ISO 15924 Latn</a> Latin
 - 
 
 Thank you to these people who have helped create this document:
-- 
+- [Ethan Wenokur](https://github.com/e-Winnie)
 - 
 
 ## Instructions

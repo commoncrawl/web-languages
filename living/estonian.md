@@ -5,20 +5,38 @@ Additional names:
 - 
 
 News:
-- 
-- 
+- https://www.err.ee/ (Estonian Public Broadcasting)
+- https://www.delfi.ee/
+- https://www.postimees.ee/
+- https://ohtuleht.ee/ (Daily tabloid newspaper)
+- https://aripaev.ee/ (Business daily)
+- https://epl.delfi.ee/
+- https://maaleht.delfi.ee/ (rural life and general news)
+- https://ekspress.delfi.ee/
 
 Culture / History:
-- 
-- 
+- https://www.kul.ee/ (Estonian Ministry of Culture)
+- https://www.ajaloomuuseum.ee/ (Estonian History Museum)
+- https://www.erm.ee/et (Estonian National Museum)
+- https://linnamuuseum.ee/ (Tallinn City Museum)
+- https://www.muuseum.ee/ (Portal for Estonian Museums)
+- https://folklore.ee/ (Estonian Folklore Archives)
+- https://puhkaeestis.ee/et (Estonian Tourism Site)
+- https://kultuur.info/ (Cultural events calendar and information portal)
 
 Government:
-- 
-- 
+- https://valitsus.ee/ (Estonian Government)
+- https://www.riigikogu.ee/ (Estonian Parliament)
+- https://www.kaitseministeerium.ee/ (Estonian Ministry of Defence)
+- https://president.ee/et (President of Estonia)
 
 Political Parties:
-- 
-- 
+- https://reform.ee/ (Estonian Reform Party)
+- https://keskerakond.ee/ (Estonian Centre Party)
+- https://ekre.ee/ (Conservative People's Party of Estonia)
+- https://isamaa.ee/ (Isamaa - Fatherland Party)
+- https://sotsid.ee/ (Social Democratic Party)
+- https://eesti200.ee/ (Estonia 200)
 
 Other:
 - https://et.wikipedia.org
@@ -26,12 +44,17 @@ Other:
 - 
 
 Informative links (in English):
-- 
-- 
+- https://en.wikipedia.org/wiki/Estonia
+- https://en.wikipedia.org/wiki/History_of_Estonia
+- https://en.wikipedia.org/wiki/Estonian_language
+- https://www.visitestonia.com/en (Official tourism website of Estonia)
+- https://news.err.ee/ (Estonian Public Broadcasting - English language news)
+- https://www.kul.ee/en (Estonian Ministry of Culture - English Section)
 
 Additional Information:
 - ISO-639-3 code: est
 - https://en.wikipedia.org/wiki/ISO_639:est
+- This document needs reviewing by a native speaker.
 
 
 Scripts:
@@ -39,7 +62,7 @@ Scripts:
 - 
 
 Thank you to these people who have helped create this document:
-- 
+- [Ethan Wenokur](https://github.com/e-Winnie)
 - 
 
 ## Instructions

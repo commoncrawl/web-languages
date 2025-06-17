@@ -5,20 +5,42 @@ Additional names:
 - 
 
 News:
-- 
-- 
+- https://www.index.hr/
+- https://www.24sata.hr/ (tabloid newspaper)
+- https://www.jutarnji.hr/
+- https://www.vecernji.hr/ (National daily newspaper, "Evening paper")
+- https://www.dnevnik.hr/
+- https://www.slobodnadalmacija.hr/
+- https://www.novilist.hr/ (Daily newspaper from Rijeka)
+- https://www.telegram.hr/
+- https://www.hrt.hr/ (public broadcaster)
+- https://www.glas-slavonije.hr/ (Eastern Croatia)
+- https://www.tportal.hr/
 
 Culture / History:
-- 
-- 
+- https://min-kulture.gov.hr/ (Ministry of Culture and Media of the Republic of Croatia))
+- https://hismus.hr/ (Croatian History Museum)
+- https://mdc.hr/ (Museum Documentation Centre)
+- https://croatia.hr/hr-hr/kultura-i-umjetnost (Croatian National Tourist Board)
+- https://www.amz.hr/hr/arheoloski-muzej-u-zagrebu/ (Archaeological Museum in Zagreb)
+- https://emz.hr/ (Ethnographic Museum in Zagreb)
 
 Government:
-- 
-- 
+- https://vlada.gov.hr/ (Croatian Government)
+- https://sabor.hr/hr (Parliament)
+- https://mvep.gov.hr/ (Ministry of Foreign and European Affairs)
+- https://mup.gov.hr/ (Ministry of Interior)
+- https://morh.hr/ (Ministry of Defence)
+- https://mpu.gov.hr/ (Ministry of Justice and Public Administration)
+- https://predsjednik.hr/ (President of Croatia)
 
 Political Parties:
-- 
-- 
+- https://www.hdz.hr/ (Croatian Democratic Union - HDZ)
+- https://www.sdp.hr/ (Social Democratic Party of Croatia - SDP)
+- https://most-hrvatska.hr/ (The Bridge - Most)
+- https://dp.hr/ (Homeland Movement - Domovinski pokret)
+- https://mozemo.hr/ (We Can! - Možemo!)
+- https://strankacentar.hr/ (Centre)
 
 Other:
 - https://hr.wikipedia.org
@@ -26,12 +48,17 @@ Other:
 - 
 
 Informative links (in English):
-- 
-- 
+- https://en.wikipedia.org/wiki/Croatia
+- https://en.wikipedia.org/wiki/Croatian_language
+- https://en.wikipedia.org/wiki/Croatian_history
+- https://www.croatiaweek.com/ (Croatian magazine in English)
+- https://croatia.hr/en-gb/culture-and-arts (Croatian National Tourist Board - English section)
+- https://vlada.gov.hr/en (Croatian Government - English Section)
 
 Additional Information:
 - ISO-639-3 code: hrv
 - https://en.wikipedia.org/wiki/ISO_639:hrv
+- This document needs reviewing by a native speaker.
 
 
 Scripts:
@@ -39,7 +66,7 @@ Scripts:
 - 
 
 Thank you to these people who have helped create this document:
-- 
+- [Ethan Wenokur](https://github.com/e-Winnie)
 - 
 
 ## Instructions

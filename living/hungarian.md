@@ -5,20 +5,44 @@ Additional names:
 - 
 
 News:
-- 
-- 
+- https://telex.hu/
+- https://index.hu/
+- https://24.hu/
+- https://444.hu/
+- https://hvg.hu/ (Weekly news magazine with strong online presence)
+- https://www.origo.hu/ (Pro-government news portal)
+- https://www.blikk.hu/ (Tabloid newspaper with online presence)
+- https://www.nepszava.hu/ (Centre-left daily newspaper)
+- https://magyarnemzet.hu/ (Conservative daily newspaper)
+- https://www.portfolio.hu/ (Financial news portal)
+- https://www.atv.hu/ (Private television news)
+- https://www.hirado.hu/ (Hungarian National Broadcaster)
 
 Culture / History:
-- 
-- 
+- https://mnl.gov.hu/ (Hungarian National Archives)
+- https://oszk.hu/ (Hungarian National Library)
+- https://mnm.hu/hu (Hungarian National Museum)
+- https://mng.hu/ (Hungarian National Gallery)
+- https://btm.hu/ (Budapest History Museum)
+- https://www.opera.hu/hu/ (Hungarian State Opera House)
+- https://pim.hu/hu (Petőfi Literary Museum)
+- https://nori.gov.hu/ (National Heritage Institute)
+- https://csodasmagyarorszag.hu/ (Official tourism website for Hungary)
 
 Government:
-- 
-- 
+- https://kormany.hu/ (Hungarian Government)
+- https://www.parlament.hu/hu/nyitolap (Hungarian Parliament)
+- https://www.sandorpalota.hu/hu/fooldal (President of Hungary)
+- https://miniszterelnok.hu/ (Prime Minister of Hungary)
 
 Political Parties:
-- 
-- 
+- https://fidesz.hu/ (Fidesz – Hungarian Civic Alliance)
+- https://dkp.hu/ (Demokratikus Koalíció - Democratic Coalition)
+- https://jobbik.hu/ (Jobbik Magyarországért Mozgalom - Jobbik Movement for a Better Hungary)
+- https://momentum.hu/ (Momentum Mozgalom - Momentum Movement)
+- https://mszp.hu/ (Magyar Szocialista Párt - Hungarian Socialist Party)
+- https://lehetmas.hu/ (LMP – Magyarország Zöld Pártja - LMP – Hungary's Green Party, formerly Politics Can Be Different)
+- https://parbeszed.hu/ (Párbeszéd – A Zöldek Pártja - Dialogue – The Green Party)
 
 Other:
 - https://hu.wikipedia.org
@@ -26,12 +50,15 @@ Other:
 - 
 
 Informative links (in English):
-- 
-- 
+- https://en.wikipedia.org/wiki/Hungary
+- https://en.wikipedia.org/wiki/Hungarian_language
+- https://en.wikipedia.org/wiki/History_of_Hungary
+- https://visithungary.com/ (Official tourism website for Hungary - English Section)
 
 Additional Information:
 - ISO-639-3 code: hun
 - https://en.wikipedia.org/wiki/ISO_639:hun
+- This document needs reviewing by a native speaker.
 
 
 Scripts:
@@ -39,7 +66,7 @@ Scripts:
 - 
 
 Thank you to these people who have helped create this document:
-- 
+- [Ethan Wenokur](https://github.com/e-Winnie)
 - 
 
 ## Instructions

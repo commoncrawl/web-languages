@@ -5,20 +5,43 @@ Additional names:
 - 
 
 News:
-- 
-- 
+- https://www.actualno.com/
+- https://fakti.bg/
+- https://nova.bg/
+- https://novini.bg/
+- https://blitz.bg/
+- https://gong.bg/ (Sports news)
+- https://www.24chasa.bg/
+- https://dnes.bg/
+- https://www.dir.bg/
+- https://btvnovinite.bg/ (News from bTV)
+- https://www.bnr.bg/ (Bulgarian National Radio)
+- https://www.bta.bg/ (Bulgarian News Agency)
+- https://www.dnevnik.bg/
+- https://www.capital.bg/ (Business and financial news)
+- https://www.standartnews.com/
+- https://frognews.bg/
 
 Culture / History:
-- 
-- 
+- https://mc.government.bg/ (Ministry of Culture of the Republic of Bulgaria)
+- https://historymuseum.org/ (National History Museum)
+- https://etar.bg/ (Ethnographic Open-Air Museum Etar)
+- https://ethnograph.info/ (Regional Ethnographic Museum - Plovdiv)
 
 Government:
-- 
-- 
+- https://www.government.bg/ (Council of Ministers of the Republic of Bulgaria)
+- https://www.president.bg/ (President of the Republic of Bulgaria)
+- https://www.parliament.bg/ (National Assembly of the Republic of Bulgaria)
+- https://www.mod.bg/ (Ministry of Defence)
+- https://www.mfa.bg/bg/ (Ministry of Foreign Affairs
 
 Political Parties:
-- 
-- 
+- https://gerb.bg/ (GERB - Citizens for European Development of Bulgaria)
+- https://bsp.bg/ (Bulgarian Socialist Party)
+- https://dps.bg/ (Movement for Rights and Freedoms)
+- https://promeni.bg/ (We Continue the Change)
+- https://demokrati.bg/ (Democratic Bulgaria - often partners with We Continue the Change)
+- https://vazrazhdane.bg/ (Revival)
 
 Other:
 - https://bg.wikipedia.org
@@ -26,12 +49,20 @@ Other:
 - 
 
 Informative links (in English):
-- 
-- 
+- https://en.wikipedia.org/wiki/Bulgaria
+- https://en.wikipedia.org/wiki/Bulgarian_language
+- https://en.wikipedia.org/wiki/History_of_Bulgaria
+- https://european-union.europa.eu/principles-countries-history/eu-countries/bulgaria_en (Bulgaria – EU country profile)
+- https://www.government.bg/en/ (Government of Bulgaria - English section)
+- https://www.president.bg/en/ (President of Bulgaria - English section)
+- https://www.parliament.bg/en/ (National Assembly of Bulgaria - English section)
+- https://visitmybulgaria.com/ (Official tourism portal of Bulgaria)
+- https://www.bulgaria-embassy.org/en/homepage/ (Bulgarian Embassyin Washington D.C.)
 
 Additional Information:
 - ISO-639-3 code: bul
 - https://en.wikipedia.org/wiki/ISO_639:bul
+- This document needs reviewing by a native speaker.
 
 
 Scripts:
@@ -39,7 +70,7 @@ Scripts:
 - 
 
 Thank you to these people who have helped create this document:
-- 
+- [Ethan Wenokur](https://github.com/e-Winnie)
 - 
 
 ## Instructions

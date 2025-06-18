@@ -5,20 +5,33 @@ Additional names:
 - 
 
 News:
-- 
-- 
+- https://www.delfi.lt/
+- https://www.15min.lt/
+- https://www.lrytas.lt/
+- https://www.tv3.lt/
+- https://www.vz.lt/ (Business News)
+- https://www.bernardinai.lt/ (Cultural and religious news)
+- https://www.lrt.lt/ (Lithuanian Public Broadcaster)
 
 Culture / History:
-- 
-- 
+- https://www.lnm.lt/ (National Museum of Lithuania)
+- https://www.limis.lt/ (Lithuanian Integral Museum Information System)
+- https://www.archyvai.lt/ (Office of the Chief Archivist of Lithuania)
+- https://www.llt.lt/ (Institute of Lithuanian Literature and Folklore)
 
 Government:
-- 
-- 
+- https://lrv.lt/ (Government of the Republic of Lithuania)
+https://www.lrs.lt/ (Parliament of the Republic of Lithuania)
+https://www.lrp.lt/lt (President of the Republic of Lithuania)
+https://urm.lt/ (Ministry of Foreign Affairs of the Republic of Lithuania)
+https://kam.lt/ (Ministry of National Defence of the Republic of Lithuania)
 
 Political Parties:
-- 
-- 
+- https://lsdp.lt/ (Social Democratic Party of Lithuania)
+- https://www.laisvespartija.lt/ (Freedom Party)
+- https://liberalai.lt/ (Liberal Movement of the Republic of Lithuania)
+- https://www.valstietis.lt/ (Lithuanian Farmers and Greens Union)
+- https://demokratai.lt/ (Union of Democrats "For Lithuania")
 
 Other:
 - https://lt.wikipedia.org
@@ -26,12 +39,18 @@ Other:
 - 
 
 Informative links (in English):
-- 
-- 
+- https://en.wikipedia.org/wiki/Lithuanian_language
+- https://en.wikipedia.org/wiki/History_of_Lithuania
+- https://en.wikipedia.org/wiki/Lithuania
+- https://lithuania.travel/en/ (Official tourism website)
+- https://investlithuania.com/ (Official investment promotion agency)
+- https://www.lb.lt/en/ (Bank of Lithuania)
+- https://www.urm.lt/en/ (Ministry of Foreign Affairs - English section)
 
 Additional Information:
 - ISO-639-3 code: lit
 - https://en.wikipedia.org/wiki/ISO_639:lit
+- This document needs reviewing by a native speaker.
 
 
 Scripts:
@@ -39,7 +58,7 @@ Scripts:
 - 
 
 Thank you to these people who have helped create this document:
-- 
+- [Ethan Wenokur](https://github.com/e-Winnie)
 - 
 
 ## Instructions

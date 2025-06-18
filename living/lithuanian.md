@@ -21,10 +21,10 @@ Culture / History:
 
 Government:
 - https://lrv.lt/ (Government of the Republic of Lithuania)
-https://www.lrs.lt/ (Parliament of the Republic of Lithuania)
-https://www.lrp.lt/lt (President of the Republic of Lithuania)
-https://urm.lt/ (Ministry of Foreign Affairs of the Republic of Lithuania)
-https://kam.lt/ (Ministry of National Defence of the Republic of Lithuania)
+- https://www.lrs.lt/ (Parliament of the Republic of Lithuania)
+- https://www.lrp.lt/lt (President of the Republic of Lithuania)
+- https://urm.lt/ (Ministry of Foreign Affairs of the Republic of Lithuania)
+- https://kam.lt/ (Ministry of National Defence of the Republic of Lithuania)
 
 Political Parties:
 - https://lsdp.lt/ (Social Democratic Party of Lithuania)

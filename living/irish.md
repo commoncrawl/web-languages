@@ -18,22 +18,15 @@ Culture / History:
 Government:
 - https://www.gov.ie/ga/ (Government of the Republic of Ireland)
 - https://www.oireachtas.ie/ga/ (Parliament of Ireland)
-- https://www.gov.ie/ga/an-roinn-cosanta/ (Department of Defence)
-- https://www.gov.ie/ga/an-roinn-dl%C3%AD-agus-cirt-gn%C3%B3tha%C3%AD-baile-agus-imirce/ (Department of Justice)
-- https://www.gov.ie/ga/an-roinn-oideachais/ (Department of Education)
-- https://www.gov.ie/ga/an-roinn-sl%C3%A1inte/ (Department of Health)
-- https://www.gov.ie/ga/an-roinn-tith%C3%ADochta-rialtais-%C3%A1it%C3%BAil-agus-oidhreachta/ (Department of Housing, Local Government and Heritage)
-- https://www.gov.ie/ga/an-roinn-airgeadais/ (Department of Finance)
-- https://www.gov.ie/ga/an-roinn-talmha%C3%ADochta-bia-agus-mara/ (Department of Agriculture, Food and the Marine)
 
 Political Parties:
 - https://www.fiannafail.ie/gaeilge (Fianna Fáil - The Republican Party)
-https://www.finegael.ie/ (Fine Gael - United Ireland Party)
-https://sinnfein.ie/ga/baile/ (Sinn Féin)
-https://www.greenparty.ie/ga (Green Party / Comhaontas Glas)
-https://www.labour.ie/ (The Labour Party)
-https://www.socialdemocrats.ie/ (Social Democrats)
-https://www.aontu.ie/ (Aontú)
+- https://www.finegael.ie/ (Fine Gael - United Ireland Party)
+- https://sinnfein.ie/ga/baile/ (Sinn Féin)
+- https://www.greenparty.ie/ga (Green Party / Comhaontas Glas)
+- https://www.labour.ie/ (The Labour Party)
+- https://www.socialdemocrats.ie/ (Social Democrats)
+- https://www.aontu.ie/ (Aontú)
 
 Other:
 - https://ga.wikipedia.org

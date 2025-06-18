@@ -5,20 +5,30 @@ Additional names:
 - 
 
 News:
-- 
-- 
+- https://www.tvm.com.mt/mt/ (Public broadcasting service, also available in Maltese)
+- https://netnews.com.mt/ (Nationalist Party affiliated)
+- https://talk.mt/ (Malta Labour Party affiliated)
+- https://one.com.mt/ (Malta Labour Party affiliated)
+- https://newsbook.com.mt/ (Catholic Church affiliated)
+- https://www.illum.com.mt/ (Maltese-language newspaper by MediaToday)
 
 Culture / History:
-- 
-- 
+- https://mt.wikipedia.org/wiki/Storja_ta%27_Malta
+- https://kultura.gov.mt/ (Ministry for Culture, Lands and Local Goverment of Malta)
+- https://teatrumanoel.mt/mt/ (Teatru Manoel - Malta's national theatre, website in Maltese)
 
 Government:
-- 
-- 
+- https://www.gov.mt/mt/Pages/home.aspx (Government of Malta)
+- https://parlament.mt/mt/ (Parliament of Malta)
+- https://primministru.gov.mt/il-prim-ministru/ (Prime Minister of Malta)
+- https://president.gov.mt/mt/ (President of Malta)
+- https://finanzi.gov.mt/ (Ministry for Finance of Malta)
+- https://affarijietbarranin.gov.mt/ (Ministry for Foreign and European Affairs and Trade)
 
 Political Parties:
-- 
-- 
+- https://partitlaburista.org/ (Partit Laburista - Labour Party)
+- https://pn.org.mt/ (Partit Nazzjonalista - Nationalist Party)
+- https://adpd.mt/ (AD+PD - The Green Party - Only in English)
 
 Other:
 - https://mt.wikipedia.org
@@ -26,12 +36,17 @@ Other:
 - 
 
 Informative links (in English):
-- 
-- 
+- https://en.wikipedia.org/wiki/Malta
+- https://en.wikipedia.org/wiki/History_of_Malta
+- https://en.wikipedia.org/wiki/Maltese_language
+- https://heritagemalta.mt/ (National agency for cultural heritage)
+- https://www.visitmalta.com/en/ (Official tourism site of Malta)
+- https://www.maltaculture.com/ (Website dedicated to Maltese culture)
 
 Additional Information:
 - ISO-639-3 code: mlt
 - https://en.wikipedia.org/wiki/ISO_639:mlt
+- This document needs reviewing by a native speaker.
 
 
 Scripts:
@@ -39,7 +54,7 @@ Scripts:
 - 
 
 Thank you to these people who have helped create this document:
-- 
+- [Ethan Wenokur](https://github.com/e-Winnie)
 - 
 
 ## Instructions

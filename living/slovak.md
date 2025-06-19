@@ -33,14 +33,12 @@ Government:
 - https://www.justice.gov.sk/ (Ministry of Justice of the Slovak Republic)
 
 Political Parties:
-- https://www.smer.sk/ (SMER – sociálna demokracia - Direction – Social Democracy)
-- https://progresivne.sk/ (Progresívne Slovensko - Progressive Slovakia)
-- https://www.hlas-sd.sk/ (HLAS – sociálna demokracia - Voice – Social Democracy)
-- https://www.olano.sk/ (OĽANO a priatelia - Ordinary People and Independent Personalities and Friends)
-- https://www.kdh.sk/ (Kresťanskodemokratické hnutie - Christian Democratic Movement)
-- https://www.sas.sk/ (Sloboda a Solidarita - Freedom and Solidarity)
-- https://www.sns.sk/ (Slovenská národná strana - Slovak National Party)
-- https://hnutie-republika.sk/ (Republika - Republic)
+- https://progresivne.sk/ (Progressive Slovakia)
+- https://www.hlas-sd.sk/ (Voice – Social Democracy)
+- https://www.kdh.sk/ (Christian Democratic Movement)
+- https://www.sas.sk/ (Freedom and Solidarity)
+- https://www.sns.sk/ (Slovak National Party)
+- https://hnutie-republika.sk/ (Republic)
 
 Other:
 - https://sk.wikipedia.org

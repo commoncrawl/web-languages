@@ -5,20 +5,42 @@ Additional names:
 - 
 
 News:
-- 
-- 
+- https://www.aktuality.sk/
+- https://www.pravda.sk/
+- https://www.sme.sk/
+- https://www.pluska.sk/
+- https://www.cas.sk/
+- https://www.topky.sk/
+- https://www.hnonline.sk/ (Business)
+- https://dennikn.sk/ (Center-right)
+- https://www.teraz.sk/ (Slovak Public Broadcaster)
 
 Culture / History:
-- 
-- 
+- https://sk.wikipedia.org/wiki/Slovensko
+- https://sk.wikipedia.org/wiki/Dejiny_Slovenska
+- https://sk.wikipedia.org/wiki/Slovensk%C3%A1_kult%C3%BAra
+- https://www.snd.sk/ (Slovak National Theatre)
+- https://www.snm.sk/ (Slovak National Museum)
+- https://www.snk.sk/ (Slovak National Library)
 
 Government:
-- 
-- 
+- https://www.vlada.gov.sk/ (Government of the Slovak Republic)
+- https://www.nrsr.sk/ (National Council of the Slovak Republic - Parliament)
+- https://www.prezident.sk/ (President of the Slovak Republic)
+- https://www.minv.sk/ (Ministry of Interior of the Slovak Republic)
+- https://www.mzv.sk/ (Ministry of Foreign and European Affairs of the Slovak Republic)
+- https://www.financnasprava.sk/ (Financial Administration of the Slovak Republic)
+- https://www.justice.gov.sk/ (Ministry of Justice of the Slovak Republic)
 
 Political Parties:
-- 
-- 
+- https://www.smer.sk/ (SMER – sociálna demokracia - Direction – Social Democracy)
+- https://progresivne.sk/ (Progresívne Slovensko - Progressive Slovakia)
+- https://www.hlas-sd.sk/ (HLAS – sociálna demokracia - Voice – Social Democracy)
+- https://www.olano.sk/ (OĽANO a priatelia - Ordinary People and Independent Personalities and Friends)
+- https://www.kdh.sk/ (Kresťanskodemokratické hnutie - Christian Democratic Movement)
+- https://www.sas.sk/ (Sloboda a Solidarita - Freedom and Solidarity)
+- https://www.sns.sk/ (Slovenská národná strana - Slovak National Party)
+- https://hnutie-republika.sk/ (Republika - Republic)
 
 Other:
 - https://sk.wikipedia.org
@@ -26,12 +48,15 @@ Other:
 - 
 
 Informative links (in English):
-- 
-- 
+- https://en.wikipedia.org/wiki/Slovakia
+- https://en.wikipedia.org/wiki/History_of_Slovakia
+- https://en.wikipedia.org/wiki/Culture_of_Slovakia
+- https://slovakia.travel/en (Official Tourism Website for Slovakia)
 
 Additional Information:
 - ISO-639-3 code: slk
 - https://en.wikipedia.org/wiki/ISO_639:slk
+- This document needs reviewing by a native speaker.
 
 
 Scripts:
@@ -39,7 +64,7 @@ Scripts:
 - 
 
 Thank you to these people who have helped create this document:
-- 
+- [Ethan Wenokur](https://github.com/e-Winnie)
 - 
 
 ## Instructions

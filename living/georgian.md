@@ -5,20 +5,39 @@ Additional names:
 - 
 
 News:
-- 
-- 
+- https://primetime.ge
+- https://www.ambebi.ge
+- https://kvirispalitra.ge
+- https://www.interpressnews.ge
+- https://www.alia.ge
+- https://edu.aris.ge
+- https://on.ge
+- https://www.resonancedaily.com
+- https://netgazeti.ge
+- https://www.imedi.ge
+- https://www.rustavi2.ge
 
 Culture / History:
-- 
-- 
+- https://gemrielia.ge
+- https://marao.ge
+- https://bidzer.ge
+- https://sportline.ge
+- https://forum.ge
+- https://lelo.ge
+- https://www.rogor.ge
 
 Government:
-- 
-- 
+- https://matsne.gov.ge
+- https://parliament.ge
+- https://www.rs.ge
+- https://www.napr.gov.ge
+- https://transparency.ge
 
 Political Parties:
-- 
-- 
+- http://www.gd.ge
+- https://dzlieri9.ge
+- https://girchi.com
+- https://unm.ge
 
 Other:
 - https://ka.wikipedia.org

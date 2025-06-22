@@ -1,22 +1,22 @@
 # Web Language: Morisyen
 
-Additional names:
+Additional names: Mauritian Creole, Kreol, Kreol Morisien
 - 
 
 News:
-- 
-- 
+- https://www.lemauricien.com/ [generally quotes embedded in French articles]
+- https://lexpress.mu/ [generally quotes embedded in French articles]
 
 Culture / History:
 - 
 - 
 
 Government:
-- 
-- 
+- https://fliphtml5.com/bookcase/udzjb [school books]
+- https://kreolrepiblikmoris.wordpress.com/
 
 Political Parties:
-- 
+- https://www.lalitmauritius.org/
 - 
 
 Other:
@@ -24,7 +24,7 @@ Other:
 - 
 
 Informative links (in English):
-- 
+- https://apics-online.info/surveys/55
 - 
 
 Additional Information:

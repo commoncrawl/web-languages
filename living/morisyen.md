@@ -4,15 +4,15 @@ Additional names: Mauritian Creole, Kreol, Kreol Morisien
 - 
 
 News:
-- https://www.lemauricien.com/ [generally quotes embedded in French articles]
-- https://lexpress.mu/ [generally quotes embedded in French articles]
+- https://www.lemauricien.com/ (generally quotes embedded in French articles)
+- https://lexpress.mu/ (generally quotes embedded in French articles)
 
 Culture / History:
 - 
 - 
 
 Government:
-- https://fliphtml5.com/bookcase/udzjb [school books]
+- https://fliphtml5.com/bookcase/udzjb (school books)
 - https://kreolrepiblikmoris.wordpress.com/
 
 Political Parties:

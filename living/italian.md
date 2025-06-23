@@ -2,27 +2,46 @@
 
 Additional names:
 - italiano
-- 
 
 News:
-- 
-- 
+- https://www.ilsole24ore.com/
+- https://www.ilfattoquotidiano.it/
+- https://www.corriere.it/
+- https://www.repubblica.it/
+- https://www.ilrestodelcarlino.it/
+- https://www.ilsecoloxix.it/
+- https://www.gazzetta.it/
+- https://www.ilmessaggero.it/
+- https://www.avvenire.it/
+- https://www.lastampa.it/
 
 Culture / History:
-- 
-- 
+- https://accademiadellacrusca.it/
+- https://www.treccani.it/
+- https://www.museiitaliani.it/
+- https://www.raicultura.it/
+- https://www.culturaitalia.it/
 
 Government:
-- 
-- 
+- https://www.governo.it/it
+- https://www.quirinale.it/
+- https://www.senato.it/home
+- https://www.camera.it/leg19/1
+- https://www.carabinieri.it/
 
 Political Parties:
-- 
-- 
+- https://partitodemocratico.it/
+- https://www.fratelli-italia.it/
+- https://forzaitalia.it/
+- https://legaonline.it/
+- https://radicali.it/
+- https://www.italiaviva.it/
+- https://www.azione.it/
+- https://www.piueuropa.eu/
+- https://verdisinistra.it/
 
 Other:
 - https://it.wikipedia.org
-- 
 - 
 
 Informative links (in English):

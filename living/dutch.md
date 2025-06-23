@@ -47,6 +47,7 @@ Political Parties:
 - https://www.pvv.nl/ (Party for Freedom)
 - https://groenlinkspvda.nl/ (GreenLeft-Labour Party)
 - https://vvd.nl/ (People's Party for Freedom and Democracy)
+- https://partijnieuwsociaalcontract.nl/standpunten (New Social Contract)
 - https://d66.nl/ (Democrats 66)
 - https://boerburgerbeweging.nl/ (Farmer–Citizen Movement)
 - https://www.cda.nl/ (Christian Democratic Appeal)

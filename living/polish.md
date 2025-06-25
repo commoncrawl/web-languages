@@ -6,38 +6,56 @@ Additional names:
 
 News:
 - https://www.onet.pl/
-- https://tvn24.pl/
-- https://www.gazeta.pl/0,0.html
 - https://www.wp.pl/
+- https://www.interia.pl
+- https://tvn24.pl/
+- https://www.gazeta.pl/
+- https://www.tvp.pl/
+- https://www.rp.pl/ (politics, economy, legal)
+- https://www.fakt.pl/ (tabloid)
+- https://www.se.pl/ (tabloid)
+- https://www.rmf24.pl
+- https://www.polskieradio.pl/ (National Public Broadcaster)
 
 Culture / History:
 - https://culture.pl/pl
-- https://poland.pl/
-- https://nid.pl/
-- https://ipn.gov.pl/
+- https://iam.pl/pl/ (Adam Mickiewicz Institute)
+- https://polona.pl/ (National Digital Library)
+- https://muzeumwp.pl/ (Polish Army Museum)
+- https://www.mnw.art.pl/ (National Museum in Warsaw)
+- https://zamek-krolewski.pl/ (Royal Castle in Warsaw)
+- https://www.wawel.krakow.pl/ (Wawel Royal Castle in Krakow)
+- https://www.auschwitz.org/ (Auschwitz-Birkenau State Museum)
 
 Government:
 - https://www.gov.pl/
-- 
+- https://www.prezydent.pl/ (President of the Republic of Poland)
+- https://www.sejm.gov.pl/ (Lower house of the Polish Parliament)
+- https://www.senat.gov.pl/ (Upper house of the Polish Parliament)
 
 Political Parties:
-- https://pis.org.pl/
-- https://lewica.org.pl/
-- https://koalicjaobywatelska.pl/
+- https://platforma.org/ (Civic Platform)
+- https://pis.org.pl/ (Law and Justice)
+- https://psl.pl/ (Polish People's Party)
+- https://lewica.org.pl/ (The New Left)
+- https://konfederacja.net/ (Confederation Liberty and Independence)
 
 Other:
 - https://pl.wikipedia.org
-- https://www.tvp.pl/
+- 
 - 
 - 
 
 Informative links (in English):
 - https://en.wikipedia.org/wiki/Polish_language
-- 
+- https://en.wikipedia.org/wiki/Poland
+- https://en.wikipedia.org/wiki/History_of_Poland
+- https://www.poland.travel/en/ (Poland tourism website)
 
 Additional Information:
 - ISO-639-3 code: pol
 - https://en.wikipedia.org/wiki/ISO_639:pol
+- This document needs reviewing by a native speaker.
 
 
 Scripts:
@@ -46,7 +64,7 @@ Scripts:
 
 Thank you to these people who have helped create this document:
 - [Maja Swieczkowska](https://github.com/swieczkaa)
-- 
+- [Ethan Wenokur](https://github.com/e-Winnie)
 
 ## Instructions
 

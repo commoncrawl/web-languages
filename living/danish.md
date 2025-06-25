@@ -43,23 +43,28 @@ News:
 - https://www.seoghoer.dk/
 - https://www.skivefolkeblad.dk/
 - https://www.sn.dk/
-- https://www.sondagsavisen.dk/
 - https://www.weekendavisen.dk/
 
 Culture / History:
 - https://danmarkshistorien.dk/
 - https://lex.dk/
 - https://leksikon.org/
-- https://natmus.dk/
+- https://natmus.dk/ (The National Museum of Denmark)
 - https://slaegtsbibliotek.dk/
+- https://kum.dk/ (Ministry of Culture of Denmark)
+- https://denkongeligesamling.dk/ (The Royal Danish Collection)
+- https://cphmuseum.kk.dk/ (Museum of Copenhagen)
+- https://www.rigsarkivet.dk/ (The Danish National Archives)
+- https://www.visitdenmark.dk/ (Official tourism site)
+- https://www.danishculture.com/da/ (Danish Cultural Institute)
 
 Government:
-- https://borger.dk/
-- https://ft.dk
-- https://regeringen.dk
-- https://sundhed.dk/
-- https://stm.dk
-- https://um.dk
+- https://borger.dk/ (Official public portal for citizens)
+- https://ft.dk/ (The Danish Parliament)
+- https://regeringen.dk/ (The Government of Denmark)
+- https://sundhed.dk/ (Official public health portal)
+- https://stm.dk/ (The Prime Minister's Office)
+- https://um.dk/(Ministry of Foreign Affairs of Denmark)
 
 Political Parties:
 - https://danmarksdemokraterne.dk
@@ -91,12 +96,17 @@ Other:
 - https://ordnet.dk
 
 Informative links (in English):
+- https://en.wikipedia.org/wiki/Denmark
+- https://en.wikipedia.org/wiki/Danish_language
+- https://en.wikipedia.org/wiki/History_of_Denmark
 - https://cphpost.dk/
 - https://www.thelocal.dk/
+- https://www.visitdenmark.com/ (Official tourism site - English)
 
 Additional Information:
 - ISO-639-3 code: dan
 - https://en.wikipedia.org/wiki/ISO_639:dan
+- This document needs reviewing by a native speaker.
 
 
 Scripts:
@@ -104,8 +114,8 @@ Scripts:
 - 
 
 Thank you to these people who have helped create this document:
-- 
-- 
+- others
+- [Ethan Wenokur](https://github.com/e-Winnie)
 
 ## Instructions
 

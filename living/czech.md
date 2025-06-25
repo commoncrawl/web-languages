@@ -11,26 +11,30 @@ News:
 - https://www.seznamzpravy.cz/
 - https://denikn.cz/
 - https://www.irozhlas.cz/
-- https://www.ctk.cz/
+- https://www.ctk.cz/ (Czech News Agency)
 
 Culture / History:
 - https://www.nm.cz/ (National Museum)
+- https://mk.gov.cz/ (Ministry of Culture of the Czech Republic)
+- https://www.ngprague.cz/ (National Gallery Prague)
+- https://www.nacr.cz/ (National Archives)
+- https://www.nulk.cz/ (National Institute of Folk Culture)
 
 Government:
-- https://vlada.gov.cz/
-- https://www.psp.cz/
-- https://www.senat.cz/
-- https://www.hrad.cz/
-- https://mv.gov.cz/
+- https://vlada.gov.cz/ (Office of the Government of the Czech Republic)
+- https://www.psp.cz/ (Chamber of Deputies of the Parliament of the Czech Republic)
+- https://www.senat.cz/ (Senate of the Parliament of the Czech Republic)
+- https://www.hrad.cz/ (Prague Castle, official website of the President of the Czech Republic)
+- https://mv.gov.cz/ (Ministry of the Interior of the Czech Republic)
 
 Political Parties:
-- https://www.ods.cz/
-- https://www.anobudelip.cz/cs/
-- https://socdem.cz/
-- https://www.pirati.cz/
-- https://www.starostove-nezavisli.cz/
-- https://www.top09.cz/
-- https://www.kdu.cz/
+- https://www.ods.cz/ (Civic Democratic Party)
+- https://www.anobudelip.cz/cs/ (ANO 2011)
+- https://socdem.cz/ (Social Democracy)
+- https://www.pirati.cz/ (Czech Pirate Party)
+- https://www.starostove-nezavisli.cz/ (Mayors and Independents)
+- https://www.top09.cz/ (TOP 09)
+- https://www.kdu.cz/ (Christian and Democratic Union – Czechoslovak People's Party)
 
 Other:
 - https://cs.wikipedia.org
@@ -39,12 +43,16 @@ Other:
 
 Informative links (in English):
 - https://en.wikipedia.org/wiki/Czech_language
-- 
+- https://en.wikipedia.org/wiki/Czech_Republic
+- https://en.wikipedia.org/wiki/History_of_Czechoslovakia
+- https://en.wikipedia.org/wiki/History_of_the_Czech_lands
+- https://www.visitczechia.com/en-us (Official tourism website)
 
 Additional Information:
 - ISO-639-3 code: ces
 - https://en.wikipedia.org/wiki/ISO_639:ces
 - Internet TLD: .cz
+- This document needs reviewing by a native speaker.
 
 
 Scripts:
@@ -52,8 +60,8 @@ Scripts:
 - 
 
 Thank you to these people who have helped create this document:
-- 
-- 
+- others
+- [Ethan Wenokur](https://github.com/e-Winnie)
 
 ## Instructions
 

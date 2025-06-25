@@ -8,11 +8,11 @@ News:
 - https://www.sapo.pt/
 - https://www.noticiasaominuto.com/
 - https://sic.pt/
-- https://www.rtp.pt/
+- https://www.rtp.pt/ (Public Service Broadcaster)
 - https://tvi.iol.pt/
 - https://observador.pt/
 - https://www.publico.pt/
-- https://www.nit.pt/
+- https://www.nit.pt/ (lifestyle, food, events)
 
 Culture / History:
 - https://www.museusemonumentos.pt/pt (Portugal’s Museums and Monuments)
@@ -20,6 +20,11 @@ Culture / History:
 - https://www.serralves.pt/
 - https://www.foriente.pt/
 - https://casadamusica.com/
+- https://culturaportugal.gov.pt/ (Portal for Portuguese Culture)
+- https://antt.dglab.gov.pt/ (National Archive of Torre do Tombo - National Archive of Portugal)
+- https://www.museudoaljube.pt/ (Resistance and Freedom)
+- https://www.cnc.pt/ (National Centre for Culture)
+- https://www.visitportugal.com/pt-pt (Official tourism website)
 
 Government:
 - https://www.portugal.gov.pt/pt/gc24 (Portuguese Government)
@@ -48,12 +53,15 @@ Other:
 - https://cpf.org.pt/ (Portuguese Foundations Centre)
 
 Informative links (in English):
--
--
+- https://en.wikipedia.org/wiki/Portuguese_language
+- https://en.wikipedia.org/wiki/Portugal
+- https://en.wikipedia.org/wiki/History_of_Portugal
+- https://www.visitportugal.com/en/ (Official tourism website)
 
 Additional Information:
 - ISO-639-3 code: por
 - https://en.wikipedia.org/wiki/ISO_639:por
+- This document needs reviewing by a native speaker.
 
 
 Scripts:
@@ -61,8 +69,8 @@ Scripts:
 -
 
 Thank you to these people who have helped create this document:
--
--
+- others
+- [Ethan Wenokur](https://github.com/e-Winnie)
 
 ## Instructions
 

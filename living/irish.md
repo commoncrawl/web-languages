@@ -13,7 +13,7 @@ Culture / History:
 - https://www.duchas.ie/ga/ (The National Folklore Collection)
 - https://www.museum.ie/ga-ie/home (The National Museum of Ireland)
 - https://www.ireland.ie/ga/cuairt/ (Irish Tourism Site)
-- https://www.gov.ie/ga/an-roinn-cult%C3%BAir-cumars%C3%A1ide-agus-sp%C3%B3irt/ (Department of Culture, Communications and Sport)
+
 
 Government:
 - https://www.gov.ie/ga/ (Government of the Republic of Ireland)

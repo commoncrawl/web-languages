@@ -37,6 +37,7 @@ Government:
 - https://www.government.se/ (Swedish government, in English)
 - https://www.forsvarsmakten.se/ (Swedish ministry of defence)
 - https://www.riksdagen.se/ (Swedish Parliament)
+- https://www.riksdagen.se/sv/dokument-och-lagar/riksdagens-oppna-data/ (Swedish Parliament open data)
 
 Political Parties:
 - https://www.socialdemokraterna.se/ (Swedish Social Democratic Party)
@@ -55,6 +56,7 @@ Other:
 - https://www.systembolaget.se/ (Government-owned chain of liquor stores in Sweden)
 - https://www.fiskejournalen.se/guider (Guides on fishing techniques)
 - https://illvet.se/ (Illustrated Science magazine)
+- https://eur-lex.europa.eu/homepage.html?locale=sv (EUR-Lex, Access to European Union Law, in Swedish)
 
 Informative links (in English):
 - https://en.wikipedia.org/wiki/Swedish_language

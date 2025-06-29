@@ -11,7 +11,7 @@ News:
 - https://www.aftonbladet.se/
 - https://www.expressen.se/ (Swedish Evening Newspaper)
 - https://www.mitti.se/ (Swedish Local Newspaper that focus news on local communes)
-- https://8sidor.se/ ( Home page of newspaper in "easy-to-read" Swedish )
+- https://8sidor.se/ (Home page of newspaper in "easy-to-read" Swedish)
 - https://aip.nu/ (Newspaper primarily contains news, but also reports, analysis, comments and debate)
 
 Culture / History:
@@ -38,6 +38,11 @@ Government:
 - https://www.forsvarsmakten.se/ (Swedish ministry of defence)
 - https://www.riksdagen.se/ (Swedish Parliament)
 - https://www.riksdagen.se/sv/dokument-och-lagar/riksdagens-oppna-data/ (Swedish Parliament open data)
+- https://www.riksdagen.se/sv/sok/?avd=dokument (More documents from the Swedish Parliament)
+- https://lagen.nu/dataset/sfs (Swedish laws)
+- https://lagen.nu/dataset/dv (Swedish case law)
+- https://lagen.nu/dataset/forarbeten (Swedish parliamentary documents and reports)
+- https://lagen.nu/dataset/myndprax (Other Swedish guiding decisions)
 
 Political Parties:
 - https://www.socialdemokraterna.se/ (Swedish Social Democratic Party)

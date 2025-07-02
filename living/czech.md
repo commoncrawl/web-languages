@@ -5,20 +5,43 @@ Additional names:
 - 
 
 News:
-- https://ct24.ceskatelevize.cz/
-- https://www.idnes.cz/
-- https://www.aktualne.cz/
-- https://www.seznamzpravy.cz/
+- https://www.ceskenoviny.cz/ (general news)
+- https://www.novinky.cz/ (general news)
+- https://www.idnes.cz/ (general news)
+- https://www.lidovky.cz/ (general news)
+- https://www.seznamzpravy.cz/ (general news)
+- https://denikalarm.cz/ (general news)
+- https://www.denik.cz/ (general news)
+- https://www.irozhlas.cz/ (general news)
+- https://www.aktualne.cz/ (general news)
+- https://www.blesk.cz/ (tabloid press)
+- https://www.reflex.cz/ (general news)
+- https://www.hn.cz/ (general news)
+- https://ct24.ceskatelevize.cz/ (czech broadcaster, contains news)
+- https://www.echo24.cz/ (general news)
+- https://www.forum24.cz/ (general news)
+- https://www.e15.cz/ (mostly financial news)
+- https://www.sport.cz/ (sports news)
 - https://denikn.cz/
-- https://www.irozhlas.cz/
 - https://www.ctk.cz/ (Czech News Agency)
+- 
 
 Culture / History:
-- https://www.nm.cz/ (National Museum)
-- https://mk.gov.cz/ (Ministry of Culture of the Czech Republic)
+- https://www.csfd.cz/ (czech film database)
+- https://www.narodni-divadlo.cz/en (national theatre)
+- https://art.ceskatelevize.cz/ (czech television arts portal)
+- https://www.nm.cz/ (national museum)
+- https://www.prgphil.cz/ (prague philharmonic)
+- https://www.dejepis.com/ (portal about czech history)
+- https://www.databazeknih.cz/ (czech books database)
+- https://www.nkp.cz/ (czech national library)
 - https://www.ngprague.cz/ (National Gallery Prague)
+- https://www.ntm.cz/ (national technical museum)
+- https://portal.rozhlas.cz/ (czech national radio)
+- https://mk.gov.cz/ (Ministry of Culture of the Czech Republic)
 - https://www.nacr.cz/ (National Archives)
 - https://www.nulk.cz/ (National Institute of Folk Culture)
+- 
 
 Government:
 - https://vlada.gov.cz/ (Office of the Government of the Czech Republic)
@@ -26,6 +49,19 @@ Government:
 - https://www.senat.cz/ (Senate of the Parliament of the Czech Republic)
 - https://www.hrad.cz/ (Prague Castle, official website of the President of the Czech Republic)
 - https://mv.gov.cz/ (Ministry of the Interior of the Czech Republic)
+- https://portal.gov.cz/ (main entry to czech government)
+- https://www.mvcr.cz/ministerstvo-vnitra-ceske-republiky.aspx (ministry of the interior)
+- https://www.mpsv.cz/ (ministry of social affairs)
+- https://mzv.gov.cz/jnp/ (czech foreign ministry)
+- https://www.mfcr.cz/ (ministry of finance)
+- https://www.mk.gov.cz/ (ministry of culture)
+- https://msmt.gov.cz/ (ministry of education, youth and sports)
+- https://www.mmr.gov.cz/cs/uvod (ministry of regional development)
+- https://mocr.mo.gov.cz/ (ministry of defence)
+- https://www.mpo.gov.cz/ (ministry of industry and trade)
+- https://md.gov.cz/ (ministry of transport)
+- https://www.cnb.cz/cs/ (czech national bank)
+- 
 
 Political Parties:
 - https://www.ods.cz/ (Civic Democratic Party)
@@ -35,18 +71,30 @@ Political Parties:
 - https://www.starostove-nezavisli.cz/ (Mayors and Independents)
 - https://www.top09.cz/ (TOP 09)
 - https://www.kdu.cz/ (Christian and Democratic Union – Czechoslovak People's Party)
+- https://forum.pirati.cz/index.php
+- https://motoristesobe.cz/
+- https://www.kscm.cz/
+- https://www.spd.cz/ 
+- https://volimtrikoloru.cz/
+- 
+
 
 Other:
 - https://cs.wikipedia.org
 - https://prirucka.ujc.cas.cz/
+- https://www.cvut.cz/
+- https://www.muni.cz/
+- https://www.vse.cz/
+- https://cuni.cz/
 - 
 
 Informative links (in English):
-- https://en.wikipedia.org/wiki/Czech_language
-- https://en.wikipedia.org/wiki/Czech_Republic
+- https://en.wikipedia.org/wiki/Czech_Republic (General information about the Czech Republic)
+- https://en.wikipedia.org/wiki/Czech_language (General information about the Czech language)
+- https://en.wikipedia.org/wiki/History_of_the_Czech_lands (General information about the history of the Czech)
 - https://en.wikipedia.org/wiki/History_of_Czechoslovakia
-- https://en.wikipedia.org/wiki/History_of_the_Czech_lands
 - https://www.visitczechia.com/en-us (Official tourism website)
+- 
 
 Additional Information:
 - ISO-639-3 code: ces
@@ -60,8 +108,9 @@ Scripts:
 - 
 
 Thank you to these people who have helped create this document:
-- others
+- Hynek Kydlíček
 - [Ethan Wenokur](https://github.com/e-Winnie)
+- 
 
 ## Instructions
 

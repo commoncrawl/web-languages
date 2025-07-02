@@ -5,20 +5,29 @@ Additional names:
 - 
 
 News:
-- 
-- 
+- https://www.berria.eus/
+- https://www.argia.eus/
+- https://www.eitb.eus/eu/ (Basque Public Broadcaster)
+- https://www.naiz.eus/eu/
 
 Culture / History:
-- 
-- 
+- https://www.etxepare.eus/eu/ (Etxepare Basque Institute - Promotes Basque language and culture internationally)
+- http://www.euskomedia.org/ (Encyclopedia of Basque Culture)
+- https://www.basqueculture.eus/eu/ (Official portal for Basque culture)
+- https://www.santelmomuseoa.eus/index.php?lang=eu (Ethnographic and fine arts museum in San Sebastian)
+- https://museoa.eus/museoa/ (Bilbao Fine Arts Museum)
+- https://www.guggenheim-bilbao.eus/eu (Guggenheim Museum Bilbao)
+- https://www.arriguri.com/ (Digital archive of Basque oral tradition)
 
 Government:
-- 
-- 
+- https://www.basquecountry.eus/hasiera/ (Basque Country Government Website)
+- https://www.communaute-paysbasque.fr/eu/ (French Basque Country Government Website)
 
 Political Parties:
-- 
-- 
+- https://www.eaj-pnv.eus/eu/ (Basque Nationalist Party)
+- https://ehbildu.eus/ (Euskal Herria Bildu - EH Bildu)
+- https://www.euskoalkartasuna.eus/ (Eusko Alkartasuna - EA)
+- https://geroabai.eus/eu (Geroa Bai)
 
 Other:
 - https://eu.wikipedia.org
@@ -26,12 +35,19 @@ Other:
 - 
 
 Informative links (in English):
-- 
-- 
+- https://en.wikipedia.org/wiki/Basque_Country_(autonomous_community)
+- https://en.wikipedia.org/wiki/Basque_language
+- https://en.wikipedia.org/wiki/Basque_Country_(greater_region)
+- https://en.wikipedia.org/wiki/History_of_the_Basques
+- https://en.wikipedia.org/wiki/French_Basque_Country
+- https://www.basquecountry.eus/home/ (Basque Country Government Website - English section)
+- https://turismo.euskadi.eus/en/ (Official tourism website of the Basque Country)
+- https://www.basquecountry-tourism.com/ (Basque Country tourism website)
 
 Additional Information:
 - ISO-639-3 code: eus
 - https://en.wikipedia.org/wiki/ISO_639:eus
+- This document needs reviewing by a native speaker.
 
 
 Scripts:
@@ -39,7 +55,7 @@ Scripts:
 - 
 
 Thank you to these people who have helped create this document:
-- 
+- [Ethan Wenokur](https://github.com/e-Winnie)
 - 
 
 ## Instructions

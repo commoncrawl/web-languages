@@ -5,33 +5,71 @@ Additional names:
 - 
 
 News:
-- 
+- https://www.hurriyet.com.tr (Mainstream daily newspaper, center-right)
+- https://www.gazeteduvar.com.tr (Independent news site with progressive tone)
+- https://www.cumhuriyet.com.tr (Secular, Kemalist, left-leaning daily)
+- https://www.yenisafak.com (Pro-government, conservative daily)
+- https://bianet.org (Independent news with focus on rights and minorities)
+- https://www.sozcu.com.tr (Secular nationalist, opposition-focused newspaper)
 - 
 
 Culture / History:
-- 
+- https://tarihakli.com.tr (Community-driven platform on Turkish and world history)
+- https://arkeofili.com (Popular Turkish archaeology and history blog)
+- https://turkoloji.cu.edu.tr (Turkology academic resources portal)
+- https://kulturportali.gov.tr (Ministry of Culture and Tourism’s official culture portal)
+- https://ekitap.kulturturizm.gov.tr (Official e-library of Turkish cultural publications)
+- https://www.turkcebilgi.com (General knowledge site in Turkish)
 - 
 
 Government:
-- 
+- https://www.turkiye.gov.tr (Official e-government portal)
+- https://www.tbmm.gov.tr (The Grand National Assembly of Turkey)
+- https://www.resmigazete.gov.tr (Official Gazette of Turkey)
+- https://www.icisleri.gov.tr (Ministry of Interior)
+- https://www.meb.gov.tr (Ministry of National Education)
+- https://www.kultur.gov.tr (Ministry of Culture and Tourism)
 - 
 
 Political Parties:
-- 
+- https://www.akparti.org.tr (Justice and Development Party – AKP)
+- https://www.chp.org.tr (Republican People's Party – CHP)
+- https://demparti.org.tr (Peoples' Equality and Democracy Party – DEM)
+- https://www.iyiparti.org.tr (Good Party – İYİ Parti)
+- https://www.mhp.org.tr (Nationalist Movement Party – MHP)
+- http://devapartisi.org (Democracy and Progress Party – DEVA)
+- https://www.tip.org.tr (Workers’ Party of Turkey – TİP)
+- https://www.saadet.org.tr (Felicity Party – SP)
+- http://hudapar.org (Free Cause Party – HÜDA PAR)
+- https://yenidenrefahpartisi.org.tr (New Welfare Party – YRP)
+- https://emep.org (Labour Party – EMEP)
+- http://www.dp.org.tr (Democrat Party – DP)
+- https://www.dsp.org.tr (Democratic Left Party – DSP)
+- https://www.gelecekpartisi.org.tr (Future Party – GP)
 - 
 
 Other:
-- https://tr.wikipedia.org
-- 
+- https://tr.wikipedia.org (Turkish Wikipedia)
+- https://eksisozluk.com (Popular user-generated content platform)
+- https://uludagsozluk.com (Alternative Turkish dictionary/forum)
+- https://www.memurlar.net (Portal for government employees)
+- https://www.reddit.com/r/Turkey/ (Turkish subreddit, mix of Turkish and English)
 - 
 
 Informative links (in English):
-- 
+- https://en.wikipedia.org/wiki/Turkish_language (Overview of Turkish language)
+- https://en.wikipedia.org/wiki/Turkish_alphabet (Explanation of Turkish alphabet)
+- https://en.wikipedia.org/wiki/Languages_of_Turkey (Summary of all spoken languages in Turkey)
+- https://en.wikipedia.org/wiki/List_of_political_parties_in_Turkey (Overview of party system)
+- https://en.wikipedia.org/wiki/Media_of_Turkey (Structure and ownership of Turkish media)
+- https://omniglot.com/writing/turkish.htm (Turkish script and writing system)
+- https://www.ethnologue.com/country/TR/languages (Ethnologue overview of Turkish linguistic diversity)
 - 
 
 Additional Information:
 - ISO-639-3 code: tur
 - https://en.wikipedia.org/wiki/ISO_639:tur
+- 
 
 
 Scripts:
@@ -39,7 +77,7 @@ Scripts:
 - 
 
 Thank you to these people who have helped create this document:
-- 
+- [Hande Çelikkanat](https://github.com/handecelikkanat)
 - 
 
 ## Instructions

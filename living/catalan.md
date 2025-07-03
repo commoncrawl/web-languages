@@ -6,32 +6,30 @@ Additional names:
 - balear
 
 News:
-- https://www.3cat.cat/
-- https://www.rac1.cat/
+- https://www.3cat.cat/ (Catalan public media corporation)
+- https://www.rac1.cat/ 
 - https://www.lavanguardia.com/encatala
 - https://www.ara.cat/
-- https://www.diaridetarragona.com/
-- https://www.segre.com/ca/
-- https://www.diaridegirona.cat/
+- https://www.segre.com/ca/ (Regional newspaper for Lleida)
+- https://www.diaridegirona.cat/ (Regional newspaper for Girona)
 - https://www.elpuntavui.cat/
-- https://www.elperiodico.cat/ca/
-- https://www.apuntmedia.es/
-- https://ib3.org/televisio
-- https://ib3.org/noticies
-- https://www.acn.cat/
+- https://www.elperiodico.cat/ca/ 
+- https://www.apuntmedia.es/ (Valencian public media corporation)
+- https://ib3.org/ (Public media of the Balearic Islands)
+- https://www.acn.cat/ (Catalan News Agency)
 
 Culture / History:
-- https://www.iec.cat/
-- https://www.cpnl.cat/
-- https://www.tnc.cat/
-- https://www.macba.cat/ca/
-- https://cosmocaixa.org/
+- https://www.iec.cat/ (Institute for Catalan Studies)
+- https://www.cpnl.cat/ (Consortium for Linguistic Normalization)
+- https://www.tnc.cat/ (National Theatre of Catalonia)
+- https://www.macba.cat/ca/ (Barcelona Museum of Contemporary Art)
+- https://cosmocaixa.org/ca/ (Science Museum in Barcelona)
 
 Government:
-- https://parlament.cat/
-- https://web.gencat.cat/
-- https://ajuntament.barcelona.cat/ca/
-- https://www.diba.cat/
+- https://parlament.cat/ (Parliament of Catalonia)
+- https://web.gencat.cat/ (Government of Catalonia)
+- https://ajuntament.barcelona.cat/ca/ (Barcelona City Council)
+- https://www.diba.cat/ (Provincial Council of Barcelona)
 
 Political Parties:
 - https://www.socialistes.cat/
@@ -47,12 +45,15 @@ Other:
 - 
 
 Informative links (in English):
-- https://www.catalannews.com/
-- 
+- https://en.wikipedia.org/wiki/Catalonia
+- https://en.wikipedia.org/wiki/Catalan_language
+- https://en.wikipedia.org/wiki/History_of_Catalonia
+- https://www.catalunya.com/en (Official tourism website of Catalunya)
 
 Additional Information:
 - ISO-639-3 code: cat
 - https://en.wikipedia.org/wiki/ISO_639:cat
+- This document needs reviewing by a native speaker.
 
 
 Scripts:
@@ -61,7 +62,7 @@ Scripts:
 
 Thank you to these people who have helped create this document:
 - 
-- 
+- [Ethan Wenokur](https://github.com/e-Winnie)
 
 ## Instructions
 

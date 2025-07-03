@@ -5,20 +5,29 @@ Additional names:
 - 
 
 News:
-- 
-- 
+- https://www.rtl.lu/ (National Broadcaster)
+- https://www.100komma7.lu/
 
 Culture / History:
-- 
-- 
+- https://www.mnhn.lu/ (National Museum of Natural History)
 
 Government:
-- 
-- 
+- https://gouvernement.lu/lb.html (Website of the government of Luxembourg)
+- https://monarchie.lu/lu (Website of the Grand Ducal Court)
+- https://www.chd.lu/lu(Website of the Chamber of Deputies - Parliament)
+- https://mae.gouvernement.lu/lb.html (Ministry of Foreign and European Affairs, Defence, Development Cooperation and Foreign Trade)
+- https://me.gouvernement.lu/lb.html (Ministry of State)
+- https://mcult.gouvernement.lu/lb.html (Ministry of Culture)
+- https://mfin.gouvernement.lu/lb.html (Ministry of Finance)
 
 Political Parties:
-- 
-- 
+- https://lb.wikipedia.org/wiki/L%C3%ABscht_vun_de_politesche_Parteien_zu_L%C3%ABtzebuerg (full list of political parties in Luxembourgish)
+- https://csv.lu/ (Christian Social People's Party)
+- https://www.dp.lu/ (Democratic Party)
+- https://greng.lu/ (The Greens)
+- http://dei-lenk.lu/ (The Left)
+- https://lsap.lu/ (Luxembourg Socialist Workers' Party)
+- http://piratepartei.lu/ (Pirate Party Luxembourg)
 
 Other:
 - https://lb.wikipedia.org
@@ -26,12 +35,15 @@ Other:
 - 
 
 Informative links (in English):
-- 
-- 
+- https://en.wikipedia.org/wiki/Luxembourg
+- https://en.wikipedia.org/wiki/Luxembourgish
+- https://en.wikipedia.org/wiki/History_of_Luxembourg
+- https://www.visitluxembourg.com/ (Tourism website for Luxembourg)
 
 Additional Information:
 - ISO-639-3 code: ltz
 - https://en.wikipedia.org/wiki/ISO_639:ltz
+- This document needs reviewing by a native speaker.
 
 
 Scripts:
@@ -39,7 +51,7 @@ Scripts:
 - 
 
 Thank you to these people who have helped create this document:
-- 
+- [Ethan Wenokur](https://github.com/e-Winnie)
 - 
 
 ## Instructions

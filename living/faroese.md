@@ -10,7 +10,7 @@ News:
 - https://in.fo/
 - https://dimma.fo/
 - https://nordlysid.fo/
-- https://oyggjatidindi.com/
+- http://oyggjatidindi.com/
 
 Culture / History:
 - https://www.tjodsavnid.fo/ (National Museum of the Faroe Islands)

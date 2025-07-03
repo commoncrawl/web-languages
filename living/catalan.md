@@ -10,6 +10,7 @@ News:
 - https://www.rac1.cat/ 
 - https://www.lavanguardia.com/encatala
 - https://www.ara.cat/
+- https://www.diaridetarragona.com/
 - https://www.segre.com/ca/ (Regional newspaper for Lleida)
 - https://www.diaridegirona.cat/ (Regional newspaper for Girona)
 - https://www.elpuntavui.cat/

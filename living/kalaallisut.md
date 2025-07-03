@@ -2,23 +2,27 @@
 
 Additional names:
 - kalaallisut
-- 
+- Greenlandic
 
 News:
-- 
-- 
+- https://sermitsiaq.ag/ (Merger of Greenland's two national newspapers: Sermitsiaq and Atuagagdliutit/Grønlandsposten)
+- https://knr.gl/ (Greenlandic Public Broadcaster)
 
 Culture / History:
-- 
-- 
+- https://nka.gl/ (Greenland National Museum & Archives)
 
 Government:
-- 
-- 
+- https://naalakkersuisut.gl/?sc_lang=kl-GL (Official website of the Government of Greenland)
+- https://ina.gl/gl/ (Official website of the Parliament of Greenland)
+- https://grl-rep.dk/gl/rep/ (Greenland Representation)
+- https://govmin.gl/ka/ (Mineral Resources Authority)
 
 Political Parties:
-- 
-- 
+- https://demokraatit.gl/ka/ (Democrats)
+- https://naleraq.gl/ (Naleraq)
+- https://ia.gl/kl/ (Inuit Ataqatigiit)
+- https://siumut.gl/ (Siumut)
+- https://atassut.gl/ (Atassut)
 
 Other:
 - https://kl.wikipedia.org
@@ -26,19 +30,22 @@ Other:
 - 
 
 Informative links (in English):
-- 
-- 
+- https://en.wikipedia.org/wiki/Greenland
+- https://en.wikipedia.org/wiki/History_of_Greenland
+- https://en.wikipedia.org/wiki/Greenlandic_language
+- https://visitgreenland.com/ (Greenland tourism website)
 
 Additional Information:
 - ISO-639-3 code: kal
 - https://en.wikipedia.org/wiki/ISO_639:kal
+- This document needs reviewing by a native speaker.
 
 
 Scripts:
 - 
 
 Thank you to these people who have helped create this document:
-- 
+- [Ethan Wenokur](https://github.com/e-Winnie)
 - 
 
 ## Instructions

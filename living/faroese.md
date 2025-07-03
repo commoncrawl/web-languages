@@ -5,20 +5,32 @@ Additional names:
 - 
 
 News:
-- 
-- 
+- https://kvf.fo/ (National Broadcasting Service)
+- https://portal.fo/
+- https://in.fo/
+- https://dimma.fo/
+- https://nordlysid.fo/
+- https://oyggjatidindi.com/
 
 Culture / History:
-- 
-- 
+- https://www.tjodsavnid.fo/ (National Museum of the Faroe Islands)
+- https://art.fo/?_l=fo (National Gallery of the Faroe Islands)
+- https://www.torshavn.fo/ (Tórshavn Municipality's culture page)
+- https://snar.fo/kvaedi (Educational portal with resources on Faroese culture, history, and language)
 
 Government:
-- 
-- 
+- https://www.lms.fo/ (The Prime Minister's Office of the Faroe Islands)
+- https://www.logting.fo/ (The Faroese Parliament)
+- https://www.landsstyrid.fo/ (The Faroese Government)
 
 Political Parties:
-- 
-- 
+- https://www.j.fo/ (Social Democratic Party)
+- http://www.samband.fo/ (Union Party)
+- https://folkaflokkurin.fo/ (People's Party)
+- https://tjodveldi.fo/ (Republic)
+- https://framsokn.fo/ (Progress)
+- https://midflokkurin.fo/ (Centre Party)
+- https://sjalvstyri.fo/ (Self-Government Party)
 
 Other:
 - https://fo.wikipedia.org
@@ -26,12 +38,15 @@ Other:
 - 
 
 Informative links (in English):
-- 
-- 
+- https://en.wikipedia.org/wiki/Faroe_Islands
+- https://en.wikipedia.org/wiki/History_of_the_Faroe_Islands
+- https://en.wikipedia.org/wiki/Faroese_language
+- https://visitfaroeislands.com/en (Tourism website for the Faroe Islands)
 
 Additional Information:
 - ISO-639-3 code: fao
 - https://en.wikipedia.org/wiki/ISO_639:fao
+- This document needs reviewing by a native speaker.
 
 
 Scripts:
@@ -39,7 +54,7 @@ Scripts:
 - 
 
 Thank you to these people who have helped create this document:
-- 
+- [Ethan Wenokur](https://github.com/e-Winnie)
 - 
 
 ## Instructions

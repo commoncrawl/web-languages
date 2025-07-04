@@ -5,20 +5,41 @@ Additional names:
 - 
 
 News:
-- 
-- 
+- https://www.nrk.no/ (Norwegian Public Broadcaster)
+- https://www.vg.no/
+- https://www.dagbladet.no/
+- https://www.aftenposten.no/
+- https://www.dn.no/
+- https://www.tv2.no/
+- https://www.nettavisen.no/
+- https://e24.no/ (Business news)
+- https://www.adressa.no/ (Regional - Trondheim)
+- https://www.bt.no/ (Regional - Bergen)
 
 Culture / History:
-- 
-- 
+- https://norskfolkemuseum.no/ (Norwegian Museum of Cultural History)
+- https://www.visitnorway.no/ (Norwegian tourism website)
+- http://kulturarv.no/ (Norwegian Cultural Heritage)
+- https://www.nb.no/ (National Library of Norway)
+- https://www.khm.uio.no/ (Museum of Cultural History at the University of Oslo)
+- https://www.arkivverket.no/ (National Archives of Norway)
+- https://no.wikipedia.org/wiki/Kategori:Norsk_kultur (Norwegian Wikipedia category for Norwegian Culture)
 
 Government:
-- 
-- 
+- https://www.regjeringen.no/no/id4/ (The Government of Norway)
+- https://www.stortinget.no/no/ (Norwegian Parliament)
+- https://www.kongehuset.no/ (The Royal House of Norway)
 
 Political Parties:
-- 
-- 
+- https://www.arbeiderpartiet.no/ (Arbeiderpartiet - Labour Party)
+- https://www.hoyre.no/ (Høyre - Conservative Party)
+- https://www.senterpartiet.no/ (Senterpartiet - Centre Party)
+- https://www.frp.no/ (Fremskrittspartiet - Progress Party)
+- https://www.sv.no/ (Sosialistisk Venstreparti - Socialist Left Party)
+- https://roedt.no/ (Rødt - Red Party)
+- https://www.venstre.no/ (Venstre - Liberal Party)
+- https://www.mdg.no/ (Miljøpartiet De Grønne - Green Party)
+- https://www.krf.no/ (Kristelig Folkeparti - Christian Democratic Party)
 
 Other:
 - https://no.wikipedia.org
@@ -26,19 +47,23 @@ Other:
 - 
 
 Informative links (in English):
-- 
-- 
+- https://en.wikipedia.org/wiki/Norway
+- https://en.wikipedia.org/wiki/Norwegian_language
+- https://en.wikipedia.org/wiki/History_of_Norway
+- https://www.visitnorway.com/?fallback=true (Norwegian tourism website)
+- https://www.regjeringen.no/en/id4/ (The Government of Norway - English section)
 
 Additional Information:
 - ISO-639-3 code: nor
 - https://en.wikipedia.org/wiki/ISO_639:nor
+- This document needs reviewing by a native speaker.
 
 
 Scripts:
 - 
 
 Thank you to these people who have helped create this document:
-- 
+- [Ethan Wenokur](https://github.com/e-Winnie)
 - 
 
 ## Instructions

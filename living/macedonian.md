@@ -5,20 +5,50 @@ Additional names:
 - 
 
 News:
-- 
-- 
+- https://mia.mk/ (National News Agency)
+- https://novamakedonija.com.mk/ (Daily Newspaper)
+- https://vecer.mk/ (Daily Newspaper)
+- https://slobodenpecat.mk/ (Daily Newspaper)
+- https://mrt.com.mk/ (National Public Broadcaster)
+- https://meta.mk/
+- https://kanal5.com.mk/
+- https://sitel.com.mk/
+- https://24.mk/
+- https://telma.com.mk/
+- https://kurir.mk/
+- https://press24.mk/
+- https://mkd.mk/
+- https://a1on.mk/
+- https://plusinfo.mk/
 
 Culture / History:
-- 
-- 
+- https://museum.org.mk/ (Museum of the Republic of North Macedonia)
+- https://amm.org.mk/ (National Institution Archaeological Museum of the Republic of North Macedonia)
+- https://kultura.gov.mk/ (Ministry of Culture)
+- https://arhiv.mk/ (Archives of the Republic of North Macedonia)
+- https://manu.edu.mk/ (Macedonian Academy of Sciences and Arts)
 
 Government:
-- 
-- 
+- https://pretsedatel.mk/ (President of the Republic of North Macedonia)
+- https://vlada.mk/ (Government of the Republic of North Macedonia)
+- https://www.sobranie.mk/ (Assembly of the Republic of North Macedonia - Parliament)
+- https://mil.mk/ (Ministry of Defence)
+- https://mfa.gov.mk/ (Ministry of Foreign Affairs)
+- https://finance.gov.mk/ (Ministry of Finance)
+- https://mon.gov.mk/ (Ministry of Education and Science)
+- https://zdravstvo.gov.mk/ (Ministry of Health)
 
 Political Parties:
-- 
-- 
+- https://vmro-dpmne.org.mk/ (Internal Macedonian Revolutionary Organization – Democratic Party for Macedonian National Unity)
+- https://spm.org.mk/ (Socialist Party of Macedonia)
+- https://sdsm.org.mk/ (Social Democratic Union of Macedonia)
+- https://nsdp.org.mk/ (New Social Democratic Party)
+- https://ldp.mk/ (Liberal Democratic Party)
+- https://bdi.mk/ (Democratic Union for Integration)
+- https://www.levizjabesa.mk/mk/index.php (Besa Movement)
+- https://alternativa.org.mk/ (Alternative)
+- https://levica.mk/ (The Left)
+- https://dvizenjeznam.org.mk/ (For Our Macedonia)
 
 Other:
 - https://mk.wikipedia.org
@@ -26,12 +56,15 @@ Other:
 - 
 
 Informative links (in English):
-- 
-- 
+- https://en.wikipedia.org/wiki/North_Macedonia
+- https://en.wikipedia.org/wiki/History_of_North_Macedonia
+- https://en.wikipedia.org/wiki/Macedonian_language
+- https://tourismmacedonia.gov.mk/?lang=en (Website of the North Macedonian Tourism Board)
 
 Additional Information:
 - ISO-639-3 code: mkd
 - https://en.wikipedia.org/wiki/ISO_639:mkd
+- This document needs reviewing by a native speaker.
 
 
 Scripts:
@@ -39,7 +72,7 @@ Scripts:
 - 
 
 Thank you to these people who have helped create this document:
-- 
+- [Ethan Wenokur](https://github.com/e-Winnie)
 - 
 
 ## Instructions

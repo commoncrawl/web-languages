@@ -2,9 +2,102 @@
 
 Additional names:
 - български
+- Bŭlgarski
 - 
 
 News:
+- https://trud.bg/
+- https://24chasa.bg/
+- https://btv.bg/
+- https://businessnovinite.bg/
+- https://btvsport.bg/
+- https://vesti.bg/
+- https://dariknews.bg/
+- https://sinoptik.bg/
+- https://bnt.bg/
+- https://bnr.bg/
+- https://bntnews.bg/
+- https://bntsport.bg/
+- https://dnevnik.bg/
+- https://capital.bg/
+- https://karieri.bg/
+- https://bacchus.bg/
+- https://regal.bg/
+- https://odit.info/
+- https://darik.bg/
+- https://9meseca.bg/
+- https://dsport.bg/
+- https://dbr.bg/
+- https://idei.bg/
+- https://agri.bg/
+- https://bta.bg/
+- https://offnews.bg/
+- https://mamaninja.bg/
+- https://dir.bg/
+- https://nasamnatam.com/
+- https://maxsport.live/
+- https://3e-news.net/bg/
+- https://realtimefuture.bg/
+- https://textove.com/
+- https://greentransition.bg/
+- https://soulandpepper.tv/
+- https://mediapool.bg/
+- https://dw.com/
+- https://obekti.bg/
+- https://gospodari.com/
+- https://svobodnaevropa.bg/
+- https://segabg.com/
+- https://eurocom.bg/
+- https://bgonair.bg/
+- https://e-vestnik.bg/
+- https://sportal.bg/
+- https://monitor.bg/
+- https://telegraph.bg/
+- https://woman.bg/
+- https://profit.bg/
+- https://webcafe.bg/
+- https://chr.bg/
+- https://news.bg/
+- https://money.bg/
+- https://lifestyle.bg/
+- https://topsport.bg/
+- https://gladen.bg/
+- https://infostock.bg/
+- https://bloombergtv.bg/
+- https://novinite.eu/
+- https://standartnews.com/
+- https://новините.ею/
+- https://manager.bg/
+- https://novsport.com/
+- https://moreto.net/
+- https://dama.bg/
+- https://flagman.bg/
+- https://gol.bg/
+- https://marica.bg/
+- https://clubz.bg/
+- https://faktor.bg/
+- https://skafeto.com/
+- https://investor.bg/
+- https://bgnow.eu/
+- https://chronicle.bg/
+- https://hotnews.bg/
+- https://plovdiv24.bg/
+- https://edna.bg/
+- https://petel.bg/
+- https://zajenata.bg/
+- https://dunavmost.com/
+- https://regiona.bg/
+- https://struma.com/
+- https://pirinsko.com/
+- https://blagoevgrad.eu/
+- https://e-79.com/
+- https://toppresa.com/
+- https://infomreja.bg/
+- https://blagoevgrad-news.com/
+- https://ilindenpres.bg/
+- https://sandanski1.com/
+- https://classa.bg/
+- https://focus-news.net/
 - https://www.actualno.com/
 - https://fakti.bg/
 - https://nova.bg/
@@ -21,12 +114,14 @@ News:
 - https://www.capital.bg/ (Business and financial news)
 - https://www.standartnews.com/
 - https://frognews.bg/
+- 
 
 Culture / History:
 - https://mc.government.bg/ (Ministry of Culture of the Republic of Bulgaria)
 - https://historymuseum.org/ (National History Museum)
 - https://etar.bg/ (Ethnographic Open-Air Museum Etar)
 - https://ethnograph.info/ (Regional Ethnographic Museum - Plovdiv)
+- 
 
 Government:
 - https://www.government.bg/ (Council of Ministers of the Republic of Bulgaria)
@@ -34,6 +129,7 @@ Government:
 - https://www.parliament.bg/ (National Assembly of the Republic of Bulgaria)
 - https://www.mod.bg/ (Ministry of Defence)
 - https://www.mfa.bg/bg/ (Ministry of Foreign Affairs
+- 
 
 Political Parties:
 - https://gerb.bg/ (GERB - Citizens for European Development of Bulgaria)
@@ -42,10 +138,10 @@ Political Parties:
 - https://promeni.bg/ (We Continue the Change)
 - https://demokrati.bg/ (Democratic Bulgaria - often partners with We Continue the Change)
 - https://vazrazhdane.bg/ (Revival)
+- 
 
 Other:
 - https://bg.wikipedia.org
-- 
 - 
 
 Informative links (in English):
@@ -57,20 +153,23 @@ Informative links (in English):
 - https://www.president.bg/en/ (President of Bulgaria - English section)
 - https://www.parliament.bg/en/ (National Assembly of Bulgaria - English section)
 - https://visitmybulgaria.com/ (Official tourism portal of Bulgaria)
-- https://www.bulgaria-embassy.org/en/homepage/ (Bulgarian Embassyin Washington D.C.)
+- https://www.bulgaria-embassy.org/en/homepage/ (Bulgarian Embassy in Washington D.C.)
+- 
 
 Additional Information:
 - ISO-639-3 code: bul
 - https://en.wikipedia.org/wiki/ISO_639:bul
 - This document needs reviewing by a native speaker.
+- 
 
 
 Scripts:
 - <a href="https://en.wikipedia.org/wiki/ISO_15924">ISO 15924 Cyrl</a> Cyrillic
-- 
+- <a href="https://en.wikipedia.org/wiki/ISO_15924">ISO 15924 Latn</a> Latin
 
 Thank you to these people who have helped create this document:
 - [Ethan Wenokur](https://github.com/e-Winnie)
+- [Thom Vaughan](https://github.com/thunderpoot)
 - 
 
 ## Instructions

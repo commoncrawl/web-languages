@@ -5,12 +5,12 @@ Additional names:
 - 
 
 News:
-- https://www.b92.net/ (Daily)
+- https://www.b92.net/ (Daily news)
 - https://www.telegraf.rs/
 - https://www.n1info.rs/
-- https://www.blic.rs/ (Daily)
-- https://www.politika.rs/ (Daily)
-- https://www.danas.rs/ (Daily)
+- https://www.blic.rs/ (Daily news)
+- https://www.politika.rs/ (Daily news)
+- https://www.danas.rs/ (Daily news)
 - https://www.novosti.rs/
 - https://www.kurir.rs/ (Tabloid)
 - https://www.alo.rs/ (Tabloid)
@@ -39,7 +39,7 @@ Government:
 - https://www.ite.gov.rs/ (Office for Information Technologies and eGovernment - includes the eUprava Portal for e-services)
 
 Political Parties:
-- https://sr.wikipedia.org/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%B0%D0%BA_%D0%BF%D0%BE%D0%BB%D0%B8%D1%82%D0%B8%D1%87%D0%BA%D0%B8%D1%85_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B0%D0%BA%D0%B0_%D1%83_%D0%A1%D1%80%D0%B1%D0%B8%D1%98%D0%B8 (list of serbain Political Parties)
+- https://sr.wikipedia.org/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%B0%D0%BA_%D0%BF%D0%BE%D0%BB%D0%B8%D1%82%D0%B8%D1%87%D0%BA%D0%B8%D1%85_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B0%D0%BA%D0%B0_%D1%83_%D0%A1%D1%80%D0%B1%D0%B8%D1%98%D0%B8 (Full list of Serbian Political Parties)
 - https://sns.org.rs/ (Serbian Progressive Party)
 - https://ssp.rs/ (Party of Freedom and Justice)
 - https://www.sps.org.rs/ (Socialist Party of Serbia)
@@ -48,6 +48,27 @@ Political Parties:
 - https://srce-org.rs/ (Serbia Centre)
 - https://ds.org.rs/ (Democratic Party)
 - http://novidss.rs/ (New Democratic Party of Serbia)
+- https://poks.rs/ (Movement for the Restoration of the Kingdom of Serbia)
+- https://misnaganaroda.rs/ (We – Power of the People)
+- https://miglasiznaroda.rs/ (We – Voice from the People)
+- https://www.vmsz.org.rs/sr (Alliance of Vojvodina Hungarians)
+- http://pups.org.rs/ (PUPS – Solidarity and Justice)
+- https://sdpsrbije.org.rs/ (Social Democratic Party of Serbia)
+- https://ekoloskiustanak.org.rs/ (Ecological Uprising)
+- http://jedinstvenasrbija.org.rs/ (United Serbia)
+- https://pokretslobodnih.rs/ (Movement of Free Citizens)
+- https://zdravasrbija.org.rs/ (Healthy Serbia)
+- http://pokretsocijalista.rs/ (Movement of Socialists)
+- https://sda.rs/ (Party of Democratic Action of Sandžak)
+- http://srpskanarodnapartija.rs/ (Serbian People's Party)
+- https://www.spo.rs/ (Serbian Renewal Movement)
+- https://novolicesrbije.rs/ (New Face of Serbia)
+- https://zelenisrbije.org/ (Greens of Serbia)
+- https://www.dasestrukapita.rs/ (New Party)
+- https://nss.org.rs/ (People's Peasant Party)
+- http://ujedinjenaseljackastranka.rs/ (United Peasant Party)
+- https://sloga.org.rs/ (United Trade Unions of Serbia "Sloga")
+- https://ruskastranka.rs/ (Russian Party)
 
 Other:
 - https://sr.wikipedia.org

@@ -100,7 +100,7 @@ Additional Information:
 - ISO-639-3 code: ces
 - https://en.wikipedia.org/wiki/ISO_639:ces
 - Internet TLD: .cz
-- This document needs reviewing by a native speaker.
+- 
 
 
 Scripts:

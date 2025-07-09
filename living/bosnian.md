@@ -1,8 +1,8 @@
 # Web Language: Bosnian
 
 Additional names:
-- Bosnian / bosanski / босански
-- Bosniak / bošnjački / бошњачки
+- bosanski
+- 
 
 News:
 - https://www.klix.ba/

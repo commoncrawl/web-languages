@@ -1,24 +1,53 @@
 # Web Language: Bosnian
 
 Additional names:
-- bosanski
-- 
+- Bosnian / bosanski / босански
+- Bosniak / bošnjački / бошњачки
 
 News:
-- 
-- 
+- https://www.klix.ba/
+- https://www.avaz.ba/ (Daily newspaper)
+- https://www.oslobodjenje.ba/ (Daily news)
+- https://ba.n1info.com/ (Bosnian television channel - sister channel to CNN)
+- https://www.nezavisne.com/ (Daily news - Republika Srpska)
+- https://www.vijesti.ba/
+- https://www.bljesak.info/
+- https://radiosarajevo.ba/
+- https://www.slobodna-bosna.ba/
 
 Culture / History:
-- 
-- 
+- https://zemaljskimuzej.ba/ (National Museum of Bosnia and Herzegovina)
+- https://www.muzejsarajeva.ba/ (Museum of Sarajevo)
+- https://starigrad.ba/ (Old Town of Mostar - Mostar Old Bridge - UNESCO World Heritage site)
+- https://unescobih.mcp.gov.ba/default.aspx?template_id=76&pageIndex=1 (UNESCO National Commission for BiH)
+- https://anubih.ba/ (Academy of Sciences and Arts of Bosnia and Herzegovina)
+- https://www.kinotekabih.ba/ (Cinemateque of Bosnia and Herzegovina)
+- https://www.tourismbih.com/bs/ (Tourism website for Bosnia and Herzegovina)
 
 Government:
-- 
-- 
+- https://fbihvlada.gov.ba/ (Government of the Federation of Bosnia and Herzegovina)
+- https://www.vijeceministara.gov.ba/Default.aspx?langTag=bs-BA&template_id=91&pageIndex=1 (Council of Ministers of Bosnia and Herzegovina)
+- https://www.predsjednistvobih.ba/Default.aspx?langTag=bs-BA&template_id=155&pageIndex=1 (Presidency of Bosnia and Herzegovina)
+- https://www.parlament.ba/ (Parliamentary Assembly of Bosnia and Herzegovina)
+- https://www.ustavnisud.ba/ (Constitutional Court of Bosnia and Herzegovina)
+- https://www.mvp.gov.ba/default.aspx?template_id=43&pageIndex=1 (Ministry of Foreign Affairs)
+- https://fmks.gov.ba/ (Ministry of Culture and Sport)
+- https://www.mod.gov.ba/Default.aspx?template_id=143&pageIndex=1 (Ministry of Defense)
 
 Political Parties:
-- 
-- 
+- https://bs.wikipedia.org/wiki/Spisak_politi%C4%8Dkih_stranaka_u_Bosni_i_Hercegovini (Full list of political parties in Bosnia and Herzegovina)
+- https://www.sda.ba/ (Party of Democratic Action)
+- http://www.snsd.org/ (Alliance of Independent Social Democrats)
+- https://www.sdp.ba/ (Social Democratic Party of Bosnia and Herzegovina)
+- http://fronta.ba/ (Democratic Front)
+- https://www.narodipravda.ba/ (People and Justice)
+- https://www.nasastranka.ba/ (Our Party)
+- http://www.nes.ba/ (People's European Union of Bosnia and Herzegovina)
+- https://zapravduired9.wordpress.com/ (For Justice and Order)
+- https://bhikf.ba/ (Bosnian-Herzegovinian Initiative)
+- https://naprijed.ba/ (Forward)
+- https://zanovegeneracije.ba/ (For New Generations)
+- https://sbih.ba/ (Party for Bosnia and Herzegovina)
 
 Other:
 - https://bs.wikipedia.org
@@ -26,20 +55,23 @@ Other:
 - 
 
 Informative links (in English):
-- 
-- 
+- https://en.wikipedia.org/wiki/Bosnia_and_Herzegovina
+- https://en.wikipedia.org/wiki/History_of_Bosnia_and_Herzegovina
+- https://en.wikipedia.org/wiki/Bosnian_language
+- https://www.tourismbih.com/ (Tourism website for Bosnia and Herzegovina - English section)
 
 Additional Information:
 - ISO-639-3 code: bos
 - https://en.wikipedia.org/wiki/ISO_639:bos
+- This document needs reviewing by a native speaker.
 
 
 Scripts:
 - <a href="https://en.wikipedia.org/wiki/ISO_15924">ISO 15924 Latn</a> Latin
-- 
+- <a href="https://en.wikipedia.org/wiki/ISO_15924">ISO 15924 Cyrl</a> Cyrillic
 
 Thank you to these people who have helped create this document:
-- 
+- [Ethan Wenokur](https://github.com/e-Winnie)
 - 
 
 ## Instructions

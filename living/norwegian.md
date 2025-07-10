@@ -43,7 +43,7 @@ Political Parties:
 
 Other:
 - https://no.wikipedia.org
-- 
+- https://sprakradet.no/ (Language Council of Norway)
 - 
 
 Informative links (in English):

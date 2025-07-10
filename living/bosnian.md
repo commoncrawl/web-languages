@@ -2,7 +2,7 @@
 
 Additional names:
 - bosanski
-- 
+- босански
 
 News:
 - https://www.klix.ba/

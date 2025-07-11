@@ -1,3 +1,5 @@
+<img width="720" height="329" alt="ccf-web-languages-logo" src="https://github.com/user-attachments/assets/b45b0b2a-505b-4138-9d3b-0ccf0b551106" />
+
 # Web Languages Project
 
 Welcome! This is a crowd-sourced effort to improve crawling

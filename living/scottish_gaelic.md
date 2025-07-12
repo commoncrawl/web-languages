@@ -5,20 +5,31 @@ Additional names:
 - 
 
 News:
-- 
-- 
+- https://www.bbc.com/naidheachdan
+- https://www.thenational.scot/topics/gaelic/
+- https://www.gaidhlig.scot/gd/naidheachdan/ (Gaelic Language Board - News Section)
 
 Culture / History:
-- 
-- 
+- https://www.gaidhlig.scot/gd/ (Gaelic Language Board)
+- https://cnag.org/ (The Gaelic Society)
+- https://royalcelticsociety.scot/gd-gb/ (Royal Celtic Society)
+- https://www.taigh-chearsabhagh.org/gd/taigh-tasgaidh-agus-ionad-ealain-taigh-chearsabhagh/ (Taigh Chearsabhagh Museum & Arts Centre)
+- https://www.lismoregaelicheritagecentre.org/?lang=gd (Lismore Gaelic Heritage Centre)
+- https://www.smo.uhi.ac.uk/ (National Centre for Gaelic Language and Culture)
+- https://www.ainmean-aite.scot/gd/ (Gaelic Place-Names of Scotland)
 
 Government:
-- 
-- 
+- https://www.gov.scot/ (Government of Scotland)
+- https://www.parliament.scot/ (Parlament of Scotland)
+- https://www.gov.uk/ (Government of the United Kingdom)
 
 Political Parties:
-- 
-- 
+- https://gd.wikipedia.org/wiki/P%C3%A0rtaidh_N%C3%A0iseanta_na_h-Alba (Scottish National Party)
+- https://gd.wikipedia.org/wiki/P%C3%A0rtaidh_T%C3%B2raidheach_na_h-Alba (Scottish Conservatives)
+- https://gd.wikipedia.org/wiki/P%C3%A0rtaidh_L%C3%A0barach_na_h-Alba (Scottish Labour)
+- https://gd.wikipedia.org/wiki/P%C3%A0rtaidh_Uaine_na_h-Alba (Scottish Greens)
+- https://gd.wikipedia.org/wiki/P%C3%A0rtaidh_Libearal_Deamocratach_na_h-Alba (Scottish Liberal Democrats)
+- https://gd.wikipedia.org/wiki/P%C3%A0rtaidh_Alba (Alba Party)
 
 Other:
 - https://gd.wikipedia.org
@@ -26,12 +37,17 @@ Other:
 - 
 
 Informative links (in English):
-- 
-- 
+- https://en.wikipedia.org/wiki/Scotland
+- https://en.wikipedia.org/wiki/History_of_Scotland
+- https://en.wikipedia.org/wiki/Scottish_Gaelic
+- https://www.visitscotland.com/ (Offical tourism website for Scotland)
+- https://www.scotland.org/
+- https://www.gaidhlig.scot/en/ (Gaelic Language Board)
 
 Additional Information:
 - ISO-639-3 code: gla
 - https://en.wikipedia.org/wiki/ISO_639:gla
+- This document needs reviewing by a native speaker.
 
 
 Scripts:
@@ -39,7 +55,7 @@ Scripts:
 - 
 
 Thank you to these people who have helped create this document:
-- 
+- [Ethan Wenokur](https://github.com/e-Winnie)
 - 
 
 ## Instructions

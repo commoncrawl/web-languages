@@ -17,6 +17,7 @@ News:
 - https://nhandan.vn/
 - https://laodong.vn/
 - https://vov.vn/
+- https://hanoimoi.com.vn/
 
 
 Culture / History:
@@ -26,10 +27,16 @@ Culture / History:
 - https://vanhoc.org.vn/
 - https://hoangthanhthanglong.vn/
 - https://baotanglichsu.vn/
-- https://hanoimoi.com.vn/
 - https://tapchisonghuong.com.vn/
 - https://vannghequandoi.com.vn/
 - https://tienphong.vn/
+- https://vanhoavaphattrien.vn/
+- https://phatgiao.org.vn/ (Official website for Buddhism)
+- https://hdgmvietnam.com/ (Official website for Catholic Christianity)
+- https://httlvn.org/ (Official website for Protestian Christianity)
+- https://caodai.com.vn/vn (Caodaism)
+- https://hoahao.org/ (Hoa Hao religion, a sect of Buddhism)
+- https://danso.info/ (Demographics Info)
 
 
 Government:
@@ -69,6 +76,9 @@ Education:
 - https://hmu.edu.vn/ (Hanoi Medical University)
 - https://ftu.edu.vn/ (Foreign Trade University)
 - https://hlu.edu.vn/ (Hanoi Law University)
+- https://vndoc.com/ (K-12 educational references) 
+- https://carre.edu.vn/ (History articles)
+- https://nguoikesu.com/ (History articles)
 
 
 Business and Economy:

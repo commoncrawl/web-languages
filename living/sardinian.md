@@ -5,20 +5,31 @@ Additional names:
 - 
 
 News:
-- 
+- https://www.sotziulimbasarda.net/ (Sardinian News - Note: Doesn't seem to have been updated since 2009)
 - 
 
 Culture / History:
-- 
-- 
+- https://www.sardegnacultura.it/sc (Official Regional Website for Culture)
+- https://www.sardegnadigitallibrary.it/sc (Sardinian digital library)
+- https://sc.wikipedia.org/wiki/Istoria_de_Sardinnia (History of Sardinia)
+- https://sc.wikipedia.org/wiki/Regione_Aut%C3%B2noma_de_Sardigna (Sardinia)
 
 Government:
-- 
+- https://www.regione.sardegna.it/ (Government of Sardinia)
 - 
 
 Political Parties:
-- 
-- 
+- https://sc.wikipedia.org/wiki/Partidu_Democraticu (Democratic Party)
+- https://sc.wikipedia.org/wiki/MoVimento_5_Stelle (Five Star Movement)
+- https://sc.wikipedia.org/wiki/Riformatori_Sardi (Sardinian Reformers)
+- https://www.sardegna20venti.it/ (Sardinia 20Twenty)
+- http://www.psdaz.net/ (Sardinian Action Party)
+- https://www.leganord.org/index.php (Lega Sardegna)
+- https://www.progettosardegna.it/ (Sardinia Project)
+- https://www.orizzontecomune.com/ (Shared Horizon)
+- https://www.irsonline.net/ (Independence Republic of Sardinia)
+- http://www.progeturepublica.net/ (Project Republic of Sardinia)
+- https://sc.wikipedia.org/wiki/Sardigna_Natzione_Indipendentzia (Sardigna Natzione Indipendentzia)
 
 Other:
 - https://sc.wikipedia.org
@@ -26,12 +37,15 @@ Other:
 - 
 
 Informative links (in English):
-- 
-- 
+- https://en.wikipedia.org/wiki/Sardinia
+- https://en.wikipedia.org/wiki/History_of_Sardinia
+- https://en.wikipedia.org/wiki/Sardinian_language
+- https://www.sardegnaturismo.it/en (Sardinian tourism website)
 
 Additional Information:
 - ISO-639-3 code: srd
 - https://en.wikipedia.org/wiki/ISO_639:srd
+- This document needs reviewing by a native speaker.
 
 
 Scripts:
@@ -39,7 +53,7 @@ Scripts:
 - 
 
 Thank you to these people who have helped create this document:
-- 
+- [Ethan Wenokur](https://github.com/e-Winnie)
 - 
 
 ## Instructions

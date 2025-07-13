@@ -20,11 +20,14 @@ Culture / History:
 
 Government:
 - https://www.gov.scot/ (Government of Scotland)
-- https://www.parliament.scot/ (Parlament of Scotland)
+- https://www.parliament.scot/ (Parliament of Scotland)
 - https://www.gov.uk/ (Government of the United Kingdom)
+- https://www.highland.gov.uk/gaelic (Highland Government Gaelic)
+- https://www.highland.gov.uk/site/gaelic-toolkit/toolkit/index.html (Highland Government Gaelic toolkit)
 
 Political Parties:
 - https://gd.wikipedia.org/wiki/P%C3%A0rtaidh_N%C3%A0iseanta_na_h-Alba (Scottish National Party)
+- https://www.snp.org/policies/pb-gaelic-language-in-scotland/ (Scottish National Party)
 - https://gd.wikipedia.org/wiki/P%C3%A0rtaidh_T%C3%B2raidheach_na_h-Alba (Scottish Conservatives)
 - https://gd.wikipedia.org/wiki/P%C3%A0rtaidh_L%C3%A0barach_na_h-Alba (Scottish Labour)
 - https://gd.wikipedia.org/wiki/P%C3%A0rtaidh_Uaine_na_h-Alba (Scottish Greens)
@@ -40,7 +43,7 @@ Informative links (in English):
 - https://en.wikipedia.org/wiki/Scotland
 - https://en.wikipedia.org/wiki/History_of_Scotland
 - https://en.wikipedia.org/wiki/Scottish_Gaelic
-- https://www.visitscotland.com/ (Offical tourism website for Scotland)
+- https://www.visitscotland.com/ (Official tourism website for Scotland)
 - https://www.scotland.org/
 - https://www.gaidhlig.scot/en/ (Gaelic Language Board)
 

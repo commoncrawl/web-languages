@@ -24,12 +24,12 @@ Political Parties:
 - https://sc.wikipedia.org/wiki/Riformatori_Sardi (Sardinian Reformers)
 - https://www.sardegna20venti.it/ (Sardinia 20Twenty)
 - http://www.psdaz.net/ (Sardinian Action Party)
-- https://www.leganord.org/index.php (Lega Sardegna)
+- https://www.leganord.org/index.php (Sardinia League)
 - https://www.progettosardegna.it/ (Sardinia Project)
 - https://www.orizzontecomune.com/ (Shared Horizon)
 - https://www.irsonline.net/ (Independence Republic of Sardinia)
 - http://www.progeturepublica.net/ (Project Republic of Sardinia)
-- https://sc.wikipedia.org/wiki/Sardigna_Natzione_Indipendentzia (Sardigna Natzione Indipendentzia)
+- https://sc.wikipedia.org/wiki/Sardigna_Natzione_Indipendentzia (For the Independence of the Sardinian Nation)
 
 Other:
 - https://sc.wikipedia.org

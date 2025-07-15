@@ -29,10 +29,15 @@ Political Parties:
 - https://gd.wikipedia.org/wiki/P%C3%A0rtaidh_N%C3%A0iseanta_na_h-Alba (Scottish National Party)
 - https://www.snp.org/policies/pb-gaelic-language-in-scotland/ (Scottish National Party)
 - https://gd.wikipedia.org/wiki/P%C3%A0rtaidh_T%C3%B2raidheach_na_h-Alba (Scottish Conservatives)
+- https://www.scottishconservatives.com/ (Scottish Conservatives)
 - https://gd.wikipedia.org/wiki/P%C3%A0rtaidh_L%C3%A0barach_na_h-Alba (Scottish Labour)
+- https://scottishlabour.org.uk/ (Scottish Labour)
 - https://gd.wikipedia.org/wiki/P%C3%A0rtaidh_Uaine_na_h-Alba (Scottish Greens)
+- https://greens.scot/ (Scottish Greens)
 - https://gd.wikipedia.org/wiki/P%C3%A0rtaidh_Libearal_Deamocratach_na_h-Alba (Scottish Liberal Democrats)
+- https://www.scotlibdems.org.uk/ (Scottish Liberal Democrats)
 - https://gd.wikipedia.org/wiki/P%C3%A0rtaidh_Alba (Alba Party)
+- https://www.albaparty.org/ (Alba Party)
 
 Other:
 - https://gd.wikipedia.org

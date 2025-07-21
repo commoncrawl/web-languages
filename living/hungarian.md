@@ -31,6 +31,10 @@ News:
 - https://www.es.hu/ (literature and opinion articles)
 - https://www.direkt36.hu/ (high quality independent investigative journalistic news portal)
 - https://merce.hu/ (political left news portal)
+- https://tenyek.hu (pro-government news portal and television news)
+- https://kuruc.info (political right news portal)
+- https://alfahir.hu (right news portal)
+- https://hungarytoday.hu (pro-government news portal)
 
 Culture / History:
 - https://mnl.gov.hu/ (Hungarian National Archives)
@@ -88,7 +92,7 @@ Scripts:
 
 Thank you to these people who have helped create this document:
 - [Ethan Wenokur](https://github.com/e-Winnie)
-- 
+- [Kristóf Török](https://github.com/kristoftorok)
 
 ## Instructions
 

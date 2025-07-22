@@ -6,25 +6,47 @@ Additional names:
 - 
 
 News:
-- 
-- 
+- Big news websites:
+  - https://www.welt.de (center-right)
+  - https://bild.de (sensationalist, right-wing)
+  - https://www.sueddeutsche.de
+  - https://www.zeit.de
+  - https://www.faz.net (conservative-liberal)
+  - https://www.handelsblatt.com (finance/business)
+  - https://www.tagesspiegel.de
+  - https://taz.de (left-wing)
+  - https://spiegel.de
+- Tech news:
+  - https://www.heise.de
+  - https://chip.de
+- Public media:
+  - https://www.dw.com/de (German state owned media)
+  - https://www.tagesschau.de (German public broadcaster)
 
 Culture / History:
-- 
-- 
+- https://www.smb.museum (Pergamon museum)
+- https://www.rechtschreibrat.com (German spelling council)
+- https://www.deutsches-museum.de
+- https://www.dfb.de (German football association)
+- https://www.chefkoch.de/ (cooking recipes)
 
 Government:
-- 
-- 
+- https://verwaltung.bund.de/portal (administration portal of German government)
+- https://www.bundesregierung.de/breg-de (official webpage of German government)
 
-Political Parties:
-- 
-- 
+Political Parties (current German national parliament):
+- https://www.cdu.de
+- https://www.spd.de
+- https://www.gruene.de
+- https://die-linke.de
+- https://afd.de
 
 Other:
 - https://de.wikipedia.org
-- 
-- 
+- https://www.gutefrage.net (German question-answering portal)
+- https://www.reddit.com/r/de (general subreddit in German)
+- https://www.reddit.com/r/finanzen (finance subreddit in German)
+- https://www.motor-talk.de/ (large German car blog and message board) 
 
 Informative links (in English):
 - 
@@ -33,6 +55,7 @@ Informative links (in English):
 Additional Information:
 - ISO-639-3 code: deu
 - https://en.wikipedia.org/wiki/ISO_639:deu
+- Note: most German webiste have an English version -- often under https://mywebsite.de/en or https://en.mywebsite.de/
 
 
 Scripts:

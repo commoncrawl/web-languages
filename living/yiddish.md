@@ -5,12 +5,16 @@ Additional names:
 - 
 
 News:
-- 
-- 
+- https://www.yiddish24.com/
+- https://yiddish.forward.com/blogs/index.html
 
 Culture / History:
-- 
-- 
+- https://www.yiddishbookcenter.org/ (Library/collection)
+- https://yi.wikipedia.org/wiki/%D7%99%D7%99%D7%93%D7%99%D7%A9 (Yiddish Wikipedia Article)
+- https://yi.wikipedia.org/wiki/%D7%99%D7%99%D7%93%D7%99%D7%A9%D7%A7%D7%99%D7%99%D7%98 (Judaism Wikipedia Article)
+- https://yi.wikipedia.org/wiki/%D7%97%D7%95%D7%A8%D7%91%D7%9F_%D7%90%D7%99%D7%99%D7%A8%D7%90%D7%A4%D7%A2 (The Holocaust Wikipedia Article)
+- https://yi.wikipedia.org/wiki/%D7%90%D7%A9%D7%9B%D7%A0%D7%96%D7%99%D7%9D (Ashkenazi Jews Wikipedia Article)
+  
 
 Government:
 - 
@@ -26,19 +30,20 @@ Other:
 - 
 
 Informative links (in English):
-- 
+- https://en.wikipedia.org/wiki/Yiddish
 - 
 
 Additional Information:
 - ISO-639-3 code: yid
 - https://en.wikipedia.org/wiki/ISO_639:yid
+- This document needs reviewing by a native speaker.
 
 
 Scripts:
-- 
+- <a href="https://en.wikipedia.org/wiki/ISO_15924">ISO 15924 Hebr</a> Hebrew
 
 Thank you to these people who have helped create this document:
-- 
+- [Ethan Wenokur](https://github.com/e-Winnie)
 - 
 
 ## Instructions

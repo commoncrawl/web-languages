@@ -6,22 +6,19 @@ Additional names:
 - 
 
 News:
-- Big news websites:
-  - https://www.welt.de (center-right)
-  - https://bild.de (sensationalist, right-wing)
-  - https://www.sueddeutsche.de
-  - https://www.zeit.de
-  - https://www.faz.net (conservative-liberal)
-  - https://www.handelsblatt.com (finance/business)
-  - https://www.tagesspiegel.de
-  - https://taz.de (left-wing)
-  - https://spiegel.de
-- Tech news:
-  - https://www.heise.de
-  - https://chip.de
-- Public media:
-  - https://www.dw.com/de (German state owned media)
-  - https://www.tagesschau.de (German public broadcaster)
+- https://www.welt.de (center-right)
+- https://bild.de (sensationalist, right-wing)
+- https://www.sueddeutsche.de
+- https://www.zeit.de
+- https://www.faz.net (conservative-liberal)
+- https://www.handelsblatt.com (finance/business)
+- https://www.tagesspiegel.de
+- https://taz.de (left-wing)
+- https://spiegel.de
+- https://www.heise.de (tech news)
+- https://chip.de (tech news)
+- https://www.dw.com/de (German state owned media)
+- https://www.tagesschau.de (German public broadcaster)
 
 Culture / History:
 - https://www.smb.museum (Pergamon museum)
@@ -55,8 +52,6 @@ Informative links (in English):
 Additional Information:
 - ISO-639-3 code: deu
 - https://en.wikipedia.org/wiki/ISO_639:deu
-- Note: most German webiste have an English version -- often under https://mywebsite.de/en or https://en.mywebsite.de/
-
 
 Scripts:
 - <a href="https://en.wikipedia.org/wiki/ISO_15924">ISO 15924 Latn</a> Latin

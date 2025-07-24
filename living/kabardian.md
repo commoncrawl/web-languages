@@ -7,6 +7,7 @@ Additional names:
 News:
 - https://apkbr.ru/news
 - https://smikbr.ru/ap
+- https://elgkbr.ru/newskab
 
 Culture / History:
 - https://www.kbigi.ru/?page_id=1852 (Publications on philology and history in PDF format)

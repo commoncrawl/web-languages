@@ -61,7 +61,7 @@ Government:
 - https://www.defensie.nl/ (Ministry of Defence)
 - https://www.belgium.be/nl (Official website of the Belgian Government)
 - https://gobiernu.cw/nl/ (Official website of the Curacao Government)
-- https://gov.sr/ (Official website of the Surinam Government)
+- https://gov.sr/ (Official website of the Suriname Government)
   
   
 

@@ -16,9 +16,23 @@ News:
 - https://www.parool.nl/ (regional news - left-wing)
 - https://fd.nl/ (business/finance)
 - https://www.metronieuws.nl/
+- https://www.standaard.be
+- https://www.hln.be
+- https://www.demorgen.be
+- https://www.nieuwsblad.be
+- https://www.vrt.be/vrtnws/nl
+- https://antilliaansdagblad.com
+- https://amigoe.com
+- https://www.bonaire.nu/
+- https://dwtonline.com/
+- https://www.dbsuriname.com/
+
 
 Culture / History:
 - https://nl.wikipedia.org/wiki/Geschiedenis_van_Nederland
+- https://nl.wikipedia.org/wiki/Geschiedenis_van_Belgi%C3%AB
+- https://nl.wikipedia.org/wiki/Geschiedenis_van_Cura%C3%A7ao
+- https://nl.wikipedia.org/wiki/Geschiedenis_van_Bonaire
 - https://nl.wikipedia.org/wiki/Cultuur_van_Nederland
 - https://www.rijksmuseum.nl/ (National museum in Amsterdam - arts and history)
 - https://www.annefrank.org/nl/ (Anne Frank Museum)
@@ -29,6 +43,9 @@ Culture / History:
 - https://www.openluchtmuseum.nl/ (Dutch history and culture museum)
 - https://www.cultureelerfgoed.nl/ (Cultural Heritage Agency of the Netherlands)
 - https://canonvannederland.nl/ (Dutch history)
+- https://www.arch.be/index.php?l=nl (Royal Archives Belgium)
+- https://www.mskgent.be/ (Museum of fine arts Ghent)
+- https://www.naturalsciences.be/nl (Institute of Natural Sciences)
   
 Government:
 - https://www.rijksoverheid.nl/ (Official website of the Dutch Government)
@@ -42,22 +59,35 @@ Government:
 - https://www.minvws.nl/ (Ministry of Health, Welfare and Sport)
 - https://www.minlnv.nl/ (Ministry of Agriculture, Nature and Food Quality)
 - https://www.defensie.nl/ (Ministry of Defence)
+- https://www.belgium.be/nl (Official website of the Belgian Government)
+- https://gobiernu.cw/nl/ (Official website of the Curacao Government)
+- https://gov.sr/ (Official website of the Surinam Government)
+  
+  
+
 
 Political Parties:
-- https://www.pvv.nl/ (Party for Freedom)
-- https://groenlinkspvda.nl/ (GreenLeft-Labour Party)
-- https://vvd.nl/ (People's Party for Freedom and Democracy)
-- https://partijnieuwsociaalcontract.nl/standpunten (New Social Contract)
-- https://d66.nl/ (Democrats 66)
-- https://boerburgerbeweging.nl/ (Farmer–Citizen Movement)
-- https://www.cda.nl/ (Christian Democratic Appeal)
-- https://www.sp.nl/ (Socialist Party)
-- https://www.partijvoordedieren.nl/ (Party for the Animals)
-- https://www.forumvoordemocratie.nl/ (Forum for Democracy)
-- https://www.christenunie.nl/ (Christian Union)
-- https://www.sgp.nl/ (Reformed Political Party)
-- https://voltnederland.org/ (Volt Nederland)
-- https://www.ja21.nl/ (JA21)
+- https://www.pvv.nl/ (Dutch Party for Freedom)
+- https://groenlinkspvda.nl/ (Dutch GreenLeft-Labour Party)
+- https://vvd.nl/ (Dutch People's Party for Freedom and Democracy)
+- https://partijnieuwsociaalcontract.nl/standpunten (Dutch New Social Contract Party)
+- https://d66.nl/ (Dutch Democrats 66 Party)
+- https://boerburgerbeweging.nl/ (Dutch Farmer–Citizen Movement Party)
+- https://www.cda.nl/ (Dutch Christian Democratic Appeal Party)
+- https://www.sp.nl/ (Dutch Socialist Party)
+- https://www.partijvoordedieren.nl/ (Dutch Party for the Animals)
+- https://www.forumvoordemocratie.nl/ (Dutch Forum for Democracy Party)
+- https://www.christenunie.nl/ (Dutch Christian Union Party)
+- https://www.sgp.nl/ (Dutch Reformed Political Party)
+- https://voltnederland.org/ (Dutch Volt Nederland Party)
+- https://www.ja21.nl/ (Dutch JA21 Party)
+- https://www.n‑va.be/ (Belgian Flemish nationalist)
+- https://www.vlaamsbelang.org/ (Belgian Flemish interest Party)
+- https://www.cdenv.be/ (Belgian Christian‑democratic Party)
+- https://www.openvld.be/ (Belgian Liberal Party)
+- https://www.groen.be/ (Belgian Green/eco‑progressive Party)
+- https://www.vooruit.org/ (Belgian Social Democratic Party)
+- https://www.pvda.be/ (Belgian Workers Party)
 
 Other:
 - https://nl.wikipedia.org
@@ -68,6 +98,7 @@ Informative links (in English):
 - https://en.wikipedia.org/wiki/Dutch_language
 - https://en.wikipedia.org/wiki/Netherlands
 - https://en.wikipedia.org/wiki/History_of_the_Netherlands
+- https://en.wikipedia.org/wiki/History_of_Flanders
 - https://en.wikipedia.org/wiki/Culture_of_the_Netherlands
 - https://www.government.nl/ (Official website of the Dutch government - English Section)
 - https://www.holland.com/global/tourism.htm (Official tourism website for the Netherlands - English Section)
@@ -75,7 +106,6 @@ Informative links (in English):
 Additional Information:
 - ISO-639-3 code: nld
 - https://en.wikipedia.org/wiki/ISO_639:nld
-- This document needs reviewing by a native speaker.
 
 
 Scripts:

@@ -2,15 +2,14 @@
 
 Additional names:
 - адыгабзэ
-- 
+- Circassian (West)
 
 News:
-- 
-- 
+- https://adygvoice.ru/
+- https://mkgtu.ru/universitet/novosti-universiteta-adg/
 
 Culture / History:
-- 
-- 
+- http://apsnyteka.org/ (Various books in PDF)
 
 Government:
 - 
@@ -22,12 +21,17 @@ Political Parties:
 
 Other:
 - https://ady.wikipedia.org
-- 
-- 
+- http://www.karataban.ru/
+- https://arigi01.ru/
+- https://dovlet.info/
+- https://rus4all.ru/ady/
+- https://adygabze-online.ru/
+- https://jinepsgazetesi.com/anasayfa-adigece-bati/
+- https://www.adigeyaislam.com/
 
 Informative links (in English):
-- 
-- 
+- https://en.wikipedia.org/wiki/Adyghe_language
+- https://en.wikipedia.org/wiki/Circassian_languages
 
 Additional Information:
 - ISO-639-3 code: ady
@@ -35,7 +39,7 @@ Additional Information:
 
 
 Scripts:
-- 
+- <a href="https://en.wikipedia.org/wiki/ISO_15924">ISO 15924 Cyrl</a> Cyrillic
 
 Thank you to these people who have helped create this document:
 - 

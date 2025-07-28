@@ -6,7 +6,7 @@ Additional names:
 
 News:
 - https://www.sotziulimbasarda.net/ (Sardinian News - Note: Doesn't seem to have been updated since 2009)
-- 
+- https://www.unionesarda.it/ (In Italian with Sardinian news)
 
 Culture / History:
 - https://www.sardegnacultura.it/sc (Official Regional Website for Culture)

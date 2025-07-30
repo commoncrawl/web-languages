@@ -6,20 +6,56 @@ Additional names:
 - 
 
 News:
-- 
-- 
+- https://www.ert.gr/ (National Public Broadcaster)
+- https://www.avgi.gr/ (Daily News)
+- https://www.dimokratia.gr/ (Daily News)
+- https://www.efsyn.gr/ (Daily News)
+- https://www.elora.gr/portal/ (Daily News)
+- https://www.estianews.gr/ (Daily News)
+- https://www.kathimerini.gr/ (Daily News)
+- https://www.kontranews.gr/ (Daily News)
+- https://www.rizospastis.gr/ (Daily News)
+- https://www.tanea.gr/ (Daily News)
+- https://www.naftemporiki.gr/ (Financial News)
+- https://www.fosonline.gr/ (Sports News)
+- https://sportday.gr/ (Sports News)
+- https://www.documentonews.gr/ (Weekly News)
+- https://www.tovima.gr/ (Weekly News)
 
 Culture / History:
-- 
-- 
+- https://el.wikipedia.org/wiki/%CE%95%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%AE_%CE%B9%CF%83%CF%84%CE%BF%CF%81%CE%AF%CE%B1 (History of Greece - Wikipedia Article)
+- https://el.wikipedia.org/wiki/%CE%95%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CF%8C%CF%82_%CF%80%CE%BF%CE%BB%CE%B9%CF%84%CE%B9%CF%83%CE%BC%CF%8C%CF%82 (Culture of Greece - Wikipedia Article)
+- https://www.nlg.gr/ (National Library of Greece)
+- https://archaeologicalmuseums.gr/el (Greek Archaeological Museums)
+- https://www.namuseum.gr/ (National Archaeological Museum)
+- https://www.visitgreece.gr/el/ (Greek tourism website)
+- http://odysseus.culture.gr/index_gr.html (Ministry of Culture and Sports - unofficial?)
 
 Government:
-- 
-- 
+- https://www.gov.gr/ (Government of Greece)
+- https://www.primeminister.gr/ (Prime Minister of Greece)
+- https://www.presidency.gr/ (President of Greece)
+- https://www.hellenicparliament.gr/ (Parliament of Greece)
+- https://www.mfa.gr/ (Ministry of Foreign Affairs)
+- https://ministryofjustice.gr/ (Ministry of Justice)
+- https://www.mod.mil.gr/?tpent (Ministry of National Defence)
+- https://culture.gov.gr/el/SitePages/default.aspx (Ministry of Culture)
+- https://www.ypes.gr/ (Ministry of the Interior)
+- https://www.minedu.gov.gr/ (Ministry of Education, Religious Affairs and Sports)
+- https://mintour.gov.gr/ (Ministry of Tourism)
+- https://ypep.gr/ (Minister of State)
 
 Political Parties:
-- 
-- 
+- https://nd.gr/ (New Democracy)
+- https://syriza.gr/ (Coalition of the Radical Left – Progressive Alliance)
+- https://pasok.gr/ (PASOK – Movement for Change)
+- https://www.kke.gr/ (Communist Party of Greece)
+- https://elliniki-lisi.gr/ (Greek Solution)
+- https://spartiates.gr/ (Spartans)
+- https://neaaristera.gr/ (New Left)
+- https://nikh.gr/ (Democratic Patriotic Popular Movement)
+- https://plefsieleftherias.gr/ (Course of Freedom)
+- https://fonilogikis.gr/ (Voice of Reason)
 
 Other:
 - https://el.wikipedia.org
@@ -27,8 +63,11 @@ Other:
 - 
 
 Informative links (in English):
-- 
-- 
+- https://en.wikipedia.org/wiki/Greek_language
+- https://en.wikipedia.org/wiki/Greece
+- https://en.wikipedia.org/wiki/History_of_Greece
+- https://en.wikipedia.org/wiki/Culture_of_Greece
+- https://www.visitgreece.gr/ (Greek tourism website)
 
 Additional Information:
 - ISO-639-3 code: ell
@@ -40,7 +79,7 @@ Scripts:
 - 
 
 Thank you to these people who have helped create this document:
-- 
+- [Ethan Wenokur](https://github.com/e-Winnie)
 - 
 
 ## Instructions

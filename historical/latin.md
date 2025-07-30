@@ -2,19 +2,26 @@
 
 Additional names:
 - Latina
-- 
+- Latinum
 
 News:
-- 
-- 
+- https://www.vaticannews.va/en.html (Vatican News - English)
+- https://www.vaticannews.va/en/podcast/vatican-radio-news-in-latin.html (Vatican News Latin radio)
+- https://www.bremenzwei.de/themen/nuntii-latini-100.html (German-Latin monthly newspaper)
+- https://areena.yle.fi/1-1931339 (Finnish-Latin radio)
 
 Culture / History:
-- 
-- 
+- https://www.vaticanlibrary.va/en/ (Vatican Library - English)
+- https://www.museivaticani.va/content/museivaticani/en.html (Vatican Museums - English)
+- https://la.wikipedia.org/wiki/Civitas_Vaticana (Vatican City - Wikipedia article)
+- https://www.basilicasanpietro.va/en/ (St. Peter's Basilica - English)
 
 Government:
-- 
-- 
+- https://www.vatican.va/latin/latin_index.html (Official website of the Holy See)
+- https://la.wikipedia.org/wiki/Papa (Pope - Wikipedia article)
+- https://la.wikipedia.org/wiki/Sancta_Sedes (Holy See - Wikipedia article)
+- https://www.vaticanstate.va/en (Vatican City - English)
+- (Pontifical Commission for Vatican City State - Wikipedia article)
 
 Political Parties:
 - 
@@ -26,19 +33,24 @@ Other:
 - 
 
 Informative links (in English):
-- 
-- 
+- https://en.wikipedia.org/wiki/Latin
+- https://en.wikipedia.org/wiki/Pope
+- https://en.wikipedia.org/wiki/Vatican_City
+- https://en.wikipedia.org/wiki/Holy_See
+- https://www.vatican.va/content/vatican/en.html (Official website of the Holy See)
 
 Additional Information:
 - ISO-639-3 code: lat
 - https://en.wikipedia.org/wiki/ISO_639:lat
+- This document needs reviewing by a native speaker.
 
 
 Scripts:
+- <a href="https://en.wikipedia.org/wiki/ISO_15924">ISO 15924 Latn</a> Latin
 - 
 
 Thank you to these people who have helped create this document:
-- 
+- [Ethan Wenokur](https://github.com/e-Winnie)
 - 
 
 ## Instructions

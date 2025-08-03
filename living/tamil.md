@@ -2,7 +2,7 @@
 
 Additional names:
 - தமிழ்
-- 
+- Tamizh
 
 News:
 - https://www.dinamalar.com (A leading Tamil daily newspaper offering comprehensive news coverage)
@@ -67,12 +67,10 @@ News:
 - https://theekkathir.in/
 - https://inioru.com/
 - https://www.pathivu.com/
-- 
 
 Culture / History:
 - https://www.varalaaru.com/ (A Tamil website dedicated to history and culture)
 - https://tamilheritage.org (An organisation focused on preserving Tamil heritage)
-- 
 
 Government:
 - https://tnou.ac.in (Tamil Nadu Open University offering distance education)
@@ -117,7 +115,6 @@ Government:
 - https://tiruvarur.nic.in (Official website of Tiruvarur district)
 - https://viluppuram.nic.in (Official website of Villupuram district)
 - https://virudhunagar.nic.in (Official website of Virudhunagar district)
-- 
 
 Political Parties:
 - https://inctamilnadu.in/ (Tamil Nadu unit of the Indian National Congress)
@@ -127,7 +124,6 @@ Political Parties:
 - https://www.naamtamilar.org/ (Official website of Naam Tamilar Katchi)
 - https://dmdkparty.com/ (Official website of Desiya Murpokku Dravida Kazhagam)
 - https://www.tvkparty.com/ (Official website of Tamilaga Vettri Kazhagam)
-- 
 
 Stories:
 - https://www.sirukathaigal.com/ (Collection of short stories written by various authors)
@@ -143,29 +139,26 @@ Other:
 - https://sramakrishnan.com (Official website of Tamil writer S. Ramakrishnan)
 - https://siliconshelf.wordpress.com/ (A Tamil blog with special focus on books)
 - https://kanali.in/ (Tamil magazine focusing on Art, Literature & Ecology)
+- https://www.projectmadurai.org/ (An open and voluntary initiative to publish ancient Tamil literary works in digital form)
 
 Informative links (in English):
 - https://en.wikipedia.org/wiki/Tamil_script
 - https://en.wikipedia.org/wiki/Tamil_phonology
 - https://r12a.github.io/scripts/taml/ta.html (Orthographical notes on Tamil)
 - https://www.w3.org/TR/taml-lreq/ (Tamil script resources)
-- 
 
 Additional Information:
 - ISO-639-1 code: ta
 - ISO-639-2/T code: tam
 - ISO-639-3 code: tam
 - https://en.wikipedia.org/wiki/ISO_639:tam
-- 
 
 Scripts:
-- <a href="https://en.wikipedia.org/wiki/ISO_15924">ISO 15924 Taml</a> Tamil
-- 
+- <a href="https://en.wikipedia.org/wiki/ISO_15924">ISO 15924 Tamil</a> Tamil
 
 Thank you to these people who have helped create this document:
 - [Neechalkaran](https://github.com/Neechalkaran)
 - [Thom Vaughan](https://github.com/thunderpoot)
-- 
 
 ## Instructions
 

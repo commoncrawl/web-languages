@@ -1,10 +1,12 @@
 # Web Language: Tamil
 
 Additional names:
+
 - தமிழ்
-- 
+-
 
 News:
+
 - https://www.dinamalar.com (A leading Tamil daily newspaper offering comprehensive news coverage)
 - https://www.dinamani.com (A prominent Tamil newspaper delivering the latest updates)
 - https://www.dinakaran.com (A Tamil daily providing news on current affairs, sports, and more)
@@ -67,14 +69,19 @@ News:
 - https://theekkathir.in/
 - https://inioru.com/
 - https://www.pathivu.com/
-- 
+-
 
 Culture / History:
+
 - https://www.varalaaru.com/ (A Tamil website dedicated to history and culture)
 - https://tamilheritage.org (An organisation focused on preserving Tamil heritage)
-- 
+- https://www.tamildigitallibrary.in/ (Digital library of Tamil literature)
+- https://www.thirukkural.net/ta/index.html (Thirukkural is a classic Tamil text that contains 133 aphorisms)
+- https://www.tamilvu.org/library (Tamil Virtual Academy)
+- https://www.tamilvu.org/library/nationalized/pdf/42-thirukudarsundarm/silapathigaram.pdf (Silapathigaram is a Tamil poem)
 
 Government:
+
 - https://tnou.ac.in (Tamil Nadu Open University offering distance education)
 - https://tndls.ac.in (Tamil Nadu Dr. Ambedkar Law University)
 - https://tnesevai.tn.gov.in (Tamil Nadu e-Governance Agency’s portal for online services)
@@ -117,9 +124,10 @@ Government:
 - https://tiruvarur.nic.in (Official website of Tiruvarur district)
 - https://viluppuram.nic.in (Official website of Villupuram district)
 - https://virudhunagar.nic.in (Official website of Virudhunagar district)
-- 
+-
 
 Political Parties:
+
 - https://inctamilnadu.in/ (Tamil Nadu unit of the Indian National Congress)
 - https://tamilnadu.bjp.org/ (Tamil Nadu unit of the Bharatiya Janata Party)
 - https://www.dmk.in/ta/home/ (Official website of Dravida Munnetra Kazhagam)
@@ -127,12 +135,14 @@ Political Parties:
 - https://www.naamtamilar.org/ (Official website of Naam Tamilar Katchi)
 - https://dmdkparty.com/ (Official website of Desiya Murpokku Dravida Kazhagam)
 - https://www.tvkparty.com/ (Official website of Tamilaga Vettri Kazhagam)
-- 
+-
 
 Stories:
+
 - https://www.sirukathaigal.com/ (Collection of short stories written by various authors)
 
 Other:
+
 - https://ta.wikipedia.org (Tamil language edition of Wikipedia)
 - https://tamil.wiki (A Tamil encyclopedia)
 - https://www.tamilvu.org (Tamil Virtual Academy for online Tamil education)
@@ -145,27 +155,31 @@ Other:
 - https://kanali.in/ (Tamil magazine focusing on Art, Literature & Ecology)
 
 Informative links (in English):
+
 - https://en.wikipedia.org/wiki/Tamil_script
 - https://en.wikipedia.org/wiki/Tamil_phonology
 - https://r12a.github.io/scripts/taml/ta.html (Orthographical notes on Tamil)
 - https://www.w3.org/TR/taml-lreq/ (Tamil script resources)
-- 
+-
 
 Additional Information:
+
 - ISO-639-1 code: ta
 - ISO-639-2/T code: tam
 - ISO-639-3 code: tam
 - https://en.wikipedia.org/wiki/ISO_639:tam
-- 
+-
 
 Scripts:
+
 - <a href="https://en.wikipedia.org/wiki/ISO_15924">ISO 15924 Taml</a> Tamil
-- 
+-
 
 Thank you to these people who have helped create this document:
+
 - [Neechalkaran](https://github.com/Neechalkaran)
 - [Thom Vaughan](https://github.com/thunderpoot)
-- 
+-
 
 ## Instructions
 

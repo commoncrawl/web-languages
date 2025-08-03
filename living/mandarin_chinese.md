@@ -74,7 +74,8 @@ Additional Information:
 
 
 Scripts:
--
+- <a href="https://en.wikipedia.org/wiki/ISO_15924">ISO 15924 Hans</a> Hanzi
+- <a href="https://en.wikipedia.org/wiki/ISO_15924">ISO 15924 Hant</a> Hant
 
 Thank you to these people who have helped create this document:
 - [Ethan Wenokur](https://github.com/e-Winnie)

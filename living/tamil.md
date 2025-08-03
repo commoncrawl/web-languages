@@ -71,6 +71,10 @@ News:
 Culture / History:
 - https://www.varalaaru.com/ (A Tamil website dedicated to history and culture)
 - https://tamilheritage.org (An organisation focused on preserving Tamil heritage)
+- https://www.tamildigitallibrary.in/ (Digital library of Tamil literature)
+- https://www.thirukkural.net/ta/index.html (Thirukkural is a classic Tamil text that contains 133 aphorisms)
+- https://www.tamilvu.org/library (Tamil Virtual Academy)
+- https://www.tamilvu.org/library/nationalized/pdf/42-thirukudarsundarm/silapathigaram.pdf (Silapathigaram is a Tamil poem)
 
 Government:
 - https://tnou.ac.in (Tamil Nadu Open University offering distance education)
@@ -154,7 +158,7 @@ Additional Information:
 - https://en.wikipedia.org/wiki/ISO_639:tam
 
 Scripts:
-- <a href="https://en.wikipedia.org/wiki/ISO_15924">ISO 15924 Tamil</a> Tamil
+- <a href="https://en.wikipedia.org/wiki/ISO_15924">ISO 15924 Taml</a> Tamil
 
 Thank you to these people who have helped create this document:
 - [Neechalkaran](https://github.com/Neechalkaran)

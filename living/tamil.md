@@ -2,7 +2,7 @@
 
 Additional names:
 - தமிழ்
-- 
+- Tamizh
 
 News:
 - https://www.dinamalar.com (A leading Tamil daily newspaper offering comprehensive news coverage)
@@ -72,6 +72,10 @@ News:
 Culture / History:
 - https://www.varalaaru.com/ (A Tamil website dedicated to history and culture)
 - https://tamilheritage.org (An organisation focused on preserving Tamil heritage)
+- https://www.tamildigitallibrary.in/ (Digital library of Tamil literature)
+- https://www.thirukkural.net/ta/index.html (Thirukkural is a classic Tamil text that contains 133 aphorisms)
+- https://www.tamilvu.org/library (Tamil Virtual Academy)
+- https://www.tamilvu.org/library/nationalized/pdf/42-thirukudarsundarm/silapathigaram.pdf (Silapathigaram is a Tamil poem)
 - 
 
 Government:
@@ -129,9 +133,6 @@ Political Parties:
 - https://www.tvkparty.com/ (Official website of Tamilaga Vettri Kazhagam)
 - 
 
-Stories:
-- https://www.sirukathaigal.com/ (Collection of short stories written by various authors)
-
 Other:
 - https://ta.wikipedia.org (Tamil language edition of Wikipedia)
 - https://tamil.wiki (A Tamil encyclopedia)
@@ -143,6 +144,9 @@ Other:
 - https://sramakrishnan.com (Official website of Tamil writer S. Ramakrishnan)
 - https://siliconshelf.wordpress.com/ (A Tamil blog with special focus on books)
 - https://kanali.in/ (Tamil magazine focusing on Art, Literature & Ecology)
+- https://www.projectmadurai.org/ (An open and voluntary initiative to publish ancient Tamil literary works in digital form)
+- https://www.sirukathaigal.com/ (Collection of short stories written by various authors)
+- 
 
 Informative links (in English):
 - https://en.wikipedia.org/wiki/Tamil_script
@@ -165,6 +169,8 @@ Scripts:
 Thank you to these people who have helped create this document:
 - [Neechalkaran](https://github.com/Neechalkaran)
 - [Thom Vaughan](https://github.com/thunderpoot)
+- [Gokulakrishnan Kalaikovan](https://github.com/gokulkrishh)
+- [Sugan Krishnan](https://github.com/rgksugan)
 - 
 
 ## Instructions

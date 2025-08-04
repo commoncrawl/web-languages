@@ -5,15 +5,20 @@ Additional names:
 - 
 
 News:
-- 
+- https://www.yonhapnewstv.co.kr
 - 
 
 Culture / History:
-- 
+- https://contents.history.go.kr
+- https://www.cha.go.kr
+- https://kdp.aks.ac.kr
 - 
 
 Government:
-- 
+- https://www.korea.kr
+- https://www.mohw.go.kr
+- https://www.mois.go.kr
+- https://opengov.seoul.go.kr
 - 
 
 Political Parties:
@@ -22,11 +27,11 @@ Political Parties:
 
 Other:
 - https://ko.wikipedia.org
-- 
+- https://namu.wiki
 - 
 
 Informative links (in English):
-- 
+- https://en.wikipedia.org/wiki/Korean_language
 - 
 
 Additional Information:
@@ -39,7 +44,7 @@ Scripts:
 - 
 
 Thank you to these people who have helped create this document:
-- 
+- @bjm1244
 - 
 
 ## Instructions

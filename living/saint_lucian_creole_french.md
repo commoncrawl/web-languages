@@ -1,15 +1,16 @@
 # Web Language: Saint Lucian Creole French
 
 Additional names:
-- 
+-Antillean Creole (besides Guadeloupean - see https://incubator.wikimedia.org/wiki/Wp/acf)
+- Martinican/Dominican/Trinidadian Creole
 
 News:
-- 
+- https://antilla-martinique.com/
 - 
 
 Culture / History:
-- 
-- 
+- https://www.potomitan.info/ (multiple French-based Creoles)
+- https://www.fondaskreyol.org/ (multiple French-based Creoles)
 
 Government:
 - 
@@ -20,7 +21,7 @@ Political Parties:
 - 
 
 Other:
-- 
+- https://incubator.wikimedia.org/wiki/Wp/acf
 - 
 
 Informative links (in English):

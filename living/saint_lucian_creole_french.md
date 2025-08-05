@@ -1,8 +1,8 @@
 # Web Language: Saint Lucian Creole French
 
 Additional names:
--Antillean Creole (besides Guadeloupean - see https://incubator.wikimedia.org/wiki/Wp/acf)
-- Martinican/Dominican/Trinidadian Creole
+-Antillean Creole (besides Guadeloupean - see https://incubator.wikimedia.org/wiki/Wp/acf and ISO code gcf)
+- Martinican/Dominican/Trinidadian French Creole
 
 News:
 - https://antilla-martinique.com/

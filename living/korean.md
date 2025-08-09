@@ -51,7 +51,7 @@ Political Parties:
 - https://www.peoplepowerparty.kr/ (People Power Party)
 - https://rebuildingkoreaparty.kr/ (Rebuilding Korea Party)
 - https://www.reformparty.kr/ (Reform Party)
-- https://www.youtube.com/channel/UCD2FurCIhOsG3FsTM1-jirA (Progressive Party)
+- https://jinboparty.com/ (Progressive Party)
 - https://www.basicincomeparty.kr/ (Basic Income Party)
 - https://samindang.kr/ (Social Democratic Party)
 

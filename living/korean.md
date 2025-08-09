@@ -5,25 +5,55 @@ Additional names:
 - 
 
 News:
-- https://www.yonhapnewstv.co.kr
-- 
+- https://www.chosun.com/ (The Chosun Ilbo "Korea Daily Newspaper" - Daily News)
+- https://www.donga.com/ (The Dong-A Ilbo "East Asia Daily" - Daily News)
+- https://www.joongang.co.kr/ (The JoongAng "Central Daily" - Daily News)
+- https://www.hankookilbo.com/ (Hankook Ilbo "Korea Daily" - Daily News)
+- https://www.hani.co.kr/ (The Hankyoreh "The Korean Nation; One Nation" - Daily News)
+- https://www.munhwa.com/ (Munhwa Ilbo - Daily News)
+- https://www.khan.co.kr/ (Kyunghyang Shinmun - Daily News)
+- https://www.seoul.co.kr/ (Seoul Shinmun "Seoul Newspaper" - Daily News)
+- https://www.segye.com/ (Segye Ilbo "World Daily" - Daily News)
+- https://www.kmib.co.kr/ (Kukmin Ilbo "Nation People Daily" - Daily News)
+- https://www.ajunews.com/ (Aju Business Daily - Daily Business News)
+- https://www.hankyung.com/ (The Korea Economic Daily - Daily Economic News)
+- https://isplus.com/ (Ilgan Sports "The Daily Sports" - Daily Sports News)
+- https://www.yonhapnewstv.co.kr (Yonhap News TV)
 
 Culture / History:
-- https://contents.history.go.kr
-- https://www.cha.go.kr
-- https://kdp.aks.ac.kr
-- 
+- https://www.history.go.kr/ (National Institute of Korean History)
+- https://www.khs.go.kr/main.html (Korean Heratige Service)
+- https://kdp.aks.ac.kr (The Academy of Korean Studies)
+- https://www.archives.go.kr/next/viewMainNew.do (National Archives of Korea)
+- https://nl.go.kr/ (National Library of Korea)
+- https://www.museum.go.kr/MUSEUM/main/index.do (National Museum of Korea)
+- https://www.mmca.go.kr/ (National Museum of Modern and Contemporary Art, Korea)
+- https://www.gogung.go.kr/gogung/main/main.do (National Palace Museum of Korea)
+- https://korean.visitkorea.or.kr/main/main.do (Visit Korea)
 
 Government:
-- https://www.korea.kr
-- https://www.mohw.go.kr
-- https://www.mois.go.kr
-- https://opengov.seoul.go.kr
-- 
+- https://www.korea.kr (Government of the Republic of Korea)
+- https://www.president.go.kr/ (President)
+- https://www.opm.go.kr/opm/index.do (Prime Minister)
+- https://assembly.go.kr/portal/main/main.do (National Assembly of the Republic of Korea )
+- https://www.scourt.go.kr/supreme/supreme.jsp (Supreme Court of Korea)
+- https://www.ccourt.go.kr/site/kor/main.do (Constitutional Court of Korea)
+- https://www.mofa.go.kr/www/main.do (Ministry of Foreign Affairs)
+- https://www.mnd.go.kr/mbshome/mbs/mnd/ (Ministry of Defence)
+- https://moef.go.kr/ (Ministry of Economy and Finance)
+- https://www.mcst.go.kr/kor/main.jsp (Ministry of Culture, Sports, and Tourism)
+- https://www.mohw.go.kr (Ministry of Health and Welfare)
+- https://www.mois.go.kr (Ministry of the Interior and Safety)
+- https://opengov.seoul.go.kr (Government of Seoul)
 
 Political Parties:
-- 
-- 
+- https://theminjoo.kr/main/ (Democratic Party of Korea)
+- https://www.peoplepowerparty.kr/ (People Power Party)
+- https://rebuildingkoreaparty.kr/ (Rebuilding Korea Party)
+- https://www.reformparty.kr/ (Reform Party)
+- https://www.youtube.com/channel/UCD2FurCIhOsG3FsTM1-jirA (Progressive Party)
+- https://www.basicincomeparty.kr/ (Basic Income Party)
+- https://samindang.kr/ (Social Democratic Party)
 
 Other:
 - https://ko.wikipedia.org
@@ -31,12 +61,17 @@ Other:
 - 
 
 Informative links (in English):
+- https://en.wikipedia.org/wiki/Korea
+- https://en.wikipedia.org/wiki/South_Korea
 - https://en.wikipedia.org/wiki/Korean_language
-- 
+- https://en.wikipedia.org/wiki/History_of_Korea
+- https://en.wikipedia.org/wiki/History_of_South_Korea
+- https://english.visitkorea.or.kr/svc/main/index.do
 
 Additional Information:
 - ISO-639-3 code: kor
 - https://en.wikipedia.org/wiki/ISO_639:kor
+- This document needs reviewing by a native speaker.
 
 
 Scripts:
@@ -45,7 +80,7 @@ Scripts:
 
 Thank you to these people who have helped create this document:
 - @bjm1244
-- 
+- [Ethan Wenokur](https://github.com/e-Winnie)
 
 ## Instructions
 

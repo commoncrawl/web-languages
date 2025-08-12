@@ -21,6 +21,7 @@ News:
 - https://www.demorgen.be
 - https://www.nieuwsblad.be
 - https://www.vrt.be/vrtnws/nl
+- https://vtm.be/vtm-nieuws
 - https://antilliaansdagblad.com
 - https://amigoe.com
 - https://www.bonaire.nu/
@@ -46,6 +47,8 @@ Culture / History:
 - https://www.arch.be/index.php?l=nl (Royal Archives Belgium)
 - https://www.mskgent.be/ (Museum of fine arts Ghent)
 - https://www.naturalsciences.be/nl (Institute of Natural Sciences)
+- https://toerismevlaanderen.be/nl (Official website of Flanders regarding Tourism)
+- https://www.kbr.be/nl/ (Royal library of Belgium)
   
 Government:
 - https://www.rijksoverheid.nl/ (Official website of the Dutch Government)
@@ -62,6 +65,13 @@ Government:
 - https://www.belgium.be/nl (Official website of the Belgian Government)
 - https://gobiernu.cw/nl/ (Official website of the Curacao Government)
 - https://gov.sr/ (Official website of the Suriname Government)
+- https://statbel.fgov.be/nl (Official statitistics of Belgium)
+- https://dofi.ibz.be/nl (Official Immigration Office of Belgium)
+- https://diplomatie.belgium.be/nl (Foreigns Affairs of Belgium)
+- https://www.vlaanderen.be/ (Official website of Flanders)
+- https://www.departementzorg.be/zorginspectie (Official website of Flanders regarding the Department of Care)
+- https://www.mil.be/nl/ (Belgium Defence)
+- 
   
   
 
@@ -91,7 +101,7 @@ Political Parties:
 
 Other:
 - https://nl.wikipedia.org
-- 
+- https://www.vgtc.be/ (Flemish Sign Language Center - different from spoken Flemish but regionally overlapping)
 - 
 
 Informative links (in English):
@@ -99,6 +109,7 @@ Informative links (in English):
 - https://en.wikipedia.org/wiki/Netherlands
 - https://en.wikipedia.org/wiki/History_of_the_Netherlands
 - https://en.wikipedia.org/wiki/History_of_Flanders
+- https://en.wikipedia.org/wiki/History_of_Belgium
 - https://en.wikipedia.org/wiki/Culture_of_the_Netherlands
 - https://www.government.nl/ (Official website of the Dutch government - English Section)
 - https://www.holland.com/global/tourism.htm (Official tourism website for the Netherlands - English Section)

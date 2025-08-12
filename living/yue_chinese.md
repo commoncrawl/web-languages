@@ -1,46 +1,46 @@
 Web Language: Cantonese (Yue)
 
 Additional names:
-粵語
-粤语
-廣東話
-广东话
-廣州話
-广州话
-Cantonese
-Yue Chinese
+- 粵語
+- 粤语
+- 廣東話
+- 广东话
+- 廣州話
+- 广州话
+- Cantonese
+- Yue Chinese
 
 Infotainment:
-https://www.tvmost.com.hk/articles
+- https://www.tvmost.com.hk/articles
 
 Dictionaries:
-https://words.hk/ (粵典)
+- https://words.hk/ (粵典)
 
 Blogs:
-https://martinoei.com/
-https://legalteahouse.com.hk/allposts/
+- https://martinoei.com/
+- https://legalteahouse.com.hk/allposts/
 
 Forums：
-https://lihkg.com/ (LIHKG)
-https://www.discuss.com.hk/ (The Hong Kong Discuss Forum)
-https://www.baby-kingdom.com/forum.php （Baby Kingdom)
+- https://lihkg.com/ (LIHKG)
+- https://www.discuss.com.hk/ (The Hong Kong Discuss Forum)
+- https://www.baby-kingdom.com/forum.php （Baby Kingdom)
 
 Food reviews:
-https://www.openrice.com/zh/hongkong
+- https://www.openrice.com/zh/hongkong
 
 Informative links (in English):
-https://en.wikipedia.org/wiki/Cantonese
-https://en.wikipedia.org/wiki/Written_Cantonese
+- https://en.wikipedia.org/wiki/Cantonese
+- https://en.wikipedia.org/wiki/Written_Cantonese
 
 Additional Information:
 Formal writing almost always uses Standard Written Chinese, even when the spoken language is Cantonese. This keeps government, political, and news text uniform and widely intelligible, leaving genuine written Cantonese mostly to informal media and user-generated content.
 
 ISO-639-3 code: 
-yue
+- yue
 
 Scripts:
-ISO 15924 Hant
-ISO 15924 Hans
+- ISO 15924 Hant
+- ISO 15924 Hans
 
 Instructions
 There are 2 ways to add to this document. If you aren't very familiar with Github, you can copy the entire document into an email, fill it out, and send it to web-languages ZAT commoncrawl ZOT org. We'll do the rest.

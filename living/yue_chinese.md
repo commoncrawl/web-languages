@@ -32,8 +32,8 @@ Informative links (in English):
 - https://en.wikipedia.org/wiki/Cantonese
 - https://en.wikipedia.org/wiki/Written_Cantonese
 
-Additional Information:
-Formal writing almost always uses Standard Written Chinese, even when the spoken language is Cantonese. This keeps government, political, and news text uniform and widely intelligible, leaving genuine written Cantonese mostly to informal media and user-generated content.
+## Additional Information
+Formal writing almost always uses Standard Written Chinese, even when the spoken language is Cantonese. This leaves genuine written Cantonese mostly to informal media and user-generated content.
 
 ISO-639-3 code: 
 - yue

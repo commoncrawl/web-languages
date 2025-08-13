@@ -59,6 +59,7 @@ Informative links (in English):
 - https://en.wikipedia.org/wiki/Thai_language
 - https://en.wikipedia.org/wiki/Thailand
 - https://en.wikipedia.org/wiki/History_of_Thailand
+- https://en.wikipedia.org/wiki/List_of_political_parties_in_Thailand
 
 Additional Information:
 - ISO-639-3 code: tha

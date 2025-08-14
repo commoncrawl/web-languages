@@ -21,7 +21,6 @@ Government:
 - https://la.wikipedia.org/wiki/Papa (Pope - Wikipedia article)
 - https://la.wikipedia.org/wiki/Sancta_Sedes (Holy See - Wikipedia article)
 - https://www.vaticanstate.va/en (Vatican City - English)
-- (Pontifical Commission for Vatican City State - Wikipedia article)
 
 Political Parties:
 - 

@@ -26,7 +26,7 @@ Political Parties:
 - 
 -
 
-Others:
+Other:
 - https://zh-yue.wikipedia.org
 - https://www.tvmost.com.hk/articles (Infotainment)
 - https://words.hk/ (Dictionary)

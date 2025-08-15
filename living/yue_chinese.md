@@ -1,4 +1,4 @@
-Web Language: Cantonese (Yue)
+# Web Language: Yue Chinese
 
 Additional names:
 - 粵語
@@ -10,37 +10,44 @@ Additional names:
 - Cantonese
 - Yue Chinese
 
-Infotainment:
-- https://www.tvmost.com.hk/articles
+News:
+- 
+- 
 
-Dictionaries:
-- https://words.hk/ (粵典)
+Culture / History:
+- 
+- 
 
-Blogs:
-- https://martinoei.com/
-- https://legalteahouse.com.hk/allposts/
+Government:
+- 
+- 
 
-Forums：
-- https://lihkg.com/ (LIHKG)
-- https://www.discuss.com.hk/ (The Hong Kong Discuss Forum)
-- https://www.baby-kingdom.com/forum.php （Baby Kingdom)
+Political Parties:
+- 
+-
 
-Food reviews:
-- https://www.openrice.com/zh/hongkong
+Others:
+- https://zh-yue.wikipedia.org
+- https://www.tvmost.com.hk/articles (Infotainment)
+- https://words.hk/ (Dictionary)
+- https://martinoei.com/ (Blog)
+- https://legalteahouse.com.hk/allposts/ (Blog)
+- https://lihkg.com/ (Forum)
+- https://www.discuss.com.hk/ (Forum)
+- https://www.baby-kingdom.com/forum.php (Forum)
+- https://www.openrice.com/zh/hongkong (Food Reviews)
 
 Informative links (in English):
 - https://en.wikipedia.org/wiki/Cantonese
 - https://en.wikipedia.org/wiki/Written_Cantonese
 
-## Additional Information
-Formal writing almost always uses Standard Written Chinese, even when the spoken language is Cantonese. This leaves genuine written Cantonese mostly to informal media and user-generated content.
-
-ISO-639-3 code: 
-- yue
+Additional Information:
+- ISO-639-3 code: yue
+- Formal writing almost always uses Standard Written Chinese, even when the spoken language is Cantonese. This leaves genuine written Cantonese mostly to informal media and user-generated content.
 
 Scripts:
-- ISO 15924 Hant
-- ISO 15924 Hans
+- <a href="https://en.wikipedia.org/wiki/ISO_15924">ISO 15924 Hant</a> Hant
+- <a href="https://en.wikipedia.org/wiki/ISO_15924">ISO 15924 Hans</a> Hans
 
 Thank you to these people who have helped create this document:
 - 

@@ -5,20 +5,24 @@ Additional names:
 - 
 
 News:
-- 
+- https://www.wallonia.be/en/news (Regional News - English)
 - 
 
 Culture / History:
-- 
-- 
+- https://wa.wikipedia.org/wiki/Walons (Walloons - Wikipedia Article)
+- https://wa.wikipedia.org/wiki/Walonreye (Wallonia - Wikipedia Article)
 
 Government:
-- 
-- 
+- https://www.wallonie.be/en/stakeholders-and-institutions/wallonia/walloon-government (Wallonia Government official website - English)
+- https://wa.wikipedia.org/wiki/P%C3%A5rlumint_del_Walonreye_(Institucion) (Parliament of Wallonia - Wikipedia Article)
+- https://www.parlement-wallonie.be/ (Parliament of Wallonia - French)
 
 Political Parties:
-- 
-- 
+- https://wa.wikipedia.org/wiki/Mouvmint_Rif%C3%B4mrece (Reformist Movement - Wikipedia Article)
+- https://wa.wikipedia.org/wiki/Les_Egadj%C3%AEs (Les Engagés - French)
+- https://wa.wikipedia.org/wiki/P%C3%A5rti_Socialisse_(Beldjike) (Socialist Party)
+- https://wa.wikipedia.org/wiki/P%C3%A5rti_Bedje_do_Boutaedje (Workers' Party of Belgium)
+- https://wa.wikipedia.org/wiki/Ecolo (Confederate Ecologists for the Organisation of Original Struggles - French)
 
 Other:
 - https://wa.wikipedia.org
@@ -26,19 +30,21 @@ Other:
 - 
 
 Informative links (in English):
-- 
-- 
+- https://en.wikipedia.org/wiki/Walloon_language
+- https://en.wikipedia.org/wiki/Wallonia
+- https://visitwallonia.com/en-gb/?cookie_lang=en-gb (Official tourism website of Walonia)
 
 Additional Information:
 - ISO-639-3 code: wln
 - https://en.wikipedia.org/wiki/ISO_639:wln
+- This document needs reviewing by a native speaker.
 
 
 Scripts:
-- 
+- <a href="https://en.wikipedia.org/wiki/ISO_15924">ISO 15924 Latn</a> Latin
 
 Thank you to these people who have helped create this document:
-- 
+- [Ethan Wenokur](https://github.com/e-Winnie)
 - 
 
 ## Instructions

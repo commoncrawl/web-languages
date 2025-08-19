@@ -11,7 +11,8 @@ Additional names:
 - Yue Chinese
 
 News:
-- 
+- https://hk01.com (HK-based news, 香港01, mostly in Mandarin)
+- https://stheadline.com (HK-based news, 頭條日報, mostly in Mandarin)
 - 
 
 Culture / History:

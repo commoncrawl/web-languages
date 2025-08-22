@@ -1,10 +1,12 @@
 # Web Language: French
 
 Additional names:
+
 - français
-- 
+-
 
 News:
+
 - https://journalmetro.com/
 - https://www.lesaffaires.com/
 - https://lautjournal.info/
@@ -29,41 +31,68 @@ News:
 - https://www.larotonde.ca/
 - https://www.ledroit.com/
 - https://www.lecourrierdusud.ca/
-- 
+-
 
 Culture / History:
-- 
-- 
+
+- http:///culture.gouv.fr (French Ministry of Culture)
+-
 
 Government:
-- 
-- 
+
+- http://info.gouv.fr/ (French government)
+- https://www.canada.ca/fr.html (Government of Canada)
+- https://www.quebec.ca/ (Government of Quebec)
+- https://www.belgium.be/fr (Government of Belgium)
+- https://www.admin.ch/gov/fr/accueil/conseil-federal.html (Federal Council of Switzerland)
+- https://gouvernement.lu/fr.html (Government of Luxembourg)
+- https://www.gouv.mc/ (Monaco government)
+- https://www.primature.gouv.ht/ (Government of Haiti)
+- https://www.gouv.bj/ (Government of Benin)
+- https://www.presidencedufaso.bf/ (Presidency of Burkina Faso)
+- https://presidence.gov.bi/ (Presidency of Burundi)
+- https://gouvernement.cg/ (Government of Congo)
+- https://republique.cd/ (Government of the Democratic Republic of the Congo)
+- https://www.gouv.ci/ (Government of Côte d'Ivoire)
+- https://www.presidence.dj/ (Presidency of Djibouti)
+- https://www.gouvernement.ga/ (Government of Gabon)
+- https://gouvernement.gov.gn/ (Government of Guinea)
+- https://www.presidence.gov.mg/ (Presidency of Madagascar)
+- https://gouvernement.ml/ (Government of Mali)
+- https://www.gouv.ne/ (Government of Niger)
+- https://primature.sn/ (Government of Senegal)
+- https://primature.gouv.tg/ (Government of Togo)
 
 Political Parties:
-- 
-- 
+
+-
+-
 
 Other:
+
 - https://fr.wikipedia.org
-- 
-- 
+-
+-
 
 Informative links (in English):
-- 
-- 
+
+-
+-
 
 Additional Information:
+
 - ISO-639-3 code: fra
 - https://en.wikipedia.org/wiki/ISO_639:fra
 
-
 Scripts:
+
 - <a href="https://en.wikipedia.org/wiki/ISO_15924">ISO 15924 Latn</a> Latin
-- 
+-
 
 Thank you to these people who have helped create this document:
-- 
-- 
+
+-
+-
 
 ## Instructions
 

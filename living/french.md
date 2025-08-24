@@ -62,6 +62,7 @@ Government:
 - https://www.gouv.ne/ (Government of Niger)
 - https://primature.sn/ (Government of Senegal)
 - https://primature.gouv.tg/ (Government of Togo)
+- https://www.beit-salam.km/ (Presidency of Comoros)
 
 Political Parties:
 

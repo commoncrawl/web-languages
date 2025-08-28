@@ -10,7 +10,16 @@ News:
 - 
 
 Culture / History:
-- 
+- https://www.beirut.com/ar/ 
+- https://www.lyricsongation.com/%d9%83%d9%84%d9%85%d8%a7%d8%aa-%d8%a7%d8%ba%d8%a7%d9%86%d9%8a-%d9%84%d8%a8%d9%86%d8%a7%d9%86%d9%8a%d8%a9/
+- https://www.lyricsongation.com/%d9%83%d9%84%d9%85%d8%a7%d8%aa-%d8%a7%d8%ba%d8%a7%d9%86%d9%8a-%d8%b3%d9%88%d8%b1%d9%8a%d8%a9/
+- https://www.lyricsongation.com/%d9%83%d9%84%d9%85%d8%a7%d8%aa-%d8%a7%d8%ba%d8%a7%d9%86%d9%8a-%d8%a7%d8%b1%d8%af%d9%86%d9%8a%d8%a9/
+- https://www.lyricsongation.com/%d9%83%d9%84%d9%85%d8%a7%d8%aa-%d8%a7%d8%ba%d8%a7%d9%86%d9%8a-%d9%81%d9%84%d8%b3%d8%b7%d9%8a%d9%86%d9%8a%d8%a9/
+- https://kids.sakat3sh.com/%D9%82%D8%B5%D8%B5-%D8%A3%D8%B7%D9%81%D8%A7%D9%84-%D9%82%D8%A8%D9%84-%D8%A7%D9%84%D9%86%D9%88%D9%85/
+- https://syrianstory.com/amis-4-20.htm
+- https://pulpit.alwatanvoice.com/articles/2012/05/10/260140.html
+- https://zaghroda.blogspot.com/2017/08/blog-post_23.html
+- https://zaghroda.blogspot.com/2014/02/blog-post.html
 - 
 
 Government:
@@ -22,7 +31,7 @@ Political Parties:
 - 
 
 Other:
-- 
+- https://maha-love-u.hooxs.com/t68-topic 
 - 
 
 Informative links (in English):

@@ -14,6 +14,8 @@ News:
 
 Culture / History:
 - https://mawred.org/
+- https://raseef22.net/%D8%AA%D9%83%D9%86%D9%88%D9%84%D9%88%D8%AC%D9%8A%D8%A7
+- https://raseef22.net/%D8%A8%D9%8A%D8%A6%D8%A9-%D9%88%D9%85%D9%86%D8%A7%D8%AE
 - 
 
 Government:
@@ -26,7 +28,7 @@ Political Parties:
 
 Other:
 - https://ar.wikipedia.org
-- 
+- https://mawdoo3.com/ 
 
 Informative links (in English):
 - https://en.wikipedia.org/wiki/Arabic

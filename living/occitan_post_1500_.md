@@ -54,7 +54,7 @@ Other:
 - https://ieo-opm.com/oc/ (academy promoting the Occitan language)
 - https://ieo31.com/wordpress/ (local academy promoting the Occitan language)
 - https://paraulas.net/ (music and lyrics)
-
+- https://www.mejans.fr/ (promoting Occitan in the digital world)
 Informative links (in English):
 - 
 - 

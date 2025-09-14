@@ -34,7 +34,14 @@ IT:
 - https://potonorsland.com/ (blog about video games)
 - https://lafarganumerica.eu/oc (place to share digital knowledges about Occitan)
 
-Blogs:
+Other:
+- https://oc.wikipedia.org
+- https://www.ofici-occitan.eu/oc/acuelh/ (state agency promoting the Occitan language)
+- http://www.josiane-ubaud.com/ (botanical knowledge and more)
+- https://ieo-opm.com/oc/ (academy promoting the Occitan language)
+- https://ieo31.com/wordpress/ (local academy promoting the Occitan language)
+- https://paraulas.net/ (music and lyrics)
+- https://www.mejans.fr/ (promoting Occitan in the digital world)
 - https://auselum.wordpress.com/ (about birds)
 - http://calandretadelpaisdepamias.blogspot.com/ (school)
 - https://calandreta-albi.blogspot.com/ (school)
@@ -47,14 +54,6 @@ Blogs:
 - https://melanizetofre.blogspot.com/
 - https://occitanissima.blogspot.com/
 
-Other:
-- https://oc.wikipedia.org
-- https://www.ofici-occitan.eu/oc/acuelh/ (state agency promoting the Occitan language)
-- http://www.josiane-ubaud.com/ (botanical knowledge and more)
-- https://ieo-opm.com/oc/ (academy promoting the Occitan language)
-- https://ieo31.com/wordpress/ (local academy promoting the Occitan language)
-- https://paraulas.net/ (music and lyrics)
-- https://www.mejans.fr/ (promoting Occitan in the digital world)
 Informative links (in English):
 - 
 - 

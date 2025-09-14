@@ -5,16 +5,21 @@ Additional names:
 - 
 
 News:
-- 
-- 
+- https://www.suedostschweiz.ch/laquotidiana (Daily newspaper)
+- https://www.rtr.ch/ (Radio and television)
 
 Culture / History:
-- 
-- 
+- https://www.liam.ch/ (Umbrella organization for Romansh language and culture)
+- https://www.gr.ch/RM/instituziuns/administraziun/dvs/are/Seiten/default.aspx (Archive Cultural Heritage of the Canton Grisons)
+- https://rumantsch-e.ch/ (Information about the Romansh language and culture)
+- https://rm.wikipedia.org/wiki/Chantun_Grischun (Romansh speaking canton)
+- https://rm.wikipedia.org/wiki/Istorgia_da_la_Svizra (History of Switzerland)
 
 Government:
-- 
-- 
+- https://www.admin.ch/gov/rm/pagina-iniziala.html (The Federal Council of Switzerland)
+- https://www.efd.admin.ch/rm (Federal Department of Finance of Switzerland)
+- https://www.bk.admin.ch/bk/rm/home/bk/bundeskanzler.html (The Federal Chancellery of Switzerland)
+- https://www.gr.ch/RM/Seiten/welcome.aspx (Government of the Canton Grisons)
 
 Political Parties:
 - 
@@ -26,19 +31,24 @@ Other:
 - 
 
 Informative links (in English):
-- 
-- 
+- https://en.wikipedia.org/wiki/Grisons
+- https://en.wikipedia.org/wiki/Switzerland
+- https://en.wikipedia.org/wiki/History_of_Switzerland
+- https://en.wikipedia.org/wiki/Romansh_language
+- https://www.myswitzerland.com/en-us/ (Tourism website for Switzerland)
 
 Additional Information:
 - ISO-639-3 code: roh
 - https://en.wikipedia.org/wiki/ISO_639:roh
+- This document needs reviewing by a native speaker.
 
 
 Scripts:
+- <a href="https://en.wikipedia.org/wiki/ISO_15924">ISO 15924 Latn</a> Latin
 - 
 
 Thank you to these people who have helped create this document:
-- 
+- [Ethan Wenokur](https://github.com/e-Winnie)
 - 
 
 ## Instructions

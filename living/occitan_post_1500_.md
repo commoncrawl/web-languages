@@ -34,6 +34,19 @@ IT:
 - https://potonorsland.com/ (blog about video games)
 - https://lafarganumerica.eu/oc (place to share digital knowledges about Occitan)
 
+Blogs:
+- https://auselum.wordpress.com/ (about birds)
+- http://calandretadelpaisdepamias.blogspot.com/ (school)
+- https://calandreta-albi.blogspot.com/ (school)
+- https://cercaval.blogspot.com/
+- https://ieo-erau.com/lo-blog/
+- https://avaironesa.blogspot.com/
+- https://lausetadepamias.blogspot.com/
+- https://loblogdemimi.blogspot.com/
+- https://loromegairedeservici.blogspot.com/
+- https://melanizetofre.blogspot.com/
+- https://occitanissima.blogspot.com/
+
 Other:
 - https://oc.wikipedia.org
 - https://www.ofici-occitan.eu/oc/acuelh/ (state agency promoting the Occitan language)

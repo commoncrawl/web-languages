@@ -5,20 +5,70 @@ Additional names:
 - 
 
 News:
-- 
-- 
+- https://www.b92.net/ (Daily news)
+- https://www.telegraf.rs/
+- https://www.n1info.rs/
+- https://www.blic.rs/ (Daily news)
+- https://www.politika.rs/ (Daily news)
+- https://www.danas.rs/ (Daily news)
+- https://www.novosti.rs/
+- https://www.kurir.rs/ (Tabloid)
+- https://www.alo.rs/ (Tabloid)
+- https://www.nova.rs/
+- https://www.rts.rs/ (Serbian public broadcaster)
 
 Culture / History:
-- 
-- 
+- https://www.narodnimuzej.rs/ (National Museum of Serbia)
+- https://www.etnografskimuzej.rs/ (Ethnographic Museum in Belgrade)
+- https://www.sanu.ac.rs/ (Serbian Academy of Sciences and Arts)
+- https://www.matica.rs/ (Matica Srpska - Serbian cultural and scientific institution)
+- https://muzej-jugoslavije.org/ (Museum of Yugoslavia)
+- https://www.heritage.gov.rs/latinica/index.php (Republic Institute for the Protection of Cultural Monuments)
 
 Government:
-- 
-- 
+- https://www.srbija.gov.rs/ (Official website of the Government of the Republic of Serbia)
+- https://www.predsednik.rs/ (Official website of the President of the Republic of Serbia)
+- http://www.parlament.gov.rs/ (National Assembly of the Republic of Serbia)
+- https://www.mfa.gov.rs/ (Ministry of Foreign Affairs)
+- https://www.mup.gov.rs/ (Ministry of Internal Affairs)
+- https://www.mfin.gov.rs/ (Ministry of Finance)
+- https://www.privreda.gov.rs/ (Ministry of Economy)
+- https://www.ekologija.gov.rs/ (Ministry of Environmental Protection)
+- https://www.mei.gov.rs/ (Ministry of European Integration)
+- https://www.mod.gov.rs/ (Ministry of Defence)
+- https://www.ite.gov.rs/ (Office for Information Technologies and eGovernment - includes the eUprava Portal for e-services)
 
 Political Parties:
-- 
-- 
+- https://sr.wikipedia.org/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%B0%D0%BA_%D0%BF%D0%BE%D0%BB%D0%B8%D1%82%D0%B8%D1%87%D0%BA%D0%B8%D1%85_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B0%D0%BA%D0%B0_%D1%83_%D0%A1%D1%80%D0%B1%D0%B8%D1%98%D0%B8 (Full list of Serbian Political Parties)
+- https://sns.org.rs/ (Serbian Progressive Party)
+- https://ssp.rs/ (Party of Freedom and Justice)
+- https://www.sps.org.rs/ (Socialist Party of Serbia)
+- https://nps.org.rs/ (People's Movement of Serbia)
+- https://zelenolevifront.rs/ (Green–Left Front)
+- https://srce-org.rs/ (Serbia Centre)
+- https://ds.org.rs/ (Democratic Party)
+- http://novidss.rs/ (New Democratic Party of Serbia)
+- https://poks.rs/ (Movement for the Restoration of the Kingdom of Serbia)
+- https://misnaganaroda.rs/ (We – Power of the People)
+- https://miglasiznaroda.rs/ (We – Voice from the People)
+- https://www.vmsz.org.rs/sr (Alliance of Vojvodina Hungarians)
+- http://pups.org.rs/ (PUPS – Solidarity and Justice)
+- https://sdpsrbije.org.rs/ (Social Democratic Party of Serbia)
+- https://ekoloskiustanak.org.rs/ (Ecological Uprising)
+- http://jedinstvenasrbija.org.rs/ (United Serbia)
+- https://pokretslobodnih.rs/ (Movement of Free Citizens)
+- https://zdravasrbija.org.rs/ (Healthy Serbia)
+- http://pokretsocijalista.rs/ (Movement of Socialists)
+- https://sda.rs/ (Party of Democratic Action of Sandžak)
+- http://srpskanarodnapartija.rs/ (Serbian People's Party)
+- https://www.spo.rs/ (Serbian Renewal Movement)
+- https://novolicesrbije.rs/ (New Face of Serbia)
+- https://zelenisrbije.org/ (Greens of Serbia)
+- https://www.dasestrukapita.rs/ (New Party)
+- https://nss.org.rs/ (People's Peasant Party)
+- http://ujedinjenaseljackastranka.rs/ (United Peasant Party)
+- https://sloga.org.rs/ (United Trade Unions of Serbia "Sloga")
+- https://ruskastranka.rs/ (Russian Party)
 
 Other:
 - https://sr.wikipedia.org
@@ -26,20 +76,23 @@ Other:
 - 
 
 Informative links (in English):
-- 
-- 
+- https://en.wikipedia.org/wiki/Serbia
+- https://en.wikipedia.org/wiki/History_of_Serbia
+- https://en.wikipedia.org/wiki/Serbian_language
+- https://www.serbia.travel/en/ (Serbian tourism website)
 
 Additional Information:
 - ISO-639-3 code: srp
 - https://en.wikipedia.org/wiki/ISO_639:srp
+- This document needs reviewing by a native speaker.
 
 
 Scripts:
 - <a href="https://en.wikipedia.org/wiki/ISO_15924">ISO 15924 Cyrl</a> Cyrillic
-- 
+- <a href="https://en.wikipedia.org/wiki/ISO_15924">ISO 15924 Latn</a> Latin
 
 Thank you to these people who have helped create this document:
-- 
+- [Ethan Wenokur](https://github.com/e-Winnie)
 - 
 
 ## Instructions

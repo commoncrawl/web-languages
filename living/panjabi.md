@@ -3,23 +3,35 @@
 Additional names:
 - Eastern Panjabi
 - ਪੰਜਾਬੀ
-- 
+- Punjabi
+- پنجابی
 
 News:
-- 
-- 
+- https://nawanzamana.in/ (Nawan Zamana - Daily News)
+- https://www.punjabitribuneonline.com/ (Punjabi Tribune - Daily News)
+- https://www.epapersland.com/pakistan/bhulekha.html (Bhulekha - Daily News)
+- https://www.lokaai.com/ (Daily Lokaai - Daily News)
+- https://ajitjalandhar.com/ (Ajit - Daily News)
+- https://dailypunjabtimes.com/ (Daily Punjab Times - Daily News)
+- https://epaper.jagbani.com/ (Jag Bani - Daily News)
 
 Culture / History:
-- 
-- 
+- https://punjabilibrary.com/#google_vignette (Punjabi Library)
+- https://pa.wikipedia.org/wiki/%E0%A8%AA%E0%A8%BE%E0%A8%B0%E0%A8%9F%E0%A9%80%E0%A8%B8%E0%A8%BC%E0%A8%A8_%E0%A8%AE%E0%A8%BF%E0%A8%8A%E0%A8%9C%E0%A8%BC%E0%A9%80%E0%A8%85%E0%A8%AE (Partition Museum - Wikipedia Article)
+- https://amritsar.nic.in/pa/tourist-place/%e0%a8%ae%e0%a8%b9%e0%a8%be%e0%a8%b0%e0%a8%be%e0%a8%9c%e0%a8%be-%e0%a8%b0%e0%a8%a3%e0%a8%9c%e0%a9%80%e0%a8%a4-%e0%a8%b8%e0%a8%bf%e0%a9%b0%e0%a8%98-%e0%a8%85%e0%a8%9c%e0%a8%be%e0%a8%87%e0%a8%ac/ (Maharaja Ranjit Singh Museum)
+- https://pa.wikipedia.org/wiki/%E0%A8%AA%E0%A9%B0%E0%A8%9C%E0%A8%BE%E0%A8%AC%E0%A9%80_%E0%A8%B8%E0%A9%B1%E0%A8%AD%E0%A8%BF%E0%A8%86%E0%A8%9A%E0%A8%BE%E0%A8%B0 (Punjabi Culture - Wikipedia Article)
+- https://pa.wikipedia.org/wiki/%E0%A8%AA%E0%A9%B0%E0%A8%9C%E0%A8%BE%E0%A8%AC_%E0%A8%A6%E0%A8%BE_%E0%A8%87%E0%A8%A4%E0%A8%BF%E0%A8%B9%E0%A8%BE%E0%A8%B8 (History of Punjab - Wikipedia Article)
 
 Government:
-- 
+- https://punjab.gov.pk/ (Punjabi Government - Pakistan)
+- https://punjab.gov.in/ (Punjabi Government - India)
+- https://pa.wikipedia.org/wiki/%E0%A8%AA%E0%A9%B0%E0%A8%9C%E0%A8%BE%E0%A8%AC,_%E0%A8%AD%E0%A8%BE%E0%A8%B0%E0%A8%A4_%E0%A8%B8%E0%A8%B0%E0%A8%95%E0%A8%BE%E0%A8%B0 (Punjabi Government - India - Wikipedia Article)
+- http://punjabpolice.gov.in/ (Punjabi Police - India)
 - 
 
 Political Parties:
-- 
-- 
+- https://aapkaramrajya.com/punjab/ (Aam Aadmi Party)
+- https://pa.wikipedia.org/wiki/%E0%A8%B8%E0%A8%BC%E0%A9%8D%E0%A8%B0%E0%A9%8B%E0%A8%AE%E0%A8%A3%E0%A9%80_%E0%A8%85%E0%A8%95%E0%A8%BE%E0%A8%B2%E0%A9%80_%E0%A8%A6%E0%A8%B2 (Shiromani Akali Dal "Supreme Eternal Party" - Wikipedia Article)
 
 Other:
 - https://pa.wikipedia.org
@@ -27,20 +39,22 @@ Other:
 - 
 
 Informative links (in English):
-- 
-- 
+- https://en.wikipedia.org/wiki/Punjabi_language
+- https://en.wikipedia.org/wiki/Punjab
+- https://en.wikipedia.org/wiki/History_of_Punjab
 
 Additional Information:
 - ISO-639-3 code: pan
 - https://en.wikipedia.org/wiki/ISO_639:pan
+- This document needs reviewing by a native speaker.
 
 
 Scripts:
 - <a href="https://en.wikipedia.org/wiki/ISO_15924">ISO 15924 Guru</a> Gurmukhi
-- 
+- <a href="https://en.wikipedia.org/wiki/ISO_15924">ISO 15924 Arab</a> Shahmukhi
 
 Thank you to these people who have helped create this document:
-- 
+- [Ethan Wenokur](https://github.com/e-Winnie)
 - 
 
 ## Instructions

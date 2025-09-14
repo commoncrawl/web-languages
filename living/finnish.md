@@ -11,31 +11,37 @@ News:
 - https://www.mtvuutiset.fi/
 - https://www.hs.fi/
 - https://www.uusisuomi.fi/
-
-Technology News:
-- https://www.tekniikkatalous.fi/
-- https://www.uusiteknologia.fi/
-- https://www.mikrobitti.fi/
-
-Finance News:
-- https://www.kauppalehti.fi/
-- https://www.arvopaperi.fi/
-- https://www.is.fi/taloussanomat/
+- https://www.tekniikkatalous.fi/ (Technology News)
+- https://www.uusiteknologia.fi/ (Technology News)
+- https://www.mikrobitti.fi/ (Technology News)
+- https://www.kauppalehti.fi/ (Finance News)
+- https://www.arvopaperi.fi/ (Finance News)
+- https://www.is.fi/taloussanomat/ (Finance News)
 
 Culture / History:
-- 
-- 
+- https://minedu.fi/ (Ministry of Education and Culture)
+- https://www.kansallismuseo.fi/ (National Museum of Finland)
+- https://www.museot.fi/ (Portal for Finnish Museums)
+- https://www.finna.fi/ (National search service for Finnish archives, libraries, and museums)
+- https://kirjastot.fi/ (Finnish Public Libraries portal)
+- https://www.finlit.fi/fi/ (Finnish Literature Society)
+- https://www.museovirasto.fi/ (Finnish Heritage Agency)
 
 Government:
-- https://www.eduskunta.fi/FI/Sivut/default.aspx
-- 
+- https://valtioneuvosto.fi/etusivu (The Finnish Government)
+- https://www.eduskunta.fi/FI/Sivut/default.aspx (The Parliament of Finland)
+- https://www.presidentti.fi/ (The President of the Republic of Finland)
+- https://vm.fi/etusivu (Ministry of Finance)
+- https://oikeusministerio.fi/etusivu (Ministry of Justice)
+- https://um.fi/etusivu (Ministry for Foreign Affairs)
+- https://intermin.fi/etusivu (Ministry of the Interior)
 
 Political Parties:
-- https://keskusta.fi/
-- https://www.kokoomus.fi/
-- https://www.vihreat.fi/
-- https://www.perussuomalaiset.fi/
-- https://liberaalipuolue.fi/
+- https://keskusta.fi/ (Centre Party of Finland)
+- https://www.kokoomus.fi/ (National Coalition Party)
+- https://www.vihreat.fi/ (Green League)
+- https://www.perussuomalaiset.fi/ (The Finns Party)
+- https://liberaalipuolue.fi/ (Liberal Party)
 
 Other:
 - https://fi.wikipedia.org
@@ -44,8 +50,10 @@ Other:
 - https://keskustelut.inderes.fi/
 
 Informative links (in English):
-- 
-- 
+- https://en.wikipedia.org/wiki/Finland
+- https://en.wikipedia.org/wiki/History_of_Finland
+- https://en.wikipedia.org/wiki/Finnish_language
+- https://www.visitfinland.com/en/fi/ (Official tourism website)
 
 Additional Information:
 - ISO-639-3 code: fin
@@ -58,7 +66,7 @@ Scripts:
 
 Thank you to these people who have helped create this document:
 - Rasmus Toivanen
-- 
+- [Ethan Wenokur](https://github.com/e-Winnie)
 
 ## Instructions
 

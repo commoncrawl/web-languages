@@ -1,3 +1,5 @@
+<img width="720" height="329" alt="ccf-web-languages-logo" src="https://github.com/user-attachments/assets/b45b0b2a-505b-4138-9d3b-0ccf0b551106" />
+
 # Web Languages Project
 
 Welcome! This is a crowd-sourced effort to improve crawling
@@ -32,6 +34,9 @@ To see a partially completed example, look at the
 
 Sometimes asking a Large Language Model can be helpful: "What are some
 top websites written in the Welsh language?"
+
+You can also join [our Discord server](https://discord.gg/njaVFh7avF)
+where we have a dedicated channel for discussing this project.
 
 ## What kind of websites are you looking for?
 

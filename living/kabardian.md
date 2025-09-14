@@ -2,32 +2,37 @@
 
 Additional names:
 - адыгэбзэ
-- 
+- Circassian (East)
 
 News:
-- 
-- 
+- https://apkbr.ru/news
+- https://smikbr.ru/ap
+- https://elgkbr.ru/newskab
 
 Culture / History:
-- 
-- 
+- https://www.kbigi.ru/?page_id=1852 (Publications on philology and history in PDF format)
+- https://www.kbigi.ru
 
 Government:
 - 
 - 
 
 Political Parties:
-- 
+- https://apkbr.ru/politika
 - 
 
 Other:
-- https://kbd.wikipedia.org
-- 
-- 
+- https://smikbr.ru/nur (Children's magazine)
+- https://smikbr.ru/oshhamaho
+- https://apkbr.ru
+- https://jinepsgazetesi.com/anasayfa-adigece-bati/
+- https://dinri-duneiri.ru/aread
+- https://adyghepsale.ru/
+- https://kbd.wikipedia.org/
 
 Informative links (in English):
-- 
-- 
+- https://en.wikipedia.org/wiki/Kabardian_language
+- https://en.wikipedia.org/wiki/Circassian_languages
 
 Additional Information:
 - ISO-639-3 code: kbd
@@ -35,7 +40,7 @@ Additional Information:
 
 
 Scripts:
-- 
+- <a href="https://en.wikipedia.org/wiki/ISO_15924">ISO 15924 Cyrl</a> Cyrillic
 
 Thank you to these people who have helped create this document:
 - 

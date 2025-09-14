@@ -4,19 +4,19 @@ Additional names:
 - 
 
 News:
-- 
+- https://caraibcreolenews.com
 - 
 
 Culture / History:
-- 
+- https://www.sayanns.com/
 - 
 
 Government:
-- 
+- https://pedagogie.ac-guadeloupe.fr/
 - 
 
 Political Parties:
-- 
+- https://ugtg.org/
 - 
 
 Other:
@@ -24,7 +24,7 @@ Other:
 - 
 
 Informative links (in English):
-- 
+- https://apics-online.info/surveys/50
 - 
 
 Additional Information:

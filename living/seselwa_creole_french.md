@@ -1,18 +1,18 @@
 # Web Language: Seselwa Creole French
 
-Additional names:
+Additional names: Seselwa, Seychellois Creole
 - 
 
 News:
-- 
-- 
+- https://nation.sc/
+- https://www.sbc.sc/
 
 Culture / History:
-- 
+- https://folklore.unisey.ac.sc/
 - 
 
 Government:
-- 
+- https://www.nationalassembly.sc/verbatim
 - 
 
 Political Parties:

@@ -5,21 +5,42 @@ Additional names:
 - 
 
 News:
-- 
+- https://www.ynet.co.il/
+- https://www.haaretz.co.il/
+- https://www.kan.org.il/
+- https://www.mako.co.il/
 - 
 
 Culture / History:
-- 
+- https://www.ipo.co.il/
+- https://www.eretzmuseum.org.il/
+- https://www.yaarakeydar.com/
+- https://historia.co.il/blog/
+- https://www.imj.org.il/
 - 
 
 Government:
-- 
-- 
+- https://www.gov.il/
+- https://www.btl.gov.il/Pages/default.aspx
+- https://www.new.isa.gov.il/
+- https://www.boi.org.il/
+- https://www.sii.org.il/
+- https://che.org.il/
+- https://www.parks.org.il/
+- https://www.iaa.gov.il/
 
 Political Parties:
-- 
-- 
-
+- https://beytenu.org.il/
+- https://www.likud.org.il/
+- http://www.yeshatid.org.il/
+- https://zionutdatit.org.il/
+- https://www.ozma-yeudit.co.il/
+- https://machane.org.il/
+- https://www.newhope.org.il/
+- http://www.shas.org.il/
+- https://hadash.org.il/
+- https://www.avoda.org.il/
+  
 Other:
 - https://he.wikipedia.org
 - 
@@ -39,8 +60,8 @@ Scripts:
 - 
 
 Thank you to these people who have helped create this document:
-- 
-- 
+- Leshem Choshen
+- Michal Elbaz
 
 ## Instructions
 

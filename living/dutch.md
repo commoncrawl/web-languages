@@ -5,29 +5,114 @@ Additional names:
 - 
 
 News:
-- 
-- 
+- https://www.nu.nl/
+- https://www.nos.nl/ (Public service broadcaster)
+- https://www.ad.nl/
+- https://www.telegraaf.nl/ (sensationalist/right-wing conservative)
+- https://www.volkskrant.nl/ (center-left)
+- https://www.nrc.nl/ (liberal)
+- https://www.trouw.nl/ (Christian-democratic)
+- https://www.rtlnieuws.nl/
+- https://www.parool.nl/ (regional news - left-wing)
+- https://fd.nl/ (business/finance)
+- https://www.metronieuws.nl/
+- https://www.standaard.be
+- https://www.hln.be
+- https://www.demorgen.be
+- https://www.nieuwsblad.be
+- https://www.vrt.be/vrtnws/nl
+- https://vtm.be/vtm-nieuws
+- https://antilliaansdagblad.com
+- https://amigoe.com
+- https://www.bonaire.nu/
+- https://dwtonline.com/
+- https://www.dbsuriname.com/
+
 
 Culture / History:
-- 
-- 
-
+- https://nl.wikipedia.org/wiki/Geschiedenis_van_Nederland
+- https://nl.wikipedia.org/wiki/Geschiedenis_van_Belgi%C3%AB
+- https://nl.wikipedia.org/wiki/Geschiedenis_van_Cura%C3%A7ao
+- https://nl.wikipedia.org/wiki/Geschiedenis_van_Bonaire
+- https://nl.wikipedia.org/wiki/Cultuur_van_Nederland
+- https://www.rijksmuseum.nl/ (National museum in Amsterdam - arts and history)
+- https://www.annefrank.org/nl/ (Anne Frank Museum)
+- https://www.paleishetloo.nl/ (Former royal palace museum)
+- https://www.hetscheepvaartmuseum.nl/ (National Maritime Museum in Amsterdam)
+- https://www.nationaalarchief.nl/ (National Archives of the Netherlands)
+- https://www.kb.nl/ (National Library of the Netherlands)
+- https://www.openluchtmuseum.nl/ (Dutch history and culture museum)
+- https://www.cultureelerfgoed.nl/ (Cultural Heritage Agency of the Netherlands)
+- https://canonvannederland.nl/ (Dutch history)
+- https://www.arch.be/index.php?l=nl (Royal Archives Belgium)
+- https://www.mskgent.be/ (Museum of fine arts Ghent)
+- https://www.naturalsciences.be/nl (Institute of Natural Sciences)
+- https://toerismevlaanderen.be/nl (Official website of Flanders regarding Tourism)
+- https://www.kbr.be/nl/ (Royal library of Belgium)
+  
 Government:
+- https://www.rijksoverheid.nl/ (Official website of the Dutch Government)
+- https://www.tweedekamer.nl/ (Lower house of the Dutch parliament)
+- https://www.eerstekamer.nl/ (Upper house of the Dutch parliament)
+- https://www.koninklijkhuis.nl/ (Dutch Royal House)
+- https://www.rechtspraak.nl/ (Dutch Judiciary)
+- https://www.minfin.nl/ (Ministry of Finance)
+- https://www.minaz.nl/ (Ministry of General Affairs - Prime Minister of the Netherlands)
+- https://www.minbzk.nl/ (Ministry of the Interior and Kingdom Relations)
+- https://www.minvws.nl/ (Ministry of Health, Welfare and Sport)
+- https://www.minlnv.nl/ (Ministry of Agriculture, Nature and Food Quality)
+- https://www.defensie.nl/ (Ministry of Defence)
+- https://www.belgium.be/nl (Official website of the Belgian Government)
+- https://gobiernu.cw/nl/ (Official website of the Curacao Government)
+- https://gov.sr/ (Official website of the Suriname Government)
+- https://statbel.fgov.be/nl (Official statitistics of Belgium)
+- https://dofi.ibz.be/nl (Official Immigration Office of Belgium)
+- https://diplomatie.belgium.be/nl (Foreigns Affairs of Belgium)
+- https://www.vlaanderen.be/ (Official website of Flanders)
+- https://www.departementzorg.be/zorginspectie (Official website of Flanders regarding the Department of Care)
+- https://www.mil.be/nl/ (Belgium Defence)
 - 
-- 
+  
+  
+
 
 Political Parties:
-- 
-- 
+- https://www.pvv.nl/ (Dutch Party for Freedom)
+- https://groenlinkspvda.nl/ (Dutch GreenLeft-Labour Party)
+- https://vvd.nl/ (Dutch People's Party for Freedom and Democracy)
+- https://partijnieuwsociaalcontract.nl/standpunten (Dutch New Social Contract Party)
+- https://d66.nl/ (Dutch Democrats 66 Party)
+- https://boerburgerbeweging.nl/ (Dutch Farmer–Citizen Movement Party)
+- https://www.cda.nl/ (Dutch Christian Democratic Appeal Party)
+- https://www.sp.nl/ (Dutch Socialist Party)
+- https://www.partijvoordedieren.nl/ (Dutch Party for the Animals)
+- https://www.forumvoordemocratie.nl/ (Dutch Forum for Democracy Party)
+- https://www.christenunie.nl/ (Dutch Christian Union Party)
+- https://www.sgp.nl/ (Dutch Reformed Political Party)
+- https://voltnederland.org/ (Dutch Volt Nederland Party)
+- https://www.ja21.nl/ (Dutch JA21 Party)
+- https://www.n‑va.be/ (Belgian Flemish nationalist)
+- https://www.vlaamsbelang.org/ (Belgian Flemish interest Party)
+- https://www.cdenv.be/ (Belgian Christian‑democratic Party)
+- https://www.openvld.be/ (Belgian Liberal Party)
+- https://www.groen.be/ (Belgian Green/eco‑progressive Party)
+- https://www.vooruit.org/ (Belgian Social Democratic Party)
+- https://www.pvda.be/ (Belgian Workers Party)
 
 Other:
 - https://nl.wikipedia.org
-- 
+- https://www.vgtc.be/ (Flemish Sign Language Center - different from spoken Flemish but regionally overlapping)
 - 
 
 Informative links (in English):
-- 
-- 
+- https://en.wikipedia.org/wiki/Dutch_language
+- https://en.wikipedia.org/wiki/Netherlands
+- https://en.wikipedia.org/wiki/History_of_the_Netherlands
+- https://en.wikipedia.org/wiki/History_of_Flanders
+- https://en.wikipedia.org/wiki/History_of_Belgium
+- https://en.wikipedia.org/wiki/Culture_of_the_Netherlands
+- https://www.government.nl/ (Official website of the Dutch government - English Section)
+- https://www.holland.com/global/tourism.htm (Official tourism website for the Netherlands - English Section)
 
 Additional Information:
 - ISO-639-3 code: nld
@@ -39,7 +124,7 @@ Scripts:
 - 
 
 Thank you to these people who have helped create this document:
-- 
+- [Ethan Wenokur](https://github.com/e-Winnie)
 - 
 
 ## Instructions

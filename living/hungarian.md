@@ -5,20 +5,69 @@ Additional names:
 - 
 
 News:
-- 
-- 
+- https://telex.hu/ (independent, high quality news portal from former index.hu journalists)
+- https://index.hu/ (used to be a popular independent news portal, but now serves government interests)
+- https://24.hu/ (popular independent news portal)
+- https://444.hu/ (independent news portal)
+- https://hvg.hu/ (Weekly news magazine with strong online presence)
+- https://www.origo.hu/ (Pro-government news portal)
+- https://www.blikk.hu/ (Tabloid newspaper with online presence)
+- https://www.nepszava.hu/ (Centre-left daily newspaper)
+- https://magyarnemzet.hu/ (Conservative daily newspaper, pro-government)
+- https://www.portfolio.hu/ (Financial news portal)
+- https://www.atv.hu/ (Private television news)
+- https://www.hirado.hu/ (Hungarian National Broadcaster, pro-government)
+- https://atlatszo.hu/ (independent investigative journalistic news portal)
+- https://magyarnarancs.hu/ (independent weekly liberal magazine)
+- https://mfor.hu/ (independent financial news portal)
+- https://www.vg.hu/ (pro-government financial news portal)
+- https://hirtv.hu/ (pro-government television news)
+- https://g7.hu/ (independent financial news portal)
+- https://www.valaszonline.hu/ (independent conservative news focusing on less, but more in depth articles)
+- https://pestisracok.hu/ (pro-government news portal)
+- https://rtl.hu/ (independent private television news)
+- https://www.szabadeuropa.hu/ (independent investigative journalistic news portal)
+- https://hang.hu/ (independent conservative news)
+- https://www.es.hu/ (literature and opinion articles)
+- https://www.direkt36.hu/ (high quality independent investigative journalistic news portal)
+- https://merce.hu/ (political left news portal)
+- https://tenyek.hu (pro-government news portal and television news)
+- https://kuruc.info (political right news portal)
+- https://alfahir.hu (right news portal)
+- https://hungarytoday.hu (pro-government news portal)
 
 Culture / History:
-- 
-- 
+- https://mnl.gov.hu/ (Hungarian National Archives)
+- https://oszk.hu/ (Hungarian National Library)
+- https://mnm.hu/hu (Hungarian National Museum)
+- https://mng.hu/ (Hungarian National Gallery)
+- https://btm.hu/ (Budapest History Museum)
+- https://www.opera.hu/hu/ (Hungarian State Opera House)
+- https://pim.hu/hu (Petőfi Literary Museum)
+- https://nori.gov.hu/ (National Heritage Institute)
+- https://csodasmagyarorszag.hu/ (Official tourism website for Hungary)
 
 Government:
-- 
-- 
+- https://kormany.hu/ (Hungarian Government)
+- https://www.parlament.hu/hu/nyitolap (Hungarian Parliament)
+- https://www.sandorpalota.hu/hu/fooldal (President of Hungary)
+- https://miniszterelnok.hu/ (Prime Minister of Hungary)
+- https://www.oktatas.hu/ (official website of the Hungarian Department of Education)
+- https://www.mnb.hu/web/fooldal (Hungarian National Bank)
+- https://www.police.hu/ (Official website of Hungarian police)
+- https://budapest.hu/ (the Hungarian capital's website)
 
 Political Parties:
-- 
-- 
+- https://fidesz.hu/ (Fidesz – Hungarian Civic Alliance)
+- https://dkp.hu/ (Demokratikus Koalíció - Democratic Coalition)
+- https://jobbik.hu/ (Jobbik Magyarországért Mozgalom - Jobbik Movement for a Better Hungary)
+- https://momentum.hu/ (Momentum Mozgalom - Momentum Movement)
+- https://mszp.hu/ (Magyar Szocialista Párt - Hungarian Socialist Party)
+- https://lehetmas.hu/ (LMP – Magyarország Zöld Pártja - LMP – Hungary's Green Party, formerly Politics Can Be Different)
+- https://parbeszed.hu/ (Párbeszéd – A Zöldek Pártja - Dialogue – The Green Party)
+- https://ketfarkukutya.mkkp.party/ (Magyar két farkú kutya párt – Hungarian two tailed dog party)
+- https://magyartisza.hu/ (Tisza párt – Tisza party)
+- https://kdnp.hu/ (Kereszténydemokrata Néppárt – Christian Democratic People's Party)
 
 Other:
 - https://hu.wikipedia.org
@@ -26,8 +75,10 @@ Other:
 - 
 
 Informative links (in English):
-- 
-- 
+- https://en.wikipedia.org/wiki/Hungary
+- https://en.wikipedia.org/wiki/Hungarian_language
+- https://en.wikipedia.org/wiki/History_of_Hungary
+- https://visithungary.com/ (Official tourism website for Hungary - English Section)
 
 Additional Information:
 - ISO-639-3 code: hun
@@ -39,8 +90,8 @@ Scripts:
 - 
 
 Thank you to these people who have helped create this document:
-- 
-- 
+- [Ethan Wenokur](https://github.com/e-Winnie)
+- [Kristóf Török](https://github.com/kristoftorok)
 
 ## Instructions
 

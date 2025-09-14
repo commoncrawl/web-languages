@@ -5,20 +5,45 @@ Additional names:
 - 
 
 News:
-- 
-- 
+- https://top-channel.tv/
+- https://tvklan.al/
+- https://www.panorama.com.al/
+- https://shqiptarja.com/
+- https://balkanweb.com/
+- https://www.gazetatema.net/
+- https://www.oranews.tv/
+- https://lapsi.al/ (Analysis and investigative journalism)
+- https://www.newsbomb.al/
+- https://ata.gov.al/ (National Broadcaster)
 
 Culture / History:
-- 
-- 
+- https://sq.wikipedia.org/wiki/Kultura_e_Shqip%C3%ABris%C3%AB
+- https://sq.wikipedia.org/wiki/Historia_e_Shqip%C3%ABris%C3%AB
+- http://www.akad.gov.al/ (Academy of Sciences of Albania)
+- http://www.bksh.al/ (National Library of Albania)
+- https://akt.gov.al/muze/ (Agency for Archaeological Services of Albania)
+- http://iktk.gov.al/ (National Institute of Cultural Heritage)
 
 Government:
-- 
-- 
+- http://www.kryeministria.al/ (Kryeministria - Office of the Prime Minister)
+- https://www.parlament.al/ (Kuvendi i Shqipërisë - Parliament of Albania)
+- https://www.mod.gov.al/ (Ministria e Mbrojtjes - Ministry of Defense)
+- http://www.punetejashtme.gov.al/ (Ministria për Evropën dhe Punët e Jashtme - Ministry for Europe and Foreign Affairs)
+- http://www.financa.gov.al/ (Ministria e Financave dhe Ekonomisë - Ministry of Finance and Economy)
+- http://www.bujqesia.gov.al/ (Ministria e Bujqësisë dhe Zhvillimit Rural - Ministry of Agriculture and Rural Development)
+- http://www.drejtesia.gov.al/ (Ministria e Drejtësisë - Ministry of Justice)
+- http://www.shendetesia.gov.al/ (Ministria e Shëndetësisë dhe Mbrojtjes Sociale - Ministry of Health and Social Protection)
+- http://www.kultura.gov.al/ (Ministria e Kulturës - Ministry of Culture)
+- http://turizmi.gov.al/ (Ministria e Turizmit dhe Mjedisit - Ministry of Tourism and Environment)
+- http://www.arsimi.gov.al/ (Ministria e Arsimit, Sportit dhe Rinisë - Ministry of Education, Sports and Youth)
 
 Political Parties:
-- 
-- 
+- https://ps.al/ (Socialist Party of Albania)
+- https://pd.al/ (Democratic Party of Albania)
+- https://psd.al/ (Social Democratic Party of Albania)
+- https://mundesia.al/ (Opportunity Party)
+- https://www.shqiperiabehet.al/ (Albania Becomes Movement)
+- https://levizjabashke.al/ (Lëvizja Bashkë)
 
 Other:
 - https://sq.wikipedia.org
@@ -26,19 +51,22 @@ Other:
 - 
 
 Informative links (in English):
-- 
-- 
+- https://en.wikipedia.org/wiki/Albania
+- https://en.wikipedia.org/wiki/History_of_Albania
+- https://en.wikipedia.org/wiki/Albanian_language
+- https://albania.al/ (Official website of the National Tourism Agency)
 
 Additional Information:
 - ISO-639-3 code: sqi
 - https://en.wikipedia.org/wiki/ISO_639:sqi
+- This document needs reviewing by a native speaker.
 
 
 Scripts:
 - 
 
 Thank you to these people who have helped create this document:
-- 
+- [Ethan Wenokur](https://github.com/e-Winnie)
 - 
 
 ## Instructions

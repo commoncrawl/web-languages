@@ -5,20 +5,51 @@ Additional names:
 - 
 
 News:
-- 
-- 
+- https://rg.ru/ (Rossiyskaya Gazeta "Russian Gazette" - Daily News)
+- https://iz.ru/ (Izvestia "The News")
+- https://www.rbc.ru/newspaper/ (RBK Daily - Daily Buisness News)
+- https://www.kommersant.ru/ (Kommersant "The Businessman" - Daily Buisness News)
+- https://www.vedomosti.ru/ (Vedomosti "The Record" - Daily Buisness News)
+- https://www.ng.ru/ (Nezavisimaya Gazeta "Independent Newspaper" - Daily News)
+- https://mospravda.ru/ (Moskovskaya pravda "Moscow Truth" - Daily News)
+- https://www.kp.ru/ (Komsomolskaya Pravda "Komsomol Truth" - Daily Tabloid News)
+- https://www.mk.ru/ (Moskovskij Komsomolets "Moscow Komsomolets" - Daily News)
+- https://lenta.ru/ (Lenta.ru - Online News)
+- https://www.trud.ru/ (Trud "Labor" - Daily Tabloid News)
+- https://www.sovsport.ru/ (Sovetsky Sport "Soviet Sports" - Sports News)
+- https://vm.ru/ (Vechernyaya Moskva "Evening Moscow" - Regional Daily News)
+- http://spbvedomosti.ru/ (Sankt-Peterburgskie Vedomosti "Saint Petersburg Vedomosti" - Regional Daily News)
 
 Culture / History:
-- 
-- 
+- https://ru.wikipedia.org/wiki/%D0%98%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%8F_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8 (History of Russia - Wikipedia Article)
+- https://ru.wikipedia.org/wiki/%D0%9A%D1%83%D0%BB%D1%8C%D1%82%D1%83%D1%80%D0%B0_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8 (Culture of Russia - Wikipedia Article)
+- https://ru.wikipedia.org/wiki/%D0%A1%D0%BE%D1%8E%D0%B7_%D0%A1%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%B8%D1%85_%D0%A1%D0%BE%D1%86%D0%B8%D0%B0%D0%BB%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D1%85_%D0%A0%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA (Soviet Union - Wikipedia Article)
+- https://ru.wikipedia.org/wiki/%D0%9A%D1%83%D0%BB%D1%8C%D1%82%D1%83%D1%80%D0%B0_%D0%A1%D0%A1%D0%A1%D0%A0 (Culture of the Soviet Union - Wikipedia Article)
+- https://nlr.ru/ (National Library)
+- https://www.rsl.ru/ru (State Library)
+- https://app.rusmuseum.ru/home/index.html (Russian Musuem)
+- https://www.kreml.ru/museums-moscow-kremlin/ (Kremlin Museum)
+- https://rusmuseum.ru/ (The State Russian Museum)
+- https://pushkinmuseum.art/?lang=ru (The State Museum of Fine Arts named after Alexander Pushkin)
 
 Government:
-- 
-- 
+- http://government.ru/ (Offical Website of the Government of Russia)
+- http://kremlin.ru/ (Offical Website of the President of Russia)
+- http://premier.gov.ru/events/ (Offical Website of the Premier of Russia)
+- https://mid.ru/ru/ (Ministry of Foreign Affairs)
+- http://www.mkrf.ru/ru/ (Ministry of Culture)
+- http://www.minfin.ru/ru/ (Ministry of Finance)
+- https://www.minsport.gov.ru/ru (Ministry of Sport)
+- https://digital.gov.ru/ru/ (Ministry of Digital Development, Communications and Mass Media)
 
 Political Parties:
-- 
-- 
+- https://er.ru/ (United Russia)
+- https://kprf.ru/ (Communist Party of the Russian Federation)
+- https://spravedlivo.ru/ (A Just Russia – For Truth)
+- https://ldpr.ru/ (Liberal Democratic Party of Russia)
+- https://newpeople.ru/ (New People)
+- https://rodina.ru/ (All-Russian Political Party)
+- https://xn--80aaag6azbdefu3lf.xn--p1ai/ (Civic Platform)
 
 Other:
 - https://ru.wikipedia.org
@@ -26,12 +57,15 @@ Other:
 - 
 
 Informative links (in English):
-- 
-- 
+- https://en.wikipedia.org/wiki/Russian_language
+- https://en.wikipedia.org/wiki/Russia
+- https://en.wikipedia.org/wiki/History_of_Russia
+- https://www.visitrussia.com/ (Russian Tourism Website)
 
 Additional Information:
 - ISO-639-3 code: rus
 - https://en.wikipedia.org/wiki/ISO_639:rus
+- This document needs reviewing by a native speaker.
 
 
 Scripts:
@@ -39,7 +73,7 @@ Scripts:
 - 
 
 Thank you to these people who have helped create this document:
-- 
+- [Ethan Wenokur](https://github.com/e-Winnie)
 - 
 
 ## Instructions

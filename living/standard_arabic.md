@@ -5,11 +5,15 @@ Additional names:
 - 
 
 News:
-- 
-- 
+- https://www.aljazeera.net
+- https://www.alarabiya.net/
+- https://aawsat.com/
+- https://www.skynewsarabia.com/
+- https://alriyadh.com/ (international and local news)
+- https://www.al-jazirah.com/index.htm (international and local news)
 
 Culture / History:
-- 
+- https://mawred.org/
 - 
 
 Government:
@@ -21,12 +25,14 @@ Political Parties:
 - 
 
 Other:
-- 
+- https://ar.wikipedia.org
 - 
 
 Informative links (in English):
-- 
-- 
+- https://en.wikipedia.org/wiki/Arabic
+- https://en.wikipedia.org/wiki/Standard_Arabic_phonology
+- https://en.wikipedia.org/wiki/Arabic_grammar
+- https://en.wikipedia.org/wiki/Arabic_script
 
 Additional Information:
 - ISO-639-3 code: arb

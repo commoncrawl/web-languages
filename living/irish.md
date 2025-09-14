@@ -5,20 +5,28 @@ Additional names:
 - 
 
 News:
-- 
-- 
+- https://www.irishtimes.com/gaeilge/tuarascail/
+- https://www.meoneile.ie/
+- https://www.rte.ie/gaeilge/ (Ireland's National Public Service Broadcaster)
 
 Culture / History:
-- 
-- 
+- https://www.duchas.ie/ga/ (The National Folklore Collection)
+- https://www.museum.ie/ga-ie/home (The National Museum of Ireland)
+- https://www.ireland.ie/ga/cuairt/ (Irish Tourism Site)
+
 
 Government:
-- 
-- 
+- https://www.gov.ie/ga/ (Government of the Republic of Ireland)
+- https://www.oireachtas.ie/ga/ (Parliament of Ireland)
 
 Political Parties:
-- 
-- 
+- https://www.fiannafail.ie/gaeilge (Fianna Fáil - The Republican Party)
+- https://www.finegael.ie/ (Fine Gael - United Ireland Party)
+- https://sinnfein.ie/ga/baile/ (Sinn Féin)
+- https://www.greenparty.ie/ga (Green Party / Comhaontas Glas)
+- https://www.labour.ie/ (The Labour Party)
+- https://www.socialdemocrats.ie/ (Social Democrats)
+- https://www.aontu.ie/ (Aontú)
 
 Other:
 - https://ga.wikipedia.org
@@ -26,12 +34,16 @@ Other:
 - 
 
 Informative links (in English):
-- 
-- 
+- https://en.wikipedia.org/wiki/Republic_of_Ireland
+- https://en.wikipedia.org/wiki/Irish_language
+- https://en.wikipedia.org/wiki/History_of_Ireland
+- https://www.ireland.com/en-us/ (Official tourism website)
+- https://www.gov.ie/en/ (Government of the Republic of Ireland - English Section)
 
 Additional Information:
 - ISO-639-3 code: gle
 - https://en.wikipedia.org/wiki/ISO_639:gle
+- This document needs reviewing by a native speaker.
 
 
 Scripts:
@@ -39,7 +51,7 @@ Scripts:
 - 
 
 Thank you to these people who have helped create this document:
-- 
+- [Ethan Wenokur](https://github.com/e-Winnie)
 - 
 
 ## Instructions

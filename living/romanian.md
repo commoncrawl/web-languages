@@ -5,20 +5,49 @@ Additional names:
 - 
 
 News:
-- 
-- 
+- https://republica.ro/
+- https://www.wall-street.ro/
+- https://www.biziday.ro/
+- https://www.sport.ro/
+- https://adevarul.ro/
+- https://www.digi24.ro/
+- https://www.libertatea.ro/
+- https://www.hotnews.ro/
+- https://stirileprotv.ro/
+- https://www.gandul.info/
+- https://www.ziare.com/
+- https://www.zf.ro/ (Business & Finance)
+- https://www.gsp.ro/ (Sports)
 
 Culture / History:
-- 
-- 
+- https://dilema.ro
+- https://matcaliterara.ro/
+- https://acad.ro/
+- https://www.catavencii.ro/
+- https://www.vice.com/ro/
+- https://www.mnar.arts.ro/ (National Museum of Art of Romania)
+- https://www.muzeul-satului.ro/ (Dimitrie Gusti National Village Museum)
+- https://www.historia.ro/ (Historia Magazine - covers Romanian history and culture)
+- https://www.cultura.ro/ (Ministry of Culture)
+- https://www.icr.ro/ (Romanian Cultural Institute)
+- https://www.muzeulbucurestiului.ro/ (Bucharest Municipality Museum)
 
 Government:
-- 
-- 
+- https://www.gov.ro/ (Government of Romania)
+- https://www.mai.gov.ro/ (Ministry of Internal Affairs of Romania)
+- https://www.ms.ro/ (Ministry of Health)
+- https://www.presidency.ro/ (President of Romania)
+- https://www.cdep.ro/ (Chamber of Deputies - lower house of Parliament)
+- https://www.senat.ro/ (Senate - upper house of Parliament)
+- https://www.mae.ro/ (Ministry of Foreign Affairs)
+- https://www.mapn.ro/ (Ministry of National Defence)
 
 Political Parties:
-- 
-- 
+- https://www.psd.ro/ (Partidul Social Democrat - Social Democratic Party)
+- https://pnl.ro/ (Partidul Național Liberal - National Liberal Party)
+- https://usr.ro/ (Uniunea Salvați România - Save Romania Union)
+- https://partidulaur.ro/ (Alianța pentru Unirea Românilor - Alliance for the Union of Romanians)
+- https://udmr.ro/ (Uniunea Democrată Maghiară din România - Democratic Alliance of Hungarians in Romania)
 
 Other:
 - https://ro.wikipedia.org
@@ -26,12 +55,19 @@ Other:
 - 
 
 Informative links (in English):
-- 
-- 
+- https://en.wikipedia.org/wiki/Romania
+- https://en.wikipedia.org/wiki/Romanian_language
+- https://en.wikipedia.org/wiki/History_of_Romania
+- https://www.romania.travel/en/ (Official tourism website)
+- https://www.mae.ro/en/ (Ministry of Foreign Affairs - English section)
+- https://www.gov.ro/en/ (Government of Romania - English section)
+- https://www.ms.ro/en/ (Ministry of Health - English section)
 
 Additional Information:
 - ISO-639-3 code: ron
 - https://en.wikipedia.org/wiki/ISO_639:ron
+- Internet TLD: .ro
+- 
 
 
 Scripts:
@@ -39,7 +75,7 @@ Scripts:
 - 
 
 Thank you to these people who have helped create this document:
-- 
+- [Ethan Wenokur](https://github.com/e-Winnie)
 - 
 
 ## Instructions

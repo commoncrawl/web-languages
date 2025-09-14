@@ -5,20 +5,48 @@ Additional names:
 - 
 
 News:
-- 
-- 
+- https://www.delo.si/
+- https://www.dnevnik.si/
+- https://www.slovenskenovice.si/ (Tabloid)
+- https://www.vecer.com/
+- https://www.24ur.com/
+- https://www.rtvslo.si/ (Slovenian Public Broadcaster)
+- https://www.finance.si/ (Business and financial)
+- https://www.sta.si/ (Slovenian Public Broadcaster)
+- https://www.zurnal24.si/
+- https://www.siol.net/
+- https://www.mladina.si/ (left-leaning)
+- https://reporter.si/ (right-leaning)
+- https://nova24tv.si/ (right-leaning)
 
 Culture / History:
-- 
-- 
+- https://www.nms.si/ (National Museum of Slovenia)
+- https://www.mgml.si/ (Museums and Galleries of Ljubljana)
+- https://www.ng-slo.si/ (National Gallery of Slovenia)
+- https://www.etno-muzej.si/ (Slovenian Ethnographic Museum)
+- https://www.muzej-nz.si/ (Museum of Contemporary History of Slovenia)
+- https://www.gorenjski-muzej.si/ (Gorenjska Museum - regional museum)
+- https://www.pmpo.si/ (Regional Museum Ptuj-Ormož)
+- https://www.cd-cc.si/ (Cultural and Congress Centre)
+- https://filharmonija.si/ (Slovenian Philharmonic)
+- https://www.sng-mb.si/ (Slovenian National Theatre Maribor)
+- https://www.opera.si/ (Slovenian National Theatre Opera and Ballet Ljubljana)
+- https://www.gov.si/drzavni-organi/organi-v-sestavi/arhiv/ (Archives of the Republic of Slovenia)
+- https://www.kam.si/ (Slovenian Cultural Portal)
 
 Government:
-- 
-- 
+- https://www.gov.si/ (Government of the Republic of Slovenia)
+- https://www.dz-rs.si/ (Parliament - lower house)
+- https://www.ds-rs.si/ (Parliament - upper house)
+- https://www.predsednica-slo.si/ (President of the Republic of Slovenia)
 
 Political Parties:
-- 
-- 
+- https://gibanjesvoboda.si/ (Freedom Movement)
+- https://www.sds.si/ (Slovenian Democratic Party)
+- https://nsi.si/ (New Slovenia - Christian Democrats)
+- https://socialnidemokrati.si/ (Social Democrats)
+- https://levica.si/ (The Left)
+- https://www.sls.si/ (Slovenian People's Party)
 
 Other:
 - https://sl.wikipedia.org
@@ -26,12 +54,17 @@ Other:
 - 
 
 Informative links (in English):
-- 
-- 
+- https://en.wikipedia.org/wiki/Slovenia
+- https://en.wikipedia.org/wiki/History_of_Slovenia
+- https://en.wikipedia.org/wiki/Culture_of_Slovenia
+- https://www.slovenia.info/en (Official travel guide to Slovenia)
+- https://www.gov.si/en/ (Government of the Republic of Slovenia - English Section)
+- https://www.slovenia.si/ (Information about Slovenia)
 
 Additional Information:
 - ISO-639-3 code: slv
 - https://en.wikipedia.org/wiki/ISO_639:slv
+- This document needs reviewing by a native speaker.
 
 
 Scripts:
@@ -39,7 +72,7 @@ Scripts:
 - 
 
 Thank you to these people who have helped create this document:
-- 
+- [Ethan Wenokur](https://github.com/e-Winnie)
 - 
 
 ## Instructions

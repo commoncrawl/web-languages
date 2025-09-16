@@ -9,8 +9,9 @@ News:
 - 
 
 Culture / History:
-- 
-- 
+- https://www.jw.org/fon/
+- https://beninlangues.com/fongbe/bible
+- https://beninlangues.com/public/fongbe/droit-humain
 
 Government:
 - 
@@ -22,7 +23,7 @@ Political Parties:
 
 Other:
 - https://fon.wikipedia.org
-- 
+- https://beninlangues.com/public/fongbe-alphabet
 - 
 
 Informative links (in English):
@@ -38,7 +39,7 @@ Scripts:
 - 
 
 Thank you to these people who have helped create this document:
-- 
+- [Pericles Adjovi](https://github.com/Pericles001)
 - 
 
 ## Instructions

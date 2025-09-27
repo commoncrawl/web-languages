@@ -15,6 +15,7 @@ Culture / History:
 - http://isahliyen.com (in kabyle and french)
 - https://tamurt.info/tq/category/taqbaylit
 - https://tamsirt.numidya.net/cours (Courses about language)
+- 
 
 Government:
 - https://www.hcamazighite.dz/ta
@@ -32,6 +33,10 @@ Other:
 - http://www.ayamun.com (in french about kabyle and berber book resources, culture and literature)
 - https://adrar-inu.blogspot.com (Blog and resources about Kabyle and Tamazight)
 - https://tutlayt.net (About writing the language, dictionaries, corpora etc)
+- https://sadbendali.blogspot.com (blog about language, interviews)
+- https://taseklataqbaylit.blogspot.com (blog about books)
+- https://aghucaf.wordpress.com (blog about culture and language)
+- 
 
 Informative links (in English):
 - https://www.ethnologue.com/language/kab

@@ -44,15 +44,15 @@ News:
 - 
 
 Culture / History:
-- 
-- 
+- https://tourism.telangana.gov.in/page/history-culture
+- https://swagatam.us/discover-the-rich-heritage-of-telugu-culture-and-traditions/
 
 Government:
 - 
 - 
 
 Political Parties:
-- 
+- https://tsec.gov.in/pdf/POLITICALPARTIES/List_of_Political_Parties.pdf
 - 
 
 Other:

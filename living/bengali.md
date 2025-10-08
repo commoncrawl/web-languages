@@ -6,20 +6,28 @@ Additional names:
 - 
 
 News:
-- 
+- https://www.anandabazar.com/
+- https://www.bartamanpatrika.com/home
+- https://eisamay.com/
+- https://www.sangbadpratidin.in/
+- https://www.prothomalo.com/
+- https://www.banglatribune.com/
 - 
 
 Culture / History:
-- 
+- https://indianmuseumkolkata.org/
+- https://banglasahitya.net/
+- https://bn.banglapedia.org/index.php?title=%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A7%E0%A6%BE%E0%A6%A8_%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE
 - 
 
 Government:
-- 
+- https://www.mygov.bd/
 - 
 
 Political Parties:
-- 
-- 
+- https://aitcofficial.org/
+- https://www.albd.org/bn/
+- https://www.bnpbd.org/?language=bn
 
 Other:
 - https://bn.wikipedia.org
@@ -27,7 +35,11 @@ Other:
 - 
 
 Informative links (in English):
-- 
+- https://en.wikipedia.org/wiki/Bengali_language
+- https://www.britannica.com/topic/Bengali-language
+- https://en.wikipedia.org/wiki/History_of_Bengali_language
+- https://clcl.uiowa.edu/language-resources/bengali-language-and-culture-resources
+- https://en.wikipedia.org/wiki/Bengali_literature
 - 
 
 Additional Information:

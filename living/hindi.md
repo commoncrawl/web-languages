@@ -110,6 +110,10 @@ News:
 - https://ianshindi.in/
 - https://teznews.com/
 - https://www.prabhasakshi.com/
+- https://www.bollywoodhungama.com/hindi/
+- https://www.kisantak.in/
+- https://hindi.filmibeat.com/
+- https://www.missmalini.com/category/hindi
 
 Culture / History:
 - https://asi.nic.in/
@@ -119,7 +123,11 @@ Culture / History:
 - https://indianculture.gov.in/hi
 - https://www.nbtindia.gov.in/
 - https://sahitya-akademi.gov.in/
-- 
+- https://www.hindwi.org/
+- https://hindisamay.com/
+- https://www.hindikunj.com/
+- https://sahityamanjari.com/
+- https://hindisahitya.org/
 
 Government:
 - https://india.gov.in/

@@ -1,32 +1,69 @@
 # Web Language: Iranian Persian
 
 Additional names:
-- Western Persian
-- 
+- Western Persian 
 
 News:
 - 
-- 
+- https://www.isna.ir/ (Iranian Students' News Agency)
+- https://www.mehrnews.com/ (Mehr News Agency)
+- https://fa.abna24.com/ (ABNA Iran)
+- https://ana.ir/ (ANA Iran)
+- https://www.icana.ir/ (ICANA News)
+- https://snn.ir/ (Student News Network)
+- https://www.didbaniran.ir/ (Didban Iran)
+- https://baztab.ir/ (Baztab Iran)
+- https://www.entekhab.ir/ (Entekhab Iran)
+- https://www.mashreghnews.ir/ (Mashregh Iran)
+- https://www.rajanews.com/ (Rajanews)
+- https://fararu.com/ (Fararu Iran)
+- https://www.tabnak.ir/ (Tabnak Iran)
+- https://www.pana.ir/ (PANA Iran)
+- https://www.yjc.ir/ (Young Journalists Club)
+- https://www.ilna.ir/fa (Iranian Labour News)
+- https://www.iana.ir/ (Iranian Agricultural News)
+- https://www.ipna.ir/ (Iranian Sports News Agency)
 
 Culture / History:
 - 
-- 
+- https://www.irannationalmuseum.ir/fa/ (National Museum of Iran)
+- https://portals.nlai.ir/ (National Library and Archives of Iran)
+- https://www.honar.ac.ir/ (Islamic Academy of Arts)
+- https://apll.ir/ (Persian Language and Literature Academy)
+- https://art.ac.ir/fa (Tehran University of Art)
+- https://archart.kashanu.ac.ir/fa (Faculty of Art and Architecture, University of Kashan)
+- https://depart.uk.ac.ir/ (Art and Architecture, University of Kerman)
+- https://aua.urmia.ac.ir/ (Faculty of Architecture, Urban and Art, Urmia University)
+- https://art.semnan.ac.ir/ (Arts, Semnan University)
+- https://www.kamalolmolk.ac.ir/ (Kamal-ol-Molk University of Architecture)
+- https://tabriziau.ac.ir/ (Tabriz Islamic Arts University)
+- https://www.aui.ac.ir/ (Art University of Isfahan)
 
 Government:
 - 
-- 
+- https://president.ir/ (Presidency of the Islamic Republic of Iran)
+- https://cbi.ir/ (Central Bank of Islamic Republic of Iran)
+- https://rc.majlis.ir/fa (Research Center of the Islamic Consultative Assembly)
 
 Political Parties:
 - 
-- 
+- https://jebhepaydari.ir/ (Front of Islamic Revolution Stability, far-right)
+- https://jameehmodarresin.org/ (Society of Qom Seminary Teachers, right-wing)
+- https://www.kargozaran.net/fa/ (Iranian Construction Workers Party, reformist)
 
 Other:
 - 
-- 
+- https://www.sid.ir/ (Scientific Information Database)
+- https://www.ams.ac.ir/ (Academy of Medical Sciences)
+- https://www.aparat.com/ (Iranian video sharing, alt to YouTube)
+- https://ketabkhaneyegooya.blogspot.com/ (Audio Library in Persian)
 
 Informative links (in English):
 - 
-- 
+- https://www.iranicaonline.org/ (Encyclopedia Iranica, several entries on Persian)
+- https://aspirantum.com/blog/persian-alphabet (Blog on Persian alphabet)
+- https://www.mypersiancorner.com/ (My Persian Corner, on Persian language and Iranian culture)
+- https://sites.la.utexas.edu/persian_online_resources/ (Persian Online Grammar)
 
 Additional Information:
 - ISO-639-3 code: pes
@@ -34,12 +71,11 @@ Additional Information:
 
 
 Scripts:
-- <a href="https://en.wikipedia.org/wiki/ISO_15924">ISO 15924 Arab</a> Arabic
-- 
+- <a href="https://en.wikipedia.org/wiki/ISO_15924">ISO 15924 Arab</a> Arabic 
 
 Thank you to these people who have helped create this document:
 - 
-- 
+-  [Jen English](https://github.com/jenenglish)
 
 ## Instructions
 

@@ -785,6 +785,7 @@ Other:
 - https://www.hojen.nu/ (A well-structured motorcycle forum with clearly designated moderators)
 - https://ifboat.se/forum (The official forum for the Swedish International Folkboat association)
 - https://www.byggahus.se/forum/ (A major community for home building, renovation, and gardening)
+- https://lawline.se/categories/ (A company offering legal advice and services, with a large Question-Answer collection)
 - https://www.odla.nu/fragor-svar (A large Q&A forum for gardening and cultivation)
 - https://www.utsidan.se/forum/ (A forum for outdoor life, adventure, and nature photography)
 - https://www.fiskesnack.com/forum/ (A large forum for sport fishing and angling)

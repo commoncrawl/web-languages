@@ -797,6 +797,7 @@ Other:
 - https://www.sticka.org/ (The official site for the Swedish Knitting Association, fostering community through local groups and events)
 - https://rikatillsammans.se/forum/ (Sweden's largest community for personal finance, saving, and investing)
 - https://www.familjeliv.se/forum/ (A large community for discussions on family, pregnancy, and parenting)
+- https://www.flashback.org/ (Probably the largest and most (in)famous general discussion forum)
 - https://www.bukefalos.se/ (A major and long-running forum for equestrian interests)
 - https://katter.ifokus.se/ (A large and well-known discussion forum for cat owners)
 - https://www.internetstart.se/ (General Swedish link collection and forum)

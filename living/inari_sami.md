@@ -13,7 +13,7 @@ Culture / History:
 - 
 
 Government:
-- 
+- https://samediggi.fi/an/
 - 
 
 Political Parties:

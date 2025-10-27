@@ -9,11 +9,11 @@ News:
 - 
 
 Culture / History:
-- 
+- https://sogsakk.fi/ps
 - 
 
 Government:
-- 
+- https://samediggi.fi/dav/
 - 
 
 Political Parties:

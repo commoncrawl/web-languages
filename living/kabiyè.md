@@ -1,46 +1,55 @@
 # Web Language: Kabiyè
 
 Additional names:
+
 - Kabiye
 - Kabɩyɛ
-- 
+- Kabye
 
 News:
-- 
-- 
+
+-
+-
 
 Culture / History:
-- 
-- 
+
+-
+-
 
 Government:
-- 
-- 
+
+-
+-
 
 Political Parties:
-- 
-- 
+
+-
+-
 
 Other:
+
 - https://kbp.wikipedia.org
-- 
-- 
+- https://www.jw.org/kbp/
+-
 
 Informative links (in English):
-- 
-- 
+
+-
+-
 
 Additional Information:
+
 - ISO-639-3 code: kbp
 - https://en.wikipedia.org/wiki/ISO_639:kbp
 
-
 Scripts:
-- 
+
+-
 
 Thank you to these people who have helped create this document:
-- 
-- 
+
+- [The African Languages Lab](https://africanlanguageslab.com/)
+-
 
 ## Instructions
 

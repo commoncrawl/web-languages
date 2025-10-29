@@ -1,9 +1,11 @@
 # Web Language: Hausa
 
 Additional names:
-- 
+
+-
 
 News:
+
 - https://hausa.legit.ng/
 - https://www.rfi.fr/ha/
 - https://www.voahausa.com/
@@ -20,8 +22,70 @@ News:
 - https://pharmacieduvaldesarthe.fr/bb-h-labaranjah-kan
 - https://hausa.leadership.ng
 - https://freedomradionig.com/
+- https://trt.global/afrika-hausa/
+- https://hausa.libertytvradio.com/
+- https://ha.abna24.com/
+- https://www.arewaradio.com/news/
+- https://muhasatvr.ng/
+- https://jekadiyarzamfara.wordpress.com/
+- https://dalafmkano.com/
+- https://hausa.cgtn.com/
+- https://solacebasehausa.com/
+- https://www.bbc.com/hausa
+- https://hausa.legit.ng/
+- https://www.voahausa.com/
+- https://www.rfi.fr/ha/
+- https://hausa.leadership.ng/
+- https://hausa.naijanews.com/
+- https://africacenter.org/ha/spotlight/%C6%99ungiyoyin-yan-bindiga-masu-kawo-rashin-kwanciyar-hankalin-arewa-maso-yammacin-najeriya/
+- https://apahausa.com.ng/
+- https://www.sawabafm.com/
+- https://hausa.premiumtimesng.com/
+- https://www.rfi.fr/ha/
+- https://dailynigerian.com/hausa/category/labarai/
+- https://almizan.ng/
+- https://aminiya.ng/
+- https://www.dw.com/ha/batutuwa/s-11603
+- https://hausa.naijanews.com/
+- https://hikimaonline.home.blog/2022/01/09/tarihin-bello-turji-%C6%99asurgumin-%C9%97an-fashin-daji-da-ya-addabi-jihar-zamfara/
+- https://katsinatimes.com/
+- https://fimmagazine.com/
+- https://arewa24.com/tag/news-2/
+- https://www.dovenewshausa1.name.ng/
+- https://gtrhausa.com.ng/
+- https://nhausa.com.ng/
+- https://europeantimes.news/ha/
+- https://nasfm.com.ng/
+- https://indaranka.com/
+- https://www.asuadailypost.com.ng/
+- https://www.kasarhausa24.com/
+- https://www.managarciya.com/#google_vignette
+- https://aksammedia.com.ng/
+- https://dubawa.org/category/african-languages/hausa/
+- https://manhaja.blueprint.ng/
+- https://fimmagazine.com/
+- https://taskargizago.com.ng/
+- https://dclhausa.com/
+- https://solacebasehausa.com/#google_vignette
+- https://skydaily.ng/hausa/
+- https://jaridarasali.wordpress.com/
+- https://trustradio.com.ng/ha
+- https://jaridarasali.wordpress.com/
+- https://wikkitimes.com/hausa/
+- https://labaranyau.com/
+- https://www.dw.com/ha/
+- https://hausaloaded.com/
+- https://hausa.legit.ng/
+- https://hausa.libertytvradio.com/
+- https://hausatv.com/
+- https://www.alummarhausa.com.ng/
+- https://dokinkarfetv.com/
+- https://almizan.ng/
+- https://hausa.substack.com/
+- https://www.idongari.com/
 
 Culture / History:
+
 - https://www.rfi.fr/ha/shirye-shirye/aladu/
 - https://www.academia.edu/45613568/TSOKACI_A_KAN_ALADUN_HAUSAWA_NA_AURE_JIYA_DA_YAU
 - https://aminiya.ng/aladar-bahaushe-jiya-da-yau/
@@ -37,28 +101,60 @@ Culture / History:
 - https://hausa.cri.cn/10101/85744c53-ce5b-4cfa-ab18-b876bb63853b.html
 - https://www.britannica.com/topic/Hausa
 - https://ehrafworldcultures.yale.edu/cultures/ms12/summary
-
+- https://wikihausa.com.ng/
+- https://adamumahadi.blogspot.com/
+- https://bukarmada.blogspot.com/
+- https://dandalinbashir.blogspot.com/
+- https://www.muryarhausa24.com.ng/
+- https://www.rumbunilimi.com.ng/#gsc.tab=0
+- https://isabohadejia.blogspot.com/
+- https://cliqqmagazinehausa.blogspot.com/
+- https://alfijirlabarai.com/
+- https://www.raihana.com.ng/
+- https://www.wikiwand.com/ha
 
 Government:
+
 - https://africacenter.org/ha/spotlight/%C6%99ungiyoyin-yan-bindiga-masu-kawo-rashin-kwanciyar-hankalin-arewa-maso-yammacin-najeriya/
 - https://www.voahausa.com/labarai-a-takaice
 - https://almizan.ng/gwamnati-da-kafafen-ya%C9%97a-labarai-abokan-hul%C9%97a-ne-ba-na-adawa-ba-inji-ministan-ya%C9%97a-labarai/
 - https://dailynigerian.com/hausa/aikatan-fct-gwamnati-wahala/
 - https://hausatv.com/
+- https://africa.sis.gov.eg/hausa/
+- https://radionigeriakaduna.gov.ng/hausa/
+- https://africa.sis.gov.eg/hausa/
 
 Political Parties:
-- 
-- 
+
+-
+-
 
 Other:
+
 - https://ha.wikipedia.org
 - https://www.lexilogos.com/english/hausa_dictionary.htm
 - https://www.facebook.com/
 - https://lingvanex.com/translation/english-to-hausa
 - https://utalk.com/en/store/hausa
-
+- https://www.creativenovels.com.ng/
+- https://www.nagarta24.com.ng/
+- https://ha.wikipedia.org/wiki/Babban_shafi
+- https://islamhouse.com/ha/main
+- https://www.amsoshi.com/
+- https://ibrahimsheme.com/
+- https://www.kiwoitoafricasafaris.com/ha/tanzania-tribes/
+- https://ancestrum.com/ha/
+- https://constructive-voices.com/ha/
+- https://abovethehimalaya.com/ha/
+- https://www.accessagriculture.org/search/all/ha
+- https://www.jw.org/ha/
+- https://www.kowot.com/ha/
+- https://ha.gtmsmart.com/
+- https://www.naturalliance.org/ha/kg
+- https://ha.council.science/
 
 Informative links (in English):
+
 - https://hausadailynews.com/
 - https://hausaonline.wordpress.com/tag/news/
 - http://www.teachyourselfhausa.com/
@@ -67,21 +163,23 @@ Informative links (in English):
 - https://www.lexilogos.com/english/hausa_dictionary.htm
 - http://aflang.humanities.ucla.edu/language-materials/chadic-languages/hausa/hausar-baka-online/
 
-
 Additional Information:
+
 - ISO-639-3 code: hau
 - https://en.wikipedia.org/wiki/ISO_639:hau
 
-
 Scripts:
+
 - <a href="https://en.wikipedia.org/wiki/ISO_15924">ISO 15924 Latn</a> Latin
-- 
+-
 
 Thank you to these people who have helped create this document:
+
 - [Maryam Abubakar](maryamsabubakar53@gmail.com)
 - [Chimezirim Eke](chimezirimeke7@gmail.com)
 - [Abdullahi Musa Muhammad Arushe](Muhammadarushe226@gmail.com)
 - [Amina Marmara](meenamarmara@gmail.com)
+- [The African Languages Lab](https://africanlanguageslab.com/)
 
 ## Instructions
 

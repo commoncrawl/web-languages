@@ -1,45 +1,54 @@
 # Web Language: Mossi
 
 Additional names:
+
 - moore
-- 
+-
 
 News:
-- 
-- 
+
+- https://jemukanmalitelegraph.wordpress.com/
+-
 
 Culture / History:
-- 
-- 
+
+-
+-
 
 Government:
-- 
-- 
+
+-
+-
 
 Political Parties:
-- 
-- 
+
+-
+-
 
 Other:
+
 - https://mos.wikipedia.org
-- 
-- 
+- https://www.fakan.ml/Waraminenege.html
+- https://www.jw.org/mos/
 
 Informative links (in English):
-- 
-- 
+
+-
+-
 
 Additional Information:
+
 - ISO-639-3 code: mos
 - https://en.wikipedia.org/wiki/ISO_639:mos
 
-
 Scripts:
-- 
+
+-
 
 Thank you to these people who have helped create this document:
-- 
-- 
+
+- [The African Languages Lab](https://africanlanguageslab.com/)
+-
 
 ## Instructions
 

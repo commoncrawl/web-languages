@@ -1,45 +1,62 @@
 # Web Language: Oromo
 
 Additional names:
+
 - Oromoo
-- 
+-
 
 News:
-- 
-- 
+
+- https://www.bbc.com/afaanoromoo
+- https://www.sbs.com.au/language/oromo/om
+- https://www.ena.et/web/orm
+- https://www.voaafaanoromoo.com/
+- https://www.sbs.com.au/language/oromo/om
+- https://www.fanamc.com/afaanoromoo/
 
 Culture / History:
-- 
-- 
+
+-
+-
 
 Government:
-- 
-- 
+
+- https://addisstandard.com/Afaanoromoo/
+- https://www.amn.gov.et/oro/
 
 Political Parties:
-- 
-- 
+
+-
+-
 
 Other:
+
 - https://om.wikipedia.org
-- 
-- 
+- https://oromedia.wordpress.com/nyaata-aadaa-oromoo/
+- https://golaoromiyaa.com/calee-faaya-aadaa-oromoo/
+- https://om.wikipedia.org/wiki/Aadaa_Oromoo
+- https://www.jw.org/om/
+- https://islamhouse.com/or/main/
+- https://om.gtmsmart.com/
 
 Informative links (in English):
-- 
-- 
+
+-
+-
 
 Additional Information:
+
 - ISO-639-3 code: orm
 - https://en.wikipedia.org/wiki/ISO_639:orm
 
-
 Scripts:
-- 
+
+-
 
 Thank you to these people who have helped create this document:
-- 
-- 
+
+- [The African Languages Lab](https://africanlanguageslab.com/)
+-
 
 ## Instructions
 

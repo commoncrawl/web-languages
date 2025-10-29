@@ -1,10 +1,12 @@
 # Web Language: Arabic
 
 Additional names:
+
 - العربية
-- 
+-
 
 News:
+
 - https://news.google.com/?gl=EG&hl=ar&ceid=EG:ar
 - http://www.alwasatnews.com/
 - https://www.elheddaf.com/
@@ -19,40 +21,102 @@ News:
 - https://www.eremnews.com/
 - https://www.alwafd.news/
 - https://www.al-akhbar.com/
-- 
+- https://learning.aljazeera.net/ar
+- https://www.bbc.com/arabic
+- https://www.skynewsarabia.com/
+- https://www.aljazeera.net/
+- https://arabic.cnn.com/
+- https://www.alarabiya.net/
+- https://arabic.news.cn/
+- https://news.google.com/home?hl=ar&gl=EG&ceid=EG%3Aar
+- https://arabnews.us/
+- https://arab.com.ua/ara
+- https://www.alarabiya.net/
+- https://ar.wiktionary.org/wiki/%D9%88%D9%8A%D9%83%D8%A7%D9%85%D9%88%D8%B3:%D8%A7%D9%84%D8%B5%D9%81%D8%AD%D8%A9_%D8%A7%D9%84%D8%B1%D8%A6%D9%8A%D8%B3%D9%8A%D8%A9
+- https://www.edarabia.com/ar/%D9%85%D9%86-%D8%A7%D9%82%D9%88%D8%A7%D9%84-%D9%88%D9%86%D8%B5%D8%A7%D8%A6%D8%AD-%D8%B9%D9%85%D8%B1-%D8%A8%D9%86-%D8%A7%D9%84%D8%AE%D8%B7%D8%A7%D8%A8-%D8%B1%D8%B6%DB%8C-%D8%A7%D9%84%D9%84%D9%87-%D8%B9%D9%86%D9%87-110-%D9%85%D9%82%D9%88%D9%84%D8%A9-%D9%88%D9%86%D8%B5%D9%8A%D8%AD%D8%A9-%D9%82%D9%8A%D9%85%D8%A9/
+- https://aawsat.com/%D8%AB%D9%82%D8%A7%D9%81%D8%A9-%D9%88%D9%81%D9%86%D9%88%D9%86
+- https://www.france24.com/ar/%D8%A8%D8%B1%D8%A7%D9%85%D8%AC/%D8%AB%D9%82%D8%A7%D9%81%D8%A9/
+- https://www.aa.com.tr/ar/%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84/%D8%AD%D9%83%D9%88%D9%85%D8%A9-%D8%BA%D8%B2%D8%A9-%D8%A7%D8%AE%D8%AA%D8%B7%D8%A7%D9%81-%D8%A7%D9%84%D8%B7%D8%A8%D9%8A%D8%A8-%D8%A7%D9%84%D9%87%D9%85%D8%B5-%D8%AC%D8%B1%D9%8A%D9%85%D8%A9-%D8%AD%D8%B1%D8%A8-%D9%88%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84-%D9%85%D8%B3%D8%A4%D9%88%D9%84%D8%A9-%D8%B9%D9%86-%D8%AD%D9%8A%D8%A7%D8%AA%D9%87-/3637681
+- https://www.france24.com/ar/
+- https://www.nasseryouthmovement.net/ar/
+- https://www.aa.com.tr/ar
+- https://www.dw.com/ar/%D8%A7%D9%84%D8%B1%D8%A6%D9%8A%D8%B3%D9%8A%D8%A9/s-9106
+- https://africacenter.org/ar/
+- https://www.presidence.sn/ar/
+- https://www.ena.et/web/ara
+- https://www.mapnews.ma/ar/
+- https://news.un.org/ar/
+- https://www.youm7.com/home/index
+- https://www.alaraby.co.uk/
+- https://asharq.com/
+- https://ar.eureporter.co/
 
 Culture / History:
-- 
-- 
+
+- https://culture.gov.jo/Default/Ar
+- https://www.m-culture.gov.dz/index.php/ar/
+- https://www.unesco.org/ar
+- https://www.aps.dz/ar/culture
+- https://mawdoo3.com/
+- https://www.wikiwand.com/ar
 
 Government:
-- 
-- 
+
+- https://my.gov.sa/ar
+- https://www.cg.gov.ma/ar
+- https://www.unescwa.org/ar
+- https://gov.krd/arabic/
+- https://ca.iq/
+- https://mofa.gov.qa/home
+- https://u.ae/
+- https://gov.krd/arabic/
+- https://africa.sis.gov.eg/
+- https://www.presidence.sn/ar/
+- https://africa.sis.gov.eg/
 
 Political Parties:
-- 
-- 
+
+-
+-
 
 Other:
+
 - https://ar.wikipedia.org
-- 
-- 
+- https://www.almaany.com/
+- https://services.bahrain.bh/wps/portal/ar/BSP/HomeeServicesPortal/
+- https://www.worldgovernmentssummit.org/ar/home
+- https://hub.misk.org.sa/ar
+- https://asjp.cerist.dz/en/article/174322
+- https://www.bible.com/ar
+- https://ar.kingdomsalvation.org/
+- https://minorityrights.org/ar/
+- https://islamhouse.com/ar/main
+- https://www.jw.org/sw/
+- https://constructive-voices.com/ar/
+- https://ar.gtmsmart.com/
+- https://www.kowot.com/ar/
+- https://ar.kingdomsalvation.org/
+- https://www.naturalliance.org/ar/kq
+- https://ar.council.science/
 
 Informative links (in English):
-- 
-- 
+
+-
+-
 
 Additional Information:
+
 - ISO-639-3 code: ara
 - https://en.wikipedia.org/wiki/ISO_639:ara
 
-
 Scripts:
-- 
+
+-
 
 Thank you to these people who have helped create this document:
-- 
-- 
+
+- [The African Languages Lab](https://africanlanguageslab.com/)
+-
 
 ## Instructions
 

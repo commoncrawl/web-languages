@@ -1,45 +1,70 @@
 # Web Language: Dinka
 
 Additional names:
+
 - Thuɔŋjäŋ
-- 
+-
 
 News:
-- 
-- 
+
+-
+-
 
 Culture / History:
-- 
-- 
+
+-
+-
 
 Government:
-- 
-- 
+
+-
+-
 
 Political Parties:
-- 
-- 
+
+-
+-
 
 Other:
+
 - https://din.wikipedia.org
-- 
-- 
+- https://www.consumer.vic.gov.au/resources-and-tools/other-languages/dinka/buying-a-car
+- https://www.sbs.com.au/language/dinka/din
+- https://www.housing.vic.gov.au
+- https://din.wikipedia.org/
+- https://ebible.org/dikNT/REV03.htm
+- https://www.legalaid.wa.gov.au/get-legal-help/get-help-your-language/thuoenjan-dinka
+- https://www.continence.org.au/information-incontinence-dinka/continence-products
+- https://www.energy.gov.au/
+- https://gridzy.gallery/din/
+- https://www.languagegeek.com/
+- https://fyyd.de/podcast/sbs-dinka-sbs-dinka/20
+- https://beblia.com/Bible?Language=Dinka2006&Book=40&Chapter=1
+- https://www.divinerevelations.info/bible7/dinka
+- https://www.gtmsmart.com/din/
+- https://www.zhitov.com/din/clamp/
+- https://www.copperalloyexperts.com/din/
+- https://www.jw.org/din/
+- https://www.wikiwand.com/din
 
 Informative links (in English):
-- 
-- 
+
+-
+-
 
 Additional Information:
+
 - ISO-639-3 code: din
 - https://en.wikipedia.org/wiki/ISO_639:din
 
-
 Scripts:
-- 
+
+-
 
 Thank you to these people who have helped create this document:
-- 
-- 
+
+- [The African Languages Lab](https://africanlanguageslab.com/)
+-
 
 ## Instructions
 

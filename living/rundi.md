@@ -1,46 +1,69 @@
 # Web Language: Rundi
 
 Additional names:
+
 - ikirundi
-- 
+-
 
 News:
-- 
-- 
+
+- https://www.sbs.com.au/language/kirundi/rn
+- https://igihe.com/index.php
+- https://www.radiyoyacuvoa.com/
+- https://www.jimberemag.org/amayagwa/
+- https://bujamedia.com/
 
 Culture / History:
-- 
-- 
+
+- https://akanyaburunga.wordpress.com/page/2/
+- https://biocultural-diversity.org/kirundi
+- https://akanyaburunga.wordpress.com/
+- https://musicologygitega.wordpress.com/2015/12/23/287/
+- https://archidiocesedebujumbura.bi/ik/rb1/
+- https://www.wikiwand.com/rn
 
 Government:
-- 
-- 
+
+-
+-
 
 Political Parties:
-- 
-- 
+
+-
+-
 
 Other:
+
 - https://rn.wikipedia.org
-- 
-- 
+- https://minorityrights.org/app/uploads/2023/12/the-batwa-pygmies-of-the-great-lakes-region-swa.pdf
+- https://rn.m.wikipedia.org/wiki/Umuco
+- https://www.facebook.com/watch/Gitegaprov/434469714130276/
+- https://www.jw.org/run/
+- https://www.yaga-burundi.com/
+- https://indundi3.rssing.com/chan-60528168/article3105.html
+- https://mail.igihe.bi/
+- https://svfellowship.info/rn/
+- https://rn.gtmsmart.com/
 
 Informative links (in English):
-- 
-- 
+
+-
+-
 
 Additional Information:
+
 - ISO-639-3 code: run
 - https://en.wikipedia.org/wiki/ISO_639:run
 
-
 Scripts:
+
 - <a href="https://en.wikipedia.org/wiki/ISO_15924">ISO 15924 Latn</a> Latin
-- 
+-
 
 Thank you to these people who have helped create this document:
-- 
-- 
+
+- [The African Languages Lab](https://africanlanguageslab.com/)
+-
 
 ## Instructions
 

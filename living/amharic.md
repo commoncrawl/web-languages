@@ -1,46 +1,87 @@
 # Web Language: Amharic
 
 Additional names:
+
 - አማርኛ
-- 
+-
 
 News:
-- 
-- 
+
+- https://www.bbc.com/amharic
+- https://ethiopianreporter.com/
+- https://www.metaappz.com/References/Ethiopia_Amharic_News
+- https://amharic.voanews.com/
+- https://amharic.zehabesha.com/
+- https://amharic.borkena.com/
+- https://am.al-ain.com/
+- https://mereja.com/amharic-v3/
+- https://www.addisadmassnews.com/
+- https://www.ebc.et/
+- https://www.sbs.com.au/language/amharic/am
+- https://ethioreference.com/archives/category/amharic
+- https://www.ena.et/web/amh
+- https://press.et/?p=156174
+- https://www.dw.com/am-11646
+- https://haipo.co.il/am/
+- https://konsonewsmedia.com/
+- https://mereja.com/amharic-v3/
+- https://am.sewasew.com/
 
 Culture / History:
-- 
-- 
+
+- https://andemta.com/
+- https://www.wikiwand.com/am
 
 Government:
-- 
-- 
+
+- https://mot.gov.et/
+- https://www.amn.gov.et/
+- https://www.cci.gov.et/
+- https://www.moe.gov.et/
+- https://africa.sis.gov.eg/amharic/
 
 Political Parties:
-- 
-- 
+
+-
+-
 
 Other:
+
 - https://am.wikipedia.org
-- 
-- 
+- https://addisababa.embassy.qa/am
+- https://am.wikipedia.org/wiki
+- https://www.scribd.com/document/632883610
+- https://altohabesha.com/am/products/%E1%89%B3%E1%88%AA%E1%8A%AD-%E1%8A%A4%E1%88%AD%E1%89%B5%E1%88%AB-%E1%8A%AB%E1%89%A5-%E1%8C%A5%E1%8A%95%E1%89%B2-%E1%8A%AD%E1%88%B3%E1%89%A5-%E1%8A%93%E1%8C%BD%E1%8A%90%E1%89%B5?srsltid=AfmBOoqW9njIYW8FQ1qXl8hAG4TDFV8jYvLY-CwfzmgQtutcOezgn75l
+- https://www.bible.com/am
+- https://lsp.global/am/
+- https://am.runjinrefractories.com/
+- https://www.jw.org/am/
+- https://am.gtmsmart.com/
+- https://iris.peabody.vanderbilt.edu/am/
+- https://constitutii.wordpress.com
+- https://chilot.wordpress.com
+- https://www.amn.gov.et/blog/22643/
+- https://am.council.science/
 
 Informative links (in English):
-- 
-- 
+
+-
+-
 
 Additional Information:
+
 - ISO-639-3 code: amh
 - https://en.wikipedia.org/wiki/ISO_639:amh
 
-
 Scripts:
+
 - <a href="https://en.wikipedia.org/wiki/ISO_15924">ISO 15924 Ethi</a> Ge‘ez
-- 
+-
 
 Thank you to these people who have helped create this document:
-- 
-- 
+
+- [The African Languages Lab](https://africanlanguageslab.com/)
+-
 
 ## Instructions
 

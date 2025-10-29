@@ -1,43 +1,52 @@
 # Web Language: Luba-Katanga
 
 Additional names:
-- 
+
+-
 
 News:
-- 
-- 
+
+-
+-
 
 Culture / History:
-- 
-- 
+
+-
+-
 
 Government:
-- 
-- 
+
+-
+-
 
 Political Parties:
-- 
-- 
+
+-
+-
 
 Other:
-- 
-- 
+
+- https://www.jw.org/lu/
+-
 
 Informative links (in English):
-- 
-- 
+
+-
+-
 
 Additional Information:
+
 - ISO-639-3 code: lub
 - https://en.wikipedia.org/wiki/ISO_639:lub
 
-
 Scripts:
-- 
+
+-
 
 Thank you to these people who have helped create this document:
-- 
-- 
+
+-
+-
 
 ## Instructions
 

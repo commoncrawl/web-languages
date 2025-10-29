@@ -1,6 +1,7 @@
 # Web Language: Chokwe
 
 Additional names:
+
 - Ucôkwe
 - Batshokwe
 - Ciokwe
@@ -11,49 +12,59 @@ Additional names:
 - Shioko
 - Tschiokloe
 - Tshokwe
+- Cokwe
 
 News:
-- 
-- 
+
+-
+-
 
 Culture / History:
-- 
-- 
+
+-
+-
 
 Government:
-- 
-- 
+
+-
+-
 
 Political Parties:
-- 
-- 
+
+-
+-
 
 Other:
-- 
-- 
+
+- https://www.jw.org/cjk/
+- https://svfellowship.info/cjk/milimo-mu-tembele-ya-branham/
 
 Informative links (in English):
+
 - https://en.wikipedia.org/wiki/Chokwe_language
 - https://www.omniglot.com/writing/chokwe.htm (Blog with Chokwe alphabet and pronunciation)
 - https://chokwe.mofeko.com/ (Blog with Chokwe phrases)
 - https://dice.missouri.edu/assets/docs/niger-congo/Chokwe.pdf (Data sheet on Chokwe culture)
 
 Additional Information:
+
 - ISO-639-3 code: cjk
 - https://en.wikipedia.org/wiki/ISO_639:cjk
-- Chokwe is a Bantu language spoken by an estimated 2.5 million speakers primarily across three African nations: Angola, the Democratic Republic of the Congo (DRC), and Zambia. 
-- Chokwe is officially recognized as a national language in Angola, where it serves as a lingua franca in the eastern regions of the country. However, Angola's official government portal (governo.gov.ao) and ministry websites are in Portuguese, as the government conducts most of its business in Portuguese. 
+- Chokwe is a Bantu language spoken by an estimated 2.5 million speakers primarily across three African nations: Angola, the Democratic Republic of the Congo (DRC), and Zambia.
+- Chokwe is officially recognized as a national language in Angola, where it serves as a lingua franca in the eastern regions of the country. However, Angola's official government portal (governo.gov.ao) and ministry websites are in Portuguese, as the government conducts most of its business in Portuguese.
 - French is the official language in the DRC, and four indigenous languages have national status (Lingala, Swahili, Kikongo, Tshiluba). Chokwe, while spoken by a community in southern DRC, is not an official language.
 - English is the official language of Zambia, and certain Bantu languages (Bemba, Nyanja, Tonga, Lozi, Lunda, Luvale, Kaonde) are used in education and some provincial administration. Chokwe is not one of these seven regional languages, although it is spoken by a minority in the northwest.
 - This document needs reviewing by a native speaker.
-- 
+-
 
 Scripts:
+
 - <a href="https://en.wikipedia.org/wiki/ISO_15924">ISO 15924 Latn</a> Latin
 
 Thank you to these people who have helped create this document:
-- 
-- 
+
+- [The African Languages Lab](https://africanlanguageslab.com/)
+-
 
 ## Instructions
 

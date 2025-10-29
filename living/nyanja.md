@@ -1,46 +1,93 @@
 # Web Language: Nyanja
 
 Additional names:
+
 - Chi-Chewa
-- 
+-
 
 News:
-- 
-- 
+
+- https://mbc.mw/
+- https://mwnation.com/
+- https://oceanfdn.org/ny/
+- https://europeantimes.news/ny/
+- https://lasclev.org/ny/
+- https://www.redeweb.com/ny/
+- https://rundles.org.uk/ny/news
+- https://tacoma.gov/
+- https://www.radiomaria.mw/
+- https://ny.birmiss.com/
 
 Culture / History:
-- 
-- 
+
+- https://www.kiwoitoafricasafaris.com/ny/mitundu-ya-tanzania/
+- https://ancestrum.com/ny/
+- https://ny.eferrit.com/
+- https://soawr.org/
+- https://constructive-voices.com/
+- https://thomascranelibrary.org/ny/
+- https://worldbeyondwar.org/ny/
 
 Government:
-- 
-- 
+
+-
+-
 
 Political Parties:
-- 
-- 
+
+-
+-
 
 Other:
+
 - https://ny.wikipedia.org
-- 
-- 
+- https://www.jw.org/ny/
+- https://iris.peabody.vanderbilt.edu/ny/
+- https://ny.delachieve.com/
+- https://www.scribd.com/document/696480164/Maliro-ndi-Miyambo-ya-Chewa
+- https://ny.atomiyme.com/
+- https://desertbuggyrental.com/ny/
+- https://desertbuggyrental.com/
+- https://samsungmagazine.eu/ny/
+- https://glosbe.com/ny/en/nkhani
+- https://haei.org/ny/
+- https://www.testsealabs.com/ny/
+- https://www.cncele.com/ny/
+- https://www.dosfarmfoods.com/ny/
+- https://thecompassforsbc.org/
+- https://ich.unesco.org/
+- https://arboreacymbal.com/ny/
+- https://www.garbotableware.com/ny/
+- https://islamhouse.com/ny/main/
+- https://svfellowship.info/ny/branham-tabernacle-audio-2/
+- https://pocketproject.org/ny/
+- https://www.mecanmedical.com/ny/
+- https://www.pstramway.com/ny/
+- https://investsudbury.ca/ny/
+- https://gridzy.gallery/ny/
+- https://svfellowship.info/ny/branham-tabernacle-audio-2/
+- https://ny.gtmsmart.com/
+- https://ny.council.science/
 
 Informative links (in English):
-- 
-- 
+
+-
+-
 
 Additional Information:
+
 - ISO-639-3 code: nya
 - https://en.wikipedia.org/wiki/ISO_639:nya
 
-
 Scripts:
+
 - <a href="https://en.wikipedia.org/wiki/ISO_15924">ISO 15924 Latn</a> Latin
-- 
+-
 
 Thank you to these people who have helped create this document:
-- 
-- 
+
+- [The African Languages Lab](https://africanlanguageslab.com/)
+-
 
 ## Instructions
 

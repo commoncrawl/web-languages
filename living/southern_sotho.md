@@ -1,46 +1,71 @@
 # Web Language: Southern Sotho
 
 Additional names:
+
 - Sesotho
-- 
+-
 
 News:
-- 
-- 
+
+- https://sundayexpress.co.ls/
+-
 
 Culture / History:
-- 
-- 
+
+- https://www.pansalb.org/so/home-sesotho/
+- https://www.wikiwand.com/st
 
 Government:
-- 
-- 
+
+-
+-
 
 Political Parties:
-- 
-- 
+
+-
+-
 
 Other:
+
 - https://st.wikipedia.org
-- 
-- 
+- https://www.gov.ls/download/polelo-ea-letona-la-litaba-tsa-machabeng-mohlomphehi-lejone-mpotjoana-ka-lekhotleng-la-sechaba-holima-ntoa-e-ntseng-e-kupa-lipakeng-tsa-naha-ea-israele-le-naha-ea-palestina/
+- https://lesothobarcodes.com/tolokiso-ea-litaba/?lang=st
+- https://leseli.lmps.org.ls/phatlalatso-ea-litaba/
+- https://www.vodacom.co.ls/terms-conditions/vodacom-lesotho-consumer-protection-code-sesotho/
+- https://www.homeaffairs.gov.ls/publications/
+- https://www.diaspora.thepost.co.ls/2023/08/29/litaba-tsa-makhotla-a-bana/
+- https://www.offshorecompanycorp.com/ls/st/company-formation/jurisdiction/malta/scope-of-service
+- https://moeletsioabasotho.co.ls/2023/08/31/basotho-ba-seboko-ka-puso/
+- https://www.offshorecompanycorp.com/ls/st
+- https://nationalassembly.parliament.ls/wp-content/uploads/2024/03/Budget_Presentation_For_The_Year_2024_2025_Final_draft_final-Print-1-1.pdf
+- https://www.musicbox.co.ls/artist/kheluzer/single/likheleke-li-koponane-ft-mafahlanyane-x-kay-mega-x-kheluzer-1628517568
+- https://senate.parliament.ls/
+- https://gridzy.gallery/st/
+- https://www.kowot.com/st/
+- https://st.gtmsmart.com/
+- https://www.nwu.ac.za/tn
+- https://st.dearsouthafrica.co.za/
+- https://st.council.science/
 
 Informative links (in English):
-- 
-- 
+
+-
+-
 
 Additional Information:
+
 - ISO-639-3 code: sot
 - https://en.wikipedia.org/wiki/ISO_639:sot
 
-
 Scripts:
+
 - <a href="https://en.wikipedia.org/wiki/ISO_15924">ISO 15924 Latn</a> Latin
-- 
+-
 
 Thank you to these people who have helped create this document:
-- 
-- 
+
+- [The African Languages Lab](https://africanlanguageslab.com/)
+-
 
 ## Instructions
 

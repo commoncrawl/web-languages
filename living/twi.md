@@ -1,45 +1,69 @@
 # Web Language: Twi
 
 Additional names:
-- 
+
+-
 
 News:
-- 
-- 
+
+- https://akannews.com/
+- https://kingura.com/asante-twi/
 
 Culture / History:
-- 
-- 
+
+-
+-
 
 Government:
-- 
-- 
+
+-
+-
 
 Political Parties:
-- 
-- 
+
+-
+-
 
 Other:
+
 - https://tw.wikipedia.org
-- 
-- 
+- https://www.uew.edu.gh/node/2630
+- https://www.ghanaweb.com/GhanaHomePage/features/Yehyiahyia-oo-Ghanafo-na-Ghanafuo-260609
+- https://sdatwihymnal.wordpress.com/
+- https://ak.geomembrane-k.com/
+- https://www.oposprinter.com/ak/
+- https://vakantio.de/ak/
+- https://www.jw.org/tw/
+- https://tw.wikipedia.org/
+- https://www.jariiivanainen.net/twi,14.html
+- https://www.wikiwand.com/tw
+- https://svfellowship.info/tw/ast-branham-tabernacle-services/
+- https://islamhouse.com/ak/main/
+- https://inksoulsupply.com/ak
+- https://player22.com/help/html/AK/moderation_candidate.html
+- https://ak.gtmsmart.com/
+- https://gridzy.gallery/ak/
+- https://www.wikiwand.com/tw
 
 Informative links (in English):
-- 
-- 
+
+-
+-
 
 Additional Information:
+
 - ISO-639-3 code: twi
 - https://en.wikipedia.org/wiki/ISO_639:twi
 
-
 Scripts:
+
 - <a href="https://en.wikipedia.org/wiki/ISO_15924">ISO 15924 Latn</a> Latin
-- 
+-
 
 Thank you to these people who have helped create this document:
-- 
-- 
+
+- [The African Languages Lab](https://africanlanguageslab.com/)
+-
 
 ## Instructions
 

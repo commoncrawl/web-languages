@@ -1,43 +1,59 @@
 # Web Language: Judeo-Berber
 
 Additional names:
-- 
+
+-
 
 News:
-- 
-- 
+
+- https://www.ircam.ma/amz
+- https://zgh.walaw.press/
+- https://www.aps.dz/tamazight-tif
+- https://www.mapnews.ma/am/
+- https://taboohat.sharq.org/tz/
+- https://www.amadalamazigh.press.ma/tamazight/
 
 Culture / History:
-- 
-- 
+
+-
+-
 
 Government:
-- 
-- 
+
+- https://www.chambredesrepresentants.ma/amz
+- https://dev.chambredesconseillers.xyz/zgh
+- https://www.cg.gov.ma/amz
 
 Political Parties:
-- 
-- 
+
+-
+-
 
 Other:
-- 
-- 
+
+- https://alharaka.ma/amz/
+- https://www.namra10.com/zgh
+- https://cndh.ma/index.php/amz
+- https://zgh.wikipedia.org/
 
 Informative links (in English):
-- 
-- 
+
+-
+-
 
 Additional Information:
+
 - ISO-639-3 code: jbe
 - https://en.wikipedia.org/wiki/ISO_639:jbe
 
-
 Scripts:
-- 
+
+-
 
 Thank you to these people who have helped create this document:
-- 
-- 
+
+- [The African Languages Lab](https://africanlanguageslab.com/)
+-
 
 ## Instructions
 

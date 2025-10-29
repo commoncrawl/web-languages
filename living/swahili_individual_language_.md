@@ -1,47 +1,174 @@
 # Web Language: Swahili (individual language)
 
 Additional names:
+
 - Swahili
 - Kiswahili
-- 
+-
 
 News:
-- 
-- 
+
+- https://thechanzo.com/
+- https://www.nishati.go.tz/news
+- https://www.dw.com/sw/
+- https://www.bbc.com/swahili
+- https://www.itv.co.tz/news
+- https://mwanza.go.tz/news
+- https://www.voaswahili.com/
+- https://www.ttcl.co.tz/sw
+- https://njombe.go.tz/news
+- https://www.nmt.go.tz/photos/news
+- https://www.kazi.go.tz/news
+- https://www.nbaa.go.tz/news
+- https://www.eatv.tv/sw/news
+- https://hssrc.tamisemi.go.tz/news
+- https://mwanaclick.com/
+- https://www.epza.go.tz/news
+- http://www.maelezo.go.tz/news
+- https://www.tanroads.go.tz/news
+- https://www.mof.go.tz/news
+- https://www.foreign.go.tz/
+- https://www.tanzaniaparks.go.tz/news
+- https://www.tacaids.go.tz/news
+- https://tanzania.mom-gmr.org/sw/
+- https://wasafimedia.co.tz/
+- https://www.moh.go.tz/en/news
+- https://www.tawa.go.tz/news
+- http://www.zanzinews.com/
+- https://nacp.go.tz/category/news/
+- https://rea.go.tz/category/news
+- https://www.narco.go.tz/news
+- https://habarileo.co.tz/category/tanzania/
+- https://kagera.go.tz/news
+- https://www.buhanews.co.tz/
+- https://suza.ac.tz/?cat=174
+- http://njomberrh.go.tz/news
+- https://www.temesa.go.tz/news
+- https://iringa.go.tz/news
+- https://www.rita.go.tz/news-center.php
+- https://www.mwananchi.co.tz/
+- https://www.michezo.go.tz/news
+- https://www.nbc.co.tz/sw/news-and-events/
+- https://www.diramakini.co.tz/
+- https://geita.go.tz/news
+- https://www.ports.go.tz/index.php/sw/media1-2/habari
+- https://zura.go.tz/news-events/
+- https://www.pc.go.tz/news/#
+- https://www.kazi.go.tz/news
+- https://pwani.go.tz/news/35
+- https://www.mwauwasa.go.tz/news
+- https://mara.go.tz/news/3
+- https://www.nactvet.go.tz/article/category/news
+- https://www.nssf.go.tz/index.php
+- https://simbasc.co.tz/news/
+- https://kiswahili.tuko.co.ke/latest/
+- https://globalpublishers.co.tz/
+- https://www.itv.co.tz/news
+- https://igungadc.go.tz/news
+- https://news.un.org/sw/
+- https://www.mloganzila.or.tz/
+- https://www.mwauwasa.go.tz/news
+- https://parstoday.ir/sw/news/
+- https://lindi.go.tz/news
+- https://bongo5.com/section/habari/
+- https://www.itv.co.tz/news
+- https://www.bbc.com/swahili/
+- https://mwanahalisionline.com/
+- https://wasafimedia.co.tz/
+- https://blog.afro.co.ke/sw/
+- https://trt.global/afrika-swahili
+- https://www.dw.com/sw/
+- https://news.un.org/sw/
+- https://www.rfi.fr/sw/
+- https://taifaleo.nation.co.ke/
+- https://sw.eureporter.co/
 
 Culture / History:
-- 
-- 
+
+- https://www.goethe.de/ins/ts/sw/
+- https://tanzania.sil.org/sw
+- http://www.swahili.people.cn/index.html
+- https://www.amjamboafrica.com/swa/
+- https://transformativepathways.net/sw/
+- https://www.wikiwand.com/sw
 
 Government:
-- 
-- 
+
+- https://www.tacaf.go.tz/
+- https://geitatc.go.tz/
+- http://demo8.eganet.go.tz/ndc/
+- https://kinondonimc.go.tz/
+- https://ruangwadc.go.tz/
+- https://www.phila.gov/sw/
+- https://nairobi.embaixadaportugal.mne.gov.pt/sw/
+- https://ruvuma.go.tz/
+- https://www.marineparks.go.tz/
+- https://www.tanzania.go.tz/
+- https://www.nasseryouthmovement.net/sw/
+- https://www.utumishi.go.tz/
+- https://www.pmo.go.tz/
+- https://www.tamisemi.go.tz/
+- https://www.nao.go.tz/
+- https://www.osg.go.tz/
+- https://www.oag.go.tz/
+- https://www.gcla.go.tz/
+- https://www.tanroads.go.tz/home
+- https://www.ports.go.tz/index.php/sw/
+- https://www.tanzania.go.tz/
+- https://africa.sis.gov.eg/kiswahili/
+- https://www.orpp.go.tz/
+- https://www.latra.go.tz/
+- https://blog.maelezo.go.tz/
+- https://africa.sis.gov.eg/kiswahili/
+- https://shinyangadc.go.tz/
 
 Political Parties:
-- 
-- 
+
+- https://www.ccm.or.tz/
 
 Other:
+
 - https://sw.wikipedia.org
-- 
-- 
+- https://sw.kingdomsalvation.org/
+- https://www.weps.org/sw/ilearn/my-products-services/integrate-culture-tradition-and-innovation-into-your-business-model
+- https://srcentre.com.au/sw/
+- https://africa.uga.edu/Kiswahili/
+- https://www.mozillafoundation.org/sw/
+- https://www.babysleep.com/sw/
+- https://www.selcompesa.app/
+- https://www.bible.com/sw
+- https://www.heslb.go.tz/home?lang=swahili
+- https://islamhouse.com/sw/main/
+- https://www.alamatanzania.com/swh
+- https://sw.kingdomsalvation.org/
+- https://integreat.app/muenchen/sw/
+- https://query.libretexts.org/Kiswahili
+- https://svfellowship.info/sw/sauti-ya-maskani-ya-branham/
+- https://www.kowot.com/sw/
+- https://sw.gtmsmart.com/
+- https://www.kiwoitoafricasafaris.com/sw/
+- https://www.naturalliance.org/sw/kk
+- https://sw.council.science/
 
 Informative links (in English):
-- 
-- 
+
+-
+-
 
 Additional Information:
+
 - ISO-639-3 code: swh
 - https://en.wikipedia.org/wiki/ISO_639:swh
 
-
 Scripts:
+
 - <a href="https://en.wikipedia.org/wiki/ISO_15924">ISO 15924 Latn</a> Latin
-- 
+-
 
 Thank you to these people who have helped create this document:
-- 
-- 
+
+- [The African Languages Lab](https://africanlanguageslab.com/)
+-
 
 ## Instructions
 

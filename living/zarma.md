@@ -1,43 +1,52 @@
 # Web Language: Zarma
 
 Additional names:
-- 
+
+- Zarma sanni
 
 News:
-- 
-- 
+
+-
+-
 
 Culture / History:
-- 
-- 
+
+-
+-
 
 Government:
-- 
-- 
+
+-
+-
 
 Political Parties:
-- 
-- 
+
+-
+-
 
 Other:
-- 
-- 
+
+- https://www.earlylearningresourcenetwork.org/books/search?f%5B0%5D=language%3A760
+- https://englishstorybooks.org/stories/dje/0001/
 
 Informative links (in English):
-- 
-- 
+
+-
+-
 
 Additional Information:
+
 - ISO-639-3 code: dje
 - https://en.wikipedia.org/wiki/ISO_639:dje
 
-
 Scripts:
-- 
+
+-
 
 Thank you to these people who have helped create this document:
-- 
-- 
+
+- [The African Languages Lab](https://africanlanguageslab.com/)
+-
 
 ## Instructions
 

@@ -1,45 +1,54 @@
 # Web Language: Nigerian Pidgin
 
 Additional names:
+
 - Naijá
-- 
+-
 
 News:
-- 
-- 
+
+- https://www.bbc.com/pidgin
+- https://www.newsnow.com/ng/World/News+in+Pidgin
 
 Culture / History:
-- 
-- 
+
+-
+-
 
 Government:
-- 
-- 
+
+-
+-
 
 Political Parties:
-- 
-- 
+
+-
+-
 
 Other:
+
 - https://pcm.wikipedia.org
-- 
-- 
+-
+-
 
 Informative links (in English):
-- 
-- 
+
+-
+-
 
 Additional Information:
+
 - ISO-639-3 code: pcm
 - https://en.wikipedia.org/wiki/ISO_639:pcm
 
-
 Scripts:
-- 
+
+-
 
 Thank you to these people who have helped create this document:
-- 
-- 
+
+- [The African Languages Lab](https://africanlanguageslab.com/)
+-
 
 ## Instructions
 

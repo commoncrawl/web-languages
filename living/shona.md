@@ -1,46 +1,71 @@
 # Web Language: Shona
 
 Additional names:
+
 - chiShona
-- 
+-
 
 News:
-- 
-- 
+
+- https://www.voashona.com/
+- https://www.heraldonline.co.zw/mbavha-hutu-nepfuti-mari/
+- https://jolaznews.wordpress.com/
 
 Culture / History:
-- 
-- 
+
+- https://africasocialwork.net/chitendero
+- https://nyobvo.com/
+- https://sn.postposmo.com/
+- https://www.wikiwand.com/sn
 
 Government:
-- 
-- 
+
+-
+-
 
 Political Parties:
-- 
-- 
+
+-
+-
 
 Other:
+
 - https://sn.wikipedia.org
-- 
-- 
+- https://sn.wikipedia.org/wiki/Vashona
+- https://apologeticspress.org/shona/
+- https://forestfriends.eco/sn/
+- https://churchages.net/sn/studies/
+- https://sn.tatuantes.com/
+- https://sn.gtmsmart.com/
+- https://www.jw.org/sn/
+- https://www.bible.com/sn
+- https://www.kiwoitoafricasafaris.com/sn/
+- https://svfellowship.info/sn/
+- https://constructive-voices.com/sn/
+- https://abovethehimalaya.com/sn/
+- https://www.kowot.com/sn/
+- https://gridzy.gallery/sn/
+- https://sn.council.science/
 
 Informative links (in English):
-- 
-- 
+
+-
+-
 
 Additional Information:
+
 - ISO-639-3 code: sna
 - https://en.wikipedia.org/wiki/ISO_639:sna
 
-
 Scripts:
+
 - <a href="https://en.wikipedia.org/wiki/ISO_15924">ISO 15924 Latn</a> Latin
-- 
+-
 
 Thank you to these people who have helped create this document:
-- 
-- 
+
+- [The African Languages Lab](https://africanlanguageslab.com/)
+-
 
 ## Instructions
 

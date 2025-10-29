@@ -86,7 +86,7 @@ See also: [Constructed](constructed/README.md), [Extinct](extinct/README.md), [H
 - Chinese: See Mandarin Chinese and the many other Chinese languages
 - [Egyptian Arabic](living/egyptian_arabic.md)
 - English
-- French
+- [French](living/french.md)
 - German
 - [Gujarati](living/gujarati.md)
 - [Hausa](living/hausa.md)

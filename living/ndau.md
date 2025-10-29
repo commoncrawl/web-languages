@@ -1,43 +1,52 @@
 # Web Language: Ndau
 
 Additional names:
-- 
+
+- Chindau
 
 News:
-- 
-- 
+
+-
+-
 
 Culture / History:
-- 
-- 
+
+-
+-
 
 Government:
-- 
-- 
+
+-
+-
 
 Political Parties:
-- 
-- 
+
+-
+-
 
 Other:
-- 
-- 
+
+- https://www.jw.org/ndc/
+- https://www.chindau.org/
 
 Informative links (in English):
-- 
-- 
+
+-
+-
 
 Additional Information:
+
 - ISO-639-3 code: ndc
 - https://en.wikipedia.org/wiki/ISO_639:ndc
 
-
 Scripts:
-- 
+
+-
 
 Thank you to these people who have helped create this document:
-- 
-- 
+
+- [The African Languages Lab](https://africanlanguageslab.com/)
+-
 
 ## Instructions
 

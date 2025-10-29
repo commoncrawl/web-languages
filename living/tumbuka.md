@@ -1,45 +1,54 @@
 # Web Language: Tumbuka
 
 Additional names:
+
 - chiTumbuka
-- 
+-
 
 News:
-- 
-- 
+
+-
+-
 
 Culture / History:
-- 
-- 
+
+-
+-
 
 Government:
-- 
-- 
+
+-
+-
 
 Political Parties:
-- 
-- 
+
+-
+-
 
 Other:
+
 - https://tum.wikipedia.org
-- 
-- 
+- https://www.jw.org/tum/layibulare/
+- https://www.jw.org/tum/
 
 Informative links (in English):
-- 
-- 
+
+-
+-
 
 Additional Information:
+
 - ISO-639-3 code: tum
 - https://en.wikipedia.org/wiki/ISO_639:tum
 
-
 Scripts:
-- 
+
+-
 
 Thank you to these people who have helped create this document:
-- 
-- 
+
+- [The African Languages Lab](https://africanlanguageslab.com/)
+-
 
 ## Instructions
 

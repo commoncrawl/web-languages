@@ -1,43 +1,52 @@
 # Web Language: Nyankole
 
 Additional names:
-- 
+
+- Nyankore
 
 News:
-- 
-- 
+
+- https://insightpostug.com/tag/runyankole/
+-
 
 Culture / History:
-- 
-- 
+
+-
+-
 
 Government:
-- 
-- 
+
+-
+-
 
 Political Parties:
-- 
-- 
+
+-
+-
 
 Other:
-- 
-- 
+
+-
+-
 
 Informative links (in English):
-- 
-- 
+
+-
+-
 
 Additional Information:
+
 - ISO-639-3 code: nyn
 - https://en.wikipedia.org/wiki/ISO_639:nyn
 
-
 Scripts:
-- 
+
+-
 
 Thank you to these people who have helped create this document:
-- 
-- 
+
+- [The African Languages Lab](https://africanlanguageslab.com/)
+-
 
 ## Instructions
 

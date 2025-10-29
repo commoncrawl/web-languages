@@ -1,45 +1,60 @@
 # Web Language: Tsonga
 
 Additional names:
+
 - Xitsonga
-- 
+-
 
 News:
-- 
-- 
+
+-
+-
 
 Culture / History:
-- 
-- 
+
+-
+-
 
 Government:
-- 
-- 
+
+-
+-
 
 Political Parties:
-- 
-- 
+
+-
+-
 
 Other:
+
 - https://ts.wikipedia.org
-- 
-- 
+- https://www.jw.org/tog/
+- https://nus.gtmsmart.com/
+- https://www.kowot.com/nus/
+- https://www.pansalb.org/ts/home-xitsonga/
+- https://www.jw.org/ts/layiburari/
+- https://gridzy.gallery/ts/
+- https://ts.gtmsmart.com/
+- https://www.wikiwand.com/tn
 
 Informative links (in English):
-- 
-- 
+
+-
+-
 
 Additional Information:
+
 - ISO-639-3 code: tso
 - https://en.wikipedia.org/wiki/ISO_639:tso
 
-
 Scripts:
-- 
+
+-
 
 Thank you to these people who have helped create this document:
-- 
-- 
+
+- [The African Languages Lab](https://africanlanguageslab.com/)
+-
 
 ## Instructions
 

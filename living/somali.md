@@ -1,46 +1,83 @@
 # Web Language: Somali
 
 Additional names:
+
 - Soomaaliga
-- 
+-
 
 News:
-- 
-- 
+
+- https://www.geeska.com/so
+- https://www.bbc.com/somali
+- https://radiomuqdisho.so/
+- https://sntv.so/
+- https://www.ena.et/web/som
+- https://footballsomalia.so/so/
+- https://ogaaltv.so/
+- https://hadhwanaagnews.ca/
+- https://www.oodweynemedia.com/
+- https://horufadhimedia.com/
+- https://www.radiodalsan.com/
+- https://mustaqbalmedia.net/so/
 
 Culture / History:
-- 
-- 
+
+-
+-
 
 Government:
-- 
-- 
+
+- https://senate.gov.so/
+- https://moifar.gov.so/
+- https://police.gov.so/
+- https://mois.gov.so/
+- https://tubsan.gov.so/so/
+- https://hbnonlinetv.com/
+- https://radiorisaala.com/
+- https://www.caasimada.net/
+- https://www.fanamc.com/somali/
+- https://www.fnnmedia.org/
+- https://goobjoog.com/
+- https://calankamedia.com/
+- https://starfm.co.ke/
+- https://daljir.com/
 
 Political Parties:
-- 
-- 
+
+-
+-
 
 Other:
+
 - https://so.wikipedia.org
-- 
-- 
+- https://so.wikipedia.org/
+- https://somalipublicagenda.org/gorfeyn-nidaamka-madaxtooyada-labada-xisbi-siyaasadeed/
+- https://xaayda-kil.blogspot.com/
+- https://www.carehospitals.com/so/
+- https://islamhouse.com/so/main/
+- https://www.continence.org.au/information-incontinence-somali
+- https://www.kowot.com/so/
+- https://so.gtmsmart.com/
 
 Informative links (in English):
-- 
-- 
+
+-
+-
 
 Additional Information:
+
 - ISO-639-3 code: som
 - https://en.wikipedia.org/wiki/ISO_639:som
 
-
 Scripts:
+
 - <a href="https://en.wikipedia.org/wiki/ISO_15924">ISO 15924 Latn</a> Latin
-- 
+-
 
 Thank you to these people who have helped create this document:
-- 
-- 
+
+- [The African Languages Lab](https://africanlanguageslab.com/)
+-
 
 ## Instructions
 

@@ -1,43 +1,52 @@
 # Web Language: Umbundu
 
 Additional names:
-- 
+
+-
 
 News:
-- 
-- 
+
+-
+-
 
 Culture / History:
-- 
-- 
+
+-
+-
 
 Government:
-- 
-- 
+
+-
+-
 
 Political Parties:
-- 
-- 
+
+-
+-
 
 Other:
-- 
-- 
+
+- https://www.jw.org/umb/
+-
 
 Informative links (in English):
-- 
-- 
+
+-
+-
 
 Additional Information:
+
 - ISO-639-3 code: umb
 - https://en.wikipedia.org/wiki/ISO_639:umb
 
-
 Scripts:
-- 
+
+-
 
 Thank you to these people who have helped create this document:
-- 
-- 
+
+- [The African Languages Lab](https://africanlanguageslab.com/)
+-
 
 ## Instructions
 

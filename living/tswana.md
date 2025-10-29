@@ -1,45 +1,58 @@
 # Web Language: Tswana
 
 Additional names:
+
 - Setswana
-- 
+-
 
 News:
-- 
-- 
+
+-
+-
 
 Culture / History:
-- 
-- 
+
+-
+-
 
 Government:
-- 
-- 
+
+- https://www.gov.za/tn/
+-
 
 Political Parties:
-- 
-- 
+
+-
+-
 
 Other:
+
 - https://tn.wikipedia.org
-- 
-- 
+- https://www.nwu.ac.za/tn
+- https://www.pansalb.org/sw/home-setswana/
+- https://www.jw.org/tn/laeborari/
+- https://tn.gtmsmart.com/
+- https://gridzy.gallery/tn/
+- https://www.wikiwand.com/ts
 
 Informative links (in English):
-- 
-- 
+
+-
+-
 
 Additional Information:
+
 - ISO-639-3 code: tsn
 - https://en.wikipedia.org/wiki/ISO_639:tsn
 
-
 Scripts:
-- 
+
+-
 
 Thank you to these people who have helped create this document:
-- 
-- 
+
+- [The African Languages Lab](https://africanlanguageslab.com/)
+-
 
 ## Instructions
 

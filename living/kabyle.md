@@ -1,31 +1,37 @@
 # Web Language: Kabyle
 
 Additional names:
+
 - Taqbaylit
 - Tazwawt
 - Tamaziɣt
 
 News:
+
 - https://www.aps.dz/tamazight-tal
 - https://my.radioalgerie.dz/dz-ber
 - https://www.depechedekabylie.com/ddk-tamazight
 
 Culture / History:
+
 - https://tasghunt-taseklant.com/kab
 - http://isahliyen.com (in kabyle and french)
 - https://tamurt.info/tq/category/taqbaylit
 - https://tamsirt.numidya.net/cours (Courses about language)
-- 
+-
 
 Government:
+
 - https://www.hcamazighite.dz/ta
-- 
+-
 
 Political Parties:
-- 
-- 
+
+-
+-
 
 Other:
+
 - https://kab.wikipedia.org
 - https://www.mozilla.org/kab
 - https://www.amyag.com (Reference for verb conjugation)
@@ -36,14 +42,16 @@ Other:
 - https://sadbendali.blogspot.com (blog about language, interviews)
 - https://taseklataqbaylit.blogspot.com (blog about books)
 - https://aghucaf.wordpress.com (blog about culture and language)
-- 
+- https://www.jw.org/kab/
 
 Informative links (in English):
+
 - https://www.ethnologue.com/language/kab
 - https://codelookup.toolforge.org/kab
 - https://en.wikipedia.org/wiki/Kabyle_language
 
 Additional Information:
+
 - ISO-639-3 code: kab
 - https://en.wikipedia.org/wiki/ISO_639:kab
 - https://unicode.org/cldr/charts/42/summary/kab.html
@@ -51,14 +59,16 @@ Additional Information:
 - https://wals.info/languoid/lect/wals_code_kbl
 - https://glottolog.org/resource/languoid/id/kaby1243
 
-
 Scripts:
+
 - <a href="https://en.wikipedia.org/wiki/ISO_15924">ISO 15924 Latn</a> Latin
-- 
+-
 
 Thank you to these people who have helped create this document:
+
 - Athmane MOKRAOUI
 - Rachida SACI
+- [The African Languages Lab](https://africanlanguageslab.com/)
 
 ## Instructions
 

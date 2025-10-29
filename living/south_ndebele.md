@@ -1,45 +1,56 @@
 # Web Language: South Ndebele
 
 Additional names:
+
 - isiNdebele seSewula
-- 
+-
 
 News:
-- 
-- 
+
+- https://www.voandebele.com/z/3178
+-
 
 Culture / History:
-- 
-- 
+
+-
+-
 
 Government:
-- 
-- 
+
+-
+-
 
 Political Parties:
-- 
-- 
+
+-
+-
 
 Other:
+
 - https://nr.wikipedia.org
-- 
-- 
+- https://www.pansalb.org/nd/home-isindebele/
+- https://www.jw.org/nr/
+- https://nr.gtmsmart.com/
+- https://www.kowot.com/nr/
 
 Informative links (in English):
-- 
-- 
+
+-
+-
 
 Additional Information:
+
 - ISO-639-3 code: nbl
 - https://en.wikipedia.org/wiki/ISO_639:nbl
 
-
 Scripts:
-- 
+
+-
 
 Thank you to these people who have helped create this document:
-- 
-- 
+
+- [The African Languages Lab](https://africanlanguageslab.com/)
+-
 
 ## Instructions
 

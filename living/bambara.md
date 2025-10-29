@@ -1,46 +1,63 @@
 # Web Language: Bambara
 
 Additional names:
+
 - bamanankan
-- 
+-
 
 News:
-- 
-- 
+
+- https://donkibaru.ml/
+- https://www.voabambara.com/
+- https://www.rfi.fr/ma/
 
 Culture / History:
-- 
-- 
+
+-
+-
 
 Government:
-- 
-- 
+
+-
+-
 
 Political Parties:
-- 
-- 
+
+-
+-
 
 Other:
+
 - https://bm.wikipedia.org
-- 
-- 
+- https://www.czmeditech.com/bm/
+- https://www.suretron.com/bm/
+- https://islamhouse.com/bm/main/
+- http://www.fakan.ml/
+- https://jaladaafrica.org/2016/03/22/taamacogo-y%C9%9Bl%C9%9Bma-mun-na-hadamaden-b%C9%9B-j%CD%BB-ka-taama/
+- https://jemukanmalitelegraph.wordpress.com/
+- https://www.kowot.com/bm/
+- https://bm.gtmsmart.com/
+- https://www.wikiwand.com/bm
 
 Informative links (in English):
-- 
-- 
+
+-
+-
 
 Additional Information:
+
 - ISO-639-3 code: bam
 - https://en.wikipedia.org/wiki/ISO_639:bam
 
-
 Scripts:
+
 - <a href="https://en.wikipedia.org/wiki/ISO_15924">ISO 15924 Latn</a> Latin
-- 
+-
 
 Thank you to these people who have helped create this document:
-- 
-- 
+
+- [The African Languages Lab](https://africanlanguageslab.com/)
+-
 
 ## Instructions
 

@@ -1,46 +1,56 @@
 # Web Language: Sango
 
 Additional names:
+
 - Sängö
-- 
+-
 
 News:
-- 
-- 
+
+-
+-
 
 Culture / History:
-- 
-- 
+
+-
+-
 
 Government:
-- 
-- 
+
+-
+-
 
 Political Parties:
-- 
-- 
+
+-
+-
 
 Other:
+
 - https://sg.wikipedia.org
-- 
-- 
+- https://gridzy.gallery/sg/
+- https://www.jw.org/sg/
+- https://www.wikiwand.com/sg
 
 Informative links (in English):
-- 
-- 
+
+-
+-
 
 Additional Information:
+
 - ISO-639-3 code: sag
 - https://en.wikipedia.org/wiki/ISO_639:sag
 
-
 Scripts:
+
 - <a href="https://en.wikipedia.org/wiki/ISO_15924">ISO 15924 Latn</a> Latin
-- 
+-
 
 Thank you to these people who have helped create this document:
-- 
-- 
+
+- [The African Languages Lab](https://africanlanguageslab.com/)
+-
 
 ## Instructions
 

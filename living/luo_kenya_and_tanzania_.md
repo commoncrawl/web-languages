@@ -1,43 +1,59 @@
 # Web Language: Luo (Kenya and Tanzania)
 
 Additional names:
-- 
+
+-
 
 News:
-- 
-- 
+
+-
+-
 
 Culture / History:
-- 
-- 
+
+-
+-
 
 Government:
-- 
-- 
+
+-
+-
 
 Political Parties:
-- 
-- 
+
+-
+-
 
 Other:
-- 
-- 
+
+- https://www.jw.org/ach/
+- https://bibleforchildren.org/languages/acholi/stories.php
+- https://gladtidings-bs.com/uganda/gtbs/index.shtml?course/lesson09
+- https://lakwatchris.wordpress.com/about/
+- https://wol.jw.org/ach/wol/d/r142/lp-ac/202007003
+- https://www.grandviewled.com/ach/
+- https://www.kowot.com/ach/
+- https://gridzy.gallery/ach/
+- https://ach.gtmsmart.com/
 
 Informative links (in English):
-- 
-- 
+
+-
+-
 
 Additional Information:
+
 - ISO-639-3 code: luo
 - https://en.wikipedia.org/wiki/ISO_639:luo
 
-
 Scripts:
-- 
+
+-
 
 Thank you to these people who have helped create this document:
-- 
-- 
+
+- [The African Languages Lab](https://africanlanguageslab.com/)
+-
 
 ## Instructions
 

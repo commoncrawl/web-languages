@@ -1,46 +1,65 @@
 # Web Language: Lingala
 
 Additional names:
+
 - lingála
-- 
+-
 
 News:
-- 
-- 
+
+-
+-
 
 Culture / History:
-- 
-- 
+
+-
+-
 
 Government:
-- 
-- 
+
+- https://zolaview.com/ln
+-
 
 Political Parties:
-- 
-- 
+
+-
+-
 
 Other:
+
 - https://ln.wikipedia.org
-- 
-- 
+- https://www.hiuierpack.com/ln/
+- https://svfellowship.info/ln/
+- https://www.diocesedematadi.net/medias/files/homelie-vicaire-general-intronisation-cure-doyen.pdf
+- https://www.jw.org/ln/
+- https://www.bible.com/ln
+- https://www.vaticannews.va/ln.html
+- https://islamhouse.com/cd/main/
+- https://www.diocesedematadi.net/medias/files/homelie-vicaire-general-intronisation-cure-doyen.pdf
+- https://gridzy.gallery/ln/
+- https://www.kowot.com/ln/
+- https://ln.gtmsmart.com/
+- https://www.wikiwand.com/ln
 
 Informative links (in English):
-- 
-- 
+
+-
+-
 
 Additional Information:
+
 - ISO-639-3 code: lin
 - https://en.wikipedia.org/wiki/ISO_639:lin
 
-
 Scripts:
+
 - <a href="https://en.wikipedia.org/wiki/ISO_15924">ISO 15924 Latn</a> Latin
-- 
+-
 
 Thank you to these people who have helped create this document:
-- 
-- 
+
+- [The African Languages Lab](https://africanlanguageslab.com/)
+-
 
 ## Instructions
 

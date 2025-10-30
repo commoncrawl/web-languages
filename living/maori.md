@@ -41,7 +41,7 @@ Scripts:
 - 
 
 Thank you to these people who have helped create this document:
-- Damia Stewart
+- Damian Stewart (https://github.com/damian0815)
 - 
 
 ## Instructions

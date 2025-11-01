@@ -1,44 +1,55 @@
 # Web Language: Ewe
 
 Additional names:
+
 - eʋegbe
 - 
 
 News:
+
 - 
 - 
 
 Culture / History:
+
 - 
 - 
 
 Government:
+
 - 
 - 
 
 Political Parties:
+
 - 
 - 
 
 Other:
+
 - https://ee.wikipedia.org
-- 
-- 
+- https://www.jw.org/ee/
+- https://ee.gtmsmart.com/
+- https://www.kowot.com/ee/
+- https://www.wikiwand.com/ee
 
 Informative links (in English):
+
 - 
 - 
 
 Additional Information:
+
 - ISO-639-3 code: ewe
 - https://en.wikipedia.org/wiki/ISO_639:ewe
 
-
 Scripts:
+
 - 
 
 Thank you to these people who have helped create this document:
-- 
+
+- [The African Languages Lab](https://africanlanguageslab.com/)
 - 
 
 ## Instructions

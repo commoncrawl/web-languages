@@ -1,46 +1,68 @@
 # Web Language: Fon
 
 Additional names:
+
 - fɔ̀ngbè
 - 
 
 News:
+
 - 
 - 
 
 Culture / History:
+
 - https://www.jw.org/fon/
 - https://beninlangues.com/fongbe/bible
 - https://beninlangues.com/public/fongbe/droit-humain
 
 Government:
+
 - 
 - 
 
 Political Parties:
+
 - 
 - 
 
 Other:
+
 - https://fon.wikipedia.org
 - https://beninlangues.com/public/fongbe-alphabet
-- 
+- https://www.jw.org/fon
+- https://fon.wikipedia.org/wiki/
+- https://www.educationalapaix-ao.org/manuel/manuel_Fon_Benin.pdf
+- https://minnagan.com/fo/home-04-2/
+- https://www.bible.com/bible/813/DAN.7.14.FONDC
+- https://opus.nlpl.eu/dashboard/translations.
+- https://read.bibleineverylanguage.org/
+- https://vietnamtravel.in/2024/10/26/
+- https://fon.runjinrefractories.com/
+- https://www.seidayee.com/fon/index.html
+- https://fon.kitchentapsolutions.com/
+- https://www.accessagriculture.org/search/all/fon
+- https://islamhouse.com/fon/main/
+- https://gridzy.gallery/fon/
 
 Informative links (in English):
+
 - 
 - 
 
 Additional Information:
+
 - ISO-639-3 code: fon
 - https://en.wikipedia.org/wiki/ISO_639:fon
 
-
 Scripts:
+
 - 
 
 Thank you to these people who have helped create this document:
+
 - [Pericles Adjovi](https://github.com/Pericles001)
-- 
+- [The African Languages Lab](https://africanlanguageslab.com/)
 
 ## Instructions
 

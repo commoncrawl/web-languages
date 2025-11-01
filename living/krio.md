@@ -1,42 +1,52 @@
 # Web Language: Krio
 
 Additional names:
+
 - 
 
 News:
+
 - 
 - 
 
 Culture / History:
+
 - 
 - 
 
 Government:
+
 - 
 - 
 
 Political Parties:
+
 - 
 - 
 
 Other:
-- 
-- 
+
+- https://gridzy.gallery/kri/
+- https://kri.gtmsmart.com/
+- https://www.kowot.com/kri/
 
 Informative links (in English):
+
 - 
 - 
 
 Additional Information:
+
 - ISO-639-3 code: kri
 - https://en.wikipedia.org/wiki/ISO_639:kri
 
-
 Scripts:
+
 - 
 
 Thank you to these people who have helped create this document:
-- 
+
+- [The African Languages Lab](https://africanlanguageslab.com/)
 - 
 
 ## Instructions

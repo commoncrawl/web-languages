@@ -1,42 +1,52 @@
 # Web Language: Tamasheq
 
 Additional names:
+
 - 
 
 News:
+
 - 
 - 
 
 Culture / History:
+
 - 
 - 
 
 Government:
+
 - 
 - 
 
 Political Parties:
+
 - 
 - 
 
 Other:
-- 
+
+- https://islamhouse.com/tm/main
+- https://ebible.org/taq/
 - 
 
 Informative links (in English):
+
 - 
 - 
 
 Additional Information:
+
 - ISO-639-3 code: taq
 - https://en.wikipedia.org/wiki/ISO_639:taq
 
-
 Scripts:
+
 - 
 
 Thank you to these people who have helped create this document:
-- 
+
+- [The African Languages Lab](https://africanlanguageslab.com/)
 - 
 
 ## Instructions

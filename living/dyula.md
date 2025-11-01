@@ -1,43 +1,52 @@
 # Web Language: Dyula
 
 Additional names:
-- 
+
+- Jula
+- Dioula
 
 News:
+
 - 
 - 
 
 Culture / History:
+
 - 
 - 
 
 Government:
+
 - 
 - 
 
 Political Parties:
+
 - 
 - 
 
 Other:
-- 
-- 
+
+- https://bibleforchildren.org/languages/jula/stories.php
+- https://www.jw.org/dyu/
 
 Informative links (in English):
+
 - 
 - 
 
 Additional Information:
+
 - ISO-639-3 code: dyu
 - https://en.wikipedia.org/wiki/ISO_639:dyu
 
-
 Scripts:
+
 - 
 
 Thank you to these people who have helped create this document:
-- 
-- 
+
+- [The African Languages Lab](https://africanlanguageslab.com/)
 
 ## Instructions
 

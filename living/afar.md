@@ -1,42 +1,52 @@
 # Web Language: Afar
 
 Additional names:
-- 
+
+- Afaraf
 
 News:
-- 
-- 
+
+- https://www.fanamc.com/afar/
+- https://www.ena.et/web/aar
+- https://afarrhb.et/buxa-marih-taddiira-wagsiisak-maglableela-luk-hangisso-gudgud-gexsisse/
 
 Culture / History:
+
 - 
 - 
 
 Government:
-- 
+
+- https://afarudcb.gov.et/aa
 - 
 
 Political Parties:
+
 - 
 - 
 
 Other:
-- 
-- 
+
+- https://islamhouse.com/aa/main/
+- https://www.wikiwand.com/aa
 
 Informative links (in English):
+
 - 
 - 
 
 Additional Information:
+
 - ISO-639-3 code: aar
 - https://en.wikipedia.org/wiki/ISO_639:aar
 
-
 Scripts:
+
 - 
 
 Thank you to these people who have helped create this document:
-- 
+
+- [The African Languages Lab](https://africanlanguageslab.com/)
 - 
 
 ## Instructions

@@ -1,44 +1,99 @@
 # Web Language: Afrikaans
 
 Additional names:
+
 - 
 
 News:
-- 
-- 
+
+- https://www.netwerk24.com/
+- https://maroelamedia.co.za/
+- https://mediamense.com/
+- https://rosestad.co.za/
+- https://www.citizen.co.za/
+- https://www.vfplus.org.za/af/
+- https://nuus.net/
+- https://diesuid-afrikaner.com/
+- https://nuusflits.com/
+- https://maroelamedia.co.za/
+- https://www.dewereldmorgen.be/
+- https://www.pretoriafm.co.za/
+- https://maroelamedia.co.za/
+- https://worcesterstandard.co.za/
+- https://af.eureporter.co/
 
 Culture / History:
-- 
-- 
+
+- http://volkspele.co.za/avvb/
+- https://www.pansalb.org/af/tuis/
+- https://www.wikiwand.com/af
 
 Government:
+
 - 
 - 
 
 Political Parties:
+
 - 
 - 
 
 Other:
+
 - https://af.wikipedia.org
-- 
-- 
+- https://www.nwu.ac.za/af
+- https://afrikaans.com/
+- https://www.anbsa.co.za/
+- https://afrikanergeskiedenis.co.za/
+- https://kakkerlak.co.za/
+- https://vryburgers.co.za/
+- https://juig.co.za/
+- https://laurik.com.ar/afrikaans/#dienste
+- https://nhka.org/
+- https://www.lekkerkampplekke.com/af/
+- https://aie.univie.ac.at/
+- https://af.wikipedia.org/wiki/Afrikaners
+- http://www.boereafrikana.com/Geskiedenis.htm
+- https://maroelamedia.co.za/afrikaans/
+- https://www.sakeliga.org.za/
+- https://kknk2024.kknk.co.za/
+- https://www.dstv.com/kyknet/af-gh/home
+- https://www.affies.com/
+- https://www.imprimatur.co.za/
+- https://www.bible.com/af
+- https://islamhouse.com/af/main/
+- https://www.pansalb.org/af/tuis/
+- https://svfellowship.info/af/branham-tabernakel-audio/
+- https://www.kiwoitoafricasafaris.com/af/tanzania-tribes/
+- https://ancestrum.com/af/
+- https://abovethehimalaya.com/af/
+- https://www.jw.org/af/
+- https://constructive-voices.com/af/
+- https://gridzy.gallery/af/
+- https://af.gtmsmart.com/
+- https://iris.peabody.vanderbilt.edu/af/
+- https://af.dearsouthafrica.co.za/
+- https://www.naturalliance.org/af/qo
+- https://af.council.science/
 
 Informative links (in English):
+
 - 
 - 
 
 Additional Information:
+
 - ISO-639-3 code: afr
 - https://en.wikipedia.org/wiki/ISO_639:afr
 
-
 Scripts:
+
 - <a href="https://en.wikipedia.org/wiki/ISO_15924">ISO 15924 Latn</a> Latin
 - 
 
 Thank you to these people who have helped create this document:
-- 
+
+- [The African Languages Lab](https://africanlanguageslab.com/)
 - 
 
 ## Instructions

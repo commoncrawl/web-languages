@@ -1,42 +1,53 @@
 # Web Language: Kituba (Congo)
 
 Additional names:
-- 
+
+- Kikongo ya Leta
+- Kileta
+- Kikongo-Kituba
 
 News:
+
 - 
 - 
 
 Culture / History:
+
 - 
 - 
 
 Government:
+
 - 
 - 
 
 Political Parties:
+
 - 
 - 
 
 Other:
-- 
+
+- https://www.jw.org/ktu-x-kit/
 - 
 
 Informative links (in English):
+
 - 
 - 
 
 Additional Information:
+
 - ISO-639-3 code: mkw
 - https://en.wikipedia.org/wiki/ISO_639:mkw
 
-
 Scripts:
+
 - 
 
 Thank you to these people who have helped create this document:
-- 
+
+- [The African Languages Lab](https://africanlanguageslab.com/)
 - 
 
 ## Instructions

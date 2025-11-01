@@ -1,42 +1,52 @@
 # Web Language: Teso
 
 Additional names:
-- 
+
+- Ateso
+- Iteso
 
 News:
+
 - 
 - 
 
 Culture / History:
+
 - 
 - 
 
 Government:
+
 - 
 - 
 
 Political Parties:
+
 - 
 - 
 
 Other:
-- 
-- 
+
+- https://svfellowship.info/teo/ajanakineta-nu-branham-tabernacle/
+- https://www.jw.org/teo/
 
 Informative links (in English):
+
 - 
 - 
 
 Additional Information:
+
 - ISO-639-3 code: teo
 - https://en.wikipedia.org/wiki/ISO_639:teo
 
-
 Scripts:
+
 - 
 
 Thank you to these people who have helped create this document:
-- 
+
+- [The African Languages Lab](https://africanlanguageslab.com/)
 - 
 
 ## Instructions

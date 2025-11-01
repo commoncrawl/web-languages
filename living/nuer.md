@@ -1,42 +1,51 @@
 # Web Language: Nuer
 
 Additional names:
-- 
+
+- Thok Nath
 
 News:
+
 - 
 - 
 
 Culture / History:
+
 - 
 - 
 
 Government:
+
 - 
 - 
 
 Political Parties:
+
 - 
 - 
 
 Other:
-- 
-- 
+
+- https://www.jw.org/nus
+- https://gridzy.gallery/nus/
 
 Informative links (in English):
+
 - 
 - 
 
 Additional Information:
+
 - ISO-639-3 code: nus
 - https://en.wikipedia.org/wiki/ISO_639:nus
 
-
 Scripts:
+
 - 
 
 Thank you to these people who have helped create this document:
-- 
+
+- [The African Languages Lab](https://africanlanguageslab.com/)
 - 
 
 ## Instructions

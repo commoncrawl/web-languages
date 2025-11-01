@@ -1,45 +1,100 @@
 # Web Language: Zulu
 
 Additional names:
+
 - isiZulu
 - 
 
 News:
-- 
-- 
+
+- https://izindaba.scrolla.africa/
+- https://isolezwe.co.za/
+- https://ilanganews.co.za/
+- https://umkhaya.co.za/
+- https://www.umbele.co.za/
+- https://ndabaonline.ukzn.ac.za/UkzndabaStory/Vol12-Issue02-translations/Kubalulwe%20Ukungabaza%20Emfundweni%20Enkulumweni%20Yokuqala%20KaSolwazi/
+- https://inkundlayezindaba.co.za/
+- https://zu.eureporter.co/
+- https://zu.eturbonews.com/
+- https://izwinews.co.za/
+- https://eyethunews.co.za/109517/engenzi-inzuzo-iyaziqhenya-ngokuqokwa-kowesifundazwe/
+- https://tabloidmedia.co.za/sekusemome-ngokuvulwa-kwesikole-sendoni-samasiko/
+- https://www.huffingtonpost.co.uk/entry/kuhle-kakhulu-ukubona-abantu-bakithi-abamnyama-befundile_uk_5c7e86bfe4b06e0d4c230a61
+- https://kznnamuhlanews.co.za/
+- https://www.citizen.co.za/northern-natal-news/news-headlines/2016/11/10/basale-ludengwane-kuhlasela-isiqhotho-esinamandla-enquthu/
+- https://amandla.site123.me/ezasemsinga-newspaper-opinions-analysis/isigcawu-sokuqala-ngobukhosi-bamabomvu-asemsinga-ubukhosi-badukiswa-ngabomu-yikhomishana-ka-85-eyayinoboya
 
 Culture / History:
-- 
-- 
+
+- https://www.kzncogta.gov.za/archives/8967
+- https://izithakazelo.blog/
+- https://zu.kingdomsalvation.org/
+- https://www.pansalb.org/zu/home-isizulu/
+- https://iafrika.org/
+- https://www.visitnongoma.com/creative-writing/impi-iyeza/
+- https://www.ulwaziprogramme.org/
+- https://zuluring.blogspot.com/
+- https://scibraai.co.za/ososayensi-bathole-isilwane-sasemandulo-esandisa-umlando-wohlu-lwezilwane/
+- https://www.ulwaziprogramme.org/ukuzalwa-kwembube-isilo/
+- https://indabukoyakho.com/
+- https://www.wikiwand.com/zu
 
 Government:
-- 
-- 
+
+- https://lawlibrary.org.za/akn/za/act/1996/constitution/zul@2013-08-23
+- https://www.presidency.gov.za/inkulumo-ka-mongameli-u-jacob-zuma-e-st-joseph-cathdral-church-marianhill-pinetown-durban
+- https://www.gov.za/zu/blog/ukuqwashisa-ngokugula-okuphathelene-nengqondo
+- https://ifp.org.za/newsroom/umcimbi-wokugubha-usuku-lokuzalwa-inkosi-ihlanganisa-iminyaka-engamashumi-ayisishiyagalolunye-nane-94-yokuzalwa-inkosi-yesizwe-sakwabuthelezi-undunankulu-womdabu-wesilo-nesizwe-sikazulu/
+- http://www.ingonyamatrust.org.za/2021/01/23/inkulumo-yesilo-ngosuku-lokugubha-iminyaka-eyi-142-yempi-yase-sandlwana-ngaphansi-kwengqikithi-ethi-ukhuvethe-impi-yesizukulwane-sethu-nesidinga-sonke/
 
 Political Parties:
+
 - 
 - 
 
 Other:
+
 - https://zu.wikipedia.org
-- 
-- 
+- https://www.foodformzansi.co.za/amakhosi-asekzn-afuna-ukukhulisa-umnotho-ngezolimo/
+- https://africacenter.org/zu/spotlight/i-sadc-izama-ukudingisisa-okhethweni-lwezimbabwe/
+- https://zu.wikipedia.org/wiki/Ikhasi_Elikhulu
+- https://zu.dearsouthafrica.co.za/
+- https://ndabaonline.ukzn.ac.za/UkzndabaStory/Vol12-Issue02-translations/Kubalulwe%20Ukungabaza%20Emfundweni%20Enkulumweni%20Yokuqala%20KaSolwazi/
+- https://southafrica.co.za/zu/izindaba-zogogo-umonakalo-owenziwe-ingculazi-kwimindeni.html
+- https://zu.council.science/
+- https://www.slideshare.net/Maseko94/umlando-omfishane-nemisebenzi-ka-nyembezi
+- https://zu.wikipedia.org/wiki/
+- https://ifp.org.za/newsroom/ukugujwa-kosuku-lwesilo-ushaka-kasenzangakhona-umbumbi-wesizwe-samazulu/
+- https://www.naturalliance.org/zu/ko
+- https://www.jw.org/zu/
+- https://zu.postposmo.com/
+- https://svfellowship.info/zu/
+- https://abovethehimalaya.com/zu/
+- https://constructive-voices.com/zu/
+- https://www.kiwoitoafricasafaris.com/zu/
+- https://gridzy.gallery/zu/
+- https://www.kowot.com/zu/
+- https://zu.gtmsmart.com/
+- https://zu.council.science/
 
 Informative links (in English):
+
 - 
 - 
 
 Additional Information:
+
 - ISO-639-3 code: zul
 - https://en.wikipedia.org/wiki/ISO_639:zul
 
-
 Scripts:
+
 - <a href="https://en.wikipedia.org/wiki/ISO_15924">ISO 15924 Latn</a> Latin
 - 
 
 Thank you to these people who have helped create this document:
-- 
+
+- [The African Languages Lab](https://africanlanguageslab.com/)
 - 
 
 ## Instructions

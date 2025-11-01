@@ -1,42 +1,51 @@
 # Web Language: Lugbara
 
 Additional names:
-- 
+
+- Lugbarati
 
 News:
+
 - 
 - 
 
 Culture / History:
+
 - 
 - 
 
 Government:
+
 - 
 - 
 
 Political Parties:
+
 - 
 - 
 
 Other:
-- 
-- 
+
+- https://svfellowship.info/lgg/inzita-branham-tabanakulua-ri-ki/
+- https://www.jw.org/lgg/gbaza/
 
 Informative links (in English):
+
 - 
 - 
 
 Additional Information:
+
 - ISO-639-3 code: lgg
 - https://en.wikipedia.org/wiki/ISO_639:lgg
 
-
 Scripts:
+
 - 
 
 Thank you to these people who have helped create this document:
-- 
+
+- [The African Languages Lab](https://africanlanguageslab.com/)
 - 
 
 ## Instructions

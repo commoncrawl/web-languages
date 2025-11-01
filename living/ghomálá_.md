@@ -1,42 +1,51 @@
 # Web Language: Ghomálá'
 
 Additional names:
-- 
+
+- Ghomala
 
 News:
+
 - 
 - 
 
 Culture / History:
+
 - 
 - 
 
 Government:
+
 - 
 - 
 
 Political Parties:
+
 - 
 - 
 
 Other:
-- 
-- 
+
+- https://www.accessagriculture.org/bbj/
+- https://www.jw.org/bbj/
 
 Informative links (in English):
+
 - 
 - 
 
 Additional Information:
+
 - ISO-639-3 code: bbj
 - https://en.wikipedia.org/wiki/ISO_639:bbj
 
-
 Scripts:
+
 - 
 
 Thank you to these people who have helped create this document:
-- 
+
+- [The African Languages Lab](https://africanlanguageslab.com/)
 - 
 
 ## Instructions

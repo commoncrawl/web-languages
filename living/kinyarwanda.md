@@ -1,10 +1,12 @@
 # Web Language: Kinyarwanda
 
 Additional names:
+
 - Ikinyarwanda
 - 
 
 News:
+
 - https://igihe.com
 - https://inyarwanda.com/
 - https://umuseke.rw/
@@ -22,47 +24,114 @@ News:
 - https://www.impuruza.net/
 - https://www.amakurumashya.rw/
 - https://www.yacu.rw/
+- https://igihe.com/
+- https://umuseke.rw/
+- https://imvahonshya.co.rw/
+- https://www.unicef.org/rwanda/rw
+- https://kinyamateka.rw/
+- https://umuryango.rw/
+- https://rba.co.rw/
+- https://www.tv1.rw/
+- https://imvahonshya.co.rw/
+- https://panorama.rw/
+- https://www.rubanda.rw/
+- https://www.kicukiro.gov.rw/
+- https://www.rusizi.gov.rw/
+- https://bpr.rw/rw
+- https://kura.rw/rw/ahabanza/
+- https://www.kigalitoday.com/
+- https://radiotv10.rw/
+- https://imvahonshya.co.rw/
+- https://amizero.rw/
+- https://integonews.com/
+- https://muhaziyacu.rw/
+- https://kingura.com/kinyarwanda/
+- https://ahabona.com/
+- https://inyarwanda.com/rw/
 
 Culture / History:
+
 - https://inyamibwa.com/
 - https://rw.amateka.net/
 
 Government:
+
 - https://www.rwandaheritage.gov.rw/
 - https://police.gov.rw/rw
 - https://www.lands.rw/rw/ahabanza
 - https://www.cheno.gov.rw/rw/ahabanza
 - https://www.rra.gov.rw/ahabanza
 - https://www.kamonyi.gov.rw/
+- https://police.gov.rw/rw/ahabanza/
+- https://nec.gov.rw/
+- https://www.nyaruguru.gov.rw/
+- https://www.gicumbi.gov.rw/
+- https://rcs.gov.rw/
+- https://www.gatsibo.gov.rw/
+- https://www.amakurumashya.rw/
+- https://www.rubavu.gov.rw/
+- https://www.karongi.gov.rw/
+- https://www.muhanga.gov.rw/
+- https://climatechange.gov.rw/
+- https://www.musanze.gov.rw/
+- https://www.kirehe.gov.rw/
+- https://www.burera.gov.rw/ahabanza
+- https://www.bugesera.gov.rw/
+- https://www.rutsiro.gov.rw/
+- https://www.kamonyi.gov.rw/
+- https://www.gasabo.gov.rw/
+- https://www.nyamasheke.gov.rw/
+- https://www.rulindo.gov.rw/
+- https://www.ngororero.gov.rw/
+- https://www.kayonza.gov.rw/
+- https://www.northernprovince.gov.rw/
+- https://www.nyamagabe.gov.rw/
+- https://www.rra.gov.rw/imisoro-yimbere-mu-gihugu
+- https://www.parliament.gov.rw/rw
+- https://www.primature.gov.rw/
+- http://www.rwandanationalibrary.gov.rw/
+- https://www.ombudsman.gov.rw/
+- https://www.nyabihu.gov.rw/
 
 Political Parties:
+
 - https://rpfinkotanyi.rw/amatora/
 - https://www.pl-rwanda.rw/?lang=rw
 
 Other:
+
 - https://rw.wikipedia.org
-- 
-- 
+- https://www.jw.org/rw/
+- https://amakuru.lands.rw/
+- https://svfellowship.info/rw/rw-branham-tabernacle-services/
+- https://support.irembo.gov.rw/is/support/home
+- https://islamhouse.com/rw/main
+- https://www.kowot.com/rw/
+- https://www.wikiwand.com/rw
 
 Informative links (in English):
+
 - 
 - 
 
 Additional Information:
+
 - ISO-639-3 code: kin
 - ISO-639-2 code: kin
 - ISO-639-1 code: rw
 - https://en.wikipedia.org/wiki/ISO_639:kin
 - Internet TLD: rw
 
-
 Scripts:
+
 - <a href="https://en.wikipedia.org/wiki/ISO_15924">ISO 15924 Latn</a> Latin
 - 
 
 Thank you to these people who have helped create this document:
+
 - [Samuel Rutunda](https://github.com/rutsam)
 - [Digital Umuganda](https://github.com/Digital-Umuganda/)
+- [The African Languages Lab](https://africanlanguageslab.com/)
 
 ## Instructions
 

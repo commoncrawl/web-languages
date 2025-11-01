@@ -1,42 +1,52 @@
 # Web Language: Kanuri
 
 Additional names:
+
 - 
 
 News:
+
 - 
 - 
 
 Culture / History:
+
 - 
 - 
 
 Government:
+
 - 
 - 
 
 Political Parties:
+
 - 
 - 
 
 Other:
-- 
-- 
+
+- https://ee.humanitarianresponse.info/x/8X6coXKp
+- https://knc.wikipedia.org/
+- https://www.ohchr.org/en/human-rights/universal-declaration/translations/kirundi
 
 Informative links (in English):
+
 - 
 - 
 
 Additional Information:
+
 - ISO-639-3 code: kau
 - https://en.wikipedia.org/wiki/ISO_639:kau
 
-
 Scripts:
+
 - 
 
 Thank you to these people who have helped create this document:
-- 
+
+- [The African Languages Lab](https://africanlanguageslab.com/)
 - 
 
 ## Instructions

@@ -1,45 +1,57 @@
 # Web Language: Alur
 
 Additional names:
-- 
+
+- Dho-Alur
 
 News:
+
 - 
 - 
 
 Culture / History:
+
 - 
 - 
 
 Government:
+
 - 
 - 
 
 Political Parties:
+
 - 
 - 
 
 Other:
-- 
-- 
+
+- https://www.jw.org/alz/
+- https://bibleforchildren.org/languages/alur/stories.php
+- https://gridzy.gallery/alz/
+- https://www.kowot.com/alz/
+- https://alz.gtmsmart.com/
 
 Informative links (in English):
+
 - 
 - 
 
 Additional Information:
+
 - ISO-639-3 code: alz
 - https://en.wikipedia.org/wiki/ISO_639:alz
 
-
 Scripts:
+
 - 
 
 Thank you to these people who have helped create this document:
-- 
+
+- [The African Languages Lab](https://africanlanguageslab.com/)
 - 
 
-## Instructions
+# # Instructions
 
 There are 2 ways to add to this document. If you aren't very familiar
 with Github, you can copy the entire document into an email, fill it

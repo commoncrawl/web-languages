@@ -1,44 +1,56 @@
 # Web Language: Venda
 
 Additional names:
+
 - Tshivenda
 - 
 
 News:
-- 
-- 
+
+- https://www.limpopomirror.co.za/articles/venda
+- https://www.zoutnet.co.za/articles/venda
+- https://www.pansalb.org/ve/home-tshivenda/
+- https://www.gov.za/ve/blog/u-lwa-na-masiandaitwa-vhavhaho-vhangwaho-nga-halwa
 
 Culture / History:
+
 - 
 - 
 
 Government:
+
 - 
 - 
 
 Political Parties:
+
 - 
 - 
 
 Other:
+
 - https://ve.wikipedia.org
-- 
-- 
+- https://www.jw.org/ve/
+- https://gridzy.gallery/ve/
+- https://www.wikiwand.com/ve
 
 Informative links (in English):
+
 - 
 - 
 
 Additional Information:
+
 - ISO-639-3 code: ven
 - https://en.wikipedia.org/wiki/ISO_639:ven
 
-
 Scripts:
+
 - 
 
 Thank you to these people who have helped create this document:
-- 
+
+- [The African Languages Lab](https://africanlanguageslab.com/)
 - 
 
 ## Instructions

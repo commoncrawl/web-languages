@@ -1,44 +1,53 @@
 # Web Language: Bemba (Zambia)
 
 Additional names:
+
 - Bemba
 - 
 
 News:
+
 - 
 - 
 
 Culture / History:
+
 - 
 - 
 
 Government:
+
 - 
 - 
 
 Political Parties:
+
 - 
 - 
 
 Other:
-- 
-- 
+
+- https://www.jw.org/bem
+- https://ebin.pub/baibolo-amalembo-ya-calo-cipya.html
 
 Informative links (in English):
+
 - 
 - 
 
 Additional Information:
+
 - ISO-639-3 code: bem
 - https://en.wikipedia.org/wiki/ISO_639:bem
 
-
 Scripts:
+
 - <a href="https://en.wikipedia.org/wiki/ISO_15924">ISO 15924 Latn</a> Latin
 - 
 
 Thank you to these people who have helped create this document:
-- 
+
+- [The African Languages Lab](https://africanlanguageslab.com/)
 - 
 
 ## Instructions

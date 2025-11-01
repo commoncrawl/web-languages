@@ -1,45 +1,96 @@
 # Web Language: Tigrinya
 
 Additional names:
+
 - ትግርኛ
 - 
 
 News:
-- 
-- 
+
+- https://www.bbc.com/tigrinya
+- https://tigraitv.com/
+- https://www.vaticannews.va/ti.html
+- https://www.eritrea-chat.com/
+- https://www.sverigesradio.se/radioswedentigrinya
+- https://asmarino.com/tig
+- http://www.jeberti.com/index.php/tigrina
+- https://adal61.net/%e1%89%b5%e1%8c%8d%e1%88%ad%e1%8a%9b/
+- https://cpotm.com/
+- https://ethsat.com/
+- https://archive.assenna.com/atv-%E1%8A%AA%E1%8A%96-%E1%8A%A3%E1%88%AD%E1%8A%A5%E1%88%B5%E1%89%B0-%E1%8B%9C%E1%8A%93%E1%89%B3%E1%89%B5-%E1%89%B5%E1%88%AD%E1%8C%89%E1%88%9D-%E1%8B%91%E1%8B%B0%E1%89%B5-%E1%89%A3%E1%88%85/comment-page-1/
+- https://www.ena.et/web/tig
+- https://erisat.org/
+- https://tesfanews.com/tigrinya/page/14/
+- https://eri-platform.org/
+- https://issbc.org/ti/
+- https://www.dimtsiweyanetigrai.com/home/
+- https://awate.com/%E1%8A%A4%E1%88%AD%E1%89%B5%E1%88%AB-%E1%88%83%E1%8C%88%E1%88%AB%E1%8B%8A-%E1%8A%A3%E1%8D%88%E1%88%AD%E1%8A%AD%E1%89%A1/
+- https://www.tig-comm.org/?p=3988
+- https://shabait.com/2025/07/27/%E1%89%83%E1%88%88-%E1%88%98%E1%8C%A0%E1%8B%AD%E1%89%95-%E1%8D%95%E1%88%A8%E1%8B%9A%E1%8B%B0%E1%8A%95%E1%89%B5-%E1%8A%A2%E1%88%B3%E1%8B%AD%E1%8B%AB%E1%88%B5-%E1%8A%A3%E1%8D%88%E1%8B%88%E1%88%AD-3/
+- https://press.et/
+- https://www.amn.gov.et/
+- https://www.ena.et/web/tig/
+- https://www.snitna.com/index.html
+- https://hornaffairs.com/tg/
+- https://axumawian.com/
+- https://www.eriswiss.com/%e1%89%b5%e1%8c%8d%e1%88%ad%e1%8a%9b/
 
 Culture / History:
-- 
-- 
+
+- https://eriyopia.com/
+- https://www.tellingtherealstory.org/ti/
+- https://www.zaratbebat.com/
+- https://tghat.com/%e1%88%b5%e1%88%88/
+- https://merebpoetry.wordpress.com/
+- https://peneritrea.com/
 
 Government:
+
 - 
 - 
 
 Political Parties:
-- 
+
+- https://www.harnnet.org/
 - 
 
 Other:
+
 - https://ti.wikipedia.org
-- 
-- 
+- https://playboard.co/en/search?q=%E1%8B%9C%E1%8A%93%20%E1%89%B5%E1%8C%8D%E1%88%AD%E1%8A%9B
+- https://altohabesha.com/ti/products/%E1%89%B3%E1%88%AA%E1%8A%AD-%E1%8A%A4%E1%88%AD%E1%89%B5%E1%88%AB-%E1%8A%AB%E1%89%A5-%E1%8C%A5%E1%8A%95%E1%89%B2-%E1%8A%AD%E1%88%B3%E1%89%A5-%E1%8A%93%E1%8C%BD%E1%8A%90%E1%89%B5?srsltid=AfmBOoqW9njIYW8FQ1qXl8hAG4TDFV8jYvLY-CwfzmgQtutcOezgn75l
+- https://www.africanidea.org/wurayna43.pdf
+- https://podfollow.com/sbs-tigrinya/episode/bbc11b1afc212191ad21dcea248d478de3b442f1/view
+- http://www.mekaleh-eritra.org/
+- https://babadada.com/topic/week/amh/tir
+- https://www.accessnow.org/publication/%E1%8B%B5%E1%88%9D%E1%8D%85%E1%89%B3%E1%89%B5-%E1%89%B5%E1%8C%8D%E1%88%AB%E1%8B%AD%E1%8D%A3-%E1%8B%9D%E1%89%90%E1%8D%80%E1%88%88-%E1%8B%95%E1%8D%85%E1%8B%8B-%E1%8A%A2%E1%8A%95%E1%89%B0%E1%88%AD/
+- https://tig.ethiopiacheck.org/
+- https://www.togoruba.org/
+- https://teklemaryamg.blogspot.com/
+- https://www.emkulu.com/
+- http://dehai.org/dehai/
+- https://islamhouse.com/ti/main
+- https://www.jw.org/ti/
+- https://ti.gtmsmart.com/
 
 Informative links (in English):
+
 - 
 - 
 
 Additional Information:
+
 - ISO-639-3 code: tir
 - https://en.wikipedia.org/wiki/ISO_639:tir
 
-
 Scripts:
+
 - <a href="https://en.wikipedia.org/wiki/ISO_15924">ISO 15924 Ethi</a> Ge‘ez
 - 
 
 Thank you to these people who have helped create this document:
-- 
+
+- [The African Languages Lab](https://africanlanguageslab.com/)
 - 
 
 ## Instructions

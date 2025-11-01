@@ -9,11 +9,11 @@ News:
 - 
 
 Culture / History:
-- 
-- 
+- https://www.kohanga.ac.nz (Māori language total immersion schools for <6 year olds)
+- https://hepatakakupu.nz (Monolingual Māori dictionary but lacks a word list - in combination with a word list this would be an excellent source)
 
 Government:
-- 
+- https://www.tetaurawhiri.govt.nz (Māori language commission)
 - 
 
 Political Parties:
@@ -41,7 +41,7 @@ Scripts:
 - 
 
 Thank you to these people who have helped create this document:
-- 
+- Damian Stewart (https://github.com/damian0815)
 - 
 
 ## Instructions

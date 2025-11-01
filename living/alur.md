@@ -6,23 +6,23 @@ Additional names:
 
 News:
 
--
--
+- 
+- 
 
 Culture / History:
 
--
--
+- 
+- 
 
 Government:
 
--
--
+- 
+- 
 
 Political Parties:
 
--
--
+- 
+- 
 
 Other:
 
@@ -34,8 +34,8 @@ Other:
 
 Informative links (in English):
 
--
--
+- 
+- 
 
 Additional Information:
 
@@ -44,14 +44,14 @@ Additional Information:
 
 Scripts:
 
--
+- 
 
 Thank you to these people who have helped create this document:
 
 - [The African Languages Lab](https://africanlanguageslab.com/)
--
+- 
 
-## Instructions
+# # Instructions
 
 There are 2 ways to add to this document. If you aren't very familiar
 with Github, you can copy the entire document into an email, fill it

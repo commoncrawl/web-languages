@@ -7,31 +7,31 @@ Additional names:
 News:
 
 - https://insightpostug.com/tag/runyankole/
--
+- 
 
 Culture / History:
 
--
+- 
 -
 
 Government:
 
--
+- 
 -
 
 Political Parties:
 
--
+- 
 -
 
 Other:
 
--
+- 
 -
 
 Informative links (in English):
 
--
+- 
 -
 
 Additional Information:
@@ -41,13 +41,14 @@ Additional Information:
 
 Scripts:
 
--
+- 
 
 Thank you to these people who have helped create this document:
 
 - [The African Languages Lab](https://africanlanguageslab.com/)
--
+- 
 
+!
 ## Instructions
 
 There are 2 ways to add to this document. If you aren't very familiar

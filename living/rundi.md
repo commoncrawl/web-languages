@@ -3,7 +3,7 @@
 Additional names:
 
 - ikirundi
--
+- 
 
 News:
 
@@ -24,13 +24,13 @@ Culture / History:
 
 Government:
 
--
--
+- 
+- 
 
 Political Parties:
 
--
--
+- 
+- 
 
 Other:
 
@@ -47,8 +47,8 @@ Other:
 
 Informative links (in English):
 
--
--
+- 
+- 
 
 Additional Information:
 
@@ -58,12 +58,12 @@ Additional Information:
 Scripts:
 
 - <a href="https://en.wikipedia.org/wiki/ISO_15924">ISO 15924 Latn</a> Latin
--
+- 
 
 Thank you to these people who have helped create this document:
 
 - [The African Languages Lab](https://africanlanguageslab.com/)
--
+- 
 
 ## Instructions
 

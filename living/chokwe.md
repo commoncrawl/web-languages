@@ -16,23 +16,23 @@ Additional names:
 
 News:
 
--
--
+- 
+- 
 
 Culture / History:
 
--
--
+- 
+- 
 
 Government:
 
--
--
+- 
+- 
 
 Political Parties:
 
--
--
+- 
+- 
 
 Other:
 
@@ -55,7 +55,7 @@ Additional Information:
 - French is the official language in the DRC, and four indigenous languages have national status (Lingala, Swahili, Kikongo, Tshiluba). Chokwe, while spoken by a community in southern DRC, is not an official language.
 - English is the official language of Zambia, and certain Bantu languages (Bemba, Nyanja, Tonga, Lozi, Lunda, Luvale, Kaonde) are used in education and some provincial administration. Chokwe is not one of these seven regional languages, although it is spoken by a minority in the northwest.
 - This document needs reviewing by a native speaker.
--
+- 
 
 Scripts:
 
@@ -64,7 +64,7 @@ Scripts:
 Thank you to these people who have helped create this document:
 
 - [The African Languages Lab](https://africanlanguageslab.com/)
--
+- 
 
 ## Instructions
 

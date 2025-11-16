@@ -16,6 +16,12 @@ News:
 - https://www.se.pl/ (tabloid)
 - https://www.rmf24.pl
 - https://www.polskieradio.pl/ (National Public Broadcaster)
+- https://wpolityce.pl/
+- https://dorzeczy.pl/
+- https://www.gazeta.pl/
+- https://www.polsatnews.pl/
+- https://wyborcza.pl/0,0.html
+- https://www.sport.pl/ (sports)
 
 Culture / History:
 - https://culture.pl/pl

@@ -6,14 +6,28 @@ Additional names:
 
 News:
 - https://www.aktuality.sk/
-- https://www.pravda.sk/
 - https://www.sme.sk/
 - https://www.pluska.sk/
+- https://www.zoznam.sk/
+- https://www.pravda.sk/
+- https://www.azet.sk/
 - https://www.cas.sk/
 - https://www.topky.sk/
+- https://refresher.sk/ (Youth-oriented news and entertainment)
+- https://www.startitup.sk/
+- https://www.interez.sk/
 - https://www.hnonline.sk/ (Business)
 - https://dennikn.sk/ (Center-right)
+- https://www.sita.sk/ (Slovak News Agency)
 - https://www.teraz.sk/ (Slovak Public Broadcaster)
+- https://www.ta3.com/ (24-hour news channel)
+- https://www.tvnoviny.sk/ (TV Markíza news)
+- https://www.markiza.sk/ (TV Markíza)
+- https://www.joj.sk/ (TV JOJ)
+- https://www.noviny.sk/ (JOJ news portal)
+- https://www.webnoviny.sk/
+- https://www.dobrenoviny.sk/
+- https://sportnet.sme.sk/ (Sports news)
 
 Culture / History:
 - https://sk.wikipedia.org/wiki/Slovensko
@@ -22,6 +36,11 @@ Culture / History:
 - https://www.snd.sk/ (Slovak National Theatre)
 - https://www.snm.sk/ (Slovak National Museum)
 - https://www.snk.sk/ (Slovak National Library)
+- https://www.sng.sk/ (Slovak National Gallery)
+- https://www.matica.sk/ (Matica slovenská - cultural and scientific institution)
+- https://www.upn.gov.sk/ (Nation's Memory Institute)
+- https://www.litcentrum.sk/ (Slovak Literary Center)
+- https://www.ludovakultura.sk/ (Centre for Traditional Folk Culture)
 
 Government:
 - https://www.vlada.gov.sk/ (Government of the Slovak Republic)
@@ -31,29 +50,46 @@ Government:
 - https://www.mzv.sk/ (Ministry of Foreign and European Affairs of the Slovak Republic)
 - https://www.financnasprava.sk/ (Financial Administration of the Slovak Republic)
 - https://www.justice.gov.sk/ (Ministry of Justice of the Slovak Republic)
+- https://www.minedu.sk/ (Ministry of Education, Science, Research and Sport)
+- https://www.health.gov.sk/ (Ministry of Health)
+- https://www.mosr.sk/ (Ministry of Defence)
+- https://www.culture.gov.sk/ (Ministry of Culture)
+- https://www.economy.gov.sk/ (Ministry of Economy)
+- https://www.employment.gov.sk/ (Ministry of Labour, Social Affairs and Family)
+- https://www.ustavnysud.sk/ (Constitutional Court of the Slovak Republic)
+- https://www.nsud.sk/ (Supreme Court of the Slovak Republic)
 
 Political Parties:
+- https://www.strana-smer.sk/ (SMER – Social Democracy)
 - https://progresivne.sk/ (Progressive Slovakia)
 - https://www.hlas-sd.sk/ (Voice – Social Democracy)
 - https://www.kdh.sk/ (Christian Democratic Movement)
 - https://www.sas.sk/ (Freedom and Solidarity)
 - https://www.sns.sk/ (Slovak National Party)
 - https://hnutie-republika.sk/ (Republic)
+- https://www.obycajniludia.sk/ (Ordinary People and Independent Personalities)
 
 Other:
 - https://sk.wikipedia.org
-- 
+- https://www.rtvs.sk/ (Radio and Television Slovakia - public broadcaster)
+- https://www.expres.sk/ (Rádio Expres)
+- https://www.funradio.sk/ (Fun Rádio)
+- https://www.uniba.sk/ (Comenius University in Bratislava)
+- https://www.stuba.sk/ (Slovak University of Technology in Bratislava)
 - 
 
 Informative links (in English):
 - https://en.wikipedia.org/wiki/Slovakia
+- https://en.wikipedia.org/wiki/Slovak_language
 - https://en.wikipedia.org/wiki/History_of_Slovakia
 - https://en.wikipedia.org/wiki/Culture_of_Slovakia
 - https://slovakia.travel/en (Official Tourism Website for Slovakia)
+- https://en.wikipedia.org/wiki/List_of_political_parties_in_Slovakia
 
 Additional Information:
 - ISO-639-3 code: slk
 - https://en.wikipedia.org/wiki/ISO_639:slk
+- Internet TLD: .sk
 - This document needs reviewing by a native speaker.
 
 
@@ -63,6 +99,7 @@ Scripts:
 
 Thank you to these people who have helped create this document:
 - [Ethan Wenokur](https://github.com/e-Winnie)
+- [Marek Šuppa](https://github.com/mrshu)
 - 
 
 ## Instructions

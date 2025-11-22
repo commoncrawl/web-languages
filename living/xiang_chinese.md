@@ -1,7 +1,8 @@
 # Web Language: Xiang Chinese
 
 Additional names:
-- 
+- 湖南话(hu nan hua)
+- 湘语(xiang yu) 
 
 News:
 - 
@@ -12,32 +13,24 @@ Culture / History:
 - 
 
 Government:
-- 
-- 
 
 Political Parties:
-- 
-- 
 
 Other:
-- 
-- 
+- https://www.hunan.gov.cn/hnszf/jxxx/hxwh/jfy/201711/t20171111_4685263.html
 
 Informative links (in English):
-- 
-- 
 
 Additional Information:
 - ISO-639-3 code: hsn
-- https://en.wikipedia.org/wiki/ISO_639:hsn
-
+- https://en.wikipedia.org/wiki/Xiang_Chinese
 
 Scripts:
-- 
+- ISO 15924 Hans Hanzi
+- ISO 15924 Hant Hant
 
 Thank you to these people who have helped create this document:
-- 
-- 
+- [Nativeatom](https://github.com/Nativeatom)
 
 ## Instructions
 

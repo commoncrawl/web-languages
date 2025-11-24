@@ -5,14 +5,20 @@ Additional names:
 
 News:
 - https://www.icswb.com/h/152/20150730/333668.html
+- 
+- 
 
 Culture / History:
 - https://maigoo.com/goomai/266495.html
+- 
+- 
 
 Government:
 - 
+- 
 
 Political Parties:
+- 
 - 
 
 
@@ -20,14 +26,17 @@ Other:
 - https://www.hunan.gov.cn/hnszf/jxxx/hxwh/jfy/201711/t20171111_4685263.html
 - https://wenku.baidu.com/view/d2c4d14793c69ec3d5bbfd0a79563c1ec5dad7ea?aggId=4efaa6d4ac45b307e87101f69e3143323868f5d9&fr=catalogMain_text_ernie_recall_backup_new%3Awk_recommend_main2&_wkts_=1763808032141&needWelcomeRecommand=1 (dictionary material)
 - https://www.sinoss.net/upload/resources/file/2022/05/27/30630.pdf (academic study with Xiang phrases)
+- 
+- 
 
 Informative links (in English):
+- 
 - 
 
 Additional Information:
 - ISO-639-3 code: hsn
 - https://en.wikipedia.org/wiki/Xiang_Chinese
-- 
+
 
 Scripts:
 - ISO 15924 Hans Hanzi
@@ -36,6 +45,7 @@ Scripts:
 
 Thank you to these people who have helped create this document:
 - [Nativeatom](https://github.com/Nativeatom)
+- 
 - 
 
 ## Instructions

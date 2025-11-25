@@ -4,7 +4,7 @@ Additional names:
 - 
 
 News:
-- https://news.pts.org.tw/news/taigi?fbclid=IwY2xjawOSAbJleHRuA2FlbQIxMABicmlkETFrWExkWFJJbzQ1R01qODl0c3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHll8bJoeJCNpNWr5nDSwX2qzUMD8tsU3PFwHj8u99B682ByQo0N1CC0zVra4_aem_hIUwZF-Kai7Zpeu4ERK-rg
+- https://news.pts.org.tw/news/taigi?page=1
 - 
 
 Culture / History:

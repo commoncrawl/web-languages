@@ -11,7 +11,10 @@ News:
 - https://www.mtvuutiset.fi/
 - https://www.hs.fi/
 - https://www.is.fi/
+- https://www.seiska.fi/
 - https://www.uusisuomi.fi/
+- https://www.aamulehti.fi/
+- https://www.maaseuduntulevaisuus.fi/
 - https://www.tekniikkatalous.fi/ (Technology News)
 - https://www.uusiteknologia.fi/ (Technology News)
 - https://www.mikrobitti.fi/ (Technology News)
@@ -37,6 +40,16 @@ Government:
 - https://um.fi/etusivu (Ministry for Foreign Affairs)
 - https://intermin.fi/etusivu (Ministry of the Interior)
 
+Public services:
+- https://kela.fi
+- https://reservilainen.fi
+- https://ilmatieteenlaitos.fi
+- https://www.suomi.fi/
+- https://vero.fi/
+- https://traficom.fi/fi
+- https://www.kanta.fi
+- https://posti.fi
+
 Political Parties:
 - https://keskusta.fi/ (Centre Party of Finland)
 - https://www.kokoomus.fi/ (National Coalition Party)
@@ -48,12 +61,85 @@ Political Parties:
 - https://sfp.fi/fi/etusivu/ (Swedish People's Party)
 - https://www.kd.fi/ (Christian Democrats)
 
+Universities:
+- https://www.jyu.fi
+- https://www.aalto.fi
+- https://www.helsinki.fi
+- https://www.tuni.fi
+- https://www.utu.fi
+- https://www.lut.fi
+- https://www.oulu.fi
+- https://ulapland.fi
+
+Universities of applied sciences
+- https://www.theseus.fi
+
+Web sites for different cities:
+- https://www.hel.fi
+- https://tampere.fi
+- https://www.turku.fi
+- https://www.espoo.fi
+- https://www.vantaa.fi
+- https://www.jyvaskyla.fi
+- https://www.ouka.fi/
+
+Groceries:
+- https://www.prisma.fi
+- https://www.s-kaupat.fi
+- https://www.k-ruoka.fi
+- https://www.lidl.fi
+
+Online Shops:
+- https://tori.fi
+- https://www.verkkokauppa.com/fi
+- https://elisa.fi
+- https://www.telia.fi
+- https://lippu.fi
+- https://www.gigantti.fi
+- https://www.power.fi
+- https://www.tokmanni.fi
+- https://parfym.fi
+- https://pikkuvihrea.fi
+- https://piruetti.fi
+- https://puustelli.fi
+- https://plus.fi
+- https://www.louhi.fi
+- https://hostingpalvelu.fi
+
+Banks:
+- https://www.op.fi
+- https://www.nordea.fi
+- https://www.s-pankki.fi
+- https://www.aktia.fi
+- https://danskebank.fi
+- https://www.handelsbanken.fi/fi
+- https://www.poppankki.fi
+- https://www.nordnet.fi/fi
+
+Insurance:
+- https://www.if.fi/
+- https://www.lahitapiola.fi/
+- https://www.popvakuutus.fi/
+- https://www.pohjantahti.fi/
+- https://www.turva.fi/
+- https://www.fennia.fi/
+
 Other:
 - https://fi.wikipedia.org
-- https://www.vauva.fi/
-- https://www.suomi24.fi/
-- https://keskustelut.inderes.fi/
+- https://www.vauva.fi
+- https://www.suomi24.fi
+- https://keskustelut.inderes.fi
 - https://www.reddit.com/r/Suomi/
+- https://www.telsu.fi
+- https://www.finanssiala.fi/
+- https://www.mehilainen.fi/
+
+Finnish Law:
+- https://www.finlex.fi/fi
+
+Streaming services:
+- https://elisaviihde.fi
+- https://www.ruutu.fi
 
 Informative links (in English):
 - https://en.wikipedia.org/wiki/Finland

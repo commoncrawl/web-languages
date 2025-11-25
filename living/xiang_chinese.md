@@ -26,7 +26,7 @@ Other:
 - https://www.hunan.gov.cn/hnszf/jxxx/hxwh/jfy/201711/t20171111_4685263.html
 - https://wenku.baidu.com/view/d2c4d14793c69ec3d5bbfd0a79563c1ec5dad7ea?aggId=4efaa6d4ac45b307e87101f69e3143323868f5d9&fr=catalogMain_text_ernie_recall_backup_new%3Awk_recommend_main2&_wkts_=1763808032141&needWelcomeRecommand=1 (dictionary material)
 - https://www.sinoss.net/upload/resources/file/2022/05/27/30630.pdf (academic study with Xiang phrases)
-- 
+- https://incubator.wikimedia.org/wiki/Special:PrefixIndex/Wp/hsn (Wikipedia-style material in Xiang Chinese, under development)
 - 
 
 Informative links (in English):

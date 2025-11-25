@@ -49,6 +49,7 @@ Political Parties:
 - https://www.kd.fi/ (Christian Democrats)
 
 Other:
+- https://kotus.fi (Institute for the Languages of Finland)
 - https://fi.wikipedia.org
 - https://www.vauva.fi/
 - https://www.suomi24.fi/

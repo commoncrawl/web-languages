@@ -4,7 +4,7 @@ Additional names:
 - 
 
 News:
-- 
+- https://news.pts.org.tw/news/taigi?fbclid=IwY2xjawOSAbJleHRuA2FlbQIxMABicmlkETFrWExkWFJJbzQ1R01qODl0c3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHll8bJoeJCNpNWr5nDSwX2qzUMD8tsU3PFwHj8u99B682ByQo0N1CC0zVra4_aem_hIUwZF-Kai7Zpeu4ERK-rg
 - 
 
 Culture / History:
@@ -20,7 +20,8 @@ Political Parties:
 - 
 
 Other:
-- 
+- https://holo.iformosa.com.tw/oral-reading/list (Material for junior and high-school reading competition)
+- https://zh-min-nan.wikipedia.org/wiki/Th%C3%A2u-ia%CC%8Dh (Wikipedia in Min nan Chinese, latin script, need native speaker verification)
 - 
 
 Informative links (in English):
@@ -36,7 +37,7 @@ Scripts:
 - 
 
 Thank you to these people who have helped create this document:
-- 
+- [Nativeatom](https://github.com/Nativeatom)
 - 
 
 ## Instructions

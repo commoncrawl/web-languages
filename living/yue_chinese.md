@@ -44,6 +44,7 @@ Informative links (in English):
 
 Additional Information:
 - ISO-639-3 code: yue
+- https://en.wikipedia.org/wiki/ISO_639:yue
 - Formal writing almost always uses Standard Written Chinese, even when the spoken language is Cantonese. This leaves genuine written Cantonese mostly to informal media and user-generated content.
 
 Scripts:

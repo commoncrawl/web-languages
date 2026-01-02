@@ -35,7 +35,7 @@ Informative links (in English):
 
 Additional Information:
 - ISO-639-3 code: hsn
-- https://en.wikipedia.org/wiki/Xiang_Chinese
+- https://en.wikipedia.org/wiki/ISO_639:hsn
 
 
 Scripts:

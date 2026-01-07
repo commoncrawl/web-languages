@@ -1,42 +1,84 @@
 # Web Language: Mandarin Chinese
 
 Additional names:
-- 
+- 官话
+- 官話
+- Guānhuà
 
 News:
-- 
-- 
+- http://www.ce.cn/ (Economic Daily - Daily Economic News)
+- http://jjckb.xinhuanet.com/ (Economic Information Daily - Daily Economic News)
+- https://www.eeo.com.cn/ (The Economic Observer - Weekly Economic News)
+- https://huanqiu.com/ (Global Times - Daily Tabloid News)
+- https://www.workercn.cn/ (Workers' Daily - Daily News)
+- https://www.gmw.cn/ (Guangming Daily - Daily News)
+- http://www.legaldaily.com.cn/ (Legal Daily - Daily Legal News)
+- https://www.rmfyb.com/ (People's Court Daily - Daily Legal News)
+- http://www.people.com.cn/ (People's Daily - Daily News)
+- http://www.81.cn/ (People's Liberation Army Daily - Daily Military News)
+- https://www.cankaoxiaoxi.com/#/index (Reference News)
+- https://www.osportsmedia.com/homePage (Oriental Sports Daily - Daily Sports News)
+- https://www.titan24.com/ (Titan Sports - Tabloid Sports News)
+- https://www.nbd.com.cn/ (National Business Daily  - Daily Financial News)
+- http://www.cet.com.cn/ (China Economic Times - Daily Economic News)
 
 Culture / History:
-- 
-- 
+- https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E6%96%87%E5%8C%96
+- https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9B%BD%E5%8E%86%E5%8F%B2
+- https://www.nlc.cn/web/index.shtml (National Library of China)
+- https://en.chnmuseum.cn/ (National Museum of China)
+- https://www.nnhm.org.cn/ (Natural History Museum of China)
+- https://www.namoc.cn/ (National Art Museum of China)
+- https://www.dpm.org.cn/ (The Palace Museum)
+- https://intl.dpm.org.cn/index.html?l=tc (The Palace Museum)
 
 Government:
-- 
-- 
+- https://www.gov.cn/ (State Council of China)
+- http://www.npc.gov.cn/npc/index.html (National People's Congress)
+- https://www.court.gov.cn/ (Supreme People's Court)
+- https://www.mofcom.gov.cn/ (Ministry of Commerce)
+- https://www.fmprc.gov.cn/ (Ministry of Foreign Affairs)
+- http://www.mod.gov.cn/ (Ministry of Defence)
+- https://www.cnsa.gov.cn/ (Chinese National Space Administration)
+- http://www.pbc.gov.cn/ (People's Bank of China)
+- https://www.most.gov.cn/index.html (Ministry of Science and Technology)
+- https://www.moj.gov.cn/ (Ministry of Justice)
+- https://www.mof.gov.cn/index.htm (Ministry of Finance)
+- https://www.mct.gov.cn/ (Ministry of Culture and Tourism)
+- https://www.sport.gov.cn/ (General Administration of Sport of China)
 
 Political Parties:
-- 
-- 
+- https://www.12371.cn/ (Chinese Communist Party)
+- http://www.minge.gov.cn/ (Revolutionary Committee of the Chinese Kuomintang)
+- https://mmzy.org.cn/ (China Democratic League)
+- https://www.cndca.org.cn/ (China National Democratic Construction Association)
+- https://www.mj.org.cn/ (China Association for Promoting Democracy)
+- https://www.zg.org.cn/ (China Zhi Gong Party)
+- https://www.93.gov.cn/ (Jiusan Society)
+- https://www.taimeng.org.cn/ (Taiwan Democratic Self-Government League)
 
 Other:
-- 
+- https://zh.wikipedia.org/wiki/Wikipedia:%E9%A6%96%E9%A1%B5
 - 
 
 Informative links (in English):
-- 
-- 
+- https://en.wikipedia.org/wiki/China
+- https://en.wikipedia.org/wiki/Chinese_language
+- https://en.wikipedia.org/wiki/Mandarin_Chinese
+- https://en.wikipedia.org/wiki/History_of_China
 
 Additional Information:
 - ISO-639-3 code: cmn
 - https://en.wikipedia.org/wiki/ISO_639:cmn
+- This document needs reviewing by a native speaker.
 
 
 Scripts:
-- 
+- <a href="https://en.wikipedia.org/wiki/ISO_15924">ISO 15924 Hans</a> Hanzi
+- <a href="https://en.wikipedia.org/wiki/ISO_15924">ISO 15924 Hant</a> Hant
 
 Thank you to these people who have helped create this document:
-- 
+- [Ethan Wenokur](https://github.com/e-Winnie)
 - 
 
 ## Instructions

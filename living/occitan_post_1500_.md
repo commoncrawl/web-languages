@@ -54,6 +54,18 @@ Other:
 - https://ieo-opm.com/oc/ (academy promoting the Occitan language)
 - https://ieo31.com/wordpress/ (local academy promoting the Occitan language)
 - https://paraulas.net/ (music and lyrics)
+- https://www.mejans.fr/ (promoting Occitan in the digital world)
+- https://auselum.wordpress.com/ (about birds)
+- http://calandretadelpaisdepamias.blogspot.com/ (school)
+- https://calandreta-albi.blogspot.com/ (school)
+- https://cercaval.blogspot.com/
+- https://ieo-erau.com/lo-blog/
+- https://avaironesa.blogspot.com/
+- https://lausetadepamias.blogspot.com/
+- https://loblogdemimi.blogspot.com/
+- https://loromegairedeservici.blogspot.com/
+- https://melanizetofre.blogspot.com/
+- https://occitanissima.blogspot.com/
 
 Informative links (in English):
 - 

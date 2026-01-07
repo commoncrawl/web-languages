@@ -1,15 +1,16 @@
 # Web Language: Ngas
 
 Additional names:
-- 
+- Angas
 
 News:
 - 
 - 
 
 Culture / History:
-- 
-- 
+- https://yilngas.org/en (“World of Ngas / Ngas World”: general site about Ngas people & language).
+- https://yilngas.org/en/literatures “Literatures” page on World of Ngas: offers downloadable documents (Ngas word lists, orthography chart, numbering system)
+- https://ngasculturalheritage.wordpress.com - “Ngas Cultural Heritage” blog — proverbs, values, culture‑history suggestions.
 
 Government:
 - 
@@ -20,12 +21,15 @@ Political Parties:
 - 
 
 Other:
-- 
-- 
+- https://glosbe.com/en/anc (English:Ngas dictionary / translation resource).
+- https://dbs.org/en/research/languages/anc/ (Profile of the Ngas language by Digital Bible Society).
+- https://www.worldlanguagemovies.com/program/c02200 — “Words of Life Ngas” — audio / video resources (film in Ngas language) via World Language Movies / Global Recordings Network.
 
 Informative links (in English):
-- 
-- 
+- https://en.wikipedia.org/wiki/Ngas_language
+- https://en.wikipedia.org/wiki/Angas_people
+- https://www.youtube.com/@ngasTV
+- https://joshuaproject.net/people_groups/10320/NI
 
 Additional Information:
 - ISO-639-3 code: anc
@@ -36,7 +40,7 @@ Scripts:
 - 
 
 Thank you to these people who have helped create this document:
-- 
+- [Gershinen Shanding](https://github.com/pgshandino)
 - 
 
 ## Instructions

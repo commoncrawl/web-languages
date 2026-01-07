@@ -1,42 +1,51 @@
 # Web Language: Fang (Cameroon)
 
 Additional names:
+
 - 
 
 News:
+
 - 
 - 
 
 Culture / History:
+
 - 
 - 
 
 Government:
+
 - 
 - 
 
 Political Parties:
+
 - 
 - 
 
 Other:
-- 
-- 
+
+- https://svfellowship.info/fan/esen-tabernaculo-branham/
+- https://www.jw.org/fan/
 
 Informative links (in English):
+
 - 
 - 
 
 Additional Information:
+
 - ISO-639-3 code: fak
 - https://en.wikipedia.org/wiki/ISO_639:fak
 
-
 Scripts:
+
 - 
 
 Thank you to these people who have helped create this document:
-- 
+
+- [The African Languages Lab](https://africanlanguageslab.com/)
 - 
 
 ## Instructions

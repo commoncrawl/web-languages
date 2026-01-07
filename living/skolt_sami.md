@@ -12,7 +12,7 @@ Culture / History:
 - 
 
 Government:
-- 
+- https://samediggi.fi/nuo/
 - 
 
 Political Parties:

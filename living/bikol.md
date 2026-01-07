@@ -1,10 +1,11 @@
 # Web Language: Bikol
 
 Additional names:
-- 
+- Bikolnon
 
 News:
-- 
+- https://www.bicolmail.net/copy-of-caceres-inbox-1 (local news)
+- https://legazpi.bomboradyo.com/ (local news)
 - 
 
 Culture / History:

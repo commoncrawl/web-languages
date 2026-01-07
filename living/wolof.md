@@ -1,44 +1,58 @@
 # Web Language: Wolof
 
 Additional names:
+
 - 
 
 News:
-- 
+
+- https://lamaisondesreporters.sn/
 - 
 
 Culture / History:
+
 - 
 - 
 
 Government:
-- 
+
+- https://www.presidence.sn/wo/
 - 
 
 Political Parties:
+
 - 
 - 
 
 Other:
+
 - https://wo.wikipedia.org
-- 
-- 
+- https://www.germ.sn/?p=9795
+- https://islamhouse.com/wo/main/
+- https://woloftech.sn/
+- https://auto24.sn/sn/
+- https://woloftech.sn/
+- https://www.jw.org/wo
+- https://www.wikiwand.com/wo
 
 Informative links (in English):
+
 - 
 - 
 
 Additional Information:
+
 - ISO-639-3 code: wol
 - https://en.wikipedia.org/wiki/ISO_639:wol
 
-
 Scripts:
+
 - <a href="https://en.wikipedia.org/wiki/ISO_15924">ISO 15924 Latn</a> Latin
 - 
 
 Thank you to these people who have helped create this document:
-- 
+
+- [The African Languages Lab](https://africanlanguageslab.com/)
 - 
 
 ## Instructions

@@ -5,14 +5,35 @@ Additional names:
 -
 
 News:
-- https://www.sapo.pt/
-- https://www.noticiasaominuto.com/
-- https://sic.pt/
+- https://arquivo.pt/ (publically managed archive with all news articles published by portuguese newspapers since 2008 (tbc))
+- https://www.sapo.pt/ (generalist newspaper from Portugal)
+- https://www.noticiasaominuto.com/ (generalist newspaper from Portugal)
+- https://sic.pt/ (generalist tv channel from Portugal)
 - https://www.rtp.pt/ (Public Service Broadcaster)
-- https://tvi.iol.pt/
-- https://observador.pt/
-- https://www.publico.pt/
+- https://tvi.iol.pt/ (generalist tv channel from Portugal)
+- https://observador.pt/ (generalist newspaper from Portugal)
+- https://www.publico.pt/ (generalist newspaper from Portugal)
 - https://www.nit.pt/ (lifestyle, food, events)
+- https://eco.sapo.pt/ (economics, finance newspaper from Portugal)
+- https://www.abola.pt/ (sports newspaper from Portugal)
+- https://www.record.pt/ (sports newspaper from Portugal)
+- https://www.cmjornal.pt/ (generalist newspaper from Portugal)
+- https://www.globo.com/ (generalist media group from Brazil, mostly know for TV Globo television channel)
+- https://pt.euronews.com/ (Portuguese-language edition of Euronews)
+- https://expresso.pt/ (generalist newspaper from Portugal)
+- https://sicnoticias.pt/ (news tv channel from Portugal)
+- https://www.dn.pt/ (generalist newspaper from Portugal)
+- https://www.jn.pt/ (generalist newspaper from Portugal)
+- https://sol.sapo.pt/ (generalist newspaper from Portugal)
+- https://www.sabado.pt/ (generalist newspaper from Portugal)
+- https://visao.pt/ (generalist magazine from Portugal)
+- https://dinheirovivo.dn.pt/ (economics, finance newspaper from Portugal)
+- https://www.ojogo.pt/ (sports newspaper from Portugal)
+- https://www.maxima.pt/ (lifestyle from Portugal)
+- https://caras.pt/ (celebrity focused newspaper from Portugal)
+- https://www.lusa.pt/ (news agency from Portugal, largest in the country according to wikipedia)
+- https://www.zerozero.pt/ (sports newspaper from Portugal)
+- https://cnnportugal.iol.pt/ (news tv channel from Portugal)
 
 Culture / History:
 - https://www.museusemonumentos.pt/pt (Portugal’s Museums and Monuments)
@@ -25,6 +46,13 @@ Culture / History:
 - https://www.museudoaljube.pt/ (Resistance and Freedom)
 - https://www.cnc.pt/ (National Centre for Culture)
 - https://www.visitportugal.com/pt-pt (Official tourism website)
+- https://www.agendalx.pt/ (Lisbon focused cultural agenda)
+- https://www.timeout.com/time-out-market-lisboa (Lisbon focused cultural agenda)
+- https://www.museusemonumentos.pt/pt (Museums in portugal)
+- https://www.ccb.pt/en/ (Cultural Center of Belem, in Lisbon, Portugal)
+- https://bmad.pt/ (Berardo Museum, Portugal)
+- https://www.maat.pt/pt (MAAT museum, Lisbon, Portugal)
+- https://www.casadacultura-setubal.pt/ (Culture house in Setúbal, Portugal)
 
 Government:
 - https://www.portugal.gov.pt/pt/gc24 (Portuguese Government)
@@ -44,6 +72,15 @@ Political Parties:
 - https://www.pcp.pt/
 - https://partidochega.pt/
 - https://pan.com.pt/
+- https://osverdes.pt/ (with no member of parliament in Portuguese Parliament)
+- https://juntospelopovo.pt/
+- https://novadireita.pt/ (with no member of parliament in Portuguese Parliament)
+- https://noscidadaos.pt/ (with no member of parliament in Portuguese Parliament)
+- https://mpt.pt/ (with no member of parliament in Portuguese Parliament)
+- https://adn.com.pt/ (with no member of parliament in Portuguese Parliament)
+- https://voltportugal.org/ (with no member of parliament in Portuguese Parliament)
+- https://www.partidoliberalsocial.pt/ (with no member of parliament in Portuguese Parliament)
+- https://partido-rir.pt/ (with no member of parliament in Portuguese Parliament)
 
 Other:
 - https://pt.wikipedia.org
@@ -51,6 +88,7 @@ Other:
 - https://dicionario.priberam.org/
 - https://www.infopedia.pt/
 - https://cpf.org.pt/ (Portuguese Foundations Centre)
+- https://digitarq.arquivos.pt/ (digital archive of portuguese documents, Portugal)
 
 Informative links (in English):
 - https://en.wikipedia.org/wiki/Portuguese_language

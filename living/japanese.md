@@ -5,20 +5,59 @@ Additional names:
 - 
 
 News:
-- 
-- 
+- https://www.yomiuri.co.jp/ (Yomiuri Shimbun - Daily News)
+- https://www.asahi.com/ (The Asahi Shimbun "Morning Sun Newspaper" - Daily News)
+- https://mainichi.jp/ (Mainichi Shimbun "Daily Newspaper" - Daily News)
+- https://www.nikkei.com/ (The Nihon Keizai Shimbun "Japan Economics Newspaper" - Daily Financial News)
+- https://www.sankei.com/ (Sangyō Keizai Shinbun "Industrial and Economic News" - Daily Financial News)
+- http://www.chunichi.co.jp/ (Chunichi Shimbun "Central Japan News" - Daily News)
+- https://www.daily.co.jp/ (Daily Sports - Daily Sports News)
+- https://www.nikkansports.com/ (Nikkan Sports "The Daily Sports" - Daily Sports News)
+- https://www.sanspo.com/ (Sankei Sports - Daily Sports News)
+- https://www.hochi.co.jp/ (Sports Hochi - Daily Sports News)
+- https://www.sponichi.co.jp/ (Sports Nippon - Daily Sports News)
+- https://www.tokyo-sports.co.jp/ (Tokyo Sports - Daily Sports News)
+- https://www.nikkan.co.jp/ (Nikkan Kogyo Shimbun "The Daily Industrial News" - Daily Business News)
+- http://ss.nikkei.co.jp/ss/ (Nikkei Sangyo Shimbun "Nikkei Industrial Journal" - Daily Business News)
 
 Culture / History:
-- 
-- 
+- https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E6%96%87%E5%8C%96 (Culture of Japan - Wikipedia Article)
+- https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E6%AD%B4%E5%8F%B2 (History of Japan - Wikipedia Article)
+- https://www.ndl.go.jp/index.html (National Diet Library)
+- https://www.tnm.jp/?lang=ja (Tokyo National Museum)
+- https://shozokan.nich.go.jp/ (The Museum of the Imperial Collections)
+- https://www.nact.jp/ (The National Art Center Tokyo)
+- https://www.nmao.go.jp/ (The National Museum of Art Osaka)
 
 Government:
-- 
-- 
+- https://www.kunaicho.go.jp/ (Imperial Household Agency)
+- https://www.kantei.go.jp/index.html (The Prime Minister of Japan)
+- https://www.shugiin.go.jp/internet/index.nsf/html/index.htm (The House of Representatives)
+- https://www.sangiin.go.jp/ (The House of Councilors)
+- https://www.moj.go.jp/index.html (Ministry of Justice)
+- https://www.courts.go.jp/index.html (The Supreme Court)
+- https://www.soumu.go.jp/form/common/opinions.html (Ministry of Internal Affairs and Communication)
+- https://www.mofa.go.jp/mofaj/index.html (Ministry of Foreign Affairs)
+- https://www.mof.go.jp/index.htm (Ministry of Finance)
+- https://www.mext.go.jp/index.htm (Ministry of Education, Culture, Sports, Science, and Technology)
+- https://www.meti.go.jp/ (Ministry of Economy, Trade, and Industry)
+- https://www.mod.go.jp/ (Ministry of Defence)
 
 Political Parties:
-- 
-- 
+- https://www.jimin.jp/ (Liberal Democratic Party)
+- https://cdp-japan.jp/ (Constitutional Democratic Party of Japan)
+- https://o-ishin.jp/ (Japan Innovation Party)
+- https://new-kokumin.jp/ (Democratic Party For the People)
+- https://www.komei.or.jp/ (Komeito)
+- https://sanseito.jp/ (Sanseitō)
+- https://reiwa-shinsengumi.com/ (Reiwa Shinsengumi)
+- https://www.jcp.or.jp/ (Japanese Communist Party)
+- https://hoshuto.jp/ (Conservative Party of Japan)
+- https://sdp.or.jp/ (Social Democratic Party)
+- https://okinawa-shadai.jp/ (Okinawa Social Mass Party)
+- https://www.mintsuku.org/ (NHK Party - Otsu wing)
+- https://www.syoha.jp/ (NHK Party - Tachibana wing)
+- https://team-mir.ai/ (Team Mirai)
 
 Other:
 - https://ja.wikipedia.org
@@ -26,12 +65,15 @@ Other:
 - 
 
 Informative links (in English):
-- 
-- 
+- https://en.wikipedia.org/wiki/Japan
+- https://en.wikipedia.org/wiki/Japanese_language
+- https://en.wikipedia.org/wiki/History_of_Japan
+- https://www.japan.go.jp/ (The Government of Japan)
 
 Additional Information:
 - ISO-639-3 code: jpn
 - https://en.wikipedia.org/wiki/ISO_639:jpn
+- This document needs reviewing by a native speaker.
 
 
 Scripts:
@@ -39,7 +81,7 @@ Scripts:
 - 
 
 Thank you to these people who have helped create this document:
-- 
+- [Ethan Wenokur](https://github.com/e-Winnie)
 - 
 
 ## Instructions

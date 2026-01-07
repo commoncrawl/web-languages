@@ -1,45 +1,70 @@
 # Web Language: Xhosa
 
 Additional names:
+
 - isiXhosa
 - 
 
 News:
-- 
-- 
+
+- https://ecindaba.co.za/
+- https://impempe.com/
 
 Culture / History:
-- 
-- 
+
+- https://southafrica.co.za/xh/amasiko-abasotho-olwaluko.html
+- https://www.pansalb.org/xh/home-isixhosa/
+- https://www.wikiwand.com/xh
 
 Government:
-- 
+
+- https://xh.eceducation.gov.za/
+
 - 
 
 Political Parties:
+
 - 
 - 
 
 Other:
+
 - https://xh.wikipedia.org
-- 
-- 
+- https://elitshanews.org.za/category/ezasemisebenzini/
+- https://xh.dearsouthafrica.co.za/
+- https://xh.yanggebiotech.com/
+- https://xh.longtermplywood.com/
+- https://lakwatchris.wordpress.com/
+- https://www.bible.com/xh
+- https://islamhouse.com/xh/main/
+- https://svfellowship.info/xh
+- https://xh.runjinrefractories.com/
+- https://www.kiwoitoafricasafaris.com/xh/
+- https://constructive-voices.com/xh/
+- https://abovethehimalaya.com/xh/
+- https://www.accessagriculture.org/search/all/xh
+- https://www.jw.org/xh/
+- https://www.kowot.com/xh/
+- https://xh.gtmsmart.com/
 
 Informative links (in English):
+
 - 
 - 
 
 Additional Information:
+
 - ISO-639-3 code: xho
 - https://en.wikipedia.org/wiki/ISO_639:xho
 
-
 Scripts:
+
 - <a href="https://en.wikipedia.org/wiki/ISO_15924">ISO 15924 Latn</a> Latin
 - 
 
 Thank you to these people who have helped create this document:
-- 
+
+- [The African Languages Lab](https://africanlanguageslab.com/)
 - 
 
 ## Instructions

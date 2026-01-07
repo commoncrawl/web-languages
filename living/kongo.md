@@ -1,43 +1,55 @@
 # Web Language: Kongo
 
 Additional names:
+
 - 
 
 News:
+
 - 
 - 
 
 Culture / History:
+
 - 
 - 
 
 Government:
+
 - 
 - 
 
 Political Parties:
+
 - 
 - 
 
 Other:
+
 - https://kg.wikipedia.org
-- 
-- 
+- https://www.jw.org/kwy/
+- https://www.accessagriculture.org/search/all/kg
+- https://svfellowship.info/kg/branham-tabernacle-services/
+- https://gridzy.gallery/kg/
+- https://www.wikiwand.com/kg
 
 Informative links (in English):
+
 - 
 - 
 
 Additional Information:
+
 - ISO-639-3 code: kon
 - https://en.wikipedia.org/wiki/ISO_639:kon
 
-
 Scripts:
+
 - 
 
 Thank you to these people who have helped create this document:
-- 
+
+- [The African Languages Lab](https://africanlanguageslab.com/)
 - 
 
 ## Instructions

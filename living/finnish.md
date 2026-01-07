@@ -10,6 +10,7 @@ News:
 - https://www.kaleva.fi/
 - https://www.mtvuutiset.fi/
 - https://www.hs.fi/
+- https://www.is.fi/
 - https://www.uusisuomi.fi/
 - https://www.tekniikkatalous.fi/ (Technology News)
 - https://www.uusiteknologia.fi/ (Technology News)
@@ -42,12 +43,18 @@ Political Parties:
 - https://www.vihreat.fi/ (Green League)
 - https://www.perussuomalaiset.fi/ (The Finns Party)
 - https://liberaalipuolue.fi/ (Liberal Party)
+- https://vasemmisto.fi/ (Left Alliance)
+- https://www.sdp.fi/ (Social Democratic Party)
+- https://sfp.fi/fi/etusivu/ (Swedish People's Party)
+- https://www.kd.fi/ (Christian Democrats)
 
 Other:
+- https://kotus.fi (Institute for the Languages of Finland)
 - https://fi.wikipedia.org
 - https://www.vauva.fi/
 - https://www.suomi24.fi/
 - https://keskustelut.inderes.fi/
+- https://www.reddit.com/r/Suomi/
 
 Informative links (in English):
 - https://en.wikipedia.org/wiki/Finland
@@ -58,7 +65,6 @@ Informative links (in English):
 Additional Information:
 - ISO-639-3 code: fin
 - https://en.wikipedia.org/wiki/ISO_639:fin
-- This document needs reviewing by a native speaker.
 
 
 Scripts:

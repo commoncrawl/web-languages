@@ -1,45 +1,56 @@
 # Web Language: Fulah
 
 Additional names:
+
 - Fula
 - Fulfulde
 - 
 
 News:
+
 - 
 - 
 
 Culture / History:
-- 
-- 
+
+- https://habarubeldum.com/
+- https://www.wikiwand.com/ff
 
 Government:
+
 - 
 - 
 
 Political Parties:
+
 - 
 - 
 
 Other:
+
 - https://ff.wikipedia.org
-- 
-- 
+- https://www.kowot.com/ff/
+- https://ff.wikipedia.org/wiki/Hello
+- https://gridzy.gallery/ff/
+- https://ff.gtmsmart.com/
 
 Informative links (in English):
+
 - 
 - 
 
 Additional Information:
+
 - ISO-639-3 code: ful
 - https://en.wikipedia.org/wiki/ISO_639:ful
 
-
 Scripts:
+
 - 
 
 Thank you to these people who have helped create this document:
-- 
+
+- [The African Languages Lab](https://africanlanguageslab.com/)
 - 
 
 ## Instructions

@@ -11,6 +11,8 @@ News:
 - https://www.yenisafak.com (Pro-government, conservative daily)
 - https://bianet.org (Independent news with focus on rights and minorities)
 - https://www.sozcu.com.tr (Secular nationalist, opposition-focused newspaper)
+- https://www.nefes.com.tr/ (Secular nationalist, close to Sözcü)
+- https://www.yeniakit.com.tr/ (strong political-Islamist)
 - 
 
 Culture / History:
@@ -20,7 +22,7 @@ Culture / History:
 - https://kulturportali.gov.tr (Ministry of Culture and Tourism’s official culture portal)
 - https://ekitap.kulturturizm.gov.tr (Official e-library of Turkish cultural publications)
 - https://www.turkcebilgi.com (General knowledge site in Turkish)
-- 
+
 
 Government:
 - https://www.turkiye.gov.tr (Official e-government portal)
@@ -29,7 +31,8 @@ Government:
 - https://www.icisleri.gov.tr (Ministry of Interior)
 - https://www.meb.gov.tr (Ministry of National Education)
 - https://www.kultur.gov.tr (Ministry of Culture and Tourism)
-- 
+- https://tdk.gov.tr/ (Turkish Language Association website)
+- https://sozluk.gov.tr/ (Glossary of Turkish Language Association)
 
 Political Parties:
 - https://www.akparti.org.tr (Justice and Development Party – AKP)

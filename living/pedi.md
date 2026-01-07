@@ -1,44 +1,60 @@
 # Web Language: Pedi
 
 Additional names:
+
 - Sesotho sa Leboa
-- 
+- Northern Sotho
 
 News:
-- 
-- 
+
+- https://lab.co.bw/?lang=tsn
+- https://lefoko.blogspot.com/
+- https://tn.wikipedia.org/wiki/Dijo_tsa_Setswana,Botswana
+- https://www.gov.za/tn/blog/go-lwantshana-le-ditlamorago-tse-di-sa-jeseng-diwelang-tsa-go-itshiela
+- https://www.openglobalrights.org/building-up-vs-trickling-down-human-rights-in-southern-africa/?lang=Setswana
 
 Culture / History:
-- 
-- 
+
+- https://www.pansalb.org/se/home-sepedi/
+- https://www.wikiwand.com/nso
 
 Government:
+
 - 
 - 
 
 Political Parties:
+
 - 
 - 
 
 Other:
+
 - https://nso.wikipedia.org
-- 
-- 
+- https://jaladaafrica.org/2017/08/11/diphetogo-tsa-tlhamalalo-kgotsa-goreng-batho-ba-tsamaya-ba-tlhamaletse/
+- https://bemastores.co.bw/
+- https://kutlwano.gov.bw/mobile/kut-article-teaser-detail.php?aid=867&cid=27&mid=67
+- https://xarrabooks.com/sabata-mpho-mokae-mohlohadi-wa-di-booka/
+- https://mahikengfm.co.za/
+- https://www.jw.org/nso/
 
 Informative links (in English):
+
 - 
 - 
 
 Additional Information:
+
 - ISO-639-3 code: nso
 - https://en.wikipedia.org/wiki/ISO_639:nso
 
-
 Scripts:
+
 - 
 
 Thank you to these people who have helped create this document:
-- 
+
+- [The African Languages Lab](https://africanlanguageslab.com/)
 - 
 
 ## Instructions

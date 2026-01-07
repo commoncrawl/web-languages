@@ -1,12 +1,18 @@
 # Web Language: Yue Chinese
 
 Additional names:
-- Cantonese
 - 粵語
-- 
+- 粤语
+- 廣東話
+- 广东话
+- 廣州話
+- 广州话
+- Cantonese
+- Yue Chinese
 
 News:
-- 
+- https://hk01.com (HK-based news, 香港01, mostly in Mandarin)
+- https://stheadline.com (HK-based news, 頭條日報, mostly in Mandarin)
 - 
 
 Culture / History:
@@ -19,25 +25,31 @@ Government:
 
 Political Parties:
 - 
-- 
+-
 
 Other:
 - https://zh-yue.wikipedia.org
-- 
-- 
+- https://www.tvmost.com.hk/articles (Infotainment)
+- https://words.hk/ (Dictionary)
+- https://martinoei.com/ (Blog)
+- https://legalteahouse.com.hk/allposts/ (Blog)
+- https://lihkg.com/ (Forum)
+- https://www.discuss.com.hk/ (Forum)
+- https://www.baby-kingdom.com/forum.php (Forum)
+- https://www.openrice.com/zh/hongkong (Food Reviews)
 
 Informative links (in English):
-- 
-- 
+- https://en.wikipedia.org/wiki/Cantonese
+- https://en.wikipedia.org/wiki/Written_Cantonese
 
 Additional Information:
 - ISO-639-3 code: yue
 - https://en.wikipedia.org/wiki/ISO_639:yue
-
+- Formal writing almost always uses Standard Written Chinese, even when the spoken language is Cantonese. This leaves genuine written Cantonese mostly to informal media and user-generated content.
 
 Scripts:
 - <a href="https://en.wikipedia.org/wiki/ISO_15924">ISO 15924 Hant</a> Hant
-- 
+- <a href="https://en.wikipedia.org/wiki/ISO_15924">ISO 15924 Hans</a> Hans
 
 Thank you to these people who have helped create this document:
 - 
@@ -94,3 +106,4 @@ please include this link under "Other".
 <p xmlns:cc="http://creativecommons.org/ns#" >This work is marked with <a href="https://creativecommons.org/publicdomain/zero/1.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC0 1.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/zero.svg?ref=chooser-v1" alt=""></a></p>
 
 By editing this file, contributers are agreeing to release their contributions under the CC0 license.
+

@@ -1,10 +1,10 @@
 # Web Language: Rinconada Bikol
 
 Additional names:
-- 
+- Rinconada
 
 News:
-- 
+- https://naga.bomboradyo.com/ (local news)
 - 
 
 Culture / History:

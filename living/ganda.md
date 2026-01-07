@@ -1,45 +1,88 @@
 # Web Language: Ganda
 
 Additional names:
+
 - Luganda
 - 
 
 News:
-- 
-- 
+
+- https://lugandalusogalugwerecommission.com/
+- https://bugandauk.com/lu-ug/
+- https://www.tvwest.co.ug/
+- https://www.bukedde.co.ug/
+- https://onobwino.com/awaka/
+- https://www.galaxyfm.co.ug/
+- https://www.newvision.co.ug/category/vidiyo/temuwa-baana-masimu---nnabagereka-BUK_145350
+- https://www.watchdoguganda.com/category/luganda
+- https://cbsfm.ug/
+- https://insightpostug.com/category/luganda/
+- https://bbstv.ug/
+- https://www.prepvacc.org/news/vaccine-result-luganda
+- https://scribe.co.ug/luganda/
+- https://ugandatoday.co.ug/category/uganda-leero/
+- https://www.radiosimba.ug/
+- https://umuseke.rw/
+- https://igisabo.rw/
+- https://muhaziyacu.rw/
+- https://ugandanews.news.blog/blog-feed/
 
 Culture / History:
-- 
-- 
+
+- https://ngabiclan.com/
+- https://kalyabe.com/
+- https://ndiisaclan.org/
 
 Government:
+
 - 
 - 
 
 Political Parties:
+
 - 
 - 
 
 Other:
+
 - https://lg.wikipedia.org
-- 
-- 
+- http://bazzukulubabuganda.com/edduka_lya_paschael_wano_forest_gate.html
+- https://www.accessagriculture.org/lg/
+- https://lugandabiblemenu.wordpress.com/
+- https://bootstrap21.org/lg/
+- https://bahaiprayers.net/Book/Full/Luganda/57
+- https://inforse.org/africa/pdfs/Brochure_Catalogue_localsolutions.inforse.org_EastAfrica_Luganda-s.pdf
+- https://www.wordproject.org/bibles/lug/49/1.htm
+- https://bibiliya.com/
+- https://islamhouse.com/lg/main/
+- https://svfellowship.info/lg/enkunnaana-za-branham-tabanako/
+- https://www.jw.org/lg/
+- https://www.kowot.com/lg/
+- https://www.wordproject.org/bibles/lug/49/1.htm
+- https://buganda.or.ug/
+- https://lg.wikipedia.org/wiki/Olupapula_Olusooka
+- https://gambuuze.ug/
+- https://ekitibwakyabuganda.wordpress.com/about/
+- https://namunyetoday.com/category/luganda/
 
 Informative links (in English):
+
 - 
 - 
 
 Additional Information:
+
 - ISO-639-3 code: lug
 - https://en.wikipedia.org/wiki/ISO_639:lug
 
-
 Scripts:
+
 - <a href="https://en.wikipedia.org/wiki/ISO_15924">ISO 15924 Latn</a> Latin
 - 
 
 Thank you to these people who have helped create this document:
-- 
+
+- [The African Languages Lab](https://africanlanguageslab.com/)
 - 
 
 ## Instructions

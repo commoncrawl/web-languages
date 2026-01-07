@@ -1,42 +1,52 @@
 # Web Language: Tiv
 
 Additional names:
+
 - 
 
 News:
+
 - 
 - 
 
 Culture / History:
+
 - 
 - 
 
 Government:
+
 - 
 - 
 
 Political Parties:
+
 - 
 - 
 
 Other:
-- 
-- 
+
+- https://gridzy.gallery/tiv/
+- https://www.jw.org/tiv/
+- https://www.zhitov.com/tiv/
 
 Informative links (in English):
+
 - 
 - 
 
 Additional Information:
+
 - ISO-639-3 code: tiv
 - https://en.wikipedia.org/wiki/ISO_639:tiv
 
-
 Scripts:
+
 - 
 
 Thank you to these people who have helped create this document:
-- 
+
+- [The African Languages Lab](https://africanlanguageslab.com/)
 - 
 
 ## Instructions

@@ -1,43 +1,65 @@
 # Web Language: Malagasy
 
 Additional names:
+
 - 
 
 News:
-- 
-- 
+
+- https://newsmada.com/
+- https://www.unicef.org/madagascar/mg
+- https://radio.mg/
+- https://www.rdb.mg/
+- https://mg.globalvoices.org/
+- https://www.rdb.mg/
+- https://www.tiatanindrazana.mg/
 
 Culture / History:
+
 - 
 - 
 
 Government:
+
 - 
 - 
 
 Political Parties:
+
 - 
 - 
 
 Other:
+
 - https://mg.wikipedia.org
-- 
-- 
+- https://humanrightsmasoala.org/mg/
+- https://www.paositrafinances.mg/mg/actualites-malagasy/#
+- https://mg.wikipedia.org/
+- https://www.solfa.mg/
+- https://islamhouse.com/mg/main/
+- https://svfellowship.info/mg/
+- https://www.jw.org/mg/
+- https://gridzy.gallery/mg/
+- https://www.kowot.com/mg/
+- https://mg.gtmsmart.com/
 
 Informative links (in English):
+
 - 
 - 
 
 Additional Information:
+
 - ISO-639-3 code: mlg
 - https://en.wikipedia.org/wiki/ISO_639:mlg
 
-
 Scripts:
+
 - 
 
 Thank you to these people who have helped create this document:
-- 
+
+- [The African Languages Lab](https://africanlanguageslab.com/)
 - 
 
 ## Instructions

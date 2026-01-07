@@ -5,12 +5,13 @@ Additional names:
 - 
 
 News:
-- 
+- https://umaleht.ee/
 - 
 
 Culture / History:
-- 
-- 
+- https://wi.ee/ (Võro Institute)
+- https://savvusann.ee/ (Smoke sauna tradition)
+- https://voroselts.ee/ (Võro association)
 
 Government:
 - 
@@ -22,11 +23,12 @@ Political Parties:
 
 Other:
 - https://fiu-vro.wikipedia.org
-- 
-- 
+- https://hel%C3%BCait.ee (Võro audiobooks and podcasts)
+- https://synaq.org (Võro-Estonian dictionary)
+- https://umakiil.eu
 
 Informative links (in English):
-- 
+- https://en.wikipedia.org/wiki/V%C3%B5ro_language
 - 
 
 Additional Information:
@@ -35,10 +37,10 @@ Additional Information:
 
 
 Scripts:
-- 
+- <a href="https://en.wikipedia.org/wiki/ISO_15924">ISO 15924 Latn</a> Latin
 
 Thank you to these people who have helped create this document:
-- 
+- [Taido Purason](https://github.com/taidopurason)
 - 
 
 ## Instructions

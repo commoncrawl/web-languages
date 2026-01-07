@@ -1,10 +1,12 @@
 # Web Language: Yoruba
 
 Additional names:
+
 - Yorùbá
 - 
 
 News:
+
 - https://www.bbc.com/yoruba
 - https://alaroye.org/
 - https://m.facebook.com/groups/1415046175476499/
@@ -16,30 +18,93 @@ News:
 - https://theyorubatimes.com/
 - https://alaroye.org
 - https://www.asejere.net/
+- https://www.bbc.com/yoruba
+- https://www.awikonko.com.ng/
+- https://iroyinowuro.com.ng/
+- https://trafficradio961.ng/
+- https://www.lidx.org/news/yo/
+- https://yo.eureporter.co/
+- http://yo.springpackage.com/news/
+- https://www.nairaland.com/
+- https://factcheck.thecable.ng/%E1%B8%BFba-naijiria-ezipughi-ndi-agha-nkwado-udo-na-obodo-isreal/
+- https://dubawa.org/category/african-languages/yoruba/
+- https://www.awikonko.com.ng/
+- https://irawofm.ng/
+- https://www.accredit.org/yo/
+- https://www.podchaser.com/
+- https://thewest.ng/
+- https://www.boseri.com.ng/
+- https://kosovapress.com/yo/
+- https://www.asejere.net/
+- https://www.awikonko.com.ng/
+- https://www.gbagedeoro.com/
+- https://www.tojuboleonlinenews.com.ng/
+- https://www.boseri.com.ng/
+- https://asa.ooduarere.com/tag/itan/
+- https://minnagan.com/yo/home-04-4/
 
 Culture / History:
+
 - https://springs-rcc.org/yoruba-architectural-sites-in-nigeria/
 - https://ijw.org/exploring-wilderness-in-yoruba-culture/
 - https://hearstmuseum.berkeley.edu/wp-content/uploads/TeachingKit_YorubaArtAndCulture.pdf
 - https://springs-rcc.org/yoruba-architectural-sites-in-nigeria/
 - https://wisc.pb.unizin.org/lctlresources/chapter/yoruba-cultural-resources/
 - https://www.everyculture.com/wc/Mauritania-to-Nigeria/Yoruba.html
-
+- https://museumpass.istanbul/yo/
+- https://www.wikiwand.com/yo
 
 Government:
+
 - 
 - 
 
 Political Parties:
+
 - 
 - 
 
 Other:
+
 - https://yo.wikipedia.org
-- 
-- 
+- https://runmingtea.com/yo/
+- http://yo.sandlandgarment.com/
+- http://yo.horsent.com/
+- https://www.haitianlanterns.com/yo/
+- https://thewheatbakerlagos.com/yo/
+- https://altb.org.br/yo/
+- https://yo.ceramic.school/
+- https://rolecatcher.com/yo/
+- https://www.consortiumnews.com/yo
+- https://yo.delachieve.com/
+- https://tacoma.gov/yo/
+- https://skopelos.com/yo/
+- https://classnotes.ng/lesson/itan-aye-yoruba-ati-asa/
+- http://yo.dahesds.com/
+- https://www.gemcarrental.com.my/yo/
+- https://tour-florence.info/yo/
+- https://egbeonkaweedeyoruba.files.wordpress.com/
+- https://yo.eferrit.com/
+- https://yo.birmiss.com/
+- https://yo.atomiyme.com/
+- https://yo.birmiss.com/
+- https://yo.delachieve.com/
+- https://asa.ooduarere.com/a%E1%B9%A3a-yoruba/
+- https://www.bible.com/yo
+- https://islamhouse.com/yo/main/
+- https://cgtcatalunya.cat/cgtvallesoriental/?lang=yo
+- https://www.tparobot.com/yo
+- http://yo.noelson.com/
+- http://yo.jhyrobotic.com/
+- https://yo.wikipedia.org/
+- https://www.kerava.fi/yo
+- https://www.jw.org/yo/
+- https://minnagan.com/yo/home-04-4/
+- https://yo.gtmsmart.com/
+- https://www.kowot.com/yo/
 
 Informative links (in English):
+
 - https://www.memrise.com/en/learn-yoruba
 - https://www.tomedes.com/translator-hub/yoruba-language
 - https://akoniledeyoruba.com/home/
@@ -62,21 +127,23 @@ Informative links (in English):
 - https://oxfordre.com/africanhistory/display/10.1093/acrefore/9780190277734.001.0001/acrefore-9780190277734-e-718?d=%2F10.1093%2Facrefore%2F9780190277734.001.0001%2Facrefore-9780190277734-e-718&p=emailA0taeJUBAAsjw
 - https://www.researchgate.net/publication/272328350_Preservation_and_Conservation_of_Yoruba_Cultural_Artifacts_The_Place_of_Nigerian_Libraries_and_Archives
 
-
 Additional Information:
+
 - ISO-639-3 code: yor
 - https://en.wikipedia.org/wiki/ISO_639:yor
 
-
 Scripts:
+
 - <a href="https://en.wikipedia.org/wiki/ISO_15924">ISO 15924 Latn</a> Latin
 - 
 
 Thank you to these people who have helped create this document:
+
 - [Olabisi Itiola](itiolaolabisi@gmail.com)
 - [Seun Atere](atereseunruth01@gmail.com)
 - [Moyinoluwa Ekundayo](ekundayomoyinoluwa@gmail.com)
 - [Kasarachi Immaculate](ogbonnaimmaculate4@gmail.com)
+- [The African Languages Lab](https://africanlanguageslab.com/)
 
 ## Instructions
 

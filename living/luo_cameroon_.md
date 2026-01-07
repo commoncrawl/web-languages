@@ -1,42 +1,54 @@
 # Web Language: Luo (Cameroon)
 
 Additional names:
+
 - 
 
 News:
+
 - 
 - 
 
 Culture / History:
+
 - 
 - 
 
 Government:
+
 - 
 - 
 
 Political Parties:
+
 - 
 - 
 
 Other:
-- 
-- 
+
+- https://www.kowot.com/luo/
+- http://www.joluo.ch/luo.htm
+- https://www.jw.org/luo/
+- https://gridzy.gallery/luo/
+- https://luo.gtmsmart.com/
 
 Informative links (in English):
+
 - 
 - 
 
 Additional Information:
+
 - ISO-639-3 code: luw
 - https://en.wikipedia.org/wiki/ISO_639:luw
 
-
 Scripts:
+
 - 
 
 Thank you to these people who have helped create this document:
-- 
+
+- [The African Languages Lab](https://africanlanguageslab.com/)
 - 
 
 ## Instructions

@@ -1,44 +1,54 @@
 # Web Language: Kikuyu
 
 Additional names:
+
 - Gĩkũyũ
 - 
 
 News:
+
 - 
 - 
 
 Culture / History:
+
 - 
 - 
 
 Government:
+
 - 
 - 
 
 Political Parties:
+
 - 
 - 
 
 Other:
+
 - https://ki.wikipedia.org
-- 
-- 
+- https://www.accessagriculture.org/ki/guthondeka-mbeca-makiria-kumana-na-itunguru
+- https://www.jw.org/ki
+- https://www.wikiwand.com/ki
 
 Informative links (in English):
+
 - 
 - 
 
 Additional Information:
+
 - ISO-639-3 code: kik
 - https://en.wikipedia.org/wiki/ISO_639:kik
 
-
 Scripts:
+
 - 
 
 Thank you to these people who have helped create this document:
-- 
+
+- [The African Languages Lab](https://africanlanguageslab.com/)
 - 
 
 ## Instructions

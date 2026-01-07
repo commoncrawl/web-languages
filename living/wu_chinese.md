@@ -10,7 +10,10 @@ News:
 - 
 
 Culture / History:
-- 
+- https://www.kdslife.com/ (local Shanghai forum with Wu Chinese content)
+- https://wu-chinese.com/bbs/portal.php (forum in Wu Chinese)
+- https://www.reddit.com/r/shanghainese/ (reddit session in Shanghainese)
+- https://wuu.wikipedia.org/wiki/%E5%B0%81%E9%9D%A2 (Wikepdia-style material in Wu Chinese, including news)
 - 
 
 Government:
@@ -23,7 +26,9 @@ Political Parties:
 
 Other:
 - https://wuu.wikipedia.org
-- 
+- https://wu-chinese.com/bbs/forum.php?mod=viewthread&tid=7282 (dictionary)
+- https://bbs.wenxuecity.com/mychina/725846.html (dictionary)
+- https://wu-chinese.com/bbs/forum.php (forum in Wu Chinese)
 - 
 
 Informative links (in English):
@@ -33,13 +38,15 @@ Informative links (in English):
 Additional Information:
 - ISO-639-3 code: wuu
 - https://en.wikipedia.org/wiki/ISO_639:wuu
+- https://en.wikipedia.org/wiki/Wu_Chinese
+- 
 
 
 Scripts:
 - 
 
 Thank you to these people who have helped create this document:
-- 
+- [Nativeatom](https://github.com/Nativeatom)
 - 
 
 ## Instructions

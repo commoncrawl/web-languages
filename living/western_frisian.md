@@ -2,23 +2,36 @@
 
 Additional names:
 - Frysk
-- 
+- Frisian
 
 News:
-- 
-- 
+- https://frieschdagblad.nl/ (Friesch Dagblad - Daily News - Mostly Dutch, has Frisian sections)
+- https://lc.nl/ (Leeuwarder Courant - Daily News - Mostly Dutch, has Frisian sections)
 
 Culture / History:
-- 
-- 
+- https://fy.wikipedia.org/wiki/Skiednis_fan_Frysl%C3%A2n (History of Frisia - Wikipedia Article)
+- https://fy.wikipedia.org/wiki/Frysl%C3%A2n (Friesland - Wikipedia Article)
+- https://www.library.upenn.edu/collections/notable/frisian (Penn Library Frisian Collection)
+- https://www.friesmuseum.nl/frl (Fries Museum)
+- https://www.friesverzetsmuseum.nl/frl (Frisian Resistance Museum)
 
 Government:
-- 
+- https://www.fryslan.frl/fy (Province of Friesland)
 - 
 
 Political Parties:
-- 
-- 
+- https://fy.wikipedia.org/wiki/Kristen_Demokratysk_App%C3%A8l (Christian Democratic Appeal - Wikipedia Article)
+- https://fy.wikipedia.org/wiki/Foarum_foar_Demokrasy (Forum for Democracy - Wikipedia Article)
+- https://fy.wikipedia.org/wiki/Partij_fan_de_Arbeid (Labour Party - Wikipedia Article)
+- https://fy.wikipedia.org/wiki/Folkspartij_foar_Frijheid_en_Demokrasy (People's Party for Freedom and Democracy - Wikipedia Article)
+- https://www.fnp.frl/ (Frisian National Party)
+- https://fy.wikipedia.org/wiki/GrienLinks (GroenLinks "GreenLeft" - Wikipedia Article)
+- https://fy.wikipedia.org/wiki/KristenUny (Christian Union - Wikipedia Article)
+- https://fy.wikipedia.org/wiki/Partij_foar_de_Frijheid (Party for Freedom - Wikipedia Article)
+- https://fy.wikipedia.org/wiki/Sosjalistyske_Partij_(Nederl%C3%A2n) (Socialist Party - Wikipedia Article)
+- https://fy.wikipedia.org/wiki/Demokraten_66 (Democrats 66 - Wikipedia Article)
+- https://fy.wikipedia.org/wiki/Partij_foar_de_Dieren (Party for the Animals - Wikipedia Article)
+- https://fy.wikipedia.org/wiki/50PLUS (50PLUS - Wikipedia Article)
 
 Other:
 - https://fy.wikipedia.org
@@ -26,19 +39,22 @@ Other:
 - 
 
 Informative links (in English):
-- 
-- 
+- https://en.wikipedia.org/wiki/West_Frisian_language
+- https://en.wikipedia.org/wiki/History_of_Frisia
+- https://en.wikipedia.org/wiki/Friesland
+- https://www.visitleeuwarden.com/en (Visit Leeuwarden)
 
 Additional Information:
 - ISO-639-3 code: fry
 - https://en.wikipedia.org/wiki/ISO_639:fry
+- This document needs reviewing by a native speaker.
 
 
 Scripts:
-- 
+- <a href="https://en.wikipedia.org/wiki/ISO_15924">ISO 15924 Latn</a> Latin
 
 Thank you to these people who have helped create this document:
-- 
+- [Ethan Wenokur](https://github.com/e-Winnie)
 - 
 
 ## Instructions

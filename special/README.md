@@ -11,10 +11,10 @@ If your favorite language is missing, please open an issue on Github.
 
 ## Languages
 
-- [Multiple languages](special/multiple_languages.md)
-- [No linguistic content](special/no_linguistic_content.md)
-- [Uncoded languages](special/uncoded_languages.md)
-- [Undetermined](special/undetermined.md)
+- [Multiple languages](multiple_languages.md)
+- [No linguistic content](no_linguistic_content.md)
+- [Uncoded languages](uncoded_languages.md)
+- [Undetermined](undetermined.md)
 
 
 ## License

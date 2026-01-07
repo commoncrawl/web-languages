@@ -1,44 +1,56 @@
 # Web Language: Swati
 
 Additional names:
+
 - SiSwati
 - 
 
 News:
+
 - 
 - 
 
 Culture / History:
+
 - 
 - 
 
 Government:
+
 - 
 - 
 
 Political Parties:
+
 - 
 - 
 
 Other:
+
 - https://ss.wikipedia.org
-- 
-- 
+- https://ss.gtmsmart.com/
+- https://www.pansalb.org/si/home-siswati/
+- https://www.jw.org/ss/
+- https://gridzy.gallery/ss/
+- https://www.wikiwand.com/ss
 
 Informative links (in English):
+
 - 
 - 
 
 Additional Information:
+
 - ISO-639-3 code: ssw
 - https://en.wikipedia.org/wiki/ISO_639:ssw
 
-
 Scripts:
+
 - 
 
 Thank you to these people who have helped create this document:
-- 
+
+- [The African Languages Lab](https://africanlanguageslab.com/)
 - 
 
 ## Instructions

@@ -5,20 +5,37 @@ Additional names:
 - 
 
 News:
-- 
-- 
+- https://www.lavozdegalicia.es/ (The Voice of Galicia)
+- https://www.agalega.gal/ (Television of Galicia)
 
 Culture / History:
-- 
-- 
+- https://gl.wikipedia.org/wiki/Galicia (Galicia - Wikipedia Article)
+- https://gl.wikipedia.org/wiki/Historia_de_Galicia (History of Galicia - Wikipedia Article)
+- https://gl.wikipedia.org/wiki/Cultura_de_Galicia (Culture of Galicia - Wikipedia Article)
+- https://academia.gal/inicio (Royal Galician Academy)
+- https://bibliotecadegalicia.xunta.gal/gl (Library of Galicia)
+- https://museos.xunta.gal/gl (Museums of Galicia)
+- https://www.turismo.gal/inicio?langId=gl_ES (Galicia Tourism - Official Website)
 
 Government:
-- 
-- 
+- https://www.xunta.gal/portada# (Official website for the Government of Galicia)
+- https://culturaelingua.xunta.gal/portada (Department of Culture, Language, and Youth - Galicia)
+- https://facenda.xunta.gal/portada (Department of Finance and Public Administration - Galicia)
+- https://conselleriadepresidencia.xunta.gal/portada (Department of Presidency, Justice, and Sports - Galicia)
+- https://educacioneciencia.xunta.gal/portada (Department of Education, Science, Universities and Professional Training - Galicia)
+- https://economia.xunta.gal/portada (Department of Economy and Industry - Galicia)
+- https://www.lamoncloa.gob.es/Paginas/index.aspx (Official website of the president of the Government of Spain and the Council of Ministers)
+- https://www.interior.gob.es/opencms/en/inicio (Ministry of the Interior - Spain)
+- https://www.mjusticia.gob.es/gl (Ministry of Justice - Spain)
+- https://www.miteco.gob.es/gl.html (Ministry for Ecological Transition and the Demographic Challenge - Spain)
+- https://www.educacionfpydeportes.gob.es/gl/portada.html (Ministry of Education, Vocational Training and Sports - Spain)
+- https://www.cultura.gob.es/gl/portada.html (Ministry of Culture - Spain)
+- https://www.mintur.gob.es/gl-es/paginas/index.aspx (Ministry of Industry and Tourism - Spain)
 
 Political Parties:
-- 
-- 
+- https://ppdegalicia.com/ (People's Party of Galicia)
+- https://www.bng.gal/ (Galician Nationalist Bloc)
+- https://www.psdeg-psoe.com/ (Socialists' Party of Galicia)
 
 Other:
 - https://gl.wikipedia.org
@@ -26,12 +43,19 @@ Other:
 - 
 
 Informative links (in English):
-- 
-- 
+- https://en.wikipedia.org/wiki/Galicia_(Spain)
+- https://en.wikipedia.org/wiki/Galician_language
+- https://en.wikipedia.org/wiki/History_of_Galicia
+- https://en.wikipedia.org/wiki/Spain
+- https://en.wikipedia.org/wiki/History_of_Spain
+- https://en.wikipedia.org/wiki/Royal_Galician_Academy
+- https://www.spain.info/en/ (Spanish Tourism - Official Website)
+- https://www.turismo.gal/inicio?langId=en_US (Galicia Tourism - Official Website)
 
 Additional Information:
 - ISO-639-3 code: glg
 - https://en.wikipedia.org/wiki/ISO_639:glg
+- This document needs reviewing by a native speaker.
 
 
 Scripts:
@@ -39,7 +63,7 @@ Scripts:
 - 
 
 Thank you to these people who have helped create this document:
-- 
+- [Ethan Wenokur](https://github.com/e-Winnie)
 - 
 
 ## Instructions

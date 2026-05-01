@@ -2,36 +2,71 @@
 
 Additional names:
 - සිංහල
-- 
+- Sinhala
+- Sinhalese
+- Siṁhala
 
 News:
-- 
-- 
+- https://sinhala.adaderana.lk/
+- https://www.lankadeepa.lk/
+- https://www.divaina.lk/
+- https://www.ada.lk/
+- https://www.lankacnews.com/
+- https://sinhala.news.lk/
 
 Culture / History:
-- 
-- 
+- https://si.wikipedia.org/wiki/ශ්‍රී_ලංකාවේ_සංස්කෘතිය
+- https://si.wikipedia.org/wiki/ශ්‍රී_ලංකාවේ_ඉතිහාසය
+- https://culturaldept.gov.lk/
+- https://www.archaeology.gov.lk/
+- https://www.srilanka.travel/si
+- https://www.sltda.gov.lk/si
 
 Government:
-- 
-- 
+- https://www.gov.lk/
+- https://www.presidentsoffice.gov.lk/
+- https://www.parliament.lk/
+- https://www.dgi.gov.lk/
+- https://gic.gov.lk/
+- https://moe.gov.lk/
+- https://www.sltda.gov.lk/si
+- https://tourismmin.gov.lk/
 
 Political Parties:
-- 
-- 
+- https://www.npp.lk/
+- https://www.sjb.lk/
+- https://unp.lk/
+- https://slpp.org/
+- https://www.jvpsrilanka.com/
 
 Other:
 - https://si.wikipedia.org
-- 
-- 
+- https://si.wiktionary.org/
+- https://si.wikibooks.org/
+- https://si.wikiquote.org/
+- https://www.maduraonline.com/
+- https://www.dictionary.gov.lk/
+- https://subasa.lk/
+- https://www.bhashawa.lk/
 
 Informative links (in English):
-- 
-- 
+- https://en.wikipedia.org/wiki/Sinhala_language
+- https://www.britannica.com/topic/Sinhalese
+- https://www.omniglot.com/writing/sinhala.htm
+- https://www.ethnologue.com/language/sin/
+- https://iso639-3.sil.org/code/sin
+- https://unicode.org/iso15924/iso15924-codes.html
+- https://www.loc.gov/standards/iso639-2/php/langcodes-keyword.php?SearchTerm=sinhala&SearchType=ALL&Submit=Go
+- https://asianstudies.cornell.edu/research/sinhala
 
 Additional Information:
+- ISO-639-1 code: si
+- ISO-639-2 code: sin
 - ISO-639-3 code: sin
 - https://en.wikipedia.org/wiki/ISO_639:sin
+- Sinhala is one of the official and national languages of Sri Lanka.
+- Sinhala is mainly written in the Sinhala script.
+- Sinhala is an Indo-Aryan language used widely in Sri Lanka and by Sinhala-speaking communities in the diaspora.
 
 
 Scripts:
@@ -39,7 +74,7 @@ Scripts:
 - 
 
 Thank you to these people who have helped create this document:
-- 
+- [Sayuru Bopitiya](https://github.com/sayururehan)
 - 
 
 ## Instructions

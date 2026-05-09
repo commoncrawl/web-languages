@@ -5,23 +5,33 @@ Additional names:
 - 
 
 News:
-- 
-- 
+- https://cherokeephoenix.org (Primarily English.)
+- https://theonefeather.com (Eastern Band. English.)
 
 Culture / History:
-- 
-- 
+- https://cherokee.org/language (Cherokee Nation language program. English and Cherokee.)
+- https://talkcherokee.com (Mostly in Cherokee.)
+- https://www.cherokeedictionary.net/ (Durbin Feeling's Cherokee-English Dictionary Online.)
+- https://archive.org/details/cherokeeenglishd0000feel (Durbin Feeling's Cherokee-English Dictionary Online.)
+- https://firstvoices.com/explore/FV/Workspaces/Data/Cherokee (Archive. English interface, Cherokee content.)
+- https://mochp.org (Museum of the Cherokee People. English.)
+- https://visitcherokeenation.com (Tourism and culture. English.)
+- https://gastateparks.org/NewEchota (Original Cherokee capital. English.)
+- https://www.wcu.edu/library/digitalcollections/cherokeephoenix/ (Nineteenth Century Cherokee Phoenix newspaper archive. English and Cherokee.)
+- https://onlinebooks.library.upenn.edu/webbin/serial?id=cherokeephoenix (Additional archive of the Cherokee Phoenix. English and Cherokee.)
 
 Government:
-- 
-- 
+- https://cherokeenation.org (Oklahoma, English, some Cherokee.)
+- https://ukb-nsn.gov (United Keetoowah Band. English.)
+- https://ebci.org (Eastern Band. English.)
+- https://cherokeenationbusinesses.com (Business development arm of Cherokee Nation. English.)
 
 Political Parties:
 - 
 - 
 
 Other:
-- https://chr.wikipedia.org
+- https://chr.wikipedia.org (Beware machine-generated content.)
 - 
 - 
 
@@ -32,13 +42,13 @@ Informative links (in English):
 Additional Information:
 - ISO-639-3 code: chr
 - https://en.wikipedia.org/wiki/ISO_639:chr
-
+- This document needs reviewing by a community member.
 
 Scripts:
-- 
+- https://en.wikipedia.org/wiki/ISO_15924 (ISO 15924 Cher)
 
 Thank you to these people who have helped create this document:
-- 
+- [Greg Lindahl](https://github.com/wumpus)
 - 
 
 ## Instructions

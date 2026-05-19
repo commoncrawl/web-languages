@@ -1,26 +1,35 @@
 # Web Language: Hopi
 
 Additional names:
-- 
+- Hopílavayi
 
 News:
-- 
+- [Hopi Tutuveni](https://www.hopitutuveni.com) – The official newspaper of the Hopi Tribe.
+- [Navajo-Hopi Observer](https://nhonews.com) – Regional paper covering news for both the Hopi and Navajo communities.
+- [Hopi Radio KUYI 88.1 FM](https://kuyi.net) – Community radio station serving the Hopi community, with some programming in the Hopi language.
 - 
 
 Culture / History:
-- 
+- [Hopi Cultural Center](https://hopiculturalcenter.com) – Museum and cultural hub on Second Mesa, preserving Hopi art, history, and traditions.
+- [Hopi Foundation](https://hopifoundation.org) – Nonprofit supporting Hopi community development and cultural preservation.
+- [Museum of Northern Arizona](https://musnaz.org) – Flagstaff museum with significant Hopi collections and cultural programming.
+- [Heard Museum](https://heard.org) – Phoenix museum with outstanding Hopi katsina and art collections.
+- [Hopi Dictionary Project](https://uapress.arizona.edu/book/hopi-dictionary) – The comprehensive Hopi-English dictionary published by the University of Arizona Press, the standard reference work.
+- [FirstVoices: Hopi](https://www.firstvoices.com) – Search for Hopi on this community language archiving platform, which may have Hopi words and audio.
+- [Hopi Foundation Language Programs](https://hopifoundation.org) – Supports community-based Hopi language revitalization efforts.
+- [Hopi Language Assessment Project](https://www.nau.edu/cal/hopi) – Northern Arizona University project supporting Hopi language documentation.
 - 
 
 Government:
-- 
-- 
+- [Hopi Tribe Official Website](https://www.hopi-nsn.gov) – Official portal for the Hopi Tribal Government.
+- [Hopi Tribal Council](https://www.hopi-nsn.gov/tribal-government/tribal-council) – The legislative body of the Hopi Tribe.
+- [Hopi Department of Natural Resources](https://www.hopi-nsn.gov/tribal-programs/natural-resources) – Manages Hopi lands and environmental resources.
+- [Hopi Department of Education](https://www.hopi-nsn.gov/tribal-programs/education) – Oversees education programs for Hopi tribal members.
 
-Political Parties:
-- 
 - 
 
 Other:
-- 
+- [Hopi Health Care Center](https://www.ihs.gov/phoenix/healthcarefacilities/hopi) – Indian Health Service facility serving the Hopi community.
 - 
 
 Informative links (in English):
@@ -30,13 +39,14 @@ Informative links (in English):
 Additional Information:
 - ISO-639-3 code: hop
 - https://en.wikipedia.org/wiki/ISO_639:hop
-
+- This document needs reviewing by a native speaker.
 
 Scripts:
-- 
+- [ISO 15924 Latn](https://en.wikipedia.org/wiki/ISO_15924) Latin
+- Basic Latin, Latin-1 Supplement, Latin Extended-A Unicode blocks.
 
 Thank you to these people who have helped create this document:
-- 
+- [Greg Lindahl](https://github.com/wumpus)
 - 
 
 ## Instructions

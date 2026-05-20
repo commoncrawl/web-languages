@@ -6,6 +6,11 @@ Additional names:
 
 News:
 - https://www.wallonia.be/en/news (Regional News - English)
+- https://www.lesoir.be/ — Le Soir — Belgium's leading French-language daily, based in Brussels. Belgium
+- https://www.lalibre.be/ — La Libre Belgique — Major French-language Catholic-tradition daily broadsheet. Belgium
+- https://www.rtbf.be/info — RTBF Info — News portal of the French-language public broadcaster of Belgium. Belgium
+- https://www.lavenir.net/ — L'Avenir — Regional French-language daily covering Wallonia. Belgium
+- https://www.dhnet.be/ — La Dernière Heure — Popular French-language Belgian tabloid daily. Belgium
 - 
 
 Culture / History:

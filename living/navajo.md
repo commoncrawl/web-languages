@@ -5,31 +5,31 @@ Additional names:
 - Naabeehó bizaad
 
 News:
-- [KTNN 660 AM](https://www.ktnnonline.com) – "The Voice of the Navajo Nation," a radio station that broadcasts significant programming in the Navajo language.
-- [Navajo Times](https://navajotimes.com) – The most widely read Navajo newspaper, covering local and national news affecting the Navajo Nation.
-- [Navajo Post](https://navajopost.com) – Online news outlet covering Navajo Nation current events.
-- [Navajo-Hopi Observer](https://nhonews.com) – Regional paper covering news for both the Navajo and Hopi communities.
+- https://www.ktnnonline.com KTNN 660 AM – "The Voice of the Navajo Nation," a radio station that broadcasts significant programming in the Navajo language.
+- https://navajotimes.com Navajo Times – The most widely read Navajo newspaper, covering local and national news affecting the Navajo Nation.
+- https://navajopost.com Navajo Post – Online news outlet covering Navajo Nation current events.
+- https://nhonews.com Navajo-Hopi Observer – Regional paper covering news for both the Navajo and Hopi communities.
 - 
 
 Culture / History:
-- [Navajo Nation Museum](https://navajonationmuseum.org) – Preserves and presents Navajo art, culture, and history.
-- [Navajo Language Academy](https://navajolanguageacademy.org) – Dedicated to the preservation and revitalization of the Diné language.
-- [Navajo Nation Historic Preservation Department](https://hpd.navajo-nsn.gov) – Protects Navajo cultural resources and sacred sites.
-- [Diné College](https://dinecollege.edu) – The first tribally chartered college in the U.S., rooted in Diné culture and philosophy.
-- [Navajo Technical University](https://navajotech.edu) – Tribal university offering technical and liberal arts education grounded in Navajo culture.
-- [Navajo Language Academy](https://navajolanguageacademy.org) – Scholarly work on Navajo linguistics and language revitalization.
-- [Navajo Talking Dictionary](https://talkingdictionary.swarthmore.edu/navajo) – Audio recordings of Navajo words and phrases, hosted by Swarthmore College.
-- [FirstVoices: Navajo](https://www.firstvoices.com/explore/FV/Workspaces/Data/Navajo) – A community-driven platform for archiving and teaching the Navajo language, with words, phrases, and audio.
-- [Navajo Language Renaissance](https://navajolanguagerenaissance.org) – Focused on language revival, with some resources in Diné Bizaad.
-- [Rosetta Stone Endangered Language Program](https://www.rosettastone.com/endangered-languages) – Developed a Navajo language course in partnership with the Navajo Nation, free for tribal members.
+- https://navajonationmuseum.org Navajo Nation Museum – Preserves and presents Navajo art, culture, and history.
+- https://navajolanguageacademy.org Navajo Language Academy – Dedicated to the preservation and revitalization of the Diné language.
+- https://hpd.navajo-nsn.gov Navajo Nation Historic Preservation Department – Protects Navajo cultural resources and sacred sites.
+- https://dinecollege.edu Diné College – The first tribally chartered college in the U.S., rooted in Diné culture and philosophy.
+- https://navajotech.edu Navajo Technical University – Tribal university offering technical and liberal arts education grounded in Navajo culture.
+- https://navajolanguageacademy.org Navajo Language Academy – Scholarly work on Navajo linguistics and language revitalization.
+- https://talkingdictionary.swarthmore.edu/navajo Navajo Talking Dictionary – Audio recordings of Navajo words and phrases, hosted by Swarthmore College.
+- https://www.firstvoices.com/explore/FV/Workspaces/Data/Navajo FirstVoices: Navajo – A community-driven platform for archiving and teaching the Navajo language, with words, phrases, and audio.
+- https://navajolanguagerenaissance.org Navajo Language Renaissance – Focused on language revival, with some resources in Diné Bizaad.
+- https://www.rosettastone.com/endangered-languages Rosetta Stone Endangered Language Program – Developed a Navajo language course in partnership with the Navajo Nation, free for tribal members.
 - 
 
 Government:
-- [Navajo Nation Government](https://navajo-nsn.gov) – Official portal for the Navajo Nation executive branch.
-- [Navajo Nation Council](https://navajonationcouncil.org) – The legislative body of the Navajo Nation.
-- [Navajo Nation Courts](https://navajocourts.org) – The judicial branch of the Navajo Nation.
-- [Navajo Nation Washington Office](https://nnwo.org) – Represents Navajo interests at the federal level.
-- [Navajo Division of Transportation](https://ndot.navajo-nsn.gov) – Manages transportation infrastructure across Navajo lands.
+- https://navajo-nsn.gov Navajo Nation Government – Official portal for the Navajo Nation executive branch.
+- https://navajonationcouncil.org Navajo Nation Council – The legislative body of the Navajo Nation.
+- https://navajocourts.org Navajo Nation Courts – The judicial branch of the Navajo Nation.
+- https://nnwo.org Navajo Nation Washington Office – Represents Navajo interests at the federal level.
+- https://ndot.navajo-nsn.gov Navajo Division of Transportation – Manages transportation infrastructure across Navajo lands.
 - 
 
 Political Parties:
@@ -37,11 +37,11 @@ Political Parties:
 - 
 
 Other:
-- [Navajo Nation Parks & Recreation](https://navajonationparks.org) – Manages stunning parks and monuments within Navajo lands, including Monument Valley.
-- [Navajo Tribal Utility Authority](https://ntua.com) – Provides essential utilities (water, electric, telecom) to Navajo communities.
-- [Navajo Nation Gaming Enterprise](https://nngaming.com) – Oversees Navajo-owned casino and gaming operations.
-- [Navajo Area Indian Health Service](https://ihs.gov/navajo) – Federal health services serving Navajo Nation members.
-- [Navajo Nation Human Rights Commission](https://nnhrc.navajo-nsn.gov) – Monitors and advocates for the human rights of Navajo people.
+- https://navajonationparks.org Navajo Nation Parks & Recreation – Manages stunning parks and monuments within Navajo lands, including Monument Valley.
+- https://ntua.com Navajo Tribal Utility Authority – Provides essential utilities (water, electric, telecom) to Navajo communities.
+- https://nngaming.com Navajo Nation Gaming Enterprise – Oversees Navajo-owned casino and gaming operations.
+- https://ihs.gov/navajo Navajo Area Indian Health Service – Federal health services serving Navajo Nation members.
+- https://nnhrc.navajo-nsn.gov Navajo Nation Human Rights Commission – Monitors and advocates for the human rights of Navajo people.
 - https://nv.wikipedia.org
 
 Informative links (in English):

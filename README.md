@@ -85,7 +85,7 @@ See also: [Constructed](constructed/README.md), [Extinct](extinct/README.md), [H
 - [Bhojpuri](living/bhojpuri.md)
 - Chinese: See Mandarin Chinese and the many other Chinese languages
 - [Egyptian Arabic](living/egyptian_arabic.md)
-- English
+- [English](living/english.md)
 - [French](living/french.md)
 - German
 - [Gujarati](living/gujarati.md)

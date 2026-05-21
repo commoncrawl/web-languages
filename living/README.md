@@ -16,8 +16,8 @@ If your favorite language is missing, please open an issue on Github.
 - [Bhojpuri](bhojpuri.md)
 - Chinese: See Mandarin Chinese and the many other Chinese languages
 - [Egyptian Arabic](egyptian_arabic.md)
-- English
-- French
+- [English](living/english.md)
+- [French](living/french.md)
 - German
 - [Gujarati](gujarati.md)
 - [Hausa](hausa.md)

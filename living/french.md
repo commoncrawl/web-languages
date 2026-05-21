@@ -142,8 +142,9 @@ Scripts:
 
 Thank you to these people who have helped create this document:
 
--
--
+- [Julien Duponchelle](https://github.com/julien-duponchelle/)
+- [Greg Lindahl](https://github.com/wumpus)
+- 
 
 ## Instructions
 

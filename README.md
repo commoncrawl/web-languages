@@ -108,7 +108,7 @@ See also: [Constructed](constructed/README.md), [Extinct](extinct/README.md), [H
 - Persian: See Iranian Persian, Dari, and Tajik
 - [Portuguese](living/portuguese.md) Includes Brazil, we may break that out later
 - Russian
-- Spanish: We may eventually make a geographic breakdown
+- [Spanish](living/spanish.md)
 - [Standard Arabic](living/standard_arabic.md)
 - [Swahili (individual language)](living/swahili_individual_language_.md)
 - [Tagalog](living/tagalog.md)

@@ -108,7 +108,7 @@ Scripts:
 - 
 
 Thank you to these people who have helped create this document:
-- 
+- [Greg Lindahl](https://github.com/wumpus)
 - 
 
 ## Instructions

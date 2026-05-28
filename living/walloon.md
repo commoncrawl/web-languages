@@ -2,7 +2,26 @@
 
 Additional names:
 - walon
-- 
+- waals
+- west-waals
+- ouest-wallon
+- wallo-picard
+- walon do Coûtchant
+- walo-picård
+- centrum-waals
+- centre-wallon
+- walon do Mitan
+- le Namurois
+- oost-waals
+- est-wallon
+- le Liégeois
+- walon do Levant
+- walon do Payîs d'Lîdje
+- zuid-waals
+- sud-wallon
+- wallo-lorain
+- walon nonrece
+- walo-lorin Basse Årdene
 
 News:
 - https://www.wallonia.be/en/news (Regional News - English)
@@ -11,11 +30,13 @@ News:
 - https://www.rtbf.be/info — RTBF Info — News portal of the French-language public broadcaster of Belgium. Belgium
 - https://www.lavenir.net/ — L'Avenir — Regional French-language daily covering Wallonia. Belgium
 - https://www.dhnet.be/ — La Dernière Heure — Popular French-language Belgian tabloid daily. Belgium
+- https://aberteke.walon.org/ Aberteke, the Lucyin Mahin Walloon on-line magazine
 - 
 
 Culture / History:
 - https://wa.wikipedia.org/wiki/Walons (Walloons - Wikipedia Article)
 - https://wa.wikipedia.org/wiki/Walonreye (Wallonia - Wikipedia Article)
+- 
 
 Government:
 - https://www.wallonie.be/en/stakeholders-and-institutions/wallonia/walloon-government (Wallonia Government official website - English)
@@ -31,8 +52,12 @@ Political Parties:
 
 Other:
 - https://wa.wikipedia.org
-- 
-- 
+- http://walon.org/ - Some walloon resources, including translation resources
+- https://web.archive.org/web/20210420043638/http://users.skynet.be/lorint/croejh/ - (archived: Walloon grammar rules)
+- https://lucyin.walon.org/codjowaedjes/ - Walloon conjugations and language information
+- https://dtw.walon.org/index.php - Walloon-French dictionary
+- https://www.lexilogos.com/wallon_dictionnaire.htm - Walloon language resources
+- https://www.u-picardie.fr/LESCLaP/PICARTEXT/Public/index.php - Picard linguistic resource (close cousin of walloon)
 
 Informative links (in English):
 - https://en.wikipedia.org/wiki/Walloon_language

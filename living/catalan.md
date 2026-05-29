@@ -10,13 +10,18 @@ News:
 - https://www.rac1.cat/ 
 - https://www.lavanguardia.com/encatala
 - https://www.ara.cat/
+- https://www.vilaweb.cat/ (Oldest and largest native Catalan web newspaper)
+- https://www.naciodigital.cat/ (NacióDigital, Catalan news)
 - https://www.diaridetarragona.com/
 - https://www.segre.com/ca/ (Regional newspaper for Lleida)
 - https://www.diaridegirona.cat/ (Regional newspaper for Girona)
 - https://www.elpuntavui.cat/
 - https://www.elperiodico.cat/ca/ 
 - https://www.apuntmedia.es/ (Valencian public media corporation)
+- https://www.rtva.ad/ (Ràdio i Televisió d'Andorra, public broadcaster of Andorra)
+- https://www.diariandorra.ad/ (Diari Andorra, newspaper of Andorra)
 - https://ib3.org/ (Public media of the Balearic Islands)
+- https://beteve.cat/ (Barcelona's municipal TV)
 - https://www.acn.cat/ (Catalan News Agency)
 
 Culture / History:
@@ -24,6 +29,10 @@ Culture / History:
 - https://www.cpnl.cat/ (Consortium for Linguistic Normalization)
 - https://www.tnc.cat/ (National Theatre of Catalonia)
 - https://www.macba.cat/ca/ (Barcelona Museum of Contemporary Art)
+- https://www.museunacional.cat/ca/ (National Museum of Catalan Art)
+- https://fmirobcn.org/ca/ (Fundació Joan Miró)
+- https://www.palaumusica.cat/ca/ (Palau de la Música Catalana, UNESCO World Heritage)
+- https://anc.gencat.cat/ca/ (National Archives of Catalonia)
 - https://cosmocaixa.org/ca/ (Science Museum in Barcelona)
 
 Government:
@@ -31,6 +40,12 @@ Government:
 - https://web.gencat.cat/ (Government of Catalonia)
 - https://ajuntament.barcelona.cat/ca/ (Barcelona City Council)
 - https://www.diba.cat/ (Provincial Council of Barcelona)
+- https://www.govern.ad/ (Government of Andorra)
+- https://www.consellgeneral.ad/ (Parliament of Andorra)
+- https://www.gva.es/va/ (Generalitat Valenciana, Government of the Valencian Community)
+- https://www.cortsvalencianes.es/ (Corts Valencianes, Parliament of the Valencian Community)
+- https://www.caib.es/govern/home.ca.do (Govern de les Illes Balears, Government of the Balearic Islands)
+- https://www.parlamentib.es/ (Parlament de les Illes Balears)
 
 Political Parties:
 - https://www.socialistes.cat/
@@ -42,19 +57,25 @@ Political Parties:
 
 Other:
 - https://ca.wikipedia.org
-- 
+- https://www.softcatala.org/ (Softcatalà, Catalan language technology and software localization)
+- https://termcat.cat/ (TERMCAT, official Catalan terminology centre)
+- https://optimot.gencat.cat/ (Official Catalan language consultation portal)
+- https://llengua.gencat.cat/ (Language policy portal of the Generalitat de Catalunya)
 - 
 
 Informative links (in English):
 - https://en.wikipedia.org/wiki/Catalonia
 - https://en.wikipedia.org/wiki/Catalan_language
 - https://en.wikipedia.org/wiki/History_of_Catalonia
+- https://en.wikipedia.org/wiki/Andorra
+- https://en.wikipedia.org/wiki/Valencian_Community
+- https://en.wikipedia.org/wiki/Balearic_Islands
 - https://www.catalunya.com/en (Official tourism website of Catalunya)
 
 Additional Information:
 - ISO-639-3 code: cat
 - https://en.wikipedia.org/wiki/ISO_639:cat
-- This document needs reviewing by a native speaker.
+
 
 
 Scripts:

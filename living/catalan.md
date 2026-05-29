@@ -47,6 +47,19 @@ Government:
 - https://www.caib.es/govern/home.ca.do (Govern de les Illes Balears, Government of the Balearic Islands)
 - https://www.parlamentib.es/ (Parlament de les Illes Balears)
 
+Universities:
+- https://www.ub.edu/web/ub/ca/ (University of Barcelona)
+- https://www.uab.cat/ (Autonomous University of Barcelona)
+- https://www.upf.edu/ca/ (Pompeu Fabra University)
+- https://www.udg.edu/ca/ (University of Girona)
+- https://www.urv.cat/ca/ (Rovira i Virgili University, Tarragona)
+- https://www.udl.cat/ca/ (University of Lleida)
+- https://www.uvic.cat/ca (University of Vic)
+- https://www.uib.cat/ (University of the Balearic Islands)
+- https://www.uv.es/ca/ (University of Valencia)
+- https://www.uoc.edu/ca/ (Open University of Catalonia)
+- https://www.upc.edu/ca/ (Polytechnic University of Catalonia)
+
 Political Parties:
 - https://www.socialistes.cat/
 - https://junts.cat/

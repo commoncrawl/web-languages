@@ -85,7 +85,7 @@ News:
 
 Culture / History:
 
-- http:///culture.gouv.fr (French Ministry of Culture)
+- http://culture.gouv.fr (French Ministry of Culture)
 -
 
 Government:

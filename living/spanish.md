@@ -5,9 +5,9 @@ our crawl, we are mostly interested in communities and cultures that are:
 
 - Countries where Spanish is widely spoken
 - Regions of Spain with distinct cultures and communities. Some of these have their own language pages:
-  - [Basque](living/basque.md)
-  - [Catalan](living/catalan.md)
-  - [Galician](living/galician.md)
+  - [Basque](basque.md)
+  - [Catalan](catalan.md)
+  - [Galician](galician.md)
 
 Additional names:
 - español

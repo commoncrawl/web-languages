@@ -1,83 +1,75 @@
 # Web Language: Somali
 
 Additional names:
-
 - Soomaaliga
 - 
 
 News:
-
-- https://www.geeska.com/so
-- https://www.bbc.com/somali
-- https://radiomuqdisho.so/
-- https://sntv.so/
-- https://www.ena.et/web/som
-- https://footballsomalia.so/so/
-- https://ogaaltv.so/
-- https://hadhwanaagnews.ca/
-- https://www.oodweynemedia.com/
-- https://horufadhimedia.com/
-- https://www.radiodalsan.com/
-- https://mustaqbalmedia.net/so/
+- https://www.voasomali.com/ (VOA Somali — US federal, public domain)
+- https://www.bbc.com/somali (BBC Somali)
+- https://www.hiiraan.com/ (Hiiraan Online)
+- https://www.garoweonline.com/so (Garowe Online)
+- https://www.caasimada.net/ (Caasimada Online)
+- https://keydmedia.net/so/ (Keydmedia)
+- https://horseedmedia.net/ (Horseed Media)
+- https://jowhar.com/ (Jowhar)
+- https://goobjoog.com/ (Goobjoog Media)
+- https://www.radiodalsan.com/ (Radio Dalsan)
+- https://radiomuqdisho.so/ (Radio Muqdisho — national radio)
+- https://sntv.so/ (Somali National TV)
+- https://puntlandpost.net/ (Puntland Post)
+- https://mareeg.com/ (Mareeg Media)
+- https://daljir.com/ (Radio Daljir)
+- https://radiorisaala.com/ (Radio Risaala)
+- https://hbnonlinetv.com/ (HBN Online TV)
+- https://calankamedia.com/ (Calanka Media)
+- https://www.geeska.com/so (Geeska Afrika)
+- https://www.ena.et/web/som (Ethiopian News Agency — Somali service)
+- https://hadhwanaagnews.ca/ (Hadhwanaag Media)
+- https://www.oodweynemedia.com/ (Oodweyne News)
+- https://horufadhimedia.com/ (Horufadhi Media)
+- https://mustaqbalmedia.net/so/ (Mustaqbal Media)
+- https://starfm.co.ke/ (Star FM)
 
 Culture / History:
-
-- 
-- 
+- https://aga.so/so/ (Akademiye Goboleedka Af-Soomaaliga — Regional Somali Language Academy)
+- https://www.hoygamaansada.com/ (Somali poetry and gabay platform)
 
 Government:
-
-- https://senate.gov.so/
-- https://moifar.gov.so/
-- https://police.gov.so/
+- https://senate.gov.so/ (Federal Parliament — Upper House)
+- https://moifar.gov.so/ (Federal Ministry of Interior, Federal Affairs and Reconciliation)
+- https://police.gov.so/ (Somali Police Force)
 - https://mois.gov.so/
 - https://tubsan.gov.so/so/
-- https://hbnonlinetv.com/
-- https://radiorisaala.com/
-- https://www.caasimada.net/
-- https://www.fanamc.com/somali/
-- https://www.fnnmedia.org/
-- https://goobjoog.com/
-- https://calankamedia.com/
-- https://starfm.co.ke/
-- https://daljir.com/
+- https://moitt.pl.so/ (Puntland Government)
+- https://mohadm.pl.so/ (Puntland Government)
+- https://moh.pl.so/ (Puntland Ministry of Health)
+- https://moin.govsomaliland.org/ (Somaliland Ministry of Information, Culture and National Guidance)
 
 Political Parties:
-
-- 
-- 
+- https://wadajirparty.org/somali/ (Xisbiga Wadajir)
 
 Other:
-
-- https://so.wikipedia.org
-- https://so.wikipedia.org/
-- https://somalipublicagenda.org/gorfeyn-nidaamka-madaxtooyada-labada-xisbi-siyaasadeed/
-- https://xaayda-kil.blogspot.com/
-- https://www.carehospitals.com/so/
-- https://islamhouse.com/so/main/
-- https://www.continence.org.au/information-incontinence-somali
-- https://www.kowot.com/so/
-- https://so.gtmsmart.com/
+- https://so.wikipedia.org (Somali Wikipedia)
+- https://footballsomalia.so/so/ (Somali Football Federation)
+- https://islamhouse.com/so/main/ (Somali-language Islamic resources)
 
 Informative links (in English):
-
-- 
-- 
+- https://en.wikipedia.org/wiki/Somali_language
+- https://en.wikipedia.org/wiki/Somali_alphabets
 
 Additional Information:
-
 - ISO-639-3 code: som
 - https://en.wikipedia.org/wiki/ISO_639:som
+- Internet TLD: .so
 
 Scripts:
-
 - <a href="https://en.wikipedia.org/wiki/ISO_15924">ISO 15924 Latn</a> Latin
 - 
 
 Thank you to these people who have helped create this document:
-
 - [The African Languages Lab](https://africanlanguageslab.com/)
-- 
+- Khalid Yusuf Dahir (https://github.com/khaledyusuf44)
 
 ## Instructions
 

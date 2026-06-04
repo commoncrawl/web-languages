@@ -51,7 +51,7 @@ Political Parties:
 
 Other:
 - https://ro.wikipedia.org
-- 
+- https://dexonline.ro (Dictionaries of the Romanian language)
 - 
 
 Informative links (in English):

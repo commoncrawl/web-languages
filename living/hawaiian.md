@@ -1,28 +1,40 @@
 # Web Language: Hawaiian
 
 Additional names:
+- ʻŌlelo Hawaiʻi
 - Hawaiʻi
-- 
 
 News:
-- 
+- https://oiwi.tv News and documentaries. Mainly Hawaiian, some English.
+- https://kawaiola.news Ka Wai Ola o OHA ("The Living Water of OHA") - English and Hawaiian.
+- https://www.oha.org The Office of Hawaiian Affairs' main website. Some news. English and Hawaiian.
 - 
 
 Culture / History:
-- 
+- https://ulukau.org - Ulukau: The Hawaiian Electronic Library. Hawaiian and English.
+- https://www.ahapunanaleo.org - ʻAha Pūnana Leo. Non-profit founded to revitalize the Hawaiian language. Hawaiian and English.
+- https://www.papakilodatabase.com - The Papakilo Database. English with Hawaiian archival content.
+- https://kanaeokana.net - A hub for Hawaiian language learners and advocates. Hawaiian and English.
+- https://waihona.net - Directory of online educational resources. Hawaiian and English.
+- https://www.bishopmuseum.org - Founded 1889. English, some Hawaiian.
+- https://kaiwakiloumoku.ksbe.edu -  The Kaʻiwakīloumoku Hawaiian Cultural Center at Kamehameha Schools. English and Hawaiian.
 - 
 
 Government:
-- 
+- https://www.doi.gov/hawaiian - The Office of Native Hawaiian Relations. English and some Hawaiian.
+- https://dhhl.hawaii.gov - The Department of Hawaiian Home Lands. English.
 - 
 
-Political Parties:
-- 
+Political Organizations:
+- https://aohcc.org - Association of Hawaiian Civic Clubs. English and some Hawaiian.
+- https://www.nationofhawaii.org - Nation of Hawaiʻi. English and some Hawaiian.
+- https://www.hawaiiancouncil.org - Hawaiian Council. English and some Hawaiian.
 - 
 
 Other:
+- https://www.papahanaumokuakea.gov/heritage - The Papahānaumokuākea Marine National Monument's heritage page. English and some Hawaiian.
+- https://www.nps.gov/locations/hawaii/heritage.htm The National Park Service's Native Hawaiian Heritage & Culture page. English.
 - https://haw.wikipedia.org
-- 
 - 
 
 Informative links (in English):
@@ -32,13 +44,14 @@ Informative links (in English):
 Additional Information:
 - ISO-639-3 code: haw
 - https://en.wikipedia.org/wiki/ISO_639:haw
-
+- This document needs reviewing by a native speaker.
 
 Scripts:
+- [ISO 15924 Latn](https://en.wikipedia.org/wiki/ISO_15924) (
 - 
 
 Thank you to these people who have helped create this document:
-- 
+- [Greg Lindahl](https://github.com/wumpus) 
 - 
 
 ## Instructions

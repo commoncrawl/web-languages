@@ -15,6 +15,14 @@ News:
 - https://e24.no/ (Business news)
 - https://www.adressa.no/ (Regional - Trondheim)
 - https://www.bt.no/ (Regional - Bergen)
+- https://www.dagsavisen.no/
+- https://www.filternyheter.no/
+- https://www.digi.no/  # focus on technology
+- https://www.rett24.no/  # focus on legal matters
+- https://www.forskning.no/  # science/research focused
+- https://www.khrono.no/  # academic news
+- https://www.framtida.no/  # nynorsk news and debate for youth
+- https://www.kode24.no/  # focus on technology
 
 Culture / History:
 - https://norskfolkemuseum.no/ (Norwegian Museum of Cultural History)
@@ -22,13 +30,24 @@ Culture / History:
 - http://kulturarv.no/ (Norwegian Cultural Heritage)
 - https://www.nb.no/ (National Library of Norway)
 - https://www.khm.uio.no/ (Museum of Cultural History at the University of Oslo)
-- https://www.arkivverket.no/ (National Archives of Norway)
+- https://www.nasjonalarkivet.no/ (National Archives of Norway)
 - https://no.wikipedia.org/wiki/Kategori:Norsk_kultur (Norwegian Wikipedia category for Norwegian Culture)
+- 
 
 Government:
 - https://www.regjeringen.no/no/id4/ (The Government of Norway)
 - https://www.stortinget.no/no/ (Norwegian Parliament)
 - https://www.kongehuset.no/ (The Royal House of Norway)
+- https://www.norge.no/  # overview of public services in bokmål
+- https://www.noreg.no/  # overview of public services in nynorsk
+- https://www.norga.no/  # overview of public services in Sámi
+- https://www.nav.no/  # welfare administration
+- https://www.dsb.no/  # directorate for civil protection
+- https://www.barneombudet.no/  # Ombudsperson for Children
+- https://www.bufetat.no/  # Directorate for Children, Youth and Family Affairs
+- https://www.datatilsynet.no/  # Norwegian Data Protection Authority
+- https://www.forbrukertilsynet.no/  # Norwegian Consumer Autority
+- https://www.politiet.no/  # Norwegian Police Authority
 
 Political Parties:
 - https://www.arbeiderpartiet.no/ (Arbeiderpartiet - Labour Party)
@@ -36,7 +55,7 @@ Political Parties:
 - https://www.senterpartiet.no/ (Senterpartiet - Centre Party)
 - https://www.frp.no/ (Fremskrittspartiet - Progress Party)
 - https://www.sv.no/ (Sosialistisk Venstreparti - Socialist Left Party)
-- https://roedt.no/ (Rødt - Red Party)
+- https://www.roedt.no/ (Rødt - Red Party)
 - https://www.venstre.no/ (Venstre - Liberal Party)
 - https://www.mdg.no/ (Miljøpartiet De Grønne - Green Party)
 - https://www.krf.no/ (Kristelig Folkeparti - Christian Democratic Party)
@@ -64,7 +83,7 @@ Scripts:
 
 Thank you to these people who have helped create this document:
 - [Ethan Wenokur](https://github.com/e-Winnie)
-- 
+- [Jon Tønnessen](https://github.com/joncto)
 
 ## Instructions
 

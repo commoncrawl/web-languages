@@ -40,6 +40,7 @@ Government:
 - https://www.kongehuset.no/ (The Royal House of Norway)
 - https://www.norge.no/nb  # overview of public services in bokmål
 - https://www.noreg.no/nn  # overview of public services in nynorsk
+- https://www.norga.no/en  # overview of public services in English
 - https://www.norga.no/  # overview of public services in Sámi
 - https://www.nav.no/  # welfare administration
 - https://www.dsb.no/  # directorate for civil protection

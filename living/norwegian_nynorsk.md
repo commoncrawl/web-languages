@@ -13,7 +13,7 @@ Culture / History:
 - 
 
 Government:
-- 
+- https://www.noreg.no/nn  # overview of Norwegian public services in Nynorsk
 - 
 
 Political Parties:

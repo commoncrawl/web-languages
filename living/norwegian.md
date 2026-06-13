@@ -75,7 +75,6 @@ Informative links (in English):
 Additional Information:
 - ISO-639-3 code: nor
 - https://en.wikipedia.org/wiki/ISO_639:nor
-- This document needs reviewing by a native speaker.
 
 
 Scripts:

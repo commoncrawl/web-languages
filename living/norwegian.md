@@ -38,8 +38,8 @@ Government:
 - https://www.regjeringen.no/no/id4/ (The Government of Norway)
 - https://www.stortinget.no/no/ (Norwegian Parliament)
 - https://www.kongehuset.no/ (The Royal House of Norway)
-- https://www.norge.no/  # overview of public services in bokmål
-- https://www.noreg.no/  # overview of public services in nynorsk
+- https://www.norge.no/nb  # overview of public services in bokmål
+- https://www.noreg.no/nn  # overview of public services in nynorsk
 - https://www.norga.no/  # overview of public services in Sámi
 - https://www.nav.no/  # welfare administration
 - https://www.dsb.no/  # directorate for civil protection

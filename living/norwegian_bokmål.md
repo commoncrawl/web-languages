@@ -1,7 +1,7 @@
 # Web Language: Norwegian Bokmål
 
 Additional names:
-- 
+- Bokmål
 
 News:
 - 
@@ -12,7 +12,7 @@ Culture / History:
 - 
 
 Government:
-- 
+- https://www.norge.no/nb  # overview of Norwegian public services in Bokmål
 - 
 
 Political Parties:

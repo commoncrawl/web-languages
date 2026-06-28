@@ -23,221 +23,279 @@ Additional names:
 
 ## Government
 
-- <https://adafsa.gov.ae>
-- <https://adf.gov.sa>
-- <https://ajmanre.gov.ae>
-- <https://aladel.gov.ly>
-- <https://alarabi.nccal.gov.kw>
-- <https://alnajafhealth.gov.iq>
-- <https://apa.gov.eg>
-- <https://ar.ocfs.ny.gov>
-- <https://arabic.participate.nyc.gov>
-- <https://arabic.von.gov.ng>
-- <https://beta.sfda.gov.sa>
+### Algeria
+
+- <https://commerce.gov.dz>
+- <https://interieur.gov.dz>
+- <https://madr.gov.dz>
+- <https://premier-ministre.gov.dz>
+- <https://wpress.m-culture.gov.dz>
+- <https://www.cerefe.gov.dz>
+- <https://www.education.gov.dz>
+- <https://www.me.gov.dz>
+- <https://www.mhuv.gov.dz>
+
+### Bahrain
+
 - <https://bsmd.moic.gov.bh>
+- <https://www.bipa.gov.bh>
+- <https://www.islam.gov.bh>
+- <https://www.mia.gov.bh>
+- <https://www.moh.gov.bh>
+- <https://www.nssa.gov.bh>
+- <https://youth.moh.gov.bh>
+
+### Egypt
+
+- <https://apa.gov.eg>
 - <https://budget.gov.eg>
 - <https://catr.gov.eg>
-- <https://cbl.gov.ly>
-- <https://cbos.gov.sd>
 - <https://ccba.gov.eg>
-- <https://ccs.gov.ly>
-- <https://clusterqassim.gov.sa>
-- <https://coca.gov.ye>
-- <https://commerce.gov.dz>
-- <https://commune-sfax.gov.tn>
-- <https://cpd.gov.kw>
-- <https://csb.gov.jo>
-- <https://customs.mof.gov.iq>
-- <https://data.gov.ma>
-- <https://delegation.mjs.gov.ma>
-- <https://detroitmi.gov>
-- <https://dgam.gov.sy>
-- <https://didh.gov.ma>
-- <https://diwaniya.gov.iq>
-- <https://dosweb.dos.gov.jo>
-- <https://e-daleel.gov.jo>
-- <https://economy.gov.ly>
-- <https://edu.moe.gov.sa>
 - <https://egymonuments.gov.eg>
-- <https://elections.gov.lb>
-- <https://elibrary.mara.gov.om>
-- <https://embassies.mofa.gov.sa>
-- <https://emis.moe.gov.jo>
-- <https://environnement.gov.ma>
-- <https://etmam.momrah.gov.sa>
-- <https://faoco.moch.gov.iq>
-- <https://finance.gov.lb>
 - <https://fra.gov.eg>
-- <https://futurex.nelc.gov.sa>
-- <https://gcsar.gov.sy>
 - <https://gebo.gov.eg>
-- <https://gmoe.gov.sd>
-- <https://hailen.gov.sa>
-- <https://hasti.gov.ye>
-- <https://home.moe.gov.om>
-- <https://hrsd.gov.sa>
-- <https://hukoomi.gov.qa>
-- <https://ich.gov.jo>
-- <https://idc.gov.ly>
 - <https://idsc.gov.eg>
-- <https://interieur.gov.dz>
-- <https://inv.albaha.gov.sa>
-- <https://investinlebanon.gov.lb>
-- <https://investpromo.gov.iq>
-- <https://iraqifashion.gov.iq>
-- <https://isc.gov.iq>
-- <https://istitlaa.ncc.gov.sa>
-- <https://itcadel.gov.ly>
-- <https://kdipa.gov.kw>
-- <https://laws.boe.gov.sa>
-- <https://lawyers.gov.iq>
-- <https://lebarmy.gov.lb>
-- <https://lpdc.gov.lb>
-- <https://ltrc.gov.jo>
-- <https://madr.gov.dz>
-- <https://maf.gov.om>
-- <https://manaratalharamain.gov.sa>
 - <https://mcit.gov.eg>
-- <https://mewa.gov.sa>
-- <https://mim.gov.sa>
-- <https://misrata.gov.ly>
-- <https://moc.gov.sy>
-- <https://mod.gov.sy>
-- <https://moe.gov.jo>
-- <https://moe.gov.sa>
-- <https://mof.gov.kw>
-- <https://mofa.gov.iq>
-- <https://mofa.gov.qa>
-- <https://mofaex.gov.sy>
-- <https://moh.gov.jo>
-- <https://moh.gov.sa>
-- <https://moh.gov.ye>
-- <https://mohe.gov.sy>
-- <https://moi.gov.ae>
-- <https://moi.gov.ps>
-- <https://moiat.gov.ae>
-- <https://mop.gov.iq>
-- <https://moph.gov.lb>
-- <https://mos.gov.sa>
-- <https://mot.gov.ly>
-- <https://msgg.gov.mr>
-- <https://muftiwp.gov.my>
-- <https://muthana.gov.iq>
-- <https://ncbt.gov.sy>
-- <https://nccal.gov.kw>
 - <https://nfsa.gov.eg>
 - <https://niun.gov.eg>
 - <https://nppa.gov.eg>
-- <https://nraa.gov.om>
-- <https://oerx.nelc.gov.sa>
-- <https://old.mop.gov.iq>
-- <https://opendata.interieur.gov.tn>
-- <https://parliament.gov.sy>
-- <https://pcbs.gov.ps>
-- <https://pdtra.gov.jo>
-- <https://premier-ministre.gov.dz>
-- <https://psd.gov.jo>
-- <https://quran.gov.ae>
-- <https://riadi.alwehda.gov.sy>
-- <https://sba.gov.sa>
-- <https://sfda.gov.sa>
-- <https://sgc.gov.sy>
 - <https://sharkia.gov.eg>
-- <https://sia.gov.sy>
 - <https://sis.gov.eg>
 - <https://sohag.gov.eg>
 - <https://southsinai.gov.eg>
-- <https://soutiensco.men.gov.ma>
-- <https://sp.spa.gov.sa>
 - <https://streetstory.gov.eg>
-- <https://sunniaffairs.gov.iq>
-- <https://supremecourt.gov.ly>
-- <https://tafahom.mara.gov.om>
-- <https://taqeem.gov.sa>
 - <https://tazpalace.gov.eg>
-- <https://tdra.gov.ae>
 - <https://us.sis.gov.eg>
-- <https://web.khda.gov.ae>
-- <https://wpress.m-culture.gov.dz>
-- <https://wre.gov.sd>
-- <https://www.adek.gov.ae>
-- <https://www.adpolice.gov.ae>
-- <https://www.agriculture.gov.ly>
-- <https://www.alassad-library.gov.sy>
 - <https://www.alazhar.gov.eg>
-- <https://www.alharamain.gov.sa>
-- <https://www.alifta.gov.sa>
-- <https://www.ashghal.gov.qa>
-- <https://www.baladia.gov.kw>
 - <https://www.benisuef.gov.eg>
-- <https://www.bipa.gov.bh>
 - <https://www.cdf.gov.eg>
 - <https://www.censusinfo.capmas.gov.eg>
-- <https://www.cerefe.gov.dz>
+- <https://www.darelkotob.gov.eg>
+- <https://www.eeaa.gov.eg>
+- <https://www.gocp.gov.eg>
+- <https://www.goeic.gov.eg>
+- <https://www.mts.gov.eg>
+- <https://www.portsaid.gov.eg>
+
+### Iraq
+
+- <https://alnajafhealth.gov.iq>
+- <https://customs.mof.gov.iq>
+- <https://diwaniya.gov.iq>
+- <https://faoco.moch.gov.iq>
+- <https://investpromo.gov.iq>
+- <https://iraqifashion.gov.iq>
+- <https://isc.gov.iq>
+- <https://lawyers.gov.iq>
+- <https://mofa.gov.iq>
+- <https://mop.gov.iq>
+- <https://muthana.gov.iq>
+- <https://old.mop.gov.iq>
+- <https://sunniaffairs.gov.iq>
+- <https://www.moj.gov.iq>
+- <https://www.nic.gov.iq>
+- <https://www.ppf.gov.iq>
+
+### Jordan
+
+- <https://csb.gov.jo>
+- <https://dosweb.dos.gov.jo>
+- <https://e-daleel.gov.jo>
+- <https://emis.moe.gov.jo>
+- <https://ich.gov.jo>
+- <https://ltrc.gov.jo>
+- <https://moe.gov.jo>
+- <https://moh.gov.jo>
+- <https://pdtra.gov.jo>
+- <https://psd.gov.jo>
+- <https://www.dvld.gov.jo>
+- <https://www.mfa.gov.jo>
+- <https://www.ssc.gov.jo>
+
+### Kuwait
+
+- <https://alarabi.nccal.gov.kw>
+- <https://cpd.gov.kw>
+- <https://kdipa.gov.kw>
+- <https://mof.gov.kw>
+- <https://nccal.gov.kw>
+- <https://www.baladia.gov.kw>
+- <https://www.e.gov.kw>
+
+### Lebanon
+
+- <https://elections.gov.lb>
+- <https://finance.gov.lb>
+- <https://investinlebanon.gov.lb>
+- <https://lebarmy.gov.lb>
+- <https://lpdc.gov.lb>
+- <https://moph.gov.lb>
 - <https://www.civildefense.gov.lb>
+- <https://www.darelfatwa.gov.lb>
+- <https://www.general-security.gov.lb>
+- <https://www.institutdesfinances.gov.lb>
+- <https://www.justice.gov.lb>
+- <https://www.ministryinfo.gov.lb>
+- <https://www.nna-leb.gov.lb>
+
+### Libya
+
+- <https://aladel.gov.ly>
+- <https://cbl.gov.ly>
+- <https://ccs.gov.ly>
+- <https://economy.gov.ly>
+- <https://idc.gov.ly>
+- <https://itcadel.gov.ly>
+- <https://misrata.gov.ly>
+- <https://mot.gov.ly>
+- <https://supremecourt.gov.ly>
+- <https://www.agriculture.gov.ly>
+- <https://youth.gov.ly>
+- <https://zliten.gov.ly>
+
+### Malaysia
+
+- <https://muftiwp.gov.my>
+
+### Mauritania
+
+- <https://msgg.gov.mr>
+
+### Morocco
+
+- <https://data.gov.ma>
+- <https://delegation.mjs.gov.ma>
+- <https://didh.gov.ma>
+- <https://environnement.gov.ma>
+- <https://soutiensco.men.gov.ma>
+- <https://www.onssa.gov.ma>
+- <https://www.sahara.gov.ma>
+- <https://www.sante.gov.ma>
+
+### Nigeria
+
+- <https://arabic.von.gov.ng>
+
+### Oman
+
+- <https://elibrary.mara.gov.om>
+- <https://home.moe.gov.om>
+- <https://maf.gov.om>
+- <https://nraa.gov.om>
+- <https://tafahom.mara.gov.om>
+- <https://www.moh.gov.om>
+
+### Palestine, State of
+
+- <https://moi.gov.ps>
+- <https://pcbs.gov.ps>
+- <https://www.moh.gov.ps>
+- <https://www.palestinecabinet.gov.ps>
+
+### Qatar
+
+- <https://hukoomi.gov.qa>
+- <https://mofa.gov.qa>
+- <https://www.ashghal.gov.qa>
+- <https://www.psa.gov.qa>
+
+### Saudi Arabia
+
+- <https://adf.gov.sa>
+- <https://beta.sfda.gov.sa>
+- <https://clusterqassim.gov.sa>
+- <https://edu.moe.gov.sa>
+- <https://embassies.mofa.gov.sa>
+- <https://etmam.momrah.gov.sa>
+- <https://futurex.nelc.gov.sa>
+- <https://hailen.gov.sa>
+- <https://hrsd.gov.sa>
+- <https://inv.albaha.gov.sa>
+- <https://istitlaa.ncc.gov.sa>
+- <https://laws.boe.gov.sa>
+- <https://manaratalharamain.gov.sa>
+- <https://mewa.gov.sa>
+- <https://mim.gov.sa>
+- <https://moe.gov.sa>
+- <https://moh.gov.sa>
+- <https://mos.gov.sa>
+- <https://oerx.nelc.gov.sa>
+- <https://sba.gov.sa>
+- <https://sfda.gov.sa>
+- <https://sp.spa.gov.sa>
+- <https://taqeem.gov.sa>
+- <https://www.alharamain.gov.sa>
+- <https://www.alifta.gov.sa>
+- <https://www.gea.gov.sa>
+- <https://www.mof.gov.sa>
+- <https://www.moi.gov.sa>
+- <https://www.my.gov.sa>
+- <https://www.riyadhenv.gov.sa>
+- <https://www.sama.gov.sa>
+- <https://www.saudiexports.gov.sa>
+- <https://www.stats.gov.sa>
+- <https://zatca.gov.sa>
+
+### Sudan
+
+- <https://cbos.gov.sd>
+- <https://gmoe.gov.sd>
+- <https://wre.gov.sd>
+- <https://www.sudan.gov.sd>
+
+### Syrian Arab Republic
+
+- <https://dgam.gov.sy>
+- <https://gcsar.gov.sy>
+- <https://moc.gov.sy>
+- <https://mod.gov.sy>
+- <https://mofaex.gov.sy>
+- <https://mohe.gov.sy>
+- <https://ncbt.gov.sy>
+- <https://parliament.gov.sy>
+- <https://riadi.alwehda.gov.sy>
+- <https://sgc.gov.sy>
+- <https://sia.gov.sy>
+- <https://www.alassad-library.gov.sy>
+- <https://www.hcsr.gov.sy>
+
+### Tunisia
+
+- <https://commune-sfax.gov.tn>
+- <https://opendata.interieur.gov.tn>
 - <https://www.commune-hammamet.gov.tn>
 - <https://www.commune-tunis.gov.tn>
 - <https://www.culture.gov.tn>
-- <https://www.darelfatwa.gov.lb>
-- <https://www.darelkotob.gov.eg>
+- <https://www.marchespublics.gov.tn>
+
+### United Arab Emirates
+
+- <https://adafsa.gov.ae>
+- <https://ajmanre.gov.ae>
+- <https://moi.gov.ae>
+- <https://moiat.gov.ae>
+- <https://quran.gov.ae>
+- <https://tdra.gov.ae>
+- <https://web.khda.gov.ae>
+- <https://www.adek.gov.ae>
+- <https://www.adpolice.gov.ae>
 - <https://www.dewa.gov.ae>
 - <https://www.dmt.gov.ae>
 - <https://www.dsc.gov.ae>
 - <https://www.dubaitourism.gov.ae>
-- <https://www.dvld.gov.jo>
-- <https://www.e.gov.kw>
-- <https://www.education.gov.dz>
-- <https://www.eeaa.gov.eg>
-- <https://www.gea.gov.sa>
-- <https://www.general-security.gov.lb>
-- <https://www.gocp.gov.eg>
-- <https://www.goeic.gov.eg>
-- <https://www.hcsr.gov.sy>
-- <https://www.institutdesfinances.gov.lb>
-- <https://www.islam.gov.bh>
-- <https://www.justice.gov.lb>
-- <https://www.marchespublics.gov.tn>
-- <https://www.me.gov.dz>
-- <https://www.mfa.gov.jo>
-- <https://www.mhuv.gov.dz>
-- <https://www.mia.gov.bh>
-- <https://www.ministryinfo.gov.lb>
 - <https://www.moe.gov.ae>
 - <https://www.moec.gov.ae>
 - <https://www.moei.gov.ae>
-- <https://www.mof.gov.sa>
 - <https://www.mofa.gov.ae>
-- <https://www.moh.gov.bh>
-- <https://www.moh.gov.om>
-- <https://www.moh.gov.ps>
-- <https://www.moi.gov.sa>
-- <https://www.moj.gov.iq>
-- <https://www.mts.gov.eg>
-- <https://www.my.gov.sa>
-- <https://www.mybenefits.ny.gov>
-- <https://www.nic.gov.iq>
-- <https://www.nna-leb.gov.lb>
-- <https://www.nssa.gov.bh>
-- <https://www.onssa.gov.ma>
-- <https://www.palestinecabinet.gov.ps>
-- <https://www.portsaid.gov.eg>
-- <https://www.ppf.gov.iq>
-- <https://www.psa.gov.qa>
-- <https://www.riyadhenv.gov.sa>
-- <https://www.sahara.gov.ma>
-- <https://www.sama.gov.sa>
-- <https://www.sante.gov.ma>
-- <https://www.saudiexports.gov.sa>
 - <https://www.scad.gov.ae>
 - <https://www.sharjahfc.gov.ae>
-- <https://www.ssc.gov.jo>
-- <https://www.stats.gov.sa>
-- <https://www.sudan.gov.sd>
+
+### Yemen
+
+- <https://coca.gov.ye>
+- <https://hasti.gov.ye>
+- <https://moh.gov.ye>
 - <https://yemenvision.gov.ye>
-- <https://youth.gov.ly>
-- <https://youth.moh.gov.bh>
-- <https://zatca.gov.sa>
-- <https://zliten.gov.ly>
 
 ## Political Parties
 

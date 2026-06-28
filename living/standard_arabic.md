@@ -2546,8 +2546,18 @@ Additional names:
 
 ## Political Parties
 
-- 
-- 
+- <https://albaath-as-party.org>
+- <https://alharaka.ma>
+- <https://dakahliaikhwan.com>
+- <https://fateh.ps>
+- <https://fatehrc.org>
+- <https://haqparty.net>
+- <https://ikhwanonline.org>
+- <https://ikhwansyria.com>
+- <https://liberaldemocraticpartyofiraq.com>
+- <https://ssnp.online>
+- <https://wihdaparty.com>
+- <https://www.attahrir.info>
 
 ## Other
 

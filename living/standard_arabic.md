@@ -2,7 +2,7 @@
 
 Additional names:
 - Modern Standard Arabic
-- 
+- اللغة العربية الفصحى الحديثة
 
 News:
 - https://www.aljazeera.net

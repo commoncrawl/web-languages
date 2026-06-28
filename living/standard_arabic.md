@@ -2930,6 +2930,644 @@ Additional names:
 - <https://zanayan.org>
 - <https://zedniemana.com>
 
+### Education
+
+#### Algeria
+
+- <https://virtuelcampus.univ-msila.dz>
+- <https://www.tahdir-dz.com>
+- <https://www.hns-re2sd.dz>
+- <https://fsec-sg.univ-km.dz>
+- <https://dspace.univ-bouira.dz>
+- <https://lagh-univ.dz>
+- <https://www.alphadoc.dz>
+- <https://eldjazaironline.dz>
+- <https://e-biblio.univ-mosta.dz>
+- <https://dspace.univ-msila.dz>
+- <https://revues.univ-biskra.dz>
+- <https://www.edu-dz.com>
+- <https://dspace.univ-djelfa.dz>
+- <https://www.edualgeria.com>
+- <https://zad-dz.com>
+
+#### Australia
+
+- <https://ar.sacm.org.au>
+
+#### Bahrain
+
+- <https://library.asu.edu.bh>
+
+#### Egypt
+
+- <https://repository.inp.edu.eg>
+- <https://www.a7walmasr.com>
+- <https://psu.edu.eg>
+- <https://staffsites.sohag-univ.edu.eg>
+- <https://www.fayoum.edu.eg>
+- <https://www.eelu.edu.eg>
+- <https://www.azhar.eg>
+- <https://eng.cu.edu.eg>
+- <https://highstudies.sohag-univ.edu.eg>
+- <https://ntalm-masry.com>
+- <https://aafu.journals.ekb.eg>
+- <https://mri.alexu.edu.eg>
+- <https://pharm.bsu.edu.eg>
+- <https://www.ahl-misr2020.com>
+- <https://bu.edu.eg>
+- <https://azharegypt.edu.eg>
+- <https://engfac.mans.edu.eg>
+- <https://cu.edu.eg>
+- <https://www.msr4.com>
+- <https://www.exam-eg.com>
+- <https://fsed.bu.edu.eg>
+- <https://fedu.bu.edu.eg>
+- <https://www.aun.edu.eg>
+- <https://fapa.bu.edu.eg>
+- <https://eng.asu.edu.eg>
+- <https://www.aucegypt.edu>
+- <https://kfs.edu.eg>
+- <https://usc.edu.eg>
+- <https://www.3misr.com>
+- <https://damanhour.edu.eg>
+- <https://tdb2.tanta.edu.eg>
+- <https://www.svu.edu.eg>
+- <https://www.futureacademyegypt.com>
+- <https://www.fnur.bu.edu.eg>
+- <https://agrsaba.alexu.edu.eg>
+- <https://alexu.edu.eg>
+- <https://masralaaan.com>
+- <https://pgsr.mans.edu.eg>
+- <https://o6u.edu.eg>
+- <https://www.asu.edu.eg>
+- <https://www.du.edu.eg>
+- <https://www.madaresegypt.com>
+
+#### France
+
+- <https://savoirs.rfi.fr>
+
+#### Great Britain
+
+- <https://ketab.co.uk>
+
+#### Iran, Islamic Republic of
+
+- <https://mighatulhajj.hzrc.ac.ir>
+- <https://alh.journals.miu.ac.ir>
+
+#### Iraq
+
+- <https://mng.uokufa.edu.iq>
+- <https://uoninevah.edu.iq>
+- <https://results-moedu-gov-iq.ahlamontada.com>
+- <https://coadm.uosamarra.edu.iq>
+- <https://buog.edu.iq>
+- <https://isa.atu.edu.iq>
+- <https://basicedu.uodiyala.edu.iq>
+- <https://ruc.edu.iq>
+- <https://alnukhba.edu.iq>
+- <https://uokirkuk.edu.iq>
+- <https://uowa.edu.iq>
+- <https://mtiom.mtu.edu.iq>
+- <https://uomosul.edu.iq>
+- <https://cade.tu.edu.iq>
+- <https://law.uodiyala.edu.iq>
+- <https://uokufa.edu.iq>
+- <https://alzahu.edu.iq>
+- <https://medical.mu.edu.iq>
+- <https://science.uokerbala.edu.iq>
+- <https://sciences.uodiyala.edu.iq>
+- <https://bhtc.stu.edu.iq>
+- <https://cku.atu.edu.iq>
+- <https://iraqinhistory.com>
+- <https://vet.uokufa.edu.iq>
+- <https://duc.edu.iq>
+- <https://coadm.uohamdaniya.edu.iq>
+- <https://uotechnology.edu.iq>
+- <https://cv.nahrainuniv.edu.iq>
+- <https://repository.uobabylon.edu.iq>
+- <https://journal.uokufa.edu.iq>
+- <https://dentistry.uokerbala.edu.iq>
+- <https://www.iicss.iq>
+- <https://puresci.uodiyala.edu.iq>
+- <https://uomisan.edu.iq>
+- <https://alayen.edu.iq>
+- <https://ecomang.uodiyala.edu.iq>
+- <https://iunajaf.edu.iq>
+- <https://iba.atu.edu.iq>
+- <https://agriculture.uodiyala.edu.iq>
+- <https://islamic.uodiyala.edu.iq>
+- <https://uodiyala.edu.iq>
+- <https://baghdadcollege.edu.iq>
+- <https://alzahraa.edu.iq>
+- <https://library.uodiyala.edu.iq>
+- <https://ouc.edu.iq>
+- <https://coehuman.uodiyala.edu.iq>
+- <https://law.qu.edu.iq>
+- <https://abu.edu.iq>
+- <https://kerbalacss.uokerbala.edu.iq>
+
+#### Israel
+
+- <https://www.bezalel.ac.il>
+
+#### Italy
+
+- <https://anminail.it>
+
+#### Jordan
+
+- <https://massira.jo>
+- <https://zujournal.zu.edu.jo>
+- <https://www.iu.edu.jo>
+- <https://www.mutah.edu.jo>
+- <https://inu.edu.jo>
+- <https://jpu.edu.jo>
+- <https://www.kauh.edu.jo>
+- <https://mlc.edu.jo>
+- <https://shamel.bau.edu.jo>
+- <https://jams.edu.jo>
+- <https://library.meu.edu.jo>
+- <https://www.asu.edu.jo>
+- <https://www.zuj.edu.jo>
+- <https://jadara.edu.jo>
+- <https://hu.edu.jo>
+- <https://agriculture.ju.edu.jo>
+- <https://academics.mutah.edu.jo>
+- <https://www.just.edu.jo>
+- <https://www.philadelphia.edu.jo>
+- <https://zu.edu.jo>
+
+#### Kuwait
+
+- <https://e.paaet.edu.kw>
+- <https://taleem.com.kw>
+
+#### Lebanon
+
+- <https://www.ul.edu.lb>
+- <https://libraries.aub.edu.lb>
+
+#### Libya
+
+- <https://dspace.sebhau.edu.ly>
+- <https://mdr.misuratau.edu.ly>
+- <https://uot.edu.ly>
+- <https://dspace.elmergib.edu.ly>
+- <https://qaa.ly>
+- <https://lms.sebhau.edu.ly>
+
+#### Malaysia
+
+- <https://www.iium.edu.my>
+- <https://koha.mediu.edu.my>
+- <https://journals.iium.edu.my>
+- <https://dspace.mediu.edu.my>
+
+#### Morocco
+
+- <https://www.ennajah.ma>
+- <https://sum.ma>
+- <https://alminassa24.ma>
+- <https://maktaba.ma>
+- <https://journalinfo.ma>
+- <https://bmrn.ma>
+- <https://www.jadid365.ma>
+- <https://library.ppu.edu>
+- <https://www.crmeforiental.ma>
+- <https://fad.umi.ac.ma>
+- <https://www.alarabiya.ma>
+- <https://www.taalimaroc.com>
+
+#### Netherlands
+
+- <https://zwinkoor.nl>
+
+#### Oman
+
+- <https://www.unizwa.edu.om>
+- <https://www.oman-edu.com>
+- <https://ishraqa.unizwa.edu.om>
+
+#### Palestine, State of
+
+- <https://alistiqlal.edu.ps>
+- <https://library.alistiqlal.edu.ps>
+- <https://www.britishcouncil.ps>
+- <https://library.iugaza.edu.ps>
+
+#### Qatar
+
+- <https://tamreen.qa>
+- <https://gallery.qatar.vcu.edu>
+- <https://cirs.qatar.georgetown.edu>
+- <https://www.hbku.edu.qa>
+
+#### Russian Federation
+
+- <https://inter-edu-centr.sfedu.ru>
+
+#### Saudi Arabia
+
+- <https://www.nu.edu.sa>
+- <https://www.saudi-teachers.com>
+- <https://coc.uom.edu.sa>
+- <https://directenglish.com.sa>
+- <https://arabeast.edu.sa>
+- <https://academy.dimensionsgroup.sa>
+- <https://m.mu.edu.sa>
+- <https://um.edu.sa>
+- <https://saudi-vision.live>
+- <https://repository.nauss.edu.sa>
+- <https://admissions.sr.edu.sa>
+- <https://portal.bu.edu.sa>
+- <https://educsaudi.gulf7.com>
+- <https://www.jicollege.edu.sa>
+- <https://units.imamu.edu.sa>
+- <https://cba.ksu.edu.sa>
+- <https://bu.edu.sa>
+- <https://engineering.ksu.edu.sa>
+- <https://www.saudi-chart.com>
+- <https://dorar.uqu.edu.sa>
+- <https://www.nbu.edu.sa>
+- <https://psu.edu.sa>
+- <https://sciences.ksu.edu.sa>
+- <https://edugate.yu.edu.sa>
+- <https://hipf.edu.sa>
+- <https://www.mu.edu.sa>
+- <https://w.mta.sa>
+- <https://uqu.edu.sa>
+- <https://www.ksaency.com>
+- <https://mjhs.mu.edu.sa>
+- <https://www.ut.edu.sa>
+- <https://www.kfshrc.edu.sa>
+- <https://www.alfac.edu.sa>
+- <https://faculty.psau.edu.sa>
+- <https://www.ju.edu.sa>
+- <https://tu.edu.sa>
+- <https://jes.ksu.edu.sa>
+- <https://saudischoolsguide.com>
+- <https://www.ksastudy.net>
+- <https://www.moon-riyadh.org>
+- <https://ecsme.ksu.edu.sa>
+- <https://registration.ub.edu.sa>
+- <https://makhtota.ksu.edu.sa>
+- <https://jazanu.edu.sa>
+- <https://pnu.edu.sa>
+- <https://lm.edu.sa>
+
+#### Senegal
+
+- <https://www.justemilieu.sn>
+
+#### Sudan
+
+- <https://www.mahdi.edu.sd>
+- <https://www.sudanresults.com>
+- <https://kordofan.edu.sd>
+
+#### Syrian Arab Republic
+
+- <https://www.aiu.edu.sy>
+- <https://au.edu.sy>
+- <https://manara.edu.sy>
+- <https://journal.tishreen.edu.sy>
+- <https://damascusuniversity.edu.sy>
+- <https://www.uok.edu.sy>
+- <https://www.almanahij-sy.com>
+
+#### Tunisia
+
+- <https://www.beitalhikma.tn>
+- <https://www.9rayti.com.tn>
+- <https://www.ismt.rnu.tn>
+- <https://lesson.tn>
+- <https://flm.rnu.tn>
+- <https://ultratunisia.ultrasawt.com>
+
+#### United Arab Emirates
+
+- <https://www.uaealmanahij.com>
+- <https://student-uae.com>
+- <https://www.hotcourses.ae>
+- <https://forums.nibrasuae.com>
+- <https://esu.ac.ae>
+- <https://ae.mozkra.com>
+- <https://www.school-uae.com>
+- <https://emirates-school.com>
+
+#### Yemen
+
+- <https://taiz.edu.ye>
+- <https://alamjad.edu.ye>
+- <https://alrayan-university.edu.ye>
+- <https://jums.edu.ye>
+- <https://ust.edu.ye>
+- <https://qau.edu.ye>
+
+#### General
+
+- <https://www.mawsouati.com>
+- <https://www.taatwr.com>
+- <https://mawtany.com>
+- <https://lookinmena.com>
+- <https://now.khabrna.com>
+- <https://fanarstudy.com>
+- <https://aast.edu>
+- <https://www.starshams.com>
+- <https://www.almolakhs.com>
+- <https://www.alsbbora.info>
+- <https://dspace.hebron.edu>
+- <https://www.alfada2.com>
+- <https://www.aldalel2020.com>
+- <https://www.jshaml.org>
+- <https://la-gloire-en-francais.com>
+- <https://www.islamancient.com>
+- <https://dzmadrassa.com>
+- <https://3thnweyadbyandelmy.blogspot.com>
+- <https://www.hussam.blog>
+- <https://korraseh.com>
+- <https://islamiccoa.com>
+- <https://education-alg.com>
+- <https://www.dirasaabroad.com>
+- <https://www.ahmed-aldaoody.com>
+- <https://afaaneen.com>
+- <https://easyt.online>
+- <https://www.tarbiapress.net>
+- <https://almstbah.net>
+- <https://journals.qou.edu>
+- <https://www.backloria.com>
+- <https://journals.ajsrp.com>
+- <https://www.university-nwafth.morzak.net>
+- <https://dspace.alquds.edu>
+- <https://www.vitalsource.com>
+- <https://www.onefd-edu.com>
+- <https://moalmin.com>
+- <https://www.alforod.com>
+- <https://ebook.univeyes.com>
+- <https://t3alam3arabi.com>
+- <https://etudiant.elkhadra.com>
+- <https://ar.colonialschooldistrict.org>
+- <https://universitylifestyle.net>
+- <https://hllol.net>
+- <https://elmanahil.net>
+- <https://gallery.najah.edu>
+- <https://www.alquds.edu>
+- <https://ac.touahria.com>
+- <https://www.niva-math.com>
+- <https://ktbbys.com>
+- <https://www.almuhtwa.com>
+- <https://www.alemny.net>
+- <https://troskuravi.com>
+- <https://szuletett-salde.com>
+- <https://oktamam.com>
+- <https://www.tomooh.org>
+- <https://icesco.org>
+- <https://www.school-40.com>
+- <https://ihatah.com>
+- <https://www.hatavbartaa.com>
+- <https://dentrotheplusieurs.com>
+- <https://arabpsychology.com>
+- <https://tv.bestcours.net>
+- <https://www.qissmi.com>
+- <https://wadod.net>
+- <https://solutionedu.com>
+- <https://www.maktabtk.com>
+- <https://vb.ckfu.org>
+- <https://www.schoolarabia.net>
+- <https://souqalkhalej.com>
+- <https://bulbulenglish.com>
+- <https://afeadne.com>
+- <https://taleemalyoum.com>
+- <https://www.mostajad.com>
+- <https://www.ar4coll.com>
+- <https://www.eshamel.org>
+- <https://mawsoaschool.net>
+- <https://tom-adtam.com>
+- <https://ostadpro.com>
+- <https://natijashow.com>
+- <https://www.kshmsh.com>
+- <https://www.9rayti.com>
+- <https://www.kashafk.com>
+- <https://www.arabwomenun.com>
+- <https://arabeducationsite.com>
+- <https://archive.gov.krd>
+- <https://mozakerti.com>
+- <https://masterdeg.com>
+- <https://hobasha.com>
+- <https://www.darsenglizy.com>
+- <https://almthali.com>
+- <https://hululkitab.co>
+- <https://www.nafham.com>
+- <https://www.mashaleilm.com>
+- <https://www.khlijm.com>
+- <https://www.khabrna.com>
+- <https://glommamache.com>
+- <https://www.arriyadiyat.com>
+- <https://www.almadarpress.com>
+- <https://aktbaraty.com>
+- <https://inee.org>
+- <https://www.dafatire.net>
+- <https://ar.hsc.unm.edu>
+- <https://www.recrutemaghrib.com>
+- <https://www.rakrabah.com>
+- <https://www.el3elm.com>
+- <https://www.edu-onec.com>
+- <https://courses4arab.com>
+- <https://areeg.org>
+- <https://www.npa-ar.com>
+- <https://ww1.modrsbook.com>
+- <https://ao-academy.org>
+- <https://www.kamboost.net>
+- <https://www.ta3alemdz.live>
+- <https://ritaj.birzeit.edu>
+- <https://net3lem.com>
+- <https://www.mostajadat.com>
+- <https://www.t-elm.net>
+- <https://www.radio-mahdia.info>
+- <https://www.noor-system.info>
+- <https://geniza.princeton.edu>
+- <https://www.sra7h.com>
+- <https://www.holloul.com>
+- <https://www.bibf.com>
+- <https://www.alfaseeh.com>
+- <https://dspace.qou.edu>
+- <https://www.birzeit.edu>
+- <https://tealemoo.com>
+- <https://www.tassilialgerie.com>
+- <https://m.photosarab.com>
+- <https://www.paltrainer.com>
+- <https://nqdir.com>
+- <https://ma3in.com>
+- <https://elakademiapost.com>
+- <https://www.bac20.com>
+- <https://qalamedu.org>
+- <https://milano.italianostranieri.org>
+- <https://www.hebron.edu>
+- <https://www.zyadda.com>
+- <https://mounwat.com>
+- <https://forum.xplainer.net>
+- <https://www.ecoledz.net>
+- <https://palwiki.najah.edu>
+- <https://zwwada.com>
+- <https://www.thetechfun.com>
+- <https://www.ar-science.com>
+- <https://imtihancom.com>
+- <https://allemmni.com>
+- <https://essada.info>
+- <https://www.arabhumanrights.org>
+- <https://www.madeilm.net>
+- <https://sahl.io>
+- <https://almdani.info>
+- <https://www.taalimi24.com>
+- <https://ruhrd.com>
+- <https://alostaaz.com>
+- <https://www.taybee.net>
+- <https://www.shaarjah.com>
+- <https://www.new-educ.com>
+- <https://www.mi7bar.com>
+- <https://menhj.com>
+- <https://www.mansouraacademy.com>
+- <https://www.librairiestephan.com>
+- <https://www.alfreed-ph.com>
+- <https://skild-edu.org>
+- <https://www.hazemsakeek.net>
+- <https://www.djelfa.info>
+- <https://istanbulbc.com>
+- <https://www.dimaschool.com>
+- <https://www.arabimpactfactor.com>
+- <https://www.aaup.edu>
+- <https://thegazapost.com>
+- <https://tarbiagate.com>
+- <https://www.final-rev.com>
+- <https://doukkalamedia24.com>
+- <https://www.alawayil.com>
+- <https://taalim.org>
+- <https://www.socioclub.net>
+- <https://educationmag.net>
+- <https://careerpath.birzeit.edu>
+- <https://teams-academy.com>
+- <https://eddirasa.com>
+- <https://www.almazeyd.com>
+- <https://www.taalimpress.info>
+- <https://www.myschool77.com>
+- <https://mrsae.com>
+- <https://www.etenma.com>
+- <https://www.chidmedia.com>
+- <https://www.altaelimia.academy>
+- <https://www.graeco-arabic-studies.org>
+- <https://www.al-morshid.net>
+- <https://www.test-q.com>
+- <https://oujdagalerie.com>
+- <https://www.aldawratalakademia.com>
+- <https://alwataniapress.net>
+- <https://broadcast.al3.in>
+- <https://www.najah.edu>
+- <https://edtecharabia.com>
+- <https://www.dirassatalqanon.com>
+- <https://qiaas.org>
+- <https://e-zayd.net>
+- <https://institute.aljazeera.net>
+- <https://zad-altalabah.com>
+- <https://minhaj.palcurr.com>
+- <https://elostath.com>
+- <https://www.al3abkari-pro.com>
+- <https://rawabet.org>
+- <https://www.al-fanoos.org>
+- <https://ar.lambdageeks.com>
+- <https://minhaji.net>
+- <https://schoolonlin.com>
+- <https://www.onstek.com>
+- <https://duratalsharq.com>
+- <https://arblog.praxilabs.com>
+- <https://annaja7.net>
+- <https://wiki.almenhaj.net>
+- <https://studyshoot.com>
+- <https://ask-chemistry.com>
+- <https://al-s3odi.com>
+- <https://www.w3arabiconline.com>
+- <https://thewriteress.com>
+- <https://www.ramstarab.com>
+- <https://www.tadrise.com>
+- <https://blog.lamsaworld.com>
+- <https://www.haeaty.com>
+- <https://www.unicef.org>
+- <https://www.selsabil.com>
+- <https://www.oaldod.com>
+- <https://www.ejadaedu.com>
+- <https://www.dirassti.com>
+- <https://qou.edu>
+- <https://ustazk.com>
+- <https://madrassatii.com>
+- <https://urukuni.com>
+- <https://www.modarissi.com>
+- <https://www.mnhaji.com>
+- <https://gefahr-ilyenkor.com>
+- <https://fbia-academy.com>
+- <https://www.tumoohi.org>
+- <https://www.arabsdurra.org>
+- <https://mrhassanonline.com>
+- <https://www.altaelimalyawm.com>
+- <https://etudedz.com>
+- <https://drbni.com>
+- <https://www.taalimprepa.com>
+- <https://www.course-english.com>
+- <https://www.athrpress.com>
+- <https://math-center.org>
+- <https://www.111000.net>
+- <https://www.gog-le.com>
+- <https://ardbladi.com>
+- <https://academics.su.edu.krd>
+- <https://methaal.com>
+- <https://www.kesan.org>
+- <https://ar.almaktba.org>
+- <https://al-mahajja.org>
+- <https://diae.net>
+- <https://cp.alukah.net>
+- <https://www.ellewaaelaraby.com>
+- <https://www.corsatoka.com>
+- <https://chtoukaphysique.com>
+- <https://www.soutalomma.com>
+- <https://www.buhoth.com>
+- <https://gem-report-2019.unesco.org>
+- <https://www.tinytap.com>
+- <https://www.seyf-educ.com>
+- <https://islamasil.com>
+- <https://www.profpress.net>
+- <https://repository.sustech.edu>
+- <https://www.belarabyapps.com>
+- <https://nn.najah.edu>
+- <https://www.profvb.com>
+- <https://khaledhelal.com>
+- <https://khatawat7.net>
+- <https://lectures.najah.edu>
+- <https://mukodikruhat-kvinna.com>
+- <https://koizat.com>
+- <https://acakuw.com>
+- <https://www.dadd-initiative.org>
+- <https://www.brookings.edu>
+- <https://yaschools.com>
+- <https://alkhabaralyoum.com>
+- <https://link.ademweb.com>
+- <https://www.qalubiaedu.org>
+- <https://maqam.najah.edu>
+- <https://www.seaofchildhood.com>
+- <https://www.kttby.com>
+- <https://www.edu4dz.com>
+- <https://ar.aliaan.net>
+- <https://www.bethlehem.edu>
+- <https://www.tagteyat.com>
+- <https://answers.mawdoo3.com>
+- <https://ilmsual.com>
+- <https://www.dirassatmajstairidarataemal.com>
+- <https://almanahej.com>
+- <https://daralhafez.net>
+- <https://www.yzeeed.com>
+- <https://www.best-mastersdegree.com>
+- <https://gcedclearinghouse.org>
+- <https://maghreb-school.com>
+
 ## Informative links (in English)
 
 - https://en.wikipedia.org/wiki/Arabic

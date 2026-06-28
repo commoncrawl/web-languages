@@ -2,7 +2,7 @@
 
 Additional names:
 - Modern Standard Arabic
-- اللغة العربية الفصحى الحديثة
+- اللغة العربية الفصحى الحديثة``
 
 News:
 - https://www.aljazeera.net
@@ -46,7 +46,7 @@ Scripts:
 - 
 
 Thank you to these people who have helped create this document:
-- 
+- Hamdy S. Hussein, Dr. Kareem M. Darwish and Dr. Mohamed Ahmed Yassin Eltabakh of the Qatar Computing Research Institute
 - 
 
 ## Instructions

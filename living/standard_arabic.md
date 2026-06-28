@@ -1,10 +1,12 @@
 # Web Language: Standard Arabic
 
 Additional names:
-- Modern Standard Arabic
-- اللغة العربية الفصحى الحديثة``
 
-News:
+- Modern Standard Arabic
+- اللغة العربية الفصحى الحديثة
+
+## News
+
 - https://www.aljazeera.net
 - https://www.alarabiya.net/
 - https://aawsat.com/
@@ -12,42 +14,45 @@ News:
 - https://alriyadh.com/ (international and local news)
 - https://www.al-jazirah.com/index.htm (international and local news)
 
-Culture / History:
+## Culture / History
+
 - https://mawred.org/
 - https://raseef22.net/%D8%AA%D9%83%D9%86%D9%88%D9%84%D9%88%D8%AC%D9%8A%D8%A7
 - https://raseef22.net/%D8%A8%D9%8A%D8%A6%D8%A9-%D9%88%D9%85%D9%86%D8%A7%D8%AE
 - 
 
-Government:
+## Government
+
 - 
 - 
 
-Political Parties:
+## Political Parties
+
 - 
 - 
 
-Other:
+## Other
+
 - https://ar.wikipedia.org
 - https://mawdoo3.com/ 
 
-Informative links (in English):
+## Informative links (in English)
+
 - https://en.wikipedia.org/wiki/Arabic
 - https://en.wikipedia.org/wiki/Standard_Arabic_phonology
 - https://en.wikipedia.org/wiki/Arabic_grammar
 - https://en.wikipedia.org/wiki/Arabic_script
 
-Additional Information:
+## Additional Information
+
 - ISO-639-3 code: arb
 - https://en.wikipedia.org/wiki/ISO_639:arb
-
-
-Scripts:
-- <a href="https://en.wikipedia.org/wiki/ISO_15924">ISO 15924 Arab</a> Arabic
-- 
+- Scripts:
+  - <a href="https://en.wikipedia.org/wiki/ISO_15924">ISO 15924 Arab</a> Arabic
 
 Thank you to these people who have helped create this document:
+
 - Hamdy S. Hussein, Dr. Kareem M. Darwish and Dr. Mohamed Ahmed Yassin Eltabakh of the Qatar Computing Research Institute
-- 
 
 ## Instructions
 
@@ -66,7 +71,7 @@ To see a partially completed example, look at the
 Sometimes asking a Large Language Model can be helpful: "What are some
 top websites written in the Welsh language?"
 
-## What kind of websites are you looking for?
+### What kind of websites are you looking for?
 
 If you look at the template, we have requested urls in a few
 categories: News, Culture/History, Government, Political Parties, and
@@ -95,7 +100,7 @@ the next election. In that case, please do the best you can.
 If your favorite language has its own Wikipedia -- [check the list here](https://en.wikipedia.org/wiki/List_of_Wikipedias) --
 please include this link under "Other".
 
-## License
+### License
 
 <p xmlns:cc="http://creativecommons.org/ns#" >This work is marked with <a href="https://creativecommons.org/publicdomain/zero/1.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC0 1.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/zero.svg?ref=chooser-v1" alt=""></a></p>
 

@@ -59,7 +59,7 @@ Political Parties:
 
 Other:
 - https://zh.wikipedia.org/wiki/Wikipedia:%E9%A6%96%E9%A1%B5
-- 
+- https://aogavrilov.com/zh/ (Simplified-Chinese machine-learning research articles and guides)
 
 Informative links (in English):
 - https://en.wikipedia.org/wiki/China

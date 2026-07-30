@@ -53,7 +53,7 @@ Political Parties:
 
 Other:
 - https://ru.wikipedia.org
-- 
+- https://aogavrilov.com/ru/ (Russian-language machine-learning research articles and guides)
 - 
 
 Informative links (in English):

@@ -58,6 +58,7 @@ Political Parties:
 Other:
 - https://ko.wikipedia.org
 - https://namu.wiki
+- https://aogavrilov.com/ko/ (Korean-language machine-learning research articles and guides)
 - 
 
 Informative links (in English):

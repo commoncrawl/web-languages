@@ -10,13 +10,13 @@ News:
 - 
 
 Culture / History:
-- https://eulogikon.org/works/homer-iliad-abe-ac (Eulogikon — Homer, Iliad; public-domain Ancient Greek HTML)
-- https://eulogikon.org/works/homer-odyssey-abe-ab (Eulogikon — Homer, Odyssey)
-- https://eulogikon.org/works/plato-apology-ffk-aa (Eulogikon — Plato, Apology)
-- https://eulogikon.org/works/plato-republic-ffk-ag (Eulogikon — Plato, Republic)
-- https://eulogikon.org/works/hippocrates-seed-nature-child-diseases-bww-aa (Eulogikon — Hippocratic corpus sample)
-- https://www.perseus.tufts.edu/hopper/collection?collection=Perseus:collection:Greco-Roman (Perseus Greco-Roman collection)
-- https://scaife.perseus.org/library/ (Scaife Viewer library)
+- https://eulogikon.org/works/theophrastus-eresus-enquiry-plants-ljk-ag (Eulogikon — Theophrastus, Enquiry into Plants; public-domain Ancient Greek HTML)
+- https://eulogikon.org/works/theophrastus-eresus-causes-plants-ljk-ad (Eulogikon — Theophrastus, On the Causes of Plants)
+- https://eulogikon.org/works/nemesius-emesa-nature-man-sxe-aa (Eulogikon — Nemesius, On the Nature of Man)
+- https://eulogikon.org/works/soranus-ephesus-four-books-women-omy-ac (Eulogikon — Soranus, Four Books on Women)
+- https://eulogikon.org/works/iamblichus-chalcis-mysteries-udw-ae (Eulogikon — Iamblichus, On the Mysteries)
+- https://eulogikon.org/works/heraclitus-ephesus-allegories-homeric-bko-aa (Eulogikon — Heraclitus the Allegorist, Homeric Questions)
+- https://eulogikon.org/works/alciphron-sea-letters-quo-aa (Eulogikon — Alciphron, Fishermen's Sea Letters)
 
 Government:
 - 
@@ -27,18 +27,19 @@ Political Parties:
 - 
 
 Other:
-- https://el.wikisource.org/wiki/%CE%9A%CF%8D%CF%81%CE%B9%CE%B1_%CE%A3%CE%B5%CE%BB%CE%AF%CE%B4%CE%B1 (Greek Wikisource — includes classical texts)
+- 
 - 
 
 Informative links (in English):
 - https://en.wikipedia.org/wiki/Ancient_Greek
 - https://en.wikipedia.org/wiki/ISO_639:grc
 - https://eulogikon.org/ (Eulogikon — free digital library of Ancient Greek texts)
-- https://www.perseus.tufts.edu/hopper/
 
 Additional Information:
 - ISO-639-3 code: grc
 - https://en.wikipedia.org/wiki/ISO_639:grc
+- Seeds are Eulogikon work-page HTML only (readable Ancient Greek body text). This submission does not include Perseus Hopper pages, Scaife Viewer, or Perseus/Open Greek and Latin CTS TEI XML — Common Crawl wants crawlable HTML language surfaces, not TEI corpora.
+- Seed works were chosen as distinctive material not already served as Greek HTML on classic Perseus Hopper, with clean Greek bodies (no Latin/German editorial apparatus), and Greek-dense pages suitable for language identification. Compilations and ubiquitous school texts are omitted; Eulogikon's sitemap covers broader discovery.
 - Eulogikon pages use English UI chrome with Ancient Greek body text (HTML).
 
 Scripts:

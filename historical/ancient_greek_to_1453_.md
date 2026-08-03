@@ -1,15 +1,22 @@
 # Web Language: Ancient Greek (to 1453)
 
 Additional names:
-- 
+- Classical Greek
+- Ancient Greek
+- Ἀρχαία ἑλληνική
 
 News:
 - 
 - 
 
 Culture / History:
-- 
-- 
+- https://eulogikon.org/works/homer-iliad-abe-ac (Eulogikon — Homer, Iliad; public-domain Ancient Greek HTML)
+- https://eulogikon.org/works/homer-odyssey-abe-ab (Eulogikon — Homer, Odyssey)
+- https://eulogikon.org/works/plato-apology-ffk-aa (Eulogikon — Plato, Apology)
+- https://eulogikon.org/works/plato-republic-ffk-ag (Eulogikon — Plato, Republic)
+- https://eulogikon.org/works/hippocrates-seed-nature-child-diseases-bww-aa (Eulogikon — Hippocratic corpus sample)
+- https://www.perseus.tufts.edu/hopper/collection?collection=Perseus:collection:Greco-Roman (Perseus Greco-Roman collection)
+- https://scaife.perseus.org/library/ (Scaife Viewer library)
 
 Government:
 - 
@@ -20,24 +27,25 @@ Political Parties:
 - 
 
 Other:
-- 
+- https://el.wikisource.org/wiki/%CE%9A%CF%8D%CF%81%CE%B9%CE%B1_%CE%A3%CE%B5%CE%BB%CE%AF%CE%B4%CE%B1 (Greek Wikisource — includes classical texts)
 - 
 
 Informative links (in English):
-- 
-- 
+- https://en.wikipedia.org/wiki/Ancient_Greek
+- https://en.wikipedia.org/wiki/ISO_639:grc
+- https://eulogikon.org/ (Eulogikon — free digital library of Ancient Greek texts)
+- https://www.perseus.tufts.edu/hopper/
 
 Additional Information:
 - ISO-639-3 code: grc
 - https://en.wikipedia.org/wiki/ISO_639:grc
-
+- Eulogikon pages use English UI chrome with Ancient Greek body text (HTML).
 
 Scripts:
-- 
+- ISO 15924 Grek Greek
 
 Thank you to these people who have helped create this document:
-- 
-- 
+- [MouronRoger](https://github.com/MouronRoger)
 
 ## Instructions
 

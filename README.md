@@ -4904,7 +4904,7 @@ See also: [Constructed](constructed/README.md), [Extinct](extinct/README.md), [H
 - [Ozumacín Chinantec](living/ozumacín_chinantec.md)
 - [Pa Di](living/pa_di.md)
 - [Pa'a](living/pa_a.md)
-- [Pa'o Karen](living/pa_o_karen.md)
+- [Pa'o](living/pa_o_karen.md)
 - [Pa-Hng](living/pa-hng.md)
 - [Paakantyi](living/paakantyi.md)
 - [Paama](living/paama.md)

@@ -4837,7 +4837,7 @@ If your favorite language is missing, please open an issue on Github.
 - [Ozumacín Chinantec](ozumacín_chinantec.md)
 - [Pa Di](pa_di.md)
 - [Pa'a](pa_a.md)
-- [Pa'o Karen](pa_o_karen.md)
+- [Pa'o](pa_o_karen.md)
 - [Pa-Hng](pa-hng.md)
 - [Paakantyi](paakantyi.md)
 - [Paama](paama.md)

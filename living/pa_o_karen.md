@@ -1,7 +1,7 @@
-# Web Language: Pa'o Karen
+# Web Language: Pa'O
 
 Additional names:
-- ပအိုဝ်ႏဘာႏသာႏ
+- ပအိုဝ်ႏ
 - 
 
 News:

@@ -9,43 +9,24 @@ Additional names:
 News:
 
 * https://top-channel.tv/ (Top Channel)
-
 * https://tvklan.al/ (TV Klan)
-
 * https://www.panorama.com.al/ (Panorama)
-
 * https://shqiptarja.com/ (Shqiptarja)
-
 * https://balkanweb.com/ (BalkanWeb)
-
 * https://www.gazetatema.net/ (Gazeta Tema)
-
 * https://www.oranews.tv/ (Ora News)
-
 * https://lapsi.al/ (Analysis and investigative journalism)
-
 * https://www.newsbomb.al/ (News)
-
 * https://ata.gov.al/ (Albanian Telegraphic Agency)
-
 * https://sq.wikipedia.org/ (Albanian Wikipedia)
-
 * https://rtklive.com/ (Radio Television of Kosovo)
-
 * https://kallxo.com/ (Investigative journalism and news)
-
 * https://telegrafi.com/ (Albanian-language news)
-
 * https://koha.net/ (Albanian-language news, culture and archive)
-
 * https://gazetaexpress.com/ (Albanian-language news)
-
 * https://insajderi.org/ (Investigative journalism)
-
 * https://zeri.info/ (Albanian-language news)
-
 * https://kosovapress.com/ (Kosovo Press)
-
 * https://ekonomiaonline.com/ (Economy and news)
 
 Culture / History:
@@ -80,33 +61,19 @@ Government — Albania:
 Government — Kosovo:
 
 * https://kryeministri.rks-gov.net/ (Office of the Prime Minister / Government of Kosovo)
-
 * https://kuvendikosoves.org/ (Assembly of Kosovo)
-
 * https://gzk.rks-gov.net/ (Official Gazette of Kosovo)
-
 * https://ask.rks-gov.net/ (Kosovo Agency of Statistics)
-
 * https://president-ksgov.net/ (President of Kosovo)
-
 * https://msh.rks-gov.net/ (Ministry of Health)
-
 * https://masht.rks-gov.net/ (Ministry of Education, Science, Technology and Innovation)
-
 * https://md.rks-gov.net/ (Ministry of Defense)
-
 * https://mpb.rks-gov.net/ (Ministry of Internal Affairs)
-
 * https://md.rks-gov.net/ (Ministry of Justice)
-
 * https://mfpt.rks-gov.net/ (Ministry of Finance)
-
 * https://me.rks-gov.net/ (Ministry of Economy)
-
 * https://mbpzhr.rks-gov.net/ (Ministry of Agriculture, Forestry and Rural Development)
-
 * https://mi.rks-gov.net/ (Ministry of Infrastructure)
-
 * https://mapl.rks-gov.net/ (Ministry of Local Government Administration)
 
 Political Parties — Albania:
@@ -206,6 +173,5 @@ Additional Information:
 Scripts:
 
 Thank you to these people who have helped create this document:
-*
 
 * [Ethan Wenokur](https://github.com/e-Winnie)

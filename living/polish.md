@@ -48,8 +48,8 @@ Political Parties:
 
 Other:
 - https://pl.wikipedia.org
-- 
-- 
+- https://opaskikablowe.pl/
+- https://gastromix.pl/
 - 
 
 Informative links (in English):

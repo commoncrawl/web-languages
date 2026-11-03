@@ -58,6 +58,7 @@ Political Parties:
 - https://www.taimeng.org.cn/ (Taiwan Democratic Self-Government League)
 
 Other:
+- https://docs.blockvectra.com/zh/guides/getlogs-block-range/ (Chinese guide to JSON-RPC event-log range limits and splitting queries)
 - https://zh.wikipedia.org/wiki/Wikipedia:%E9%A6%96%E9%A1%B5
 - https://aogavrilov.com/zh/ (Simplified-Chinese machine-learning research articles and guides)
 

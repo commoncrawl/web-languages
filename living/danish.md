@@ -163,6 +163,11 @@ Government:
 - https://aabenraa.dk/ (Official website for the Municipality of Aabenraa)
 - https://aalborg.dk/ (Official website for the Municipality of Aalborg)
 - https://aarhus.dk/ (Official website for the Municipality of Aarhus)
+- https://www.regionh.dk/ (Official website for the Region of Hovedstaden)
+- https://www.regionsjaelland.dk/ (Official website for the Region of Sjælland)
+- https://www.rm.dk/ (Official website for the Region of Midtjylland)
+- https://regionsyddanmark.dk/ (Official website for the Region of Syddanmark)
+- https://rn.dk/ (Official website for the Region of Nordjylland)
 
 Political Parties:
 - https://danmarksdemokraterne.dk

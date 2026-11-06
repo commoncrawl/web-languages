@@ -49,7 +49,7 @@ Culture / History:
 - https://danmarkshistorien.dk/
 - https://lex.dk/
 - https://leksikon.org/
-- https://natmus.dk/ (The National Museum of Denmark)
+- https://nationalmuseet.dk/ (The National Museum of Denmark)
 - https://slaegtsbibliotek.dk/
 - https://kum.dk/ (Ministry of Culture of Denmark)
 - https://denkongeligesamling.dk/ (The Royal Danish Collection)

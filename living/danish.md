@@ -64,7 +64,7 @@ Government:
 - https://regeringen.dk/ (The Government of Denmark)
 - https://sundhed.dk/ (Official public health portal)
 - https://stm.dk/ (The Prime Minister's Office)
-- https://um.dk/(Ministry of Foreign Affairs of Denmark)
+- https://um.dk/ (Ministry of Foreign Affairs of Denmark)
 
 Political Parties:
 - https://danmarksdemokraterne.dk

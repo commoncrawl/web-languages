@@ -82,8 +82,8 @@ Political Parties:
 - https://sf.dk
 - https://www.alternativet.dk/
 - https://www.dsu.net/
-- https://www.ia.gl/
-- https://www.siumut.gl/
+- https://ia.gl/da/
+- https://siumut.gl/da/
 - https://www.socialdemokratiet.dk/
 - https://www.venstre.dk/
 

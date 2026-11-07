@@ -57,6 +57,8 @@ Culture / History:
 - https://www.rigsarkivet.dk/ (The Danish National Archives)
 - https://www.visitdenmark.dk/ (Official tourism site)
 - https://www.danishculture.com/da/ (Danish Cultural Institute)
+
+Libraries:
 - https://bibliotek.dk/ (National library catalogue and borrowing portal)
 - https://vip.dbc.dk/librarylists (Register of Danish public and research libraries and service points)
 - https://www.kb.dk/ (The Royal Danish Library)
@@ -204,6 +206,15 @@ Government:
 - https://sundhed.dk/ (Official public health portal)
 - https://stm.dk/ (The Prime Minister's Office)
 - https://um.dk/ (Ministry of Foreign Affairs of Denmark)
+
+Regions:
+- https://www.regionh.dk/ (Official website for the Region of Hovedstaden)
+- https://www.regionsjaelland.dk/ (Official website for the Region of Sjælland)
+- https://www.rm.dk/ (Official website for the Region of Midtjylland)
+- https://regionsyddanmark.dk/ (Official website for the Region of Syddanmark)
+- https://rn.dk/ (Official website for the Region of Nordjylland)
+
+Universities:
 - https://www.ku.dk/ (University of Copenhagen)
 - https://www.au.dk/ (Aarhus University)
 - https://www.sdu.dk/da/ (University of Southern Denmark)
@@ -212,6 +223,8 @@ Government:
 - https://www.dtu.dk/ (Technical University of Denmark)
 - https://www.cbs.dk/ (Copenhagen Business School)
 - https://itu.dk/ (IT University of Copenhagen)
+
+Municipalities:
 - https://albertslund.dk/ (Official website for the Municipality of Albertslund)
 - https://alleroed.dk/ (Official website for the Municipality of Allerød)
 - https://assens.dk/ (Official website for the Municipality of Assens)
@@ -310,11 +323,6 @@ Government:
 - https://aabenraa.dk/ (Official website for the Municipality of Aabenraa)
 - https://aalborg.dk/ (Official website for the Municipality of Aalborg)
 - https://aarhus.dk/ (Official website for the Municipality of Aarhus)
-- https://www.regionh.dk/ (Official website for the Region of Hovedstaden)
-- https://www.regionsjaelland.dk/ (Official website for the Region of Sjælland)
-- https://www.rm.dk/ (Official website for the Region of Midtjylland)
-- https://regionsyddanmark.dk/ (Official website for the Region of Syddanmark)
-- https://rn.dk/ (Official website for the Region of Nordjylland)
 
 Political Parties:
 - https://danmarksdemokraterne.dk

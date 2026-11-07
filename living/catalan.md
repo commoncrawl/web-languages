@@ -98,6 +98,9 @@ Scripts:
 Thank you to these people who have helped create this document:
 - 
 - [Ethan Wenokur](https://github.com/e-Winnie)
+- [Joan Giner](https://github.com/JoanGi)
+- [Jordi Mas](https://github.com/jordimas)
+
 
 ## Instructions
 

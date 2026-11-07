@@ -206,6 +206,12 @@ Government:
 - https://www.sundhed.dk/ (Official public health portal)
 - https://stm.dk/ (The Prime Minister's Office)
 - https://um.dk/ (Ministry of Foreign Affairs of Denmark)
+- https://hoeringsportalen.dk/ (Public portal for government consultations and draft legislation)
+- https://www.retsinformation.dk/ (Official database of Danish laws, regulations and parliamentary documents)
+- https://www.eu.dk/ (The Danish Parliament's EU information service)
+- https://virksomhedsguiden.dk/content/ (Public guidance portal for starting and developing a business)
+- https://forbrugerombudsmanden.dk/ (The Danish Consumer Ombudsman, which oversees marketing and consumer-protection rules)
+- https://www.dst.dk/da/ (Statistics Denmark, the official provider of Danish statistics)
 
 Regions:
 - https://www.regionh.dk/ (Official website for the Region of Hovedstaden)
@@ -516,6 +522,17 @@ Political Parties:
 - https://siumut.gl/da/
 - https://www.socialdemokratiet.dk/
 - https://www.venstre.dk/
+
+NGO's / Think thanks:
+- https://globaltfokus.dk/da/ (Platform for Danish civil society organizations working on global development, peace and humanitarian issues)
+- https://cisu.dk/ (Danish membership organization supporting civil society groups engaged in global development)
+- https://92grp.dk/ (Danish NGO network working on sustainable development)
+
+Organisations:
+- https://un.dk/da/ (UN City Copenhagen, home to UN agencies and information about the UN's work)
+- https://smvdanmark.dk/ (Business association representing Danish small and medium-sized enterprises)
+- https://www.danskindustri.dk/ (Confederation of Danish Industry, a business and employers' organization)
+- https://www.ds.dk/da (Danish Standards, Denmark's national standardization organization)
 
 Other:
 - https://www.a4medier.dk/

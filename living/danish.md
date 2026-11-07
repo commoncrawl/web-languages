@@ -392,7 +392,7 @@ Gymnasiums:
 - https://kambsdalur.fo/ (Miðnám á Kambsdali)
 - https://mf-gym.dk/ (Mariagerfjord Gymnasium)
 - https://gengym.dk/ (Gentofte Gymnasium)
-- http://eg-gym.dk/ (Espergærde Gymnasium og HF)
+- https://eg-info.dk/ (Espergærde Gymnasium og HF)
 - https://www.duborg-skolen.dk/ (Duborg-Skolen)
 
 

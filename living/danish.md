@@ -1989,7 +1989,7 @@ Independent Schools (Friskoler):
 - https://blaabjergfriskole.dk/ (Blåbjerg Friskole)
 - https://www.motfriskole.dk/ (Mejls-Orten-Tinghøj Friskole)
 - https://skovlundfriskole.dk/ (Skovlund Friskole)
-- https://www.xn--kf-kka.dk/ (Ølgod Kristne Friskole)
+- https://www.økf.dk/ (Ølgod Kristne Friskole)
 - https://bkfri.dk/ (Brændstrup Kristne Friskole)
 - https://gjerndrupfriskole.dk/ (Gjerndrup Friskole)
 - https://roeddingfriskole.dk/ (Rødding Friskole & Børnehave)

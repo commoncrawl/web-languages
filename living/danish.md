@@ -878,7 +878,7 @@ Sports Federations:
 - https://www.taekwondo.dk/ (Dansk Taekwondo Forbund)
 - https://dansksejlunion.dk/ (Dansk Sejlunion)
 - https://tennis.dk/ (Dansk Tennis Forbund)
-- http://vandski.dk/ (Dansk Vandski & Wakeboard Forbund)
+- https://www.dvwf.dk/ (Dansk Vandski & Wakeboard Forbund)
 - https://vaegtloeftning.dk/ (Dansk Vægtløftnings-Forbund)
 - https://dendanskebillardunion.dk/ (Den Danske Billard Union)
 - https://floorball.dk/ (Floorball Danmark)

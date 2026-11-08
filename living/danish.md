@@ -499,7 +499,7 @@ Municipalities:
 - https://www.vordingborg.dk/ (Official website for the Municipality of Vordingborg)
 - https://aeroekommune.dk/ (Official website for the Municipality of Ærø)
 - https://aabenraa.dk/ (Official website for the Municipality of Aabenraa)
-- https://aalborg.dk/ (Official website for the Municipality of Aalborg)
+- https://www.aalborg.dk/ (Official website for the Municipality of Aalborg)
 - https://aarhus.dk/ (Official website for the Municipality of Aarhus)
 
 Political Parties:

@@ -51,7 +51,6 @@ Culture / History:
 - https://leksikon.org/
 - https://nationalmuseet.dk/ (The National Museum of Denmark)
 - https://slaegtsbibliotek.dk/
-- https://kum.dk/ (Ministry of Culture of Denmark)
 - https://denkongeligesamling.dk/ (The Royal Danish Collection)
 - https://cphmuseum.kk.dk/ (Museum of Copenhagen)
 - https://www.rigsarkivet.dk/ (The National Archives)
@@ -203,7 +202,8 @@ Government:
 - https://www.borger.dk/ (Official public portal for citizens)
 - https://ft.dk/ (The Danish Parliament)
 - https://regeringen.dk/ (The Government of Denmark)
-- https://www.sundhed.dk/ (Official public health portal)
+- https://kum.dk/ (Ministry of Culture of Denmark)
+- https://slks.dk/ (Agency for Culture and Palaces)
 - https://stm.dk/ (The Prime Minister's Office)
 - https://um.dk/ (Ministry of Foreign Affairs of Denmark)
 - https://hoeringsportalen.dk/ (Public portal for government consultations and draft legislation)
@@ -212,57 +212,26 @@ Government:
 - https://virksomhedsguiden.dk/content/ (Public guidance portal for starting and developing a business)
 - https://forbrugerombudsmanden.dk/ (The Danish Consumer Ombudsman, which oversees marketing and consumer-protection rules)
 - https://www.dst.dk/da/ (Statistics Denmark, the official provider of Danish statistics)
-- https://bm.dk/ (Ministry of Employment)
 - https://fm.dk/ (Ministry of Finance)
 - https://www.justitsministeriet.dk/ (Ministry of Justice)
 - https://www.fmn.dk/ (Ministry of Defence)
-- https://www.kefm.dk/ (Ministry of Climate, Energy and Utilities)
-- https://www.skim.dk/ (Ministry of Health and Church Affairs)
-- https://www.ast.dk/ (Ankestyrelsen, the appeals board for social and employment matters)
-- https://at.dk/ (Working Environment Authority)
-- https://www.bane.dk/da/ (Banedanmark, the state railway infrastructure operator)
 - https://www.brs.dk/ (Emergency Management Agency)
 - https://www.civilstyrelsen.dk/ (Civil Affairs Agency)
 - https://digst.dk/ (Agency for Digital Government)
-- https://www.dmi.dk/ (Meteorological Institute)
 - https://domstol.dk/om-os/domstolsstyrelsen/ (Court Administration)
-- https://ens.dk/ (Energy Agency)
 - https://erhvervsstyrelsen.dk/ (Business Authority)
-- https://www.fstyr.dk/ (Road Traffic Authority)
-- https://www.foedevarestyrelsen.dk/ (Veterinary and Food Administration)
-- https://gst.dk/ (Agency for Data Supply and Infrastructure)
 - https://hjemst.dk/ (Return Agency)
-- https://www.klimadatastyrelsen.dk/ (Climate Data Agency)
 - https://kfst.dk/ (Competition and Consumer Authority)
 - https://www.lfst.dk/ (Agency for Agriculture and Fisheries)
-- https://laegemiddelstyrelsen.dk/ (Medicines Agency)
 - https://medst.dk/ (Agency for Modernisation)
-- https://mst.dk/erhverv (Environmental Protection Agency)
 - https://www.nidc.dk/ (National ID Centre)
-- https://naturstyrelsen.dk/ (Nature Agency)
 - https://naevneneshus.dk/ (Appeals Boards Authority)
 - https://www.dkpto.dk/ (Patent and Trademark Office)
-- https://www.plst.dk/ (Agency for Planning and Rural Development)
 - https://www.sik.dk/ (Safety Technology Authority)
-- https://slks.dk/ (Agency for Culture and Palaces)
-- https://www.sbst.dk/ (Social and Housing Authority)
 - https://statens-adm.dk/ (Agency for Governmental Administration)
 - https://statens-it.dk/ (Government IT Services)
-- https://sundhedsdatastyrelsen.dk/ (Health Data Authority)
-- https://www.sst.dk/ (Health Authority)
-- https://www.soefartsstyrelsen.dk/ (Maritime Authority)
-- https://star.dk/ (Agency for Labour Market and Recruitment)
-- https://www.sgav.dk/ (Agency for Green Land Transition and Aquatic Environment)
-- https://siri.dk/ (Agency for International Recruitment and Integration)
-- https://stil.dk/ (Agency for IT and Learning)
-- https://www.stpk.dk/ (Agency for Patient Complaints)
-- https://stps.dk/ (Patient Safety Authority)
 - https://samsik.dk/ (Agency for Social Resilience)
-- https://stukuvm.dk/ (Agency for Education and Quality)
-- https://ufsn.dk/ (Agency for Higher Education and Science)
 - https://us.dk/ (Immigration Service)
-- https://www.vejdirektoratet.dk/ (Road Directorate)
-- https://www.trafikstyrelsen.dk/ (Civil Aviation and Railway Authority)
 - https://oes.dk/ (Agency for Public Finance and Management)
 - https://skatteforvaltningen.dk/ (Tax Agency Administration)
 - https://adst.dk/ (Administration and Services Agency)
@@ -279,7 +248,6 @@ Government:
 - https://www.ombudsmanden.dk/ (Parliamentary Ombudsman)
 - https://www.rigsrevisionen.dk/ (National Audit Office of Denmark)
 - https://www.pressenaevnet.dk/ (Press Council)
-- https://klimaraadet.dk/da (Council on Climate Change)
 - https://dors.dk/ (Economic Councils of Denmark)
 - https://www.etiskraad.dk/ (Council on Ethics)
 
@@ -2497,20 +2465,48 @@ Municipalities:
 - https://aarhus.dk/ (Official website for the Municipality of Aarhus)
 
 Employment and Integration:
+- https://bm.dk/ (Ministry of Employment)
+- https://at.dk/ (Working Environment Authority)
+- https://star.dk/ (Agency for Labour Market and Recruitment)
+- https://siri.dk/ (Agency for International Recruitment and Integration)
 
 Social Services and Family Support:
+- https://www.ast.dk/ (Ankestyrelsen, the appeals board for social and employment matters)
+- https://www.sbst.dk/ (Social and Housing Authority)
 
 Health and Elder Care:
+- https://www.sundhed.dk/ (Official public health portal)
+- https://www.skim.dk/ (Ministry of Health and Church Affairs)
+- https://www.foedevarestyrelsen.dk/ (Veterinary and Food Administration)
+- https://laegemiddelstyrelsen.dk/ (Medicines Agency)
+- https://sundhedsdatastyrelsen.dk/ (Health Data Authority)
+- https://www.sst.dk/ (Health Authority)
+- https://www.stpk.dk/ (Agency for Patient Complaints)
+- https://stps.dk/ (Patient Safety Authority)
 
 Education and Childcare Services:
+- https://stil.dk/ (Agency for IT and Learning)
+- https://stukuvm.dk/ (Agency for Education and Quality)
+- https://ufsn.dk/ (Agency for Higher Education and Science)
 
 Planning, Construction and Environment:
+- https://www.kefm.dk/ (Ministry of Climate, Energy and Utilities)
+- https://www.dmi.dk/ (Meteorological Institute)
+- https://ens.dk/ (Energy Agency)
+- https://gst.dk/ (Agency for Data Supply and Infrastructure)
+- https://www.klimadatastyrelsen.dk/ (Climate Data Agency)
+- https://mst.dk/erhverv (Environmental Protection Agency)
+- https://naturstyrelsen.dk/ (Nature Agency)
+- https://www.plst.dk/ (Agency for Planning and Rural Development)
+- https://www.sgav.dk/ (Agency for Green Land Transition and Aquatic Environment)
+- https://klimaraadet.dk/da (Council on Climate Change)
 
 Transport and Infrastructure:
-
-Culture, Sports and Leisure:
-
-Municipal Administration:
+- https://www.bane.dk/da/ (Banedanmark, the state railway infrastructure operator)
+- https://www.fstyr.dk/ (Road Traffic Authority)
+- https://www.soefartsstyrelsen.dk/ (Maritime Authority)
+- https://www.vejdirektoratet.dk/ (Road Directorate)
+- https://www.trafikstyrelsen.dk/ (Civil Aviation and Railway Authority)
 
 Political Parties:
 - https://danmarksdemokraterne.dk/forside/

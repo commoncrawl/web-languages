@@ -841,7 +841,7 @@ Sports Federations:
 - https://dans-danmark.dk/ (Dans Danmark)
 - https://www.daff.dk/ (Dansk Amerikansk Fodbold Forbund)
 - https://dai-sport.dk/ (Dansk Arbejder Idrætsforbund)
-- http://dansk-atletik.dk/ (Dansk Atletik Forbund)
+- https://dansk-atletik.dk/ (Dansk Atletik Forbund)
 - https://www.dasu.dk/ (Dansk Automobil Sports Union)
 - https://www.dbu.dk/ (Dansk Boldspil-Union)
 - https://cricket.dk/ (Dansk Cricket-Forbund)

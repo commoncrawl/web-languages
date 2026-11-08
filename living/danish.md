@@ -546,6 +546,18 @@ Organisations:
 - https://smvdanmark.dk/ (Business association representing Danish small and medium-sized enterprises)
 - https://www.danskindustri.dk/ (Confederation of Danish Industry, a business and employers' organization)
 - https://www.ds.dk/da (Danish Standards, Denmark's national standardization organization)
+- https://bornsvilkar.dk/ (Børns Vilkår, supporting children's rights and operating the BørneTelefonen helpline)
+- https://www.rodekors.dk/ (Danish Red Cross, providing humanitarian aid and social support)
+- https://redbarnet.dk/ (Save the Children Denmark, working for children's rights and protection)
+- https://wwf.dk/ (WWF Denmark, working to protect nature and wildlife)
+- https://www.greenpeace.org/denmark/ (Greenpeace Denmark, campaigning on climate and environmental issues)
+- https://www.cancer.dk/ (Danish Cancer Society, supporting cancer research, prevention and patients)
+- https://www.dyrenesbeskyttelse.dk/ (Danish Animal Welfare Society)
+- https://sind.dk/ (National association for mental health)
+- https://www.folkehjaelp.dk/ (Dansk Folkehjælp, providing social assistance and first-aid services)
+- https://urk.dk/ (Ungdommens Røde Kors, youth-led humanitarian and social programs)
+- https://www.tuba.dk/ (TUBA, free counseling and therapy for young people from families affected by addiction)
+- https://ombold.dk/ (Ombold, creating inclusive sports communities for socially vulnerable adults)
 
 Other:
 - https://www.a4medier.dk/

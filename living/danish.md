@@ -2496,6 +2496,22 @@ Municipalities:
 - https://www.aalborg.dk/ (Official website for the Municipality of Aalborg)
 - https://aarhus.dk/ (Official website for the Municipality of Aarhus)
 
+Employment and Integration:
+
+Social Services and Family Support:
+
+Health and Elder Care:
+
+Education and Childcare Services:
+
+Planning, Construction and Environment:
+
+Transport and Infrastructure:
+
+Culture, Sports and Leisure:
+
+Municipal Administration:
+
 Political Parties:
 - https://danmarksdemokraterne.dk/forside/
 - https://danskfolkeparti.dk

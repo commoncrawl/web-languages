@@ -2,19 +2,27 @@
 
 Additional names:
 - shqip
-- 
+- gjuha shqipe
 
 News:
-- https://top-channel.tv/
-- https://tvklan.al/
-- https://www.panorama.com.al/
-- https://shqiptarja.com/
-- https://balkanweb.com/
-- https://www.gazetatema.net/
-- https://www.oranews.tv/
+- https://top-channel.tv/ (Top Channel)
+- https://tvklan.al/ (TV Klan)
+- https://www.panorama.com.al/ (Panorama)
+- https://shqiptarja.com/ (Shqiptarja)
+- https://balkanweb.com/ (BalkanWeb)
+- https://www.gazetatema.net/ (Gazeta Tema)
+- https://www.oranews.tv/ (Ora News)
 - https://lapsi.al/ (Analysis and investigative journalism)
-- https://www.newsbomb.al/
+- https://www.newsbomb.al/ (News)
 - https://ata.gov.al/ (National Broadcaster)
+- https://rtklive.com/ (Radio Television of Kosovo)
+- https://kallxo.com/ (Investigative journalism and news)
+- https://telegrafi.com/ (Albanian-language news)
+- https://koha.net/ (Albanian-language news and culture)
+- https://gazetaexpress.com/ (Albanian-language news)
+- https://kosovapress.com/ (Kosovo Press)
+- https://zeri.info/ (Albanian-language news)
+- https://insajderi.org/ (Investigative journalism)
 
 Culture / History:
 - https://sq.wikipedia.org/wiki/Kultura_e_Shqip%C3%ABris%C3%AB
@@ -23,6 +31,11 @@ Culture / History:
 - http://www.bksh.al/ (National Library of Albania)
 - https://akt.gov.al/muze/ (Agency for Archaeological Services of Albania)
 - http://iktk.gov.al/ (National Institute of Cultural Heritage)
+- https://institutialbanologjik.org/ (Albanological Institute of Prishtina)
+- https://ih-rks.org/ (Institute of History of Kosovo)
+- https://ashak.org/ (Academy of Sciences and Arts of Kosovo)
+- https://www.bk.rks-gov.net/ (National Library of Kosovo)
+- https://bibliotekadigjitale.bksh.al/ (Digital Library of the National Library of Albania)
 
 Government:
 - http://www.kryeministria.al/ (Kryeministria - Office of the Prime Minister)
@@ -32,10 +45,15 @@ Government:
 - http://www.financa.gov.al/ (Ministria e Financave dhe Ekonomisë - Ministry of Finance and Economy)
 - http://www.bujqesia.gov.al/ (Ministria e Bujqësisë dhe Zhvillimit Rural - Ministry of Agriculture and Rural Development)
 - http://www.drejtesia.gov.al/ (Ministria e Drejtësisë - Ministry of Justice)
-- http://www.shendetesia.gov.al/ (Ministria e Shëndetësisë dhe Mbrojtjes Sociale - Ministry of Health and Social Protection)
+- http://www.shendetesia.gov.al/ (Ministria e Shëndetësisë dhe Mbrojtjes Sociale)
 - http://www.kultura.gov.al/ (Ministria e Kulturës - Ministry of Culture)
 - http://turizmi.gov.al/ (Ministria e Turizmit dhe Mjedisit - Ministry of Tourism and Environment)
 - http://www.arsimi.gov.al/ (Ministria e Arsimit, Sportit dhe Rinisë - Ministry of Education, Sports and Youth)
+- https://kryeministri.rks-gov.net/ (Office of the Prime Minister / Government of Kosovo)
+- https://kuvendikosoves.org/ (Assembly of Kosovo)
+- https://gzk.rks-gov.net/ (Official Gazette of Kosovo)
+- https://ask.rks-gov.net/ (Kosovo Agency of Statistics)
+- https://president-ksgov.net/ (President of Kosovo)
 
 Political Parties:
 - https://ps.al/ (Socialist Party of Albania)
@@ -44,11 +62,14 @@ Political Parties:
 - https://mundesia.al/ (Opportunity Party)
 - https://www.shqiperiabehet.al/ (Albania Becomes Movement)
 - https://levizjabashke.al/ (Lëvizja Bashkë)
+- https://www.vetevendosje.org/ (Lëvizja VETËVENDOSJE!)
+- https://pdk.info/ (Democratic Party of Kosovo)
+- https://lidhjademokratike.eu/ (Democratic League of Kosovo)
+- https://aak-ks.com/ (Alliance for the Future of Kosovo)
 
 Other:
 - https://sq.wikipedia.org
-- 
-- 
+- https://archive.org/details/booksbylanguage_albanian (Internet Archive — Books in Albanian)
 
 Informative links (in English):
 - https://en.wikipedia.org/wiki/Albania
@@ -59,15 +80,12 @@ Informative links (in English):
 Additional Information:
 - ISO-639-3 code: sqi
 - https://en.wikipedia.org/wiki/ISO_639:sqi
-- This document needs reviewing by a native speaker.
-
 
 Scripts:
-- 
 
 Thank you to these people who have helped create this document:
+
 - [Ethan Wenokur](https://github.com/e-Winnie)
-- 
 
 ## Instructions
 

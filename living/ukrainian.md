@@ -30,6 +30,7 @@ Political Parties:
 - https://goloszmin.org/
 
 Other:
+- https://docs.blockvectra.com/uk/guides/getlogs-block-range/
 - https://uk.wikipedia.org
 
 Informative links (in English):

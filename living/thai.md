@@ -52,6 +52,7 @@ Political Parties:
 - https://zendaiparty.org/ (Economic Party)
 
 Other:
+- https://docs.blockvectra.com/th/guides/getlogs-block-range/
 - https://th.wikipedia.org
 - 
 

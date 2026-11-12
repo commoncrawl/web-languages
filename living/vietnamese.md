@@ -164,6 +164,7 @@ Overseas Vietnamese:
 
 
 Other:
+- https://docs.blockvectra.com/vi/guides/getlogs-block-range/
 - https://vi.wikipedia.org
 - https://diendanlequydon.com/
 - https://tinhte.vn/

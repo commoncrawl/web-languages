@@ -87,6 +87,7 @@ Other:
 - https://id.wikipedia.org
 - https://jalantikus.com/ (Tech, apps, and tutorials written in informal Indonesian)
 - https://duniagames.co.id/ (Latest Games Articles Portal)
+- https://docs.blockvectra.com/id/guides/getlogs-block-range/ (Indonesian-language guide to JSON-RPC event-log range limits and splitting)
 
 Informative links (in English):
 - https://en.wikipedia.org/wiki/Indonesian_language

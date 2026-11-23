@@ -11,8 +11,8 @@ Additional names:
 - 
 
 News:
-- 
-- 
+- https://euobserver.com/
+- https://tvpworld.com/
 
 Culture / History:
 - 
@@ -91,8 +91,8 @@ Political Parties:
 - 
 
 Other:
-- 
-- 
+- https://www.atlanticcouncil.org/
+- https://www.sipri.org/
 
 Informative links (in English):
 - 

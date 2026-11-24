@@ -19,6 +19,8 @@ News:
 - https://www.sovsport.ru/ (Sovetsky Sport "Soviet Sports" - Sports News)
 - https://vm.ru/ (Vechernyaya Moskva "Evening Moscow" - Regional Daily News)
 - http://spbvedomosti.ru/ (Sankt-Peterburgskie Vedomosti "Saint Petersburg Vedomosti" - Regional Daily News)
+- https://meduza.io/ (Meduza: the largest independent Russian news outlet)
+- https://zona.media/ (Mediazona: an independent Russian outlet)
 
 Culture / History:
 - https://ru.wikipedia.org/wiki/%D0%98%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%8F_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8 (History of Russia - Wikipedia Article)

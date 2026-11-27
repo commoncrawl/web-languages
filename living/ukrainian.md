@@ -9,7 +9,18 @@ News:
 - https://espreso.tv/
 - https://www.bbc.com/ukrainian
 - https://babel.ua/
-- https://grnt.media/
+- https://www.pravda.com.ua/
+- https://nv.ua/
+- https://kyivindependent.com/
+- https://komersant.ua/
+- https://militarnyi.com/
+- https://ua.news/
+- https://newsukraine.rbc.ua/
+- https://united24media.com/
+- https://gwaramedia.com/
+- https://www.kyivpost.com/
+- https://defence-ua.com/
+- https://imi.org.ua/
 
 Culture / History:
 - http://www.nbuv.gov.ua/node/2116 (National Library with links to different databases)
@@ -23,6 +34,7 @@ Culture / History:
 Government:
 - https://www.president.gov.ua/
 - https://www.rada.gov.ua/
+- https://mod.gov.ua/
 
 Political Parties:
 - https://sluga-narodu.com/
@@ -36,6 +48,7 @@ Informative links (in English):
 - https://en.wikipedia.org/wiki/Ukrainian_language
 - https://en.wikipedia.org/wiki/Ukrainian_dialects
 - https://ukraine.ua/
+- https://en.defence-ua.com/
 
 Additional Information:
 - ISO-639-3 code: ukr
